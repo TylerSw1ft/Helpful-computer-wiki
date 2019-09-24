@@ -1,8 +1,8 @@
-# Step 1: Create a Samba user matching your Linux credentials
+# Step 1: Create a Samba user matching your OS credentials
 
 `smbpasswd -a MyUsername`
 
-# Step 2: Use [`chown` and `chmod`](https://www.cyberciti.biz/faq/how-to-use-chmod-and-chown-command/) to ensure your Linux account has access to the shared folder
+# Step 2: Use [`chown` and `chmod`](https://www.cyberciti.biz/faq/how-to-use-chmod-and-chown-command/) to ensure your OS account has access to the shared folder
 
 `sudo chown MyUsername /SharedFolderPath`
 
