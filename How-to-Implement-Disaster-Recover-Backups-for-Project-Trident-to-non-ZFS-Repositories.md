@@ -34,7 +34,14 @@ Crappy documention.
 ## UrBackup
 
 * Installed server on Debian 10 machine
-* Currently trying to get client running on Trident machine. Mike Remski of the Project Trident Telegram [has an idea](https://t.me/ProjectTrident/38834) about this, and the FreeBSD port's maintainer has replied to my email asking for help
+* Currently trying to get client running on Trident machine. Mike Remski of the Project Trident Telegram [has an idea](https://t.me/ProjectTrident/38834) about this, and the FreeBSD port's maintainer has replied to my email asking for help. He said:
+
+> Have you tried the RC script?
+> `/usr/local/etc/rc.d/urbackup_client`
+
+> You normally start the client service with the RC script, and then configure it with the server’s web interface, or with > urbackupclientctl.
+
+> There’s also information in the port’s pkg-message.
 
 ## Restic
 
