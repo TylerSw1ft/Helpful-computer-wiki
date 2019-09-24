@@ -10,7 +10,7 @@ Yes, you can use `zfs send` and `zfs receive` for this. However, that requires h
 
 # Caveats and constraints
 
-Project Trident, which I use, using OpenRC as its init system. Unfortunately, the vast majority of OpenRC documentation is written for Gentoo Linux, while FreeBSD documentation and guides are written for rc.d. This leaves Trident in a bit of a support no man's land when it comes to services, and so many 3rd party packages available in AppCafe that rely on services don't work reliably. This apparently includes the samba client. 
+Project Trident, which I use, uses OpenRC as its init system. Unfortunately, the vast majority of OpenRC documentation is written for Gentoo Linux, while FreeBSD documentation and guides are written for rc.d. This leaves Trident in a bit of a support no man's land when it comes to services, and so many 3rd party packages available in AppCafe that rely on services don't work reliably. This apparently includes the samba client. **Ergo, the aim here is avoid solutions that rely on services running on Trident, unless I can somehow get them running**.
 
 As such, backup to the respository will have to occur using the backup app itself, NFS, or SSH. 
 
