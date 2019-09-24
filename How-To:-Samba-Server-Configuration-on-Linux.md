@@ -1,6 +1,6 @@
 # Step 1: Create a Samba user matching your Linux credentials
 
-`smbpasswd -a MyUsername`.
+`smbpasswd -a MyUsername`
 
 # Step 2: Use [`chown` and `chmod`](https://www.cyberciti.biz/faq/how-to-use-chmod-and-chown-command/) to ensure your Linux account has access to the shared folder
 
