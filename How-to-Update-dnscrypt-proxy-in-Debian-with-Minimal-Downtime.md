@@ -7,3 +7,6 @@
 7. Use the GUI file manager to transfer the new files to to the `dnscrypt-proxy` folder
 8. Start the `dnscrypt-proxy` service in the terminal using `sudo ./dnscrypt-proxy -service start`
 9. If everything is working, delete the \*`-old` and extracted tar.gz folders
+
+Source:
+https://www.reddit.com/r/dnscrypt/comments/9ypenw/how_does_one_update_dnscryptproxy_to_a_new/ea48wkh/
