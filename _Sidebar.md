@@ -12,5 +12,4 @@
   * [How Often You Can Scrub HDDs without Reducing Their Lifespan](https://github.com/jdrch/Hardware/wiki/How-Often-You-Can-Scrub-HDDs-without-Reducing-Their-Lifespan)
   * [How To Configure a Samba Server](https://github.com/jdrch/Hardware/wiki/How-To-Configure-a-Samba-Server)
   * [How to Update dnscrypt proxy in Debian with Minimal Downtime](https://github.com/jdrch/Hardware/wiki/How-to-Update-dnscrypt-proxy-in-Debian-with-Minimal-Downtime)
-  * []
 
