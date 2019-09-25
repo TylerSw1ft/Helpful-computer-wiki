@@ -14,6 +14,10 @@ http://www.raid-calculator.com/raid-types-reference.aspx
 
 https://www.reddit.com/r/synology/comments/6fld1a/comparison_of_reliability_among_different_raid/
 
+## Reliability calculator
+
+https://wintelguy.com/raidmttdl.pl
+
 # `restic`
 
 ## How to set it up
