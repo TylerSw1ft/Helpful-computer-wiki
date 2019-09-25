@@ -28,4 +28,8 @@ and [then](https://www.computerhope.com/unix/uchmod.htm):
       directory mask = 0770
       force user = MyUsername
 
+# Step 4: Restart the samba service
+
+`sudo /usr/sbin/service smbd restart`
+
 Source: https://www.reddit.com/r/debian/comments/csc3vt/buster_i_can_access_smb_share_from_windows_10/exe050g/
