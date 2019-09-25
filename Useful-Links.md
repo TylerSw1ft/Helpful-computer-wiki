@@ -10,6 +10,10 @@ https://www.lto.org/solutions/benefits/compatibility/
 
 http://www.raid-calculator.com/raid-types-reference.aspx
 
+## Drive count vs. drive capacity vs. redundancy level vs. time reliability chart
+
+https://www.reddit.com/r/synology/comments/6fld1a/comparison_of_reliability_among_different_raid/
+
 # `restic`
 
 ## How to set it up
