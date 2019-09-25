@@ -47,3 +47,9 @@ Crappy documention.
 
 * Already works for folder backup on Trident machine. Might have to use it to backup entire filesystem also
 * Needs NFS to work
+
+### NFS Resources
+
+* [FreeBSD man page](https://www.freebsd.org/cgi/man.cgi?query=nfsv4)
+* https://linuxconfig.org/how-to-set-up-a-nfs-server-on-debian-10-buster
+* https://www.server-world.info/en/note?os=Debian_10&p=nfs&f=1
