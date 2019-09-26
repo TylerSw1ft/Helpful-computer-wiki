@@ -4,6 +4,16 @@
 
 https://www.lto.org/solutions/benefits/compatibility/
 
+# OpenRC
+
+## Converting between OpenRC and rc.d
+
+http://www.wonkity.com/~wblock/openrc/OpenRC_rc.d.pdf
+
+## General documentation (written for Gentoo Linux)
+
+https://wiki.gentoo.org/wiki/OpenRC
+
 # RAID
 
 ## Explanation of parity and redundancy levels
