@@ -33,6 +33,7 @@ Crappy documention.
 
 ## UrBackup
 
+* Matching UrBackup forum [thread](https://forums.urbackup.org/t/need-help-getting-freebsd-urbackup-client-v2-3-4-1-to-see-debian-10-urbackup-server-on-the-same-subnet/7725)
 * Installed server on [Debian 10 machine](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md)
 * Got client backend running on [Trident machine](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md)
 
