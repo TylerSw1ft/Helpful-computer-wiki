@@ -76,7 +76,7 @@ Client log files indicate it's not seeing the server:
     2019-09-27 09:18:30: Shutting down plugins...
     2019-09-27 09:18:30: Deleting server...
 
-Next step is to see if ports need opening on the Debian 10 firewall side (where the server is running.)
+Per [Debian's documentation](https://wiki.debian.org/DebianFirewall#Basic_software_for_network_traffic_manipulation), it's configured to allow all traffic by default, which means the lack of connectivity probably isn't due to the server. At this point, I'm giving up on getting UrBackup to work on Trident, aside from committing code corresponding to what I've learned from the attempt so far. 
 
 ## Restic
 
