@@ -33,11 +33,12 @@ Crappy documention.
 
 ## UrBackup
 
-* Installed server on Debian 10 machine
-* Got client backend running on Trident. Wrote OpenRC script:
+* Installed server on [Debian 10 machine](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md)
+* Got client backend running on [Trident machine](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md)
 
-Wrote
-    
+Wrote OpenRC script:
+
+    #!/sbin/openrc-run
     name="urbackup_client"
     description="UrBackup Client"
     command=/usr/local/sbin/urbackupclientbackend
