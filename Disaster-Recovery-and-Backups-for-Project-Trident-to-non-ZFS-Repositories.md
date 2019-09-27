@@ -29,10 +29,9 @@ FreeBSD package [apparently needs to be built locally](https://www.freshports.or
 
 Crappy documention.
 
-# Candidate Applications
-
 ## UrBackup
 
+* Can't get Server and Client to see each other on the same subnet
 * Matching UrBackup forum [thread](https://forums.urbackup.org/t/need-help-getting-freebsd-urbackup-client-v2-3-4-1-to-see-debian-10-urbackup-server-on-the-same-subnet/7725)
 * Installed server on [Debian 10 machine](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md)
 * Got client backend running on [Trident machine](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md)
@@ -77,6 +76,8 @@ Client log files indicate it's not seeing the server:
     2019-09-27 09:18:30: Deleting server...
 
 Per [Debian's documentation](https://wiki.debian.org/DebianFirewall#Basic_software_for_network_traffic_manipulation), it's configured to allow all traffic by default, which means the lack of connectivity probably isn't due to the server. At this point, I'm giving up on getting UrBackup to work on Trident, aside from committing code corresponding to what I've learned from the attempt so far. 
+
+# Candidate Applications
 
 ## Restic
 
