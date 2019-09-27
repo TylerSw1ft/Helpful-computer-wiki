@@ -34,8 +34,7 @@ Crappy documention.
 ## UrBackup
 
 * Installed server on Debian 10 machine
-* Got client backend running on Trident
-  * Wrote OpenRC script:
+* Got client backend running on Trident. Wrote OpenRC script:
 
     #!/sbin/openrc-run
     name="urbackup_client"
