@@ -55,7 +55,9 @@ Wrote OpenRC script:
 	    use net
     }
 
-Can start urbackupclientbackend in the background using `sudo /usr/local/sbin/urbackupclientbackend -d`, but so far `sudo urbackupclientctl set-settings` returns me to the command prompt.
+Ken Moore [says](https://t.me/ProjectTrident/39203) I should create a pull request for this [in the TrueOS ports repo](https://github.com/trueos/trueos-ports/tree/trueos-master/archivers/urbackup-client).
+
+I can start urbackupclientbackend in the background using `sudo /usr/local/sbin/urbackupclientbackend -d`, but so far `sudo urbackupclientctl set-settings` returns me to the command prompt.
 
 Client log files indicate it's not seeing the server:
 
