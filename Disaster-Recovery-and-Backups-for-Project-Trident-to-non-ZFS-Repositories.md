@@ -34,14 +34,45 @@ Crappy documention.
 ## UrBackup
 
 * Installed server on Debian 10 machine
-* Currently trying to get client running on Trident machine. Mike Remski of the Project Trident Telegram [has an idea](https://t.me/ProjectTrident/38834) about this, and the FreeBSD port's maintainer has replied to my email asking for help. He said:
+* Got client backend running on Trident
+  * Wrote OpenRC script:
 
-> Have you tried the RC script?
-> `/usr/local/etc/rc.d/urbackup_client`
+    #!/sbin/openrc-run
+    name="urbackup_client"
+    description="UrBackup Client"
+    command=/usr/local/sbin/urbackupclientbackend
+    pidfile="/var/run/urbackupclientbackend.pid"
+    command_args="-w $pidfile -c /usr/local/etc/urbackup/urbackupclient.conf"
+    supervisor=supervise-daemon
+    output_log="/var/log/urbackupclient.log"
+    error_log=${output_log}
 
-> You normally start the client service with the RC script, and then configure it with the server’s web interface, or with > urbackupclientctl.
+    depend(){
+	    provide urbackup_client
+	    need localmount
+	    use net
+    }
 
-> There’s also information in the port’s pkg-message.
+Can start urbackupclientbackend in the background using `sudo /usr/local/sbin/urbackupclientbackend -d`, but so far `sudo urbackupclientctl set-settings` returns me to the command prompt.
+
+Client log files indicate it's not seeing the server:
+
+    2019-09-26 09:49:06: urbackupserver: Server started up successfully!
+    2019-09-26 09:49:06: FileSrv: Servername: -DellOptiplex390-
+    2019-09-26 09:49:06: Started UrBackupClient Backend...
+    2019-09-26 09:49:07: Looking for old Sessions... 0 sessions
+    2019-09-26 10:19:08: Looking for old Sessions... 0 sessions
+    2019-09-26 10:49:09: Looking for old Sessions... 0 sessions
+    [...]
+    2019-09-27 07:49:51: Looking for old Sessions... 0 sessions
+    2019-09-27 08:19:52: Looking for old Sessions... 0 sessions
+    2019-09-27 08:49:53: Looking for old Sessions... 0 sessions
+    2019-09-27 09:18:30: WARNING: Shutting down (Signal 2)
+    2019-09-27 09:18:30: Deleting lbs...
+    2019-09-27 09:18:30: Shutting down plugins...
+    2019-09-27 09:18:30: Deleting server...
+
+Next step is to see if ports need opening on the Debian 10 firewall side (where the server is running.)
 
 ## Restic
 
