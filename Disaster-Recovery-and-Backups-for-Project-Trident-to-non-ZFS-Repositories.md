@@ -36,6 +36,7 @@ Crappy documention.
 * Installed server on Debian 10 machine
 * Got client backend running on Trident. Wrote OpenRC script:
 
+Wrote
     
     name="urbackup_client"
     description="UrBackup Client"
