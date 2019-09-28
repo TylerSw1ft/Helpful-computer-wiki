@@ -1,3 +1,31 @@
+# Btrfs
+
+## Cheatsheet
+
+https://blog.programster.org/btrfs-cheatsheet
+
+## Creation
+
+Use default values
+
+## fstab
+
+`UUID=Insert_UUID_Here   /path/to/Btrfs/filessystem  btrfs   defaults,autodefrag 0   0`
+
+## Scheduled scrubs
+
+Should be performed monthly> put the following in the [root crontab](https://github.com/jdrch/Hardware/wiki/Useful-Links#crontab):
+
+`@monthly btrfs scrub start /path/to/Btrfs/filessystem`
+
+# crontab
+
+## How to edit the root crontab in Debian
+
+Pretty much anything that requires `sudo` needs to be put here:
+
+`sudo crontab -u root -e`
+
 # LTO-8 
 
 ## Backwards compatibility
