@@ -10,9 +10,15 @@ https://www.lto.org/solutions/benefits/compatibility/
 
 http://www.wonkity.com/~wblock/openrc/OpenRC_rc.d.pdf
 
+https://wiki.gentoo.org/wiki/OpenRC_to_systemd_Cheatsheet
+
+https://wiki.gentoo.org/wiki/Comparison_of_init_systems
+
 ## General documentation (written for Gentoo Linux)
 
 https://wiki.gentoo.org/wiki/OpenRC
+
+https://wiki.gentoo.org/wiki/OpenRC/supervise-daemon#Tips_.27n_tricks
 
 # RAID
 
