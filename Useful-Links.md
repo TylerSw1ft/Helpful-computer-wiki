@@ -14,7 +14,7 @@ Use default values
 
 ## Scheduled scrubs
 
-Should be performed monthly> put the following in the [root crontab](https://github.com/jdrch/Hardware/wiki/Useful-Links#crontab):
+Should be performed monthly> put the following in the [root crontab](https://github.com/jdrch/Hardware/wiki/Useful-Links#how-to-edit-the-root-crontab-in-debian):
 
 `@monthly btrfs scrub start /path/to/Btrfs/filessystem`
 
