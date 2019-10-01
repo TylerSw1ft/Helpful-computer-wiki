@@ -18,6 +18,7 @@ As such, backup to the respository will have to occur using the backup app itsel
 
 * https://forums.freebsd.org/threads/copying-freebsd-to-a-different-disk.55606/post-315655
 * https://www.reddit.com/r/freebsd/comments/d712mz/generally_speaking_how_do_i_restore_an_entire_os/f17t0fi/
+* http://www.wonkity.com/~wblock/docs/html/backup.html#_em_dump_8_em_em_restore_8_em
 
 # Disqualified Applications
 
@@ -140,6 +141,7 @@ That looks like a pass also.
 
 ### NFS Resources
 
-* [FreeBSD man page](https://www.freebsd.org/cgi/man.cgi?query=nfsv4)
+* [FreeBSD NFSv4 man page](https://www.freebsd.org/cgi/man.cgi?query=nfsv4)
 * https://linuxconfig.org/how-to-set-up-a-nfs-server-on-debian-10-buster
 * [Linux exports man page](https://linux.die.net/man/5/exports)
+* [FreeBSD fstab man page](https://www.freebsd.org/cgi/man.cgi?query=fstab&apropos=0&sektion=0&manpath=FreeBSD+12.0-RELEASE+and+Ports&arch=default&format=html)
