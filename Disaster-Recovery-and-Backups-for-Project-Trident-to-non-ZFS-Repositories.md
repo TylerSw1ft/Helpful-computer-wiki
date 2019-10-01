@@ -81,11 +81,13 @@ Per [Debian's documentation](https://wiki.debian.org/DebianFirewall#Basic_softwa
 
 ## Restic
 
-* Already works for folder backup on Trident machine. Might have to use it to backup entire filesystem also
-* Needs NFS to work
+* Got it working, but having problems with [poor transfer speeds](https://www.reddit.com/r/DataHoarder/comments/dbikbg/how_do_i_speed_up_my_restic_on_freebsd_12_to_nfs/). Suggested remedies:
+  * Do a [network speed test](https://www.reddit.com/r/homelab/comments/dbin7u/how_do_i_speed_up_my_restic_on_freebsd_12_to_nfs/f2217bh/). I'll probably try this via my ISP's tool 1st since I have a 200 Mb·s^-1 connection
+  * Check NIC link rate/connection speed
+    * https://www.cyberciti.biz/faq/howto-determine-ethernet-connection-speed/
 
 ### NFS Resources
 
 * [FreeBSD man page](https://www.freebsd.org/cgi/man.cgi?query=nfsv4)
 * https://linuxconfig.org/how-to-set-up-a-nfs-server-on-debian-10-buster
-* https://www.server-world.info/en/note?os=Debian_10&p=nfs&f=1
+* [Linux exports man page](https://linux.die.net/man/5/exports)
