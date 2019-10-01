@@ -68,6 +68,14 @@ https://wintelguy.com/raidmttdl.pl
 
 https://github.com/project-trident/trident-docs/blob/master/restic.md
 
+## Including and excluding files
+
+https://restic.readthedocs.io/en/latest/040_backup.html#including-and-excluding-files
+
+## Scripting
+
+https://restic.readthedocs.io/en/latest/075_scripting.html
+
 # smartctl
 
 https://www.smartmontools.org/wiki/TocDoc
