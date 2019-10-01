@@ -82,9 +82,47 @@ Per [Debian's documentation](https://wiki.debian.org/DebianFirewall#Basic_softwa
 ## Restic
 
 * Got it working, but having problems with [poor transfer speeds](https://www.reddit.com/r/DataHoarder/comments/dbikbg/how_do_i_speed_up_my_restic_on_freebsd_12_to_nfs/). Suggested remedies:
-  * Do a [network speed test](https://www.reddit.com/r/homelab/comments/dbin7u/how_do_i_speed_up_my_restic_on_freebsd_12_to_nfs/f2217bh/). I'll probably try this via my ISP's tool 1st since I have a 200 Mb·s^-1 connection
+  * Do a [network speed test](https://www.reddit.com/r/homelab/comments/dbin7u/how_do_i_speed_up_my_restic_on_freebsd_12_to_nfs/f2217bh/). Did it on Debian 10 server via my ISP's tool 1st since I have a 200 Mb·s^-1 connection, got this passing result:
+
+![](https://raw.githubusercontent.com/jdrch/Hardware/master/Mediacom%20Cable%20%20%20Speed%20Test%202019-09-30.png)
+
   * Check NIC link rate/connection speed
     * https://www.cyberciti.biz/faq/howto-determine-ethernet-connection-speed/
+
+Using `ethtool` (which has to be installed 1st) on Debian 10 server:
+
+    sudo ethtool enp4s0
+    Settings for enp4s0:
+        Supported ports: [ TP MII ]
+        Supported link modes:   10baseT/Half 10baseT/Full 
+                                100baseT/Half 100baseT/Full 
+                                1000baseT/Half 1000baseT/Full 
+        Supported pause frame use: Symmetric Receive-only
+        Supports auto-negotiation: Yes
+        Supported FEC modes: Not reported
+        Advertised link modes:  10baseT/Half 10baseT/Full 
+                                100baseT/Half 100baseT/Full 
+                                1000baseT/Half 1000baseT/Full 
+        Advertised pause frame use: Symmetric Receive-only
+        Advertised auto-negotiation: Yes
+        Advertised FEC modes: Not reported
+        Link partner advertised link modes:  10baseT/Half 10baseT/Full 
+                                             100baseT/Half 100baseT/Full 
+                                             1000baseT/Full 
+        Link partner advertised pause frame use: Symmetric Receive-only
+        Link partner advertised auto-negotiation: Yes
+        Link partner advertised FEC modes: Not reported
+        Speed: 1000Mb/s
+        Duplex: Full
+        Port: MII
+        PHYAD: 0
+        Transceiver: internal
+        Auto-negotiation: on
+        Supports Wake-on: pumbg
+        Wake-on: g
+        Current message level: 0x00000033 (51)
+                               drv probe ifdown ifup
+        Link detected: yes
 
 ### NFS Resources
 
