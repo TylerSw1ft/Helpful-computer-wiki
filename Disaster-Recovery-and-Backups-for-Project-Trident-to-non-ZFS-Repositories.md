@@ -124,6 +124,20 @@ Using `ethtool` (which has to be installed 1st) on Debian 10 server:
                                drv probe ifdown ifup
         Link detected: yes
 
+That looks like a pass to me.
+
+On the Trident machine:
+
+    ifconfig
+    re0: flags=8843<UP,BROADCAST,RUNNING,SIMPLEX,MULTICAST> metric 0 mtu 1500
+        options=8209b<RXCSUM,TXCSUM,VLAN_MTU,VLAN_HWTAGGING,VLAN_HWCSUM,WOL_MAGIC,LINKSTATE>
+        [redacted lines]
+        media: Ethernet autoselect (1000baseT <full-duplex>)
+        status: active
+        nd6 options=23<PERFORMNUD,ACCEPT_RTADV,AUTO_LINKLOCAL>
+
+That looks like a pass also.
+
 ### NFS Resources
 
 * [FreeBSD man page](https://www.freebsd.org/cgi/man.cgi?query=nfsv4)
