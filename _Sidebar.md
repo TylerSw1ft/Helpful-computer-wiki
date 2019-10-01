@@ -10,6 +10,7 @@
   * [Disk Encryption Options](https://github.com/jdrch/Hardware/wiki/Disk-Encryption-Options)
   * [How Much Raw Storage You'll Need for RAID](https://github.com/jdrch/Hardware/wiki/How-Much-Raw-Storage-You'll-Need-for-RAID)
   * [How Often You Can Scrub HDDs without Reducing Their Lifespan](https://github.com/jdrch/Hardware/wiki/How-Often-You-Can-Scrub-HDDs-without-Reducing-Their-Lifespan)
-  * [How To Configure a Samba Server](https://github.com/jdrch/Hardware/wiki/How-To-Configure-a-Samba-Server)
+  * [How to Configure a Samba Server](https://github.com/jdrch/Hardware/wiki/How-To-Configure-a-Samba-Server)
+  * [How to install Pycharm from the JetBrains script](https://github.com/jdrch/Hardware/wiki/How-to-install-Pycharm-from-the-JetBrains-script)
   * [How to Update dnscrypt proxy in Debian with Minimal Downtime](https://github.com/jdrch/Hardware/wiki/How-to-Update-dnscrypt-proxy-in-Debian-with-Minimal-Downtime)
 
