@@ -68,6 +68,10 @@ https://wintelguy.com/raidmttdl.pl
 
 https://github.com/project-trident/trident-docs/blob/master/restic.md
 
+# smartctl
+
+https://www.smartmontools.org/wiki/TocDoc
+
 # Volume Shadow Copy
 
 ## How to set it up
