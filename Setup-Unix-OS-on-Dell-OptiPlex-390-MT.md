@@ -1,13 +1,21 @@
+# OS Choice
+
+[OpenIndiana](https://www.openindiana.org/)
+
 # Rationale
 
 * I want to run all major OS families
 * I still need a UNIX OS to fulfill the above
 * MacOS isn't affordable
-* None of the other UNIX solutions are easily available
+* None of the other certified and licensed UNIX solutions are easily available or actively supported
 
 # Documentation
 
-https://docs.oracle.com/en/operating-systems/solaris.html
+http://docs.openindiana.org/
+
+# Support
+
+https://illumos.topicbox.com/latest
 
 # Prerequisites
 
