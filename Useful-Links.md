@@ -14,7 +14,7 @@ Use default values
 
 ## Scheduled scrubs
 
-Should be performed monthly> put the following in the [root crontab](https://github.com/jdrch/Hardware/wiki/Useful-Links#how-to-edit-the-root-crontab-in-debian):
+Should be performed monthly. Put the following in the [root crontab](https://github.com/jdrch/Hardware/wiki/Useful-Links#how-to-edit-the-root-crontab-in-debian):
 
 `@monthly btrfs scrub start /path/to/Btrfs/filessystem`
 
@@ -31,6 +31,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 ## Backwards compatibility
 
 https://www.lto.org/solutions/benefits/compatibility/
+
+# `nano`
+
+[Getting started](https://www.redhat.com/sysadmin/getting-started-nano)
 
 # OpenRC
 
@@ -76,9 +80,13 @@ https://restic.readthedocs.io/en/latest/040_backup.html#including-and-excluding-
 
 https://restic.readthedocs.io/en/latest/075_scripting.html
 
-# smartctl
+# smartmontools
 
 https://www.smartmontools.org/wiki/TocDoc
+
+# systemd
+
+[How to create a new systemd service](https://www.redhat.com/sysadmin/replacing-rclocal-systemd)
 
 # Volume Shadow Copy
 
