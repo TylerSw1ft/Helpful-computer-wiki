@@ -4,7 +4,7 @@ There is a family of computing standards trademarked as [POSIX](http://get.posix
 
 An OS that uses the POSIX trademark must:
 
-1. [Be certified to meet all POSIX conformance requirements](meets all the conformance requirements)
+1. [Be certified to meet all POSIX conformance requirements](http://get.posixcertified.ieee.org/certification_guide.html#Certification)
 2. [Have a POSIX Trademark License Agreement](http://get.posixcertified.ieee.org/certification_guide.html#TheFirstStepTheTMLA)
 
 # Certified POSIX-compliant OSes
