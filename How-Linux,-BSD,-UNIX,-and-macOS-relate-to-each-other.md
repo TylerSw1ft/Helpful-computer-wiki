@@ -10,7 +10,7 @@ A UNIX is any operating system that has been certified as POSIX-compliant.
 
 ### macOS
 
-MacOS is a UNIX.
+MacOS is a mixed source UNIX.
 
 # Non-certified, but "mostly POSIX-compliant" OSes
 
