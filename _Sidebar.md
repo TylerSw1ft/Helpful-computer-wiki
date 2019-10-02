@@ -1,5 +1,4 @@
 Organized Alphabetically:
-
 * Explainers
   * [How Linux, BSD, UNIX, and macOS Relate to Each Other](https://github.com/jdrch/Hardware/wiki/How-Linux,-BSD,-UNIX,-and-macOS-relate-to-each-other)
   * [Why I Use Resilio Sync Instead of Syncthing](https://github.com/jdrch/Hardware/wiki/Why-I-Use-Resilio-Sync-Instead-of-Syncthing)
@@ -22,7 +21,6 @@ Organized Alphabetically:
     * [Dell XPS 8500 Special Edition Storage Reconfiguration](https://github.com/jdrch/Hardware/wiki/Dell-XPS-8500-Special-Edition-Storage-Reconfiguration)
     * [Dell Inspiron 560 Storage Reconfiguration](https://github.com/jdrch/Hardware/wiki/Dell-Inspiron-560-Storage-Reconfiguration)
     * [Setup Oracle Solaris on Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/wiki/Setup-Oracle-Solaris-on-Dell-OptiPlex-390-MT)
-
 * [Useful Links](https://github.com/jdrch/Hardware/wiki/Useful-Links)
 
 
