@@ -6,7 +6,11 @@ There is a family of standards called [POSIX](https://en.wikipedia.org/wiki/POSI
 
 ## UNIX
 
-A UNIX is any operating system that has been certified as POSIX-compliant. macOS is a UNIX.
+A UNIX is any operating system that has been certified as POSIX-compliant. 
+
+### macOS
+
+MacOS is a UNIX.
 
 # Non-certified, but "mostly POSIX-compliant" OSes
 
@@ -15,14 +19,14 @@ All the OSes in this category are basically open source UNIX implementations. Th
 ## BSD
 
 1. Each BSD uses an independently developed kernel
-2. There is no (guaranteed) binary compatibility among BSDs
+2. There is no aim for binary compatibility among BSDs
 3. Uses the [BSD License](https://en.wikipedia.org/wiki/BSD_licenses)
 
 ## Linux Distributions (Distros)
 
 1. Each distro uses the centrally developed Linux kernel
-2. While each distro *may* modify the kernel for its own purposes, there is:
-  a. Binary compatibility among Linux distros on the same CPU architecture
+2. While each distro *may* modify the kernel for its own purposes, there is, by virtue of the common kernel:
+  a. Binary (*not* necessarily package) compatibility among Linux distros on the same CPU architecture
   b. Feature parity among all kernels based on the same release
 3. Uses the [GNU General Public License (GPL)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 
