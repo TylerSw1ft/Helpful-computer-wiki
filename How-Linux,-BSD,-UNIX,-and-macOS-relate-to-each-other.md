@@ -26,8 +26,8 @@ All the OSes in this category are basically open source UNIX implementations. Th
 
 1. Each distro uses the centrally developed Linux kernel
 2. While each distro *may* modify the kernel for its own purposes, there is, by virtue of the common kernel:
-   a. Binary (*not* necessarily package) compatibility among Linux distros on the same CPU architecture
-   b. Feature parity among all kernels based on the same release
+   1. Binary (*not* necessarily package) compatibility among Linux distros on the same CPU architecture
+   2. Feature parity among all kernels based on the same release
 3. Uses the [GNU General Public License (GPL)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 
 # Notes
