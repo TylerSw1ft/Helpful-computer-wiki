@@ -42,4 +42,4 @@ MacOS is a mixed source UNIX OS.
 
 * The differences between the BSD License and the GPL, while outside the scope of this comparison, are [significant](https://fossbytes.com/open-sources-license-type/)
 * Licensing and certification for both [POSIX](http://get.posixcertified.ieee.org/docs/posix-fee-schedule-1.3.PDF) and UNIX are expensive relative to open source OS budgets, ergo BSD and Linux are neither certified nor licensed
-* POSIX certification appears to be an [audited self-test](http://get.posixcertified.ieee.org/certification_guide.html#Formal%20Testing), using a standardized testing suite developed by the IEEE
+* POSIX certification appears to involve an [audited self-test](http://get.posixcertified.ieee.org/certification_guide.html#Formal%20Testing), using a standardized testing suite developed by the IEEE
