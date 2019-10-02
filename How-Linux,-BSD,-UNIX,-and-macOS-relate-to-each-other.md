@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/jdrch/Hardware/master/UNIX%20Comparison.png)
+
 # POSIX
 
 There is a family of computing standards trademarked as [POSIX](https://en.wikipedia.org/wiki/POSIX). The POSIX trademark is [owned by IEEE](http://get.posixcertified.ieee.org/).
@@ -44,3 +46,4 @@ MacOS is a mixed source UNIX OS.
 * Licensing and certification fees for both [POSIX](http://get.posixcertified.ieee.org/docs/posix-fee-schedule-1.3.PDF) and [UNIX](https://www.opengroup.org/openbrand/Brandfees.htm) are expensive relative to open source OS budgets. This appears to be the main reason BSD and Linux are neither certified nor licensed
 * POSIX certification appears to involve an [audited self-test](http://get.posixcertified.ieee.org/certification_guide.html#Formal%20Testing), using a standardized testing suite supplied by the IEEE
 * UNIX certification appears to involve [approved results self-testing](https://www.opengroup.org/openbrand/docs/faq.html#general21), using a standardized testing suite supplied by The Open Group
+* There is at least 1 other standard that exists within the Linux ecosystem only: the [Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/fhs.shtml)
