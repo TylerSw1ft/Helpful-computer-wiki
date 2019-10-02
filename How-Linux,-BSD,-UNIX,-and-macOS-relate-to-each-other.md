@@ -36,5 +36,4 @@ All the OSes in this category are basically open source UNIX implementations. Th
 # Notes
 
 * The differences between the BSD License and the GPL, while outside the scope of this comparison, are [significant](https://fossbytes.com/open-sources-license-type/)
-* UNIX (capitalized) is a trademark. Only OSes that have been *both* POSIX-certified *and* are covered by a licensing fee can call themselves UNIX
 * Both POSIX-certification and UNIX licensing are expensive relative to open source OS budgets, ergo BSD and Linux are neither certified nor licensed
