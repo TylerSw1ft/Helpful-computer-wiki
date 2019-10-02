@@ -18,8 +18,9 @@ Organized Alphabetically:
       * [Disaster Recovery and Backups for Project Trident to non ZFS Repositories](https://github.com/jdrch/Hardware/wiki/Disaster-Recovery-and-Backups-for-Project-Trident-to-non-ZFS-Repositories)
   * Future (in order of descending priority/implementation)
     * [Update Firmware on Unused PCs](https://github.com/jdrch/Hardware/wiki/Update-Firmware-on-Unused-PCs)
-    * [Dell XPS 8500 Special Edition Storage Reconfiguration](https://github.com/jdrch/Hardware/wiki/Dell-XPS-8500-Special-Edition-Storage-Reconfiguration)
-    * [Dell Inspiron 560 Storage Reconfiguration](https://github.com/jdrch/Hardware/wiki/Dell-Inspiron-560-Storage-Reconfiguration)
+    * Storage Reconfiguration
+      * [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/wiki/Dell-XPS-8500-Special-Edition-Storage-Reconfiguration)
+      * [Dell Inspiron 560](https://github.com/jdrch/Hardware/wiki/Dell-Inspiron-560-Storage-Reconfiguration)
     * [Setup Oracle Solaris on Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/wiki/Setup-Oracle-Solaris-on-Dell-OptiPlex-390-MT)
 * [Useful Links](https://github.com/jdrch/Hardware/wiki/Useful-Links)
 
