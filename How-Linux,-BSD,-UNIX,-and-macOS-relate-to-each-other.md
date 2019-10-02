@@ -15,7 +15,7 @@ UNIX's requirements are a [superset of POSIX's](https://unix.stackexchange.com/a
 
 A UNIX is [any operating system](https://www.opengroup.org/membership/forums/platform/unix):
 
-1. That passes the applicable certification test suites 
+1. That passes the applicable UNIX certification test suites 
 2. Whose supplier has formally agreed to the terms of the UNIX Certification Program
 
 ### macOS
@@ -41,4 +41,5 @@ MacOS is a mixed source UNIX OS.
 # Notes
 
 * The differences between the BSD License and the GPL, while outside the scope of this comparison, are [significant](https://fossbytes.com/open-sources-license-type/)
-* Both POSIX-certification and UNIX licensing are expensive relative to open source OS budgets, ergo BSD and Linux are neither certified nor licensed
+* Licensing and certification for both [POSIX](http://get.posixcertified.ieee.org/docs/posix-fee-schedule-1.3.PDF) and UNIX are expensive relative to open source OS budgets, ergo BSD and Linux are neither certified nor licensed
+* POSIX certification appears to be an [audited self-test](http://get.posixcertified.ieee.org/certification_guide.html#Formal%20Testing), using a standardized testing suite developed by the IEEE
