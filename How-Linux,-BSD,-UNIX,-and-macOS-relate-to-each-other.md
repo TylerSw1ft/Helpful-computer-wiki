@@ -6,7 +6,10 @@ There is a family of computing standards called [POSIX](https://en.wikipedia.org
 
 ## UNIX
 
-A UNIX is any operating system that has been certified as POSIX-compliant *and* licensed to use the UNIX trademark. 
+A UNIX is any operating system that is:
+
+1. Certified as POSIX-compliant
+2. Licensed to use the UNIX trademark
 
 ### macOS
 
