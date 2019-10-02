@@ -1,23 +1,28 @@
 # POSIX
 
-There is a family of computing standards called [POSIX](https://en.wikipedia.org/wiki/POSIX).
+There is a family of computing standards trademarked as [POSIX](http://get.posixcertified.ieee.org/certification_guide.html). 
+
+An OS that uses the POSIX trademark must:
+
+1. [Be certified to meet all POSIX conformance requirements](meets all the conformance requirements)
+2. [Have a POSIX Trademark License Agreement](http://get.posixcertified.ieee.org/certification_guide.html#TheFirstStepTheTMLA)
 
 # Certified POSIX-compliant OSes
 
 ## UNIX
 
-A UNIX is any operating system that is:
+UNIX's requirements are a [superset of POSIX's](https://unix.stackexchange.com/a/14369/166524). In other words, all UNIX OSes are POSIX-compliant, but not all POSIX-compliant OSes are UNIX OSes.
 
-1. Certified as POSIX-compliant
-2. Licensed to use the UNIX trademark
+A UNIX is [any operating system](https://www.opengroup.org/membership/forums/platform/unix):
+
+1. That passes the applicable certification test suites 
+2. Whose supplier has formally agreed to the terms of the UNIX Certification Program
 
 ### macOS
 
-MacOS is a mixed source UNIX.
+MacOS is a mixed source UNIX OS.
 
 # Non-certified, but "mostly POSIX-compliant" OSes
-
-All the OSes in this category are basically open source UNIX implementations. The main differences are implementation method and license.
 
 ## BSD
 
