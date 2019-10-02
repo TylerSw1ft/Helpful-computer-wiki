@@ -1,7 +1,7 @@
 * [Useful Links](https://github.com/jdrch/Hardware/wiki/Useful-Links)
 * Current Projects
-  * [Disaster Recovery and Backups for Project Trident to non ZFS Repositories](https://github.com/jdrch/Hardware/wiki/Disaster-Recovery-and-Backups-for-Project-Trident-to-non-ZFS-Repositories)
   * [Mixed Environment, Multilevel Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-(Windows,-Linux,-BSD)-Multilevel-Backup)
+    * [Disaster Recovery and Backups for Project Trident to non ZFS Repositories](https://github.com/jdrch/Hardware/wiki/Disaster-Recovery-and-Backups-for-Project-Trident-to-non-ZFS-Repositories)
 * Explainers
   * [How Linux, BSD, UNIX, and macOS relate to each other](https://github.com/jdrch/Hardware/wiki/How-Linux,-BSD,-UNIX,-and-macOS-relate-to-each-other)
   * [Why US Buyers Should Purchase Datacenter HDDs instead of NAS HDDs](https://github.com/jdrch/Hardware/wiki/Why-US-Buyers-Should-Purchase-Datacenter-HDDs-instead-of-NAS-HDDs)
