@@ -1,6 +1,6 @@
 # POSIX
 
-There is a family of computing standards trademarked as [POSIX](http://get.posixcertified.ieee.org/certification_guide.html). 
+There is a family of computing standards trademarked as [POSIX](https://en.wikipedia.org/wiki/POSIX). The POSIX trademark is [owned by IEEE](http://get.posixcertified.ieee.org/).
 
 An OS that uses the POSIX trademark must:
 
@@ -11,7 +11,7 @@ An OS that uses the POSIX trademark must:
 
 ## UNIX
 
-UNIX's requirements are a [superset of POSIX's](https://unix.stackexchange.com/a/14369/166524). In other words, all UNIX OSes are POSIX-compliant, but not all POSIX-compliant OSes are UNIX OSes.
+UNIX's requirements are a [superset of POSIX's](https://unix.stackexchange.com/a/14369/166524). In other words, all UNIX OSes are POSIX-compliant OSes, but not all POSIX-compliant OSes are UNIX OSes. The UNIX trademark is owned by [The Open Group](https://www.opengroup.org/).
 
 A UNIX is [any operating system](https://www.opengroup.org/membership/forums/platform/unix):
 
