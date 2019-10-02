@@ -1,6 +1,6 @@
 # POSIX
 
-There is a family of standards called [POSIX](https://en.wikipedia.org/wiki/POSIX). It isn't necessary to know what POSIX is to understand the above relationships, just that it exists.
+There is a family of computing standards called [POSIX](https://en.wikipedia.org/wiki/POSIX).
 
 # Certified POSIX-compliant OSes
 
