@@ -21,7 +21,7 @@ Organized Alphabetically:
     * Storage Reconfiguration
       * [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/wiki/Dell-XPS-8500-Special-Edition-Storage-Reconfiguration)
       * [Dell Inspiron 560](https://github.com/jdrch/Hardware/wiki/Dell-Inspiron-560-Storage-Reconfiguration)
-    * [Setup Unix OS on Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/wiki/Setup-Unix-OS-on-Dell-OptiPlex-390-MT)
+    * [Setup Fedora on Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/wiki/Setup-Fedora-on-Dell-OptiPlex-390-MT)
 * [Useful Links](https://github.com/jdrch/Hardware/wiki/Useful-Links)
 
 
