@@ -1,3 +1,7 @@
+# Status
+
+Archived due to lack of Resilio Sync support, which would make my workflow difficult to impossible. 
+
 # OS Choice
 
 [OpenIndiana](https://www.openindiana.org/)
