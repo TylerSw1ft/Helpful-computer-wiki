@@ -1,26 +1,3 @@
-# Status
-
-Archived due to lack of Resilio Sync support, which would make my workflow difficult to impossible. 
-
-# OS Choice
-
-[OpenIndiana](https://www.openindiana.org/)
-
-# Rationale
-
-* I want to run all major OS families
-* I still need a UNIX OS to fulfill the above
-* MacOS isn't affordable
-* None of the other certified and licensed UNIX solutions are easily available or actively supported
-
-# Documentation
-
-http://docs.openindiana.org/
-
-# Support
-
-https://illumos.topicbox.com/latest
-
 # Prerequisites
 
 ## Storage
