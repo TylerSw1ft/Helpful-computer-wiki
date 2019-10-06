@@ -53,6 +53,19 @@ My advice with OpenRC is to interact with it only:
 * [Gentoo OpenRC Wiki](https://wiki.gentoo.org/wiki/OpenRC)
 * [Gentoo supervise-daemon Tips 'n Tricks](https://wiki.gentoo.org/wiki/OpenRC/supervise-daemon#Tips_.27n_tricks)
 
+# `pip` for Python 3
+
+# Installation
+
+* [Debian 10](https://linux4one.com/how-to-install-pip-on-debian-10/)
+* [Ubuntu 19.04](https://www.serverlab.ca/scripting-programming/install-python-pip-on-ubuntu-19-04/)
+
+# Updating
+
+Run:
+
+`pip3 install -U pip`
+
 # RAID
 
 * [Explanation of parity and redundancy levels](http://www.raid-calculator.com/raid-types-reference.aspx)
