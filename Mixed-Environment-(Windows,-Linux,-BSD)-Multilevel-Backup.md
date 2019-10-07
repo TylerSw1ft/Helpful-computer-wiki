@@ -2,7 +2,7 @@ I run all 3 major OS paradigms (officially the excuse for this is "just in case 
 
 This requires multiple solutions, and I was getting confused keeping all of them in my head. Excel to the rescue! Here's my current blueprint and progress status (I'm continuously updating this as I tweak my plans, notation, and actually get solutions implemented):
 
-![](https://raw.githubusercontent.com/jdrch/Hardware/master/Clipboard01.png)
+![](https://raw.githubusercontent.com/jdrch/Hardware/0a9117533a204976f7bc2f8674674afc1d80745c/Clipboard01.png)
 
 I also have target dates to keep myself on track. The object here is ultimately turn the entire top table green.
 
