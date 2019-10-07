@@ -1,3 +1,20 @@
+# Core backup principles
+
+* Prepare to permanently lose anything that isn't backed up. I prefer this to "back *everything* up," as some things aren't worth the efort
+* Where possible, use hardware you already have. Not only is this less expensive, at least you already know it works
+* Put the largest storage devices on backup duty. This ensure you'll always have enough backup space
+* New incoming critical data - especially hardcopy - must be backed up ASAP
+* Run compute and backup on separate storage devices
+* All PCs must have the following levels of backup (note that for some OSes a single solution covers more than 1 of the below):
+  * Critical change OS rollback
+  * At least daily filesystem snapshots
+  * At least weekly device-level recovery backups
+* All devices must have one of the following:
+  * Folders that real-time sync among all the other devices
+  * R/W network access to the real-time sync folders of another device
+
+# Details
+
 I run all 3 major OS paradigms (officially the excuse for this is "just in case 2 of them get compromised," but the real reason is I love computers 🤷‍♂️) and want to back all of them up at multiple levels (device, irreplaceable user data, operating system.)
 
 This requires multiple solutions, and I was getting confused keeping all of them in my head. Excel to the rescue! Here's my current blueprint and progress status (I'm continuously updating this as I tweak my plans, notation, and actually get solutions implemented):
