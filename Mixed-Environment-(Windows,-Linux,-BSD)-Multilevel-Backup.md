@@ -4,7 +4,7 @@
 * Where possible, use hardware you already have. Not only is this less expensive, at least you already know it works
 * Put the largest storage devices on backup duty. This ensure you'll always have enough backup space
 * New incoming critical data - especially hardcopy - must be backed up ASAP
-* Run compute and backup on separate storage devices
+* [Run compute and backup on separate storage devices](https://github.com/jdrch/Hardware/wiki/Why-You-Should-Separate-Compute-and-Backup-Workloads)
 * All PCs must have the following levels of backup (note that for some OSes a single solution covers more than 1 of the below):
   * Critical change OS rollback
   * At least daily filesystem snapshots
