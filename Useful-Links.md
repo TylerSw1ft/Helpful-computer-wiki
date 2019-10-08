@@ -31,6 +31,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 `sudo crontab -u root -e`
 
+# Disqus
+
+[What HTML tags are allowed within comments](https://help.disqus.com/en/articles/1717235-what-html-tags-are-allowed-within-comments)
+
 # LTO-8 
 
 [Backwards compatibility](https://www.lto.org/solutions/benefits/compatibility/)
