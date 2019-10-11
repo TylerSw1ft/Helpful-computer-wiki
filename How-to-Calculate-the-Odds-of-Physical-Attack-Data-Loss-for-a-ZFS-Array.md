@@ -7,7 +7,7 @@ Note: This method should be generalizable to other array and filesystem types. T
 
 # Problem Statement
 
-Consider a ZFS array with a given redundancy level, *r*. Assume a physical attacker with no knowledge of the array's configuration destroys *r* + 1 (the minimum number of destroyed drives necessary to result in data loss) drives. What is the probability that said destruction actually results in data loss?
+Consider a ZFS array with a given redundancy level, *r*. Assume a physical attacker with no knowledge of the array's configuration destroys *r* + 1 (the minimum number of destroyed drives necessary to result in data loss) drives. What is the probability *P* that said destruction actually results in data loss?
 
 # Independence of Problem from Drive Specs and Reliability
 
@@ -58,7 +58,9 @@ The following variables are defined:
 
 *I*, the total number of combinations of *F* destroyed drives that do not result in data loss
 
-*C,* *L* + *I*
+*C*, *L* + *I*
+
+*P*, *L*/*C*
 
 # RAIDZ*r*, where 0 < *r* < 3
 
@@ -92,8 +94,12 @@ Because the above combination occurs for every permutation of 2 vdevs, multiply 
 
 For this value of V, 1 drive can fail from each vdev. The number of tuples consisting of 1 drive from each vdev is:
 
-*D*^**F*
+*D*^*F*
 
 This can be done for any 3 vdevs in the array, so multiply by that combination:
 
 (*V*!/(3!(*V* - 3!))*D*^*F*
+
+Putting all of the above together:
+
+*I* = (*V*!/(*V* - 2)!)*D*(*D*!/(*r*!(*D* - *r*)!)) + (*V*!/(3!(*V* - 3!))*D*^*F*
