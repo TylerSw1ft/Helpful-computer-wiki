@@ -50,16 +50,17 @@ The following variables are defined:
 * *N*, the total number of drives the array has before any drive destruction
 * *V*, the total number of vdevs
 * *D*, the number of drives per vdev = *N*/*V*
+  * *D* = 2 for all ZFS arrays containing only mirrors
 * *L*, the total number of combinations of *F* destroyed drives that result in data loss
 * *I*, the total number of combinations of *F* destroyed drives that do not result in data loss
 * *C*, *L* + *I*
 * *P*, *L*/*C*
 
-# RAIDZ*r*, where 0 < *r* < 3
+## RAIDZ*r*, where 0 < *r* < 3
 
-## Calculating *L*
+### Calculating *L*
 
-Data loss occurs whenever *F* drives are destroyed per vdev. Combinatorically, this is the same as picking any 3 drives from a vdev. The number of such combinations *per vdev* is therefore:
+Data loss occurs whenever *F* drives from any vdev are destroyed. Combinatorically, this is the same as picking any 3 drives from a vdev. The number of such combinations *per vdev* is therefore:
 
 *D*!/(*F*!(*D* - *F*)!)
 
@@ -67,7 +68,7 @@ However, because this can be done for each vdev *and* only needs to happen to 1 
 
 ***L* = *V*(*D*!/(*F*!(*D* - *F*)!))**
 
-## Calculating *I*
+### Calculating *I*
 
 Data loss does *not* occur when less than *F* drives are destroyed per vdev.
 
@@ -83,7 +84,7 @@ Because the above combination occurs for every permutation of 2 vdevs, multiply 
 
 (*V*!/(*V* - 2)!)*D*(*D*!/(*r*!(*D* - *r*)!))
 
-### For *V* ≥ 3 *only*
+#### For *V* ≥ 3 *only*
 
 For these values of V, 1 drive can fail from each vdev. The number of tuples consisting of 1 drive from each vdev is:
 
@@ -100,3 +101,34 @@ Putting all of the above together:
 and 
 
 ***I* = (*V*!/(*V* - 2)!)*D*(*D*!/(*r*!(*D* - *r*)!)) for *V* < 3**
+
+## Mirror, where *F* = 2
+
+Data loss occurs whenever *F* drives from any vdev are destroyed. For mirrors, *F* = 2. 
+
+### Calculating *L*
+
+Because only 1 vdev needs to be destroyed:
+
+***V*!(*V* - 1)!**
+
+### Calculating *I*
+
+Data loss will not occur if 2 vdevs each have 1 drive destroyed. This is equivalent picking 1 drive from 1 vdev, and picking drives one at a time, in turn, from the remaining vdevs:
+
+(*V* - 1)!/(*V* - 2)!
+
+Since this is possible for all drives in the array, multiply by *N*:
+
+***N*(*V* - 1)!/(*V* - 2)!**
+
+## Mirror, where *F* = 3
+
+While the previous computation is interesting, it's limited in its potential for comparison as RAIDZ2 vdevs are invulnerable to data loss from the destruction of 2 drives. Therefore, the additional case of 3 drives being destroyed is considered.
+
+### Calculating *L*
+
+Data loss will occur if 1 vdev has both its drives destroyed and 1 other vdev has only 1 drive destroyed. There are 4 possible states of this per pair of vdevs, and so:
+
+4*V*!/(2!(*V* - 2)!) = **2*V*!/(*V* - 2)!**
+
