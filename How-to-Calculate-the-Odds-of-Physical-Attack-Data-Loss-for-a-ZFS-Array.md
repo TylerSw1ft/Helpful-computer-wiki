@@ -95,8 +95,8 @@ This can be done for any 3 vdevs in the array, so multiply by that combination:
 
 Putting all of the above together:
 
-*I* = (*V*!/(*V* - 2)!)*D*(*D*!/(*r*!(*D* - *r*)!)) + (*V*!/(3!(*V* - 3!))*D*^*F* for *V* ≥ 3
+***I* = (*V*!/(*V* - 2)!)*D*(*D*!/(*r*!(*D* - *r*)!)) + (*V*!/(3!(*V* - 3!))*D*^*F* for *V* ≥ 3**
 
 and 
 
-*I* = (*V*!/(*V* - 2)!)*D*(*D*!/(*r*!(*D* - *r*)!)) for *V* < 3
+***I* = (*V*!/(*V* - 2)!)*D*(*D*!/(*r*!(*D* - *r*)!)) for *V* < 3**
