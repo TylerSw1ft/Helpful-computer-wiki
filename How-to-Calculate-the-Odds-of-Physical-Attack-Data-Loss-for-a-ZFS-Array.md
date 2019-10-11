@@ -65,7 +65,7 @@ Data loss occurs whenever *F* drives are destroyed per vdev. Combinatorically, t
 
 However, because this can be done for each vdev *and* only needs to happen to 1 vdev for data loss to occur, the above expression must be multiplied by *V*, such that:
 
-*L* = *V*(*D*!/(*F*!(*D* - *F*)!))
+***L* = *V*(*D*!/(*F*!(*D* - *F*)!))**
 
 ## Calculating *I*
 
