@@ -31,6 +31,10 @@ The key equation to keep in mind here is the one that gives the number of unique
 
 Eq. 1: *n*!/(*r*!(*n* - *r*)!)
 
+The second equation to keep in mind is the one that gives the number of *permutations* in which *r* items can be chosen from a larger set of *n* items:
+
+Eq. 2: *n*!/(*n* - *r*)!
+
 2 array types are considered, those containing *only*: 
 
 * RAIDZ*r*
@@ -56,9 +60,9 @@ The following variables are defined:
 
 *C,* *L* + *I*
 
-# RAIDZ*r*, where 0 < *r* < 3 and 0 < *V* < 4
+# RAIDZ*r*, where 0 < *r* < 3
 
-# Calculating *L*
+## Calculating *L*
 
 Data loss occurs whenever *F* drives are destroyed per vdev. Combinatorically, this is the same as picking any 3 drives from a vdev. The number of such combinations *per vdev* is therefore:
 
@@ -66,9 +70,9 @@ Data loss occurs whenever *F* drives are destroyed per vdev. Combinatorically, t
 
 However, because this can be done for each vdev *and* only needs to happen to 1 vdev for data loss to occur, the above expression must be multiplied by *V*, such that:
 
-*L* = V(*D*!/(*F*!(*D* - *F*)!))
+*L* = *V*(*D*!/(*F*!(*D* - *F*)!))
 
-# Calculating *I*
+## Calculating *I*
 
 Data loss does *not* occur when less than *F* drives are destroyed per vdev.
 
@@ -76,4 +80,20 @@ Assume 1 drive is picked from the first vdev and the remaining *F* - 1 = *r* dri
 
 *D*!/(*r*!(*D* - *r*)!)
 
-Because that combination occurs for every drive in D, multiply by D!
+Because that combination occurs for every drive in *D*, and for every multiply by *D*:
+
+*D*(*D*!/(*r*!(*D* - *r*)!))
+
+Because the above combination occurs for every permutation of 2 vdevs, multiply by that factor:
+
+(*V*!/(*V* - 2)!)*D*(*D*!/(*r*!(*D* - *r*)!))
+
+### For *V* ≥ 3
+
+For this value of V, 1 drive can fail from each vdev. The number of tuples consisting of 1 drive from each vdev is:
+
+*D*^**F*
+
+This can be done for any 3 vdevs in the array, so multiply by that combination:
+
+(*V*!/(3!(*V* - 3!))*D*^**F*
