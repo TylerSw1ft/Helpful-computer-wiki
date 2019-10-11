@@ -2,13 +2,13 @@
 
 Yes, you can use `zfs send` and `zfs receive` for this. However, that requires having another, separate ZFS machine, which is expensive. OTOH, this method allows you to backup to any repository you have access to, regardless of filesystems.
 
-# Why not use disk imaging?
+# Why Not Use Disk Imaging?
 
 1. [`dump`](https://www.freebsd.org/cgi/man.cgi?dump(8)) doesn't support infinite incremental backups, leading to excessive disk wear on the repository
 2. [Bareos supports disaster recovery for Linux only](https://docs.bareos.org/Appendix/DisasterRecoveryUsingBareos.html). Or, at least, it relies on Relax and Recover, [which supports Linux only](http://relax-and-recover.org/download/) 
 3. AMANDA backups apparently [do not retain permissions](https://wiki.zmanda.com/index.php/How_To:Do_a_Bare_Metal_Restore) (see 6) there)
 
-# Caveats and constraints
+# Caveats and Constraints
 
 Project Trident, which I use, uses OpenRC as its init system. Unfortunately, the vast majority of OpenRC documentation is written for Gentoo Linux, while FreeBSD documentation and guides are written for rc.d. This leaves Trident in a bit of a support no man's land when it comes to services, and so many 3rd party packages available in AppCafe that rely on services don't work reliably. This apparently includes the samba client. **Ergo, the aim here is avoid solutions that rely on services running on Trident, unless I can somehow get them running**.
 
