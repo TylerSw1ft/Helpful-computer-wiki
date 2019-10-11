@@ -83,9 +83,9 @@ Because the above combination occurs for every permutation of 2 vdevs, multiply 
 
 (*V*!/(*V* - 2)!)*D*(*D*!/(*r*!(*D* - *r*)!))
 
-### For *V* ≥ 3
+### For *V* ≥ 3 *only*
 
-For this value of V, 1 drive can fail from each vdev. The number of tuples consisting of 1 drive from each vdev is:
+For these values of V, 1 drive can fail from each vdev. The number of tuples consisting of 1 drive from each vdev is:
 
 *D*^*F*
 
@@ -95,4 +95,8 @@ This can be done for any 3 vdevs in the array, so multiply by that combination:
 
 Putting all of the above together:
 
-*I* = (*V*!/(*V* - 2)!)*D*(*D*!/(*r*!(*D* - *r*)!)) + (*V*!/(3!(*V* - 3!))*D*^*F*
+*I* = (*V*!/(*V* - 2)!)*D*(*D*!/(*r*!(*D* - *r*)!)) + (*V*!/(3!(*V* - 3!))*D*^*F* for *V* ≥ 3
+
+and 
+
+*I* = (*V*!/(*V* - 2)!)*D*(*D*!/(*r*!(*D* - *r*)!)) for *V* < 3
