@@ -96,4 +96,4 @@ For this value of V, 1 drive can fail from each vdev. The number of tuples consi
 
 This can be done for any 3 vdevs in the array, so multiply by that combination:
 
-(*V*!/(3!(*V* - 3!))*D*^**F*
+(*V*!/(3!(*V* - 3!))*D*^*F*
