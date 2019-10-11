@@ -47,20 +47,13 @@ The following variables are defined:
 * *F*, the *minimum* number of destroyed drives necessary for data loss
   * *F* = 2 for all ZFS arrays containing mirrors
   * *F* = *r* + 1 for ZFS array containing RAIDZ*r* vdevs only
-
-*N*, the total number of drives the array has before any drive destruction
-
-*V*, the total number of vdevs
-
-*D*, the number of drives per vdev = *N*/*V*
-
-*L*, the total number of combinations of *F* destroyed drives that result in data loss
-
-*I*, the total number of combinations of *F* destroyed drives that do not result in data loss
-
-*C*, *L* + *I*
-
-*P*, *L*/*C*
+* *N*, the total number of drives the array has before any drive destruction
+* *V*, the total number of vdevs
+* *D*, the number of drives per vdev = *N*/*V*
+* *L*, the total number of combinations of *F* destroyed drives that result in data loss
+* *I*, the total number of combinations of *F* destroyed drives that do not result in data loss
+* *C*, *L* + *I*
+* *P*, *L*/*C*
 
 # RAIDZ*r*, where 0 < *r* < 3
 
