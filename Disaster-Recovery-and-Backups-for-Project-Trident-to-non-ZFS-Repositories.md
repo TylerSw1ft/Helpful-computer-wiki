@@ -78,7 +78,7 @@ Client log files indicate it's not seeing the server:
 
 Per [Debian's documentation](https://wiki.debian.org/DebianFirewall#Basic_software_for_network_traffic_manipulation), it's configured to allow all traffic by default, which means the lack of connectivity probably isn't due to the server. At this point, I'm giving up on getting UrBackup to work on Trident, aside from committing code corresponding to what I've learned from the attempt so far. 
 
-# Candidate Applications
+# Implemented Solution
 
 ## Restic
 
