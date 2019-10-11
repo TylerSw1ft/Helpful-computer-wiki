@@ -1,4 +1,4 @@
-Note: this method should be generalizable to other array and filesystem types. The general method is:
+Note: This method should be generalizable to other array and filesystem types. The general method is:
 
 1. Calculate the number of data loss drive destruction combinations for a given number of destroyed drives
 2. Calculate the number of non-data loss drive destruction combinations for a given number of destroyed drives
@@ -56,7 +56,7 @@ The following variables are defined:
 
 *C,* *L* + *I*
 
-# RAIDZ*r*
+# RAIDZ*r*, where 0 < *r* < 3 and 0 < *V* < 4
 
 # Calculating *L*
 
@@ -67,3 +67,13 @@ Data loss occurs whenever *F* drives are destroyed per vdev. Combinatorically, t
 However, because this can be done for each vdev *and* only needs to happen to 1 vdev for data loss to occur, the above expression must be multiplied by *V*, such that:
 
 *L* = V(*D*!/(*F*!(*D* - *F*)!))
+
+# Calculating *I*
+
+Data loss does *not* occur when less than *F* drives are destroyed per vdev.
+
+Assume 1 drive is picked from the first vdev and the remaining *F* - 1 = *r* drives are picked from the remaining vdevs. From *D*, pick *r* drives:
+
+*D*!/(*r*!(*D* - *r*)!)
+
+Because that combination occurs for every drive in D, multiply by D!
