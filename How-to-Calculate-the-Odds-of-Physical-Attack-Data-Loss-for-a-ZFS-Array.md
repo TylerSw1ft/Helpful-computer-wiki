@@ -122,7 +122,7 @@ Since this is possible for all drives in the array, multiply by *N*:
 
 ***N*(*V* - 1)!/(*V* - 2)!**
 
-## Mirror, where *F* = 3
+## Mirror, where *F* = 3, *V* ≥ 3
 
 While the previous computation is interesting, it's limited in its potential for comparison as RAIDZ2 vdevs are invulnerable to data loss from the destruction of 2 drives. Therefore, the additional case of 3 drives being destroyed is considered.
 
@@ -132,3 +132,14 @@ Data loss will occur if 1 vdev has both its drives destroyed and 1 other vdev ha
 
 4*V*!/(2!(*V* - 2)!) = **2*V*!/(*V* - 2)!**
 
+### Calculating *I*
+
+Data loss will not occur if each vdev has only 1 drive destroyed. The number of tuples consisting of 1 drive from each vdev is:
+
+*D*^*F* = 8
+
+Since *D* is always 2 for mirrors and *F* is 3.
+
+This is true for every combination of 3 vdevs selected for the array, and so:
+
+**8(*V*!/(3!(*V* - 3)!)**
