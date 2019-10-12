@@ -23,6 +23,7 @@ Organized Alphabetically:
       * [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/wiki/Dell-XPS-8500-Special-Edition-Storage-Reconfiguration)
       * [Dell Inspiron 560](https://github.com/jdrch/Hardware/wiki/Dell-Inspiron-560-Storage-Reconfiguration)
     * [Setup OpenIndiana on Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/wiki/Setup-OpenIndiana-on-Dell-OptiPlex-390-MT)
+* [Troubleshooting](https://github.com/jdrch/Hardware/wiki/Troubleshooting)
 * [Useful Links](https://github.com/jdrch/Hardware/wiki/Useful-Links)
 
 
