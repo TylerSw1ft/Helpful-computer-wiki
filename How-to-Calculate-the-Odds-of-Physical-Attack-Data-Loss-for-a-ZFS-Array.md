@@ -7,7 +7,7 @@ Note: This method should be generalizable to other array and filesystem types. T
 
 # Problem Statement
 
-Consider a ZFS array with a given redundancy level, *r*. Assume a physical attacker with no knowledge of the array's configuration destroys *r* + 1 (the minimum number of destroyed drives necessary to result in data loss) drives. What is the probability *P* that said destruction actually results in data loss?
+Consider a ZFS array of identical vdevs with a given redundancy level, *r*. Assume a physical attacker with no knowledge of the array's configuration destroys *r* + 1 (the minimum number of destroyed drives necessary to result in data loss) drives. What is the probability *P* that said destruction actually results in data loss?
 
 # Independence of Problem from Drive Specs and Reliability
 
