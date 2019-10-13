@@ -14,3 +14,13 @@
 
 It should now boot.
 
+## Bluetooth keeps turning off
+
+* Search from the Start menu and run **Find and fix problems with Bluetooth devices**
+* Open **Device Manager**
+* Expand **Bluetooth**
+* Right-click on the wireless NIC
+* Click **Properties**
+* Click the **Power Management** tab
+* Ensure **Allow the computer to turn off this device to save power** is unchecked
+
