@@ -9,3 +9,5 @@ Things you need to protect the drive against:
 BTW, you can take care of all the above by just leaving it running (while minimizing power cycling and not spinning down) in an enclosure or (safely located) dock. All my HDDs are always running for this reason.
 
 Either of the above options should give your HDD effectively infinite life.
+
+Source: https://www.reddit.com/r/DataHoarder/comments/cmdcw8/what_is_an_ideal_inhome_environment_to_prolong/ew4o3wc/
