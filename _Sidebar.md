@@ -12,6 +12,7 @@ Organized Alphabetically:
   * [How to Calculate the Odds of Physical Attack Data Loss for a ZFS Array](https://github.com/jdrch/Hardware/wiki/How-to-Calculate-the-Odds-of-Physical-Attack-Data-Loss-for-a-ZFS-Array)
   * [How to Configure a Samba Server](https://github.com/jdrch/Hardware/wiki/How-To-Configure-a-Samba-Server)
   * [How to Install Pycharm on Debian from the JetBrains script](https://github.com/jdrch/Hardware/wiki/How-to-Install-Pycharm-on-Debian-from-the-JetBrains-script)
+  * [How to Store HDDs Long Term](https://github.com/jdrch/Hardware/wiki/How-to-Store-HDDs-Long-Term)
   * [How to Update dnscrypt proxy in Debian with Minimal Downtime](https://github.com/jdrch/Hardware/wiki/How-to-Update-dnscrypt-proxy-in-Debian-with-Minimal-Downtime)
 * Projects
   * Current
