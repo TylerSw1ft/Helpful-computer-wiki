@@ -95,6 +95,14 @@ https://www.smartmontools.org/wiki/TocDoc
 
 [How to create a new systemd service](https://www.redhat.com/sysadmin/replacing-rclocal-systemd)
 
+# Veeam
+
+## Agent
+
+### for Linux FREE
+
+[System Requirements](https://helpcenter.veeam.com/docs/agentforlinux/userguide/system_requirements.html?ver=30)
+
 # Volume Shadow Copy
 
 * [How to set it up](http://itsimple.info/?p=258)
@@ -104,12 +112,7 @@ https://www.smartmontools.org/wiki/TocDoc
 
 * [Quickstart (See Steps 3 to 6)](https://github.com/project-trident/trident-docs/blob/master/restic.md)
 
-## RAIDZ*x* vs. mirroring resilience to *F* drive destruction
-
-* https://www.mathsisfun.com/combinatorics/combinations-permutations.html
-* https://www.reddit.com/r/zfs/comments/df8c1i/help_calculating_the_relative_probability_of_data/f31ox2n/
-* https://www.wolframalpha.com/input/?i=3%3D%282n-6%29%28%28n%5E2%29-n%29%2F%284%28n-1%29%28n-2%29%29
-* https://www.desmos.com/calculator/z4ltvxwe0s
+## [RAIDZ*x* vs. mirroring resilience to *F* drive destruction](https://github.com/jdrch/Hardware/wiki/How-to-Calculate-the-Odds-of-Physical-Attack-Data-Loss-for-a-ZFS-Array)
 
 # `zfsnap`
 
