@@ -87,7 +87,6 @@ Run:
 
 # `restic`
 
-* [How to set it up (written for Project Trident, but generally applicable)](https://github.com/project-trident/trident-docs/blob/master/restic.md)
 * [Including and excluding files](https://restic.readthedocs.io/en/latest/040_backup.html#including-and-excluding-files)
 * [Scripting](https://restic.readthedocs.io/en/latest/075_scripting.html)
 
@@ -114,10 +113,6 @@ https://www.smartmontools.org/wiki/TocDoc
 
 # ZFS 
 
-* [Quickstart (See Steps 3 to 6)](https://github.com/project-trident/trident-docs/blob/master/restic.md)
+* [Quickstart (See Steps 3 to 6)](https://github.com/jdrch/Hardware/wiki/How-to-Set-Up-Regular,-Recurring,-Recursive,-Incremental,-Online,-In-Place-Filesystem-Backups-Using-zfsnap)
 
 ## [RAIDZ*x* vs. mirroring resilience to *F* drive destruction](https://github.com/jdrch/Hardware/wiki/How-to-Calculate-the-Odds-of-Physical-Attack-Data-Loss-for-a-ZFS-Array)
-
-# `zfsnap`
-
-* [How to set it up](https://github.com/project-trident/trident-docs/blob/master/zfssnap.md)
