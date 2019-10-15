@@ -49,7 +49,7 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # OpenRC
 
-My advice with OpenRC is to interact with it only:
+My OpenRC advice is to interact with it only:
 
 1. For apps included in your distribution base
 2. For apps that explicitly support it
@@ -57,7 +57,7 @@ My advice with OpenRC is to interact with it only:
 
 ## Converting between OpenRC and rc.d
 
-* [OpenRC vs rc.dCompare and contrast (PDF warning)](http://www.wonkity.com/~wblock/openrc/OpenRC_rc.d.pdf)
+* [OpenRC vs rc.d Compare and contrast (PDF warning)](http://www.wonkity.com/~wblock/openrc/OpenRC_rc.d.pdf)
 * [Gentoo OpenRC to systemd Cheatsheet](https://wiki.gentoo.org/wiki/OpenRC_to_systemd_Cheatsheet)
 * [Gentoo Comparison of init systems](https://wiki.gentoo.org/wiki/Comparison_of_init_systems)
 
@@ -115,4 +115,4 @@ https://www.smartmontools.org/wiki/TocDoc
 
 * [Quickstart (See Steps 3 to 6)](https://github.com/jdrch/Hardware/wiki/How-to-Set-Up-Regular,-Recurring,-Recursive,-Incremental,-Online,-In-Place-Filesystem-Backups-Using-zfsnap)
 
-## [RAIDZ*x* vs. mirroring resilience to *F* drive destruction](https://github.com/jdrch/Hardware/wiki/How-to-Calculate-the-Odds-of-Physical-Attack-Data-Loss-for-a-ZFS-Array)
+## [RAIDZ*x* vs. Mirroring Resilience to *F* Drive Destruction](https://github.com/jdrch/Hardware/wiki/How-to-Calculate-the-Odds-of-Physical-Attack-Data-Loss-for-a-ZFS-Array)
