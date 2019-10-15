@@ -13,6 +13,7 @@ Organized Alphabetically:
   * [How to Configure a Samba Server](https://github.com/jdrch/Hardware/wiki/How-To-Configure-a-Samba-Server)
   * [How to Install Pycharm on Debian from the JetBrains script](https://github.com/jdrch/Hardware/wiki/How-to-Install-Pycharm-on-Debian-from-the-JetBrains-script)
   * [How to Set Up Regular, Recurring, Incremental, Online Filesystem Backups using Restic](https://github.com/jdrch/Hardware/wiki/How-to-Set-Up-Regular,-Recurring,-Incremental,-Online-Filesystem-Backups-using-Restic)
+  * [How to Set Up Regular, Recurring, Recursive, Incremental, Online, In Place Filesystem Backups Using zfsnap](https://github.com/jdrch/Hardware/wiki/How-to-Set-Up-Regular,-Recurring,-Recursive,-Incremental,-Online,-In-Place-Filesystem-Backups-Using-zfsnap)
   * [How to Store HDDs Long Term](https://github.com/jdrch/Hardware/wiki/How-to-Store-HDDs-Long-Term)
   * [How to Update dnscrypt proxy in Debian with Minimal Downtime](https://github.com/jdrch/Hardware/wiki/How-to-Update-dnscrypt-proxy-in-Debian-with-Minimal-Downtime)
 * Projects
