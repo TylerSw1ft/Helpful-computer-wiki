@@ -84,6 +84,7 @@ Run:
 * [Explanation of parity and redundancy levels](http://www.raid-calculator.com/raid-types-reference.aspx)
 * [Drive count vs. drive capacity vs. redundancy level vs. time reliability chart](https://www.reddit.com/r/synology/comments/6fld1a/comparison_of_reliability_among_different_raid/)
 * [Reliability calculator](https://wintelguy.com/raidmttdl.pl)
+* [Performance calculator](https://blog.storagecraft.com/raid-performance/)
 
 # `restic`
 
