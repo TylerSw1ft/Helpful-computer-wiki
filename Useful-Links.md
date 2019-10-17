@@ -1,3 +1,9 @@
+# Backup
+
+## Strategy
+
+[3-2-1](https://www.reddit.com/r/DataHoarder/wiki/backups#wiki_the_3-2-1_strategy)
+
 # Btrfs
 
 [Cheatsheet](https://blog.programster.org/btrfs-cheatsheet)
