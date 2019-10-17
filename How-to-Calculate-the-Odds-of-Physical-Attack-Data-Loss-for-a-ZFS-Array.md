@@ -130,7 +130,7 @@ While the previous computation is interesting, it's limited in its potential for
 
 Data loss will occur if 1 vdev has both its drives destroyed and 1 other vdev has only 1 drive destroyed. There are 4 possible states of this per pair of vdevs, and so:
 
-4*V*!/(2!(*V* - 2)!) = **2(*V*!/(*V* - 2)!)**
+4(*V*!/(2!(*V* - 2)!)) = **2(*V*!/(*V* - 2)!)**
 
 ### Calculating *I*
 
