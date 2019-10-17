@@ -8,7 +8,7 @@ Organized Alphabetically:
 * Guides
   * [Disk Encryption Options](https://github.com/jdrch/Hardware/wiki/Disk-Encryption-Options)
   * [How Much Raw Storage You'll Need for RAID](https://github.com/jdrch/Hardware/wiki/How-Much-Raw-Storage-You'll-Need-for-RAID)
-  * [How Often You Can Scrub HDDs without Reducing Their Lifespan](https://github.com/jdrch/Hardware/wiki/How-Often-You-Can-Scrub-HDDs-without-Reducing-Their-Lifespan)
+  * [How Often Arrays Can Be Scrubbed Without Reducing HDD Life](https://github.com/jdrch/Hardware/wiki/How-Often-Arrays-Can-Be-Scrubbed-Without-Reducing-HDD-Life)
   * [How to Calculate the Odds of Physical Attack Data Loss for a ZFS Array](https://github.com/jdrch/Hardware/wiki/How-to-Calculate-the-Odds-of-Physical-Attack-Data-Loss-for-a-ZFS-Array)
   * [How to Configure a Samba Server](https://github.com/jdrch/Hardware/wiki/How-To-Configure-a-Samba-Server)
   * [How to Generate an Affordable Server or NAS Parts List](https://github.com/jdrch/Hardware/wiki/How-to-Generate-an-Affordable-Server-or-NAS-Parts-List)
