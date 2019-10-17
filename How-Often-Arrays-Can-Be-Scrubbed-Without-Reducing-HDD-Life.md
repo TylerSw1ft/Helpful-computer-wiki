@@ -65,3 +65,5 @@ Solving the above for `MinimumWeeksBetweenScrubs`:
 `MinimumWeeksBetweenScrubs=SourceDatasetSize/(WeeklyWorkloadRating-WeeklySourceDatasetChange)`
 
 This latter value does *NOT* imply only 1 snapshot per week. Rather, it describes the maximum amount of changed data per week any number of snapshots decided on can cover without exceeding the drive's workload rating.
+
+Source: https://www.reddit.com/r/DataHoarder/comments/cjhwbo/method_to_determine_how_many_scrubs_hdds_without/
