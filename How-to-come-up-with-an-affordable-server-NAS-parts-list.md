@@ -8,7 +8,7 @@ I've seen a lot of posts lately asking about server builds, so I figured I'd chi
 
 Also, it's for dumb (read: not necessarily high compute capable) *storage*/*backup* servers, preferably running some kind of resilient file system such as ZFS, Btrfs, or ReFS + SS that doesn't need its own controller card. No consideration will be given to CPU Plex transcoding; get a Plex Pass and use a GPU for that if you're really serious about it. Or set your client devices and network up to receive pass-through (unmodified, nontranscoded) streams.
 
-# IMPORTANT: If you're building a compute server, modify the instructions below by choosing the CPU 1st, then storage needs 2nd, then case that matches both, then motherboard. 
+**IMPORTANT: If you're building a compute server, modify the instructions below by choosing the CPU 1st, then storage needs 2nd, then case that matches both, then motherboard.**
 
 Ready? Let's go!
 
@@ -42,3 +42,5 @@ And that's it. Now, I will caution that PCPartPicker excludes a lot of actual se
 Put all the parts together and build.
 
 Original comment and thread that inspired this is [here](https://www.reddit.com/r/homelab/comments/cn9lf8/how_to_build_a_server/ewcn7zz/).
+
+Source: https://www.reddit.com/r/DataHoarder/comments/cp86qt/how_to_come_up_with_an_affordable_servernas_parts/
