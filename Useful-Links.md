@@ -35,6 +35,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [What HTML tags are allowed within comments](https://help.disqus.com/en/articles/1717235-what-html-tags-are-allowed-within-comments)
 
+# Github
+
+[Creating releases](https://help.github.com/en/articles/creating-releases)
+
 # LTO-8 
 
 * [Backwards compatibility](https://www.lto.org/solutions/benefits/compatibility/)
