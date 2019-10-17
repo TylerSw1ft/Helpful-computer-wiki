@@ -110,7 +110,7 @@ Data loss occurs whenever *F* drives from any vdev are destroyed. For mirrors, *
 
 Because only 1 vdev needs to be destroyed:
 
-***V*!/(*V* - 1)!**
+***L* = *V*!/(*V* - 1)!**
 
 ### Calculating *I*
 
@@ -120,7 +120,7 @@ Data loss will not occur if 2 vdevs each have 1 drive destroyed. This is equival
 
 Since this is possible for all drives in the array, multiply by *N*:
 
-***N*(*V* - 1)!/(*V* - 2)!**
+***I* = *N*(*V* - 1)!/(*V* - 2)!**
 
 ## Mirror, where *F* = 3, *V* ≥ 3
 
@@ -130,7 +130,7 @@ While the previous computation is interesting, it's limited in its potential for
 
 Data loss will occur if 1 vdev has both its drives destroyed and 1 other vdev has only 1 drive destroyed. There are 4 possible states of this per pair of vdevs, and so:
 
-4(*V*!/(2!(*V* - 2)!)) = **2(*V*!/(*V* - 2)!)**
+4(*V*!/(2!(*V* - 2)!)) = ***L* = 2(*V*!/(*V* - 2)!)**
 
 ### Calculating *I*
 
@@ -142,4 +142,4 @@ Since *D* is always 2 for mirrors and *F* is 3.
 
 This is true for every combination of 3 vdevs selected for the array, and so:
 
-**8(*V*!/(3!(*V* - 3)!)**
+***I* = 8(*V*!/(3!(*V* - 3)!)**
