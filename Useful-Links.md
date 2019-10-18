@@ -4,7 +4,14 @@
 
 ### Minimum Width
 
-[Convert dp units to pixel units](https://developer.android.com/training/multiscreen/screendensities.html#dips-pels)
+#### [Convert dp units to pixel units](https://developer.android.com/training/multiscreen/screendensities.html#dips-pels)
+
+`px = dp * (dpi / 160)`
+
+`dp = px/dpi/160`
+
+* Use [DisplayInfo](https://play.google.com/store/apps/details?id=it.gerdavax.displayinfo) to find `dpi`
+* `px` is display horizontal resolution
 
 # Backup
 
