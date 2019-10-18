@@ -1,3 +1,11 @@
+# Android
+
+## Developer Options
+
+### Minimum Width
+
+[Convert dp units to pixel units](https://developer.android.com/training/multiscreen/screendensities.html#dips-pels)
+
 # Backup
 
 ## Strategy
