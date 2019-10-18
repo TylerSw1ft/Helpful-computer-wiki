@@ -110,6 +110,13 @@ Run:
 
 `pip3 install -U pip`
 
+# PSUs
+
+## Modular
+
+* [Cables cannot be reliably mixed](https://www.gamersnexus.net/guides/2702-psa-on-mixing-modular-psu-cables-dont-do-it)
+* [Why cables cannot be reliably mixed](https://forums.evga.com/FindPost/2646323)
+
 # RAID
 
 * [Explanation of parity and redundancy levels](http://www.raid-calculator.com/raid-types-reference.aspx)
