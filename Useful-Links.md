@@ -66,6 +66,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [Creating releases](https://help.github.com/en/articles/creating-releases)
 
+# ISA
+
+[The final ISA showdown: Is ARM, x86, or MIPS intrinsically more power efficient?](https://www.extremetech.com/extreme/188396-the-final-isa-showdown-is-arm-x86-or-mips-intrinsically-more-power-efficient/3) Answer: power efficiency is largely independent of ISA
+
 # LTO-8 
 
 * [Backwards compatibility](https://www.lto.org/solutions/benefits/compatibility/)
