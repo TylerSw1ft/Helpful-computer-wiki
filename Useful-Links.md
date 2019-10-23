@@ -79,10 +79,7 @@ Pretty much anything that requires `sudo` needs to be put here:
 # LTO-8 
 
 * [Backwards compatibility](https://www.lto.org/solutions/benefits/compatibility/)
-* [Internal drives](https://iq.quantum.com/exLink.asp?10444458OP44N16I37407297&view=1)
-  * Recommended models:
-    * TC-L82AN-EY
-    * TC-L82AN-BR
+* [Recommended models](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#internal)
 
 # `nano`
 
