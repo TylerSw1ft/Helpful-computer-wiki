@@ -11,3 +11,17 @@ In order of increasing performance and client density:
 * [Ubiquiti UniFi AP HD](https://www.ubnt.com/downloads/datasheets/unifi/UniFi_UAP-AC-HD_DS.pdf)
 * [Ubiquiti UniFi AP SHD](https://dl.ubnt.com/datasheets/unifi/UniFi_UAP-AC-SHD_DS.pdf)
 * [Ubiquiti UniFi AP XG](https://dl.ubnt.com/datasheets/unifi/UniFi_XG_AP_DS.pdf)
+
+# Storage
+
+## Tape
+
+### LTO-8
+
+#### Drives
+
+##### Internal
+
+[Quantum LTO Drives](https://iq.quantum.com/exLink.asp?10444458OP44N16I37407297&view=1)
+* TC-L82AN-EY
+* TC-L82AN-BR
