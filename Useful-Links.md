@@ -165,5 +165,5 @@ https://www.smartmontools.org/wiki/TocDoc
 
 * [Performance, Part 1](https://www.ixsystems.com/blog/zfs-pool-performance-1/)
 * [Performance, Part 2](https://www.ixsystems.com/blog/zfs-pool-performance-2/)
-* [Quickstart (See Steps 3 to 6)](https://github.com/jdrch/Hardware/wiki/How-to-Set-Up-Regular,-Recurring,-Recursive,-Incremental,-Online,-In-Place-Filesystem-Backups-Using-zfsnap)
+* [Quickstart (See Steps 3 to 6)](https://github.com/jdrch/Hardware/wiki/How-to-Set-Up-Regular,-Recurring,-Incremental,-Online-Filesystem-Backups-using-Restic)
 * [RAIDZ*x* vs. mirroring resilience to *F* drive destruction](https://github.com/jdrch/Hardware/wiki/How-to-Calculate-the-Odds-of-Physical-Attack-Data-Loss-for-a-ZFS-Array)
