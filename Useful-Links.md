@@ -140,6 +140,10 @@ Run:
 * [Including and excluding files](https://restic.readthedocs.io/en/latest/040_backup.html#including-and-excluding-files)
 * [Scripting](https://restic.readthedocs.io/en/latest/075_scripting.html)
 
+# S.M.A.R.T.
+
+[ATA S.M.A.R.T. attributes](https://en.wikipedia.org/wiki/S.M.A.R.T.#ATA_S.M.A.R.T._attributes)
+
 # smartmontools
 
 https://www.smartmontools.org/wiki/TocDoc
