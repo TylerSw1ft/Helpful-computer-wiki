@@ -33,3 +33,14 @@ In order of increasing performance and client density:
 [Quantum LTO Drives](https://iq.quantum.com/exLink.asp?10444458OP44N16I37407297&view=1)
 * TC-L82AN-EY
 * TC-L82AN-BR
+
+# UPS
+
+## Sine Wave
+
+* CyberPower
+  * [PFC Sinewave](https://www.cyberpowersystems.com/products/ups/pfc-sinewave/)
+  * [New SmartApp Sinewave](https://www.cyberpowersystems.com/products/ups/new-smart-app-sinewave/)
+* APC
+  * [Back UPS PRO BR SineWave](https://www.apc.com/shop/us/en/categories/power/uninterruptible-power-supply-ups-/computer-and-peripheral/back-ups-pro/N-1itz49c) (search that page for "SineWave" as APC doesn't breakout sine wave UPS units)
+* [Tripp-Lite](https://www.tripplite.com/products/ups-battery-backup~11) (search that page for "Sine" as Tripp-Lite doesn't breakout sine wave units)
