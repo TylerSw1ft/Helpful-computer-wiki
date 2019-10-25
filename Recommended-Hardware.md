@@ -1,10 +1,46 @@
 # Cases/Chassis
 
-## Server
+## Tower
 
-### Rackmount
+### Full
+
+#### No Tempered Glass
+
+[Phanteks Enthoo Pro](http://www.phanteks.com/Enthoo-Pro.html)
+
+#### Tempered Glass
+
+[Phanteks Enthoo Pro Tempered Glass](http://www.phanteks.com/Enthoo-Pro-TemperedGlass.html)
+
+## Rackmount
 
 [Rosewill RSV-4015L – 4U Rackmount with 8 Cooling Fans, 15 Internal Bays](https://www.rosewill.com/product/rsv-4015l-4u-rackmount-with-8-cooling-fans-15-internal-bays/)
+
+# Computers
+
+## Specifications
+
+### New
+
+1. CPU: ≥ 4C/8T for mainstream use, ≥ 6C/12T for gaming
+2. RAM: Max supported RAM ≥ 16 GB
+3. LAN: ≥ 1000BASE-T Ethernet
+4. Bluetooth: ≥ 5.0
+5. Wi-Fi: ≥ 2x2 802.11ac
+6. USB: ≥ USB 3.1 Gen 1
+7. Storage: NVMe SSD at the least
+8. GPU/video out: HDMI ≥ 1.4 or DisplayPort ≥ 1.2
+9. Display: 1080p
+
+### Used
+
+1. CPU: ≥ 2C/4T. Must be covered by Intel speculative execution security patches 
+2. RAM: Max supported RAM ≥ 8 GB
+3. USB: ≥ USB 2.0
+4. Storage: Available port for SATA SSD
+5. GPU/video out: ≥ HDMI
+6. Display: ≥ 768p
+7. LAN: ≥ 1000BASE-T Ethernet
 
 # Networking
 
