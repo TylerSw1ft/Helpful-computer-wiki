@@ -4,15 +4,17 @@
 
 [Rosewill RSV-4015L – 4U Rackmount with 8 Cooling Fans, 15 Internal Bays](https://www.rosewill.com/product/rsv-4015l-4u-rackmount-with-8-cooling-fans-15-internal-bays/)
 
-## Tower
+## Desktop
 
-### Full
+### Tower
 
-#### No Tempered Glass
+#### Full
+
+##### No Tempered Glass
 
 [Phanteks Enthoo Pro](http://www.phanteks.com/Enthoo-Pro.html)
 
-#### Tempered Glass
+##### Tempered Glass
 
 [Phanteks Enthoo Pro Tempered Glass](http://www.phanteks.com/Enthoo-Pro-TemperedGlass.html)
 
