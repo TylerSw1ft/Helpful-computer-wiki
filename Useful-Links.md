@@ -45,6 +45,10 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 
 `@monthly btrfs scrub start /path/to/Btrfs/filessystem`
 
+# CLIs vs. GUIs
+
+[Most system administrators prefer firewall GUIs over CLIs](https://www.zdnet.com/article/most-system-administrators-prefer-firewall-guis-over-clis/)
+
 # Cockpit
 
 * [Installation on Debian and Ubuntu](https://computingforgeeks.com/how-to-install-cockpit-on-ubuntu-18-04-debian-9/)
