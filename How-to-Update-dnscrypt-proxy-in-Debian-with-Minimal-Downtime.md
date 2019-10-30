@@ -1,7 +1,7 @@
 1. Start your preferred GUI file manager with `sudo`, e.g. `sudo krusader` on Debian or `sudo pcmanfm` on Raspbian.
 2. Download the new version's `linux_Platform-VersionNumber.tar.gz` archive
 3. Extract the archive
-4. Use the GUI file manager to transfer it to `/opt`
+4. Use the GUI file manager to transfer the extracted files to `/opt`
 5. Copy the current dnscrypt-proxy folder into an \*`-old` folder
 6. Navigate to `/opt` in the terminal using `cd /opt/dnscrypt-proxy`
 7. Stop the `dnscrypt-proxy` service in the terminal using `sudo ./dnscrypt-proxy -service stop`
