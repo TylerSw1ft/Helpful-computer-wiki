@@ -5,6 +5,7 @@ Organized Alphabetically:
   * [Why US Buyers Should Purchase Datacenter HDDs instead of NAS HDDs](https://github.com/jdrch/Hardware/wiki/Why-US-Buyers-Should-Purchase-Datacenter-HDDs-instead-of-NAS-HDDs)
   * [Why You Should Separate Compute and Backup Workloads](https://github.com/jdrch/Hardware/wiki/Why-You-Should-Separate-Compute-and-Backup-Workloads)
   * [Why You Shouldn't Stress Test HDDs Unless You're Trying to Maximize Uptime](https://github.com/jdrch/Hardware/wiki/Why-You-Shouldn't-Stress-Test-HDDs-Unless-You're-Trying-to-Maximize-Uptime)
+  * [Why You Shouldn't Use Most Premade NAS Solutions](https://github.com/jdrch/Hardware/wiki/Why-You-Shouldn't-Use-Most-Premade-NAS-Solutions)
 * Guides
   * [Disk Encryption Options](https://github.com/jdrch/Hardware/wiki/Disk-Encryption-Options)
   * [How Much Raw Storage You'll Need for RAID](https://github.com/jdrch/Hardware/wiki/How-Much-Raw-Storage-You'll-Need-for-RAID)
