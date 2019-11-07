@@ -54,6 +54,10 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 * [Installation on Debian and Ubuntu](https://computingforgeeks.com/how-to-install-cockpit-on-ubuntu-18-04-debian-9/)
 * [Setting it up to start on boot](https://cockpit-project.org/guide/latest/startup.html#startup-boot)
 
+# cron
+
+[How to Schedule and Automate tasks in Linux using Cron Jobs](https://www.linuxtechi.com/schedule-automate-tasks-linux-cron-jobs/)
+
 # crontab
 
 ## How to edit the root crontab in Debian
