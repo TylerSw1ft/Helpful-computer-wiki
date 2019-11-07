@@ -1,0 +1,3 @@
+Simply put, their security is terrible. For example, [as of 2019-07-25, Synology had 15 disclosed, unpatched vulnerabilities in the previous 12 months](https://www.reddit.com/r/homelab/comments/ch93vf/synology_equivalent/euvvz3y/). QNAP, the other premade NAS market leader, isn't actually worse.
+
+The best NAS solution is to use a 3rd party OS that's actively developed and aggressively patched on commodity hardware.
