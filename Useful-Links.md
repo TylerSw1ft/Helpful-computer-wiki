@@ -53,6 +53,9 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 
 * [Installation on Debian and Ubuntu](https://computingforgeeks.com/how-to-install-cockpit-on-ubuntu-18-04-debian-9/)
 * [Setting it up to start on boot](https://cockpit-project.org/guide/latest/startup.html#startup-boot)
+* [Cockpit and the evolution of the Web User Interface](https://fedoramagazine.org/cockpit-and-the-evolution-of-the-web-user-interface/)
+* [Performing storage management tasks in Cockpit](https://fedoramagazine.org/performing-storage-management-tasks-in-cockpit/)
+* [Managing software and services with Cockpit](https://fedoramagazine.org/managing-software-and-services-with-cockpit/)
 
 # cron
 
