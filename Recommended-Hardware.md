@@ -46,7 +46,7 @@
 
 # Docks
 
-# USB 3.1 Gen 1+
+## USB 3.1 Gen 1+
 
 [StarTech HDD Docking Stations](https://www.startech.com/HDD/Docking/?filter_IOINTERFACE=USB+3.1+Gen+2)
 
