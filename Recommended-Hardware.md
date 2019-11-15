@@ -44,6 +44,12 @@
 6. Display: ≥ 768p
 7. LAN: ≥ 1000BASE-T Ethernet
 
+# Docks
+
+# USB 3.1 Gen 1+
+
+[StarTech HDD Docking Stations](https://www.startech.com/HDD/Docking/?filter_IOINTERFACE=USB+3.1+Gen+2)
+
 # Networking
 
 ## Wireless 
