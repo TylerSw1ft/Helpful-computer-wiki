@@ -1,3 +1,5 @@
+# PSA: The lack of Resilio Sync and web administration support for OpenIndiana puts this project in a very doubtful state. I'm not sure working around those gaps is worth the effort.
+
 # Documentation
 
 http://docs.openindiana.org/
