@@ -57,6 +57,16 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 * [Performing storage management tasks in Cockpit](https://fedoramagazine.org/performing-storage-management-tasks-in-cockpit/)
 * [Managing software and services with Cockpit](https://fedoramagazine.org/managing-software-and-services-with-cockpit/)
 
+# `cp` command
+
+[Syntax](https://www.computerhope.com/unix/ucp.htm)
+
+## How to copy new scripts to Termux script folder on Android:
+
+`cp /sdcard/SourceFolder/Script.sh ~/.termux/tasker/Script.sh`
+
+e.g. `cp /sdcard/Sync/Scripts/Bash/MoveFilesToSync.sh ~/.termux/tasker/MoveFilesToSync.sh`
+
 # cron
 
 [How to Schedule and Automate tasks in Linux using Cron Jobs](https://www.linuxtechi.com/schedule-automate-tasks-linux-cron-jobs/)
