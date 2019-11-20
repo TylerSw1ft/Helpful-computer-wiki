@@ -26,19 +26,19 @@ MacOS is a mixed source UNIX OS.
 
 # Non-certified, but "mostly POSIX-compliant" OSes
 
-## Current Generation (Free/DragonFly /Net/Open)BSD
+## Current Generation (Free/DragonFly /Net/Open)BSDs
 
-1. Each BSD uses an independently developed kernel
-2. There is no aim for binary compatibility among BSDs
-3. Uses the [BSD License](https://en.wikipedia.org/wiki/BSD_licenses)
+1. Each use an independently developed kernel
+2. Have no aim for binary compatibility among themselves
+3. Use the [BSD License](https://en.wikipedia.org/wiki/BSD_licenses)
 
 ## Linux Distributions (Distros)
 
-1. Each distro uses the centrally developed Linux kernel
-2. While each distro *may* modify the kernel for its own purposes, there is, by virtue of the common kernel:
+1. Each use the centrally developed Linux kernel
+2. *May* modify the kernel for their own purposes, but there is, by virtue of the common kernel:
    1. Binary (*not* necessarily package) compatibility among Linux distros on the same CPU architecture
    2. Feature parity among all kernels based on the same release
-3. Uses the [GNU General Public License (GPL)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+3. Each use the [GNU General Public License (GPL)](https://en.wikipedia.org/wiki/GNU_General_Public_License) for the kernel at the very least
 
 # Notes
 
