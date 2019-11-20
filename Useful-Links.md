@@ -13,6 +13,10 @@
 * Use [DisplayInfo](https://play.google.com/store/apps/details?id=it.gerdavax.displayinfo) to find `dpi`
 * `px` is display horizontal resolution
 
+# Device kernel updates
+
+[Android devices to not receive kernel version updates (see Paragraph 3)](https://arstechnica.com/gadgets/2019/11/google-outlines-plans-for-mainline-linux-kernel-support-in-android/)
+
 # Backup
 
 ## Strategy
