@@ -175,6 +175,10 @@ Run:
 
 [ATA S.M.A.R.T. attributes](https://en.wikipedia.org/wiki/S.M.A.R.T.#ATA_S.M.A.R.T._attributes)
 
+# Scripting (Linux)
+
+[How to make a script executable](https://stackoverflow.com/a/43530252/3754100): run `chmod +x <script-file-name-including-extension>`
+
 # smartmontools
 
 https://www.smartmontools.org/wiki/TocDoc
