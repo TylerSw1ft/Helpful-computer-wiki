@@ -6,7 +6,7 @@
 
 # Automatic Method
 
-1. Complete **Scripted Method** steps above
+1. Complete **Scripted Method** steps above to set up the script and ensure it works on your system
 2. Open the crontab editor with `sudo crontab -e`
 3. In the crontab editor that pops up, append a descriptive comment describing the entry, e.g. `# Daily dnscrypt-proxy update`
 4. Add a crontab entry that performs the update on the desired schedule, e.g. `@daily /opt/dnscrypt-proxy/dnscrypt-proxy-update.sh`. See [crontab syntax](https://github.com/jdrch/Hardware/wiki/Useful-Links#cron) for more scheduling options
