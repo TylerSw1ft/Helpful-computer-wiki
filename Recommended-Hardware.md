@@ -109,7 +109,7 @@ Unless you're using the SSD in an extremely write-heavy application (e.g. as an 
 
 ### NVMe
 
-Don't skimp on performance with NVMe.
+Don't skimp on performance with NVMe. Samsung is the fastest, highest endurance, and best supported on the market.
 
 [Samsung SSD 970 EVO Plus NVMe M.2](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1-tb-mz-v7s1t0b-am/)
 
