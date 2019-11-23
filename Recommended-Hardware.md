@@ -78,6 +78,41 @@ In order of increasing performance and client density:
 * TC-L82AN-EY
 * TC-L82AN-BR
 
+## HDDs
+
+Generally speaking, all HDDs that lack a workload rating have the same reliability. The only 2.5 in HDDs with workload ratings are ≥ 15 mm thick, which means they consume (nearly) as much space as a 3.5 in HDD. Also, I have no experience with the former. Ergo, they are omitted here.
+
+Western Digital's UltraStar DC HC550 *should* be recommendable, but it [lacks a spec sheet](https://www.reddit.com/r/hardware/comments/e0bkwe/no_datasheets_and_contradictory_product_brochures/).
+
+### 3.5 in
+
+* [Seagate Exos X Enterprise Hard Drives](https://www.seagate.com/enterprise-storage/exos-drives/exos-x-drives/)
+* Toshiba Enterprise Capacity Hard Drive – MG Series
+  * [US product page](https://toshiba.semicon-storage.com/us/product/storage-products/enterprise-hdd.html) (Limited US availability, especially for higher end models) 
+  * [EMEA product page](https://www.toshiba-storage.com/products/enterprise-capacity-hard-drive-mg-series/) with comprehensive [PDF spec sheet](https://www.toshiba-storage.com/wp-content/uploads/2019/09/TOSH_DS_MG_Series_print.pdf)
+* [WD Gold Enterprise Class SATA HDD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/product-brief-wd-gold-2579-810192.pdf)
+
+## SSDs
+
+### SATA
+
+Unless you're using the SSD in an extremely write-heavy application (e.g. as an array cache drive) or need > 2 TB of capacity, get the Crucial MX500.
+
+#### Performance & Endurance
+
+* [Samsung SSD 860 EVO 2.5" SATA III](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-2-5--sata-iii-2tb-mz-76e2t0b-am/)
+* [Samsung SSD 860 PRO 2.5" SATA III](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-pro-2-5--sata-iii-2tb-mz-76p2t0bw/)
+
+#### Value
+
+* [Crucial MX500 3D NAND SATA 2.5" 7mm (with 9.5mm adapter) Internal SSD](https://www.crucial.com/usa/en/ct2000mx500ssd1)
+
+### NVMe
+
+Don't skimp on performance with NVMe.
+
+[Samsung SSD 970 EVO Plus NVMe M.2](SSD 970 EVO Plus NVMe M.2)
+
 # UPS
 
 ## Sine Wave
