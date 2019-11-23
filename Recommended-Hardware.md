@@ -105,7 +105,7 @@ Unless you're using the SSD in an extremely write-heavy application (e.g. as an 
 
 #### Value
 
-* [Crucial MX500 3D NAND SATA 2.5" 7mm (with 9.5mm adapter) Internal SSD](https://www.crucial.com/usa/en/ct2000mx500ssd1)
+[Crucial MX500 3D NAND SATA 2.5" 7mm (with 9.5mm adapter) Internal SSD](https://www.crucial.com/usa/en/ct2000mx500ssd1)
 
 ### NVMe
 
