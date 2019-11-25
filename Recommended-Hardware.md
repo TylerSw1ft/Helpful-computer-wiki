@@ -32,7 +32,7 @@
 6. USB: ≥ USB 3.1 Gen 1
 7. Storage: NVMe SSD at the least
 8. GPU/video out: HDMI ≥ 1.4 or DisplayPort ≥ 1.2
-9. Display: 1080p
+9. Display: ≥ 1080p for < 17 in; ≥ 2160p for ≥ 17.3 in
 
 ### Used
 
