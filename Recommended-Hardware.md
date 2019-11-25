@@ -96,7 +96,7 @@ Western Digital's UltraStar DC HC550 *should* be recommendable, but it [lacks a 
 
 ### SATA
 
-Unless you're using the SSD in an extremely write-heavy application (e.g. as an array cache drive) or need >2 TB of capacity, get the Crucial MX500.
+Unless you're using the SSD in an extremely write-heavy application (e.g. as an array cache drive) or need > 2 TB of capacity, get the Crucial MX500.
 
 #### Performance & Endurance
 
