@@ -1,3 +1,9 @@
+# Debian 10.x
+
+## Cannot login via lock screen after monitor disconnect/reconnect while screen is locked
+
+The only way around this is to [reboot the machine](https://www.reddit.com/r/debian/comments/e1mmr2/kde_on_debian_102_dual_hdmi_vga_monitors_can_no/f8rjou5/).
+
 # Dell XPS 8500 Special Edition
 
 ## Won't Boot After Windows 10 Update
