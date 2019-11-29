@@ -106,6 +106,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 * [Backwards compatibility](https://www.lto.org/solutions/benefits/compatibility/)
 * [Recommended models](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#internal)
 
+# Microsoft Windows 10
+
+[How to perform a clean boot in Windows](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-boot-in-windows)
+
 # `nano`
 
 [Getting started](https://www.redhat.com/sysadmin/getting-started-nano)
