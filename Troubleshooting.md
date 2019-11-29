@@ -30,14 +30,7 @@ It should now boot.
 * Click the **Power Management** tab
 * Ensure **Allow the computer to turn off this device to save power** is unchecked
 
-# MobaXterm
-
-## Updating between Preview Edition versions
-
-* Run the installer 3 times to complete the installation
-* Do not delete the associated .dat file that comes with the installer until after the installation is complete
-
-# Windows 10
+# Microsoft Windows 10
 
 ## File Explorer
 
@@ -51,3 +44,10 @@ It should now boot.
 * Check all folders in which you keep personal files and media
 * Click **OK**
 * Reboot the PC
+
+# MobaXterm
+
+## Updating between Preview Edition versions
+
+* Run the installer 3 times to complete the installation
+* Do not delete the associated .dat file that comes with the installer until after the installation is complete
