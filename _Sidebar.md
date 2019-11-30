@@ -22,7 +22,7 @@ Organized Alphabetically:
 * Projects
   * Current
     * [Mixed Environment, Multilevel Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-(Windows,-Linux,-BSD)-Multilevel-Backup)
-      * [Disaster Recovery and Backups for Project Trident to non ZFS Repositories](https://github.com/jdrch/Hardware/wiki/Disaster-Recovery-and-Backups-for-Project-Trident-to-non-ZFS-Repositories)
+      * [Disaster Recovery and Backups for OpenRC BSDs to non ZFS Repositories](https://github.com/jdrch/Hardware/wiki/Disaster-Recovery-and-Backups-for-Project-Trident-to-non-ZFS-Repositories)
   * Future (in order of descending priority/implementation)
     * [Migrate Dell OptiPlex 390 SFF from Project Trident to GhostBSD](https://github.com/jdrch/Hardware/wiki/Migrate-Dell-OptiPlex-390-SFF-from-Project-Trident-to-GhostBSD)
     * [Update Firmware on Unused PCs](https://github.com/jdrch/Hardware/wiki/Update-Firmware-on-Unused-PCs)
