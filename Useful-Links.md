@@ -95,6 +95,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # GhostBSD
 
+## Mount (Debian 10.2+) NFSv4 share
+
+`sudo mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare LocalMountPath`
+
 ## Setup SSH server
 
 Run `sudo service sshd start` at the terminal.
