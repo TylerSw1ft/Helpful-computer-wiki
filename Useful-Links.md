@@ -95,9 +95,13 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # GhostBSD
 
+## Enable `sshd` at startup
+
+In terminal, run `sudo rc-update add sshd default`
+
 ## Mount (Debian 10.2+) NFSv4 share
 
-`sudo mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare LocalMountPath`
+In terminal, run `sudo mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare LocalMountPath`
 
 ## Setup SSH server
 
