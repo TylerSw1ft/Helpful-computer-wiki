@@ -58,6 +58,18 @@ Run `sudo service ntpdate restart` in the terminal. The [command might hang](htt
 * Click **OK**
 * Reboot the PC
 
+## Windows Update
+
+### Fails with error [0xC1900101](https://support.microsoft.com/en-us/help/10587/windows-10-get-help-with-upgrade-installation-errors)
+
+* Click **Start**
+* Search for "features"
+* Click on **Turn Windows features on or off**
+* In the ensuing list, uncheck **Windows Subsystem for Linux**
+* Reboot
+* [Clean boot Windows](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-boot-in-windows)
+* Go to Windows Update and re(download + install) the update
+
 # MobaXterm
 
 ## Updating between Preview Edition versions
