@@ -1,3 +1,10 @@
+# `dd`
+
+## Resolving the `Operation not permitted` error message
+
+1. In a terminal, enter `mount` to list all mounted filesystems
+2. Unmount all file systems on the physical device `dd` is to be run on
+
 # Debian 10.x
 
 ## Cannot login via lock screen after monitor disconnect/reconnect while screen is locked
