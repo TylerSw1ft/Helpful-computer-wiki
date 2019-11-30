@@ -30,6 +30,12 @@ It should now boot.
 * Click the **Power Management** tab
 * Ensure **Allow the computer to turn off this device to save power** is unchecked
 
+# GhostBSD
+
+## MATE clock is very wrong, no obvious way to force NTP update
+
+Run `sudo service ntpdate restart` in the terminal. The [command might hang](https://issues.ghostbsd.org/issues/125); if that happens, wait for the MATE clock to update (might be able to force this by locking the display) and then close the terminal window.
+
 # Microsoft Windows 10
 
 ## File Explorer
