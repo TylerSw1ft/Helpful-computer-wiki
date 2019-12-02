@@ -160,14 +160,16 @@ My OpenRC advice is to interact with it only:
 
 # OpenIndiana
 
-## Documentation
+## General documentation
 
 * [Oracle Solaris Information Library](https://docs.oracle.com/cd/E37838_01/)
 * [OpenIndiana Docs](http://docs.openindiana.org/)
 * [OpenIndiana Wiki](https://wiki.openindiana.org/)
 
-## [How to update packages](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
+## Packages and publishers (repositories)
 
+* [How to update packages](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
+* [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
 
 # `pip` for Python 3
 
