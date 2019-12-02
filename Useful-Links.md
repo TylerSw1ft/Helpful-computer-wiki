@@ -212,6 +212,10 @@ Run:
 
 https://www.smartmontools.org/wiki/TocDoc
 
+# SSDs
+
+[Endurance tests](https://techreport.com/review/27909/the-ssd-endurance-experiment-theyre-all-dead/)
+
 # systemd
 
 [How to create a new systemd service](https://www.redhat.com/sysadmin/replacing-rclocal-systemd)
