@@ -4,6 +4,7 @@
 
 1. In a terminal, enter `mount` to list all mounted filesystems
 2. Unmount all file systems on the physical device `dd` is to be run on
+3. If the above don't work, create an appropriate (based on target OS) partition table for the USB stick in GParted
 
 # Debian 10.x
 
@@ -76,3 +77,12 @@ Run `sudo service ntpdate restart` in the terminal. The [command might hang](htt
 
 * Run the installer 3 times to complete the installation
 * Do not delete the associated .dat file that comes with the installer until after the installation is complete
+
+# Pi-hole
+
+## Excessive DNS queries from clients
+
+On problematic clients, check for:
+
+* [TCP port exhaustion](https://www.reddit.com/r/pihole/comments/c2r6vc/anyone_else_seen_client_behavior_like_this_3m_dns/erm5ter/)
+* [Rogue services](https://www.reddit.com/r/pihole/comments/e2x046/excessive_requests_to_wwwmsftncsicom_from_a/f9hc83v/)
