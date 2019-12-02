@@ -16,7 +16,7 @@ http://docs.openindiana.org/
 
 ### Backup
 
-Borg Backup to ZFS pool
+Time Slider to ZFS pool
 
 # Synced Folder Access
 
