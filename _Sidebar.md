@@ -14,6 +14,7 @@ Organized Alphabetically:
   * [How to Configure a Samba Server](https://github.com/jdrch/Hardware/wiki/How-To-Configure-a-Samba-Server)
   * [How to Generate an Affordable Server or NAS Parts List](https://github.com/jdrch/Hardware/wiki/How-to-Generate-an-Affordable-Server-or-NAS-Parts-List)
   * [How to Get Your Home Wired for Ethernet](https://github.com/jdrch/Hardware/wiki/How-to-Get-Your-Home-Wired-For-Ethernet)
+  * [How to Install OpenIndiana](https://github.com/jdrch/Hardware/wiki/How-to-Install-OpenIndiana)
   * [How to Install Pycharm on Debian from the JetBrains script](https://github.com/jdrch/Hardware/wiki/How-to-Install-Pycharm-on-Debian-from-the-JetBrains-script)
   * [How to Set Up Regular, Recurring, Incremental, Online Filesystem Backups using Restic](https://github.com/jdrch/Hardware/wiki/How-to-Set-Up-Regular,-Recurring,-Incremental,-Online-Filesystem-Backups-using-Restic)
   * [How to Set Up Regular, Recurring, Recursive, Incremental, Online, In Place Filesystem Backups Using zfsnap](https://github.com/jdrch/Hardware/wiki/How-to-Set-Up-Regular,-Recurring,-Recursive,-Incremental,-Online,-In-Place-Filesystem-Backups-Using-zfsnap)
