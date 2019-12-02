@@ -7,6 +7,7 @@ Organized Alphabetically:
   * [Why You Shouldn't Stress Test HDDs Unless You're Trying to Maximize Uptime](https://github.com/jdrch/Hardware/wiki/Why-You-Shouldn't-Stress-Test-HDDs-Unless-You're-Trying-to-Maximize-Uptime)
   * [Why You Shouldn't Use Most Premade NAS Solutions](https://github.com/jdrch/Hardware/wiki/Why-You-Shouldn't-Use-Most-Premade-NAS-Solutions)
 * Guides
+  * [Disaster Recovery and Backups for OpenRC BSDs to non ZFS Repositories](https://github.com/jdrch/Hardware/wiki/Disaster-Recovery-and-Backups-for-OpenRC-BSDs-to-non-ZFS-Repositories)
   * [Disk Encryption Options](https://github.com/jdrch/Hardware/wiki/Disk-Encryption-Options)
   * [How Much Raw Storage You'll Need for RAID](https://github.com/jdrch/Hardware/wiki/How-Much-Raw-Storage-You'll-Need-for-RAID)
   * [How Often Arrays Can Be Scrubbed Without Reducing HDD Life](https://github.com/jdrch/Hardware/wiki/How-Often-Arrays-Can-Be-Scrubbed-Without-Reducing-HDD-Life)
@@ -22,8 +23,7 @@ Organized Alphabetically:
   * [How to Update dnscrypt proxy in Debian with Minimal Downtime](https://github.com/jdrch/Hardware/wiki/How-to-Update-dnscrypt-proxy-in-Debian-with-Minimal-Downtime)
 * Projects
   * Current
-    * [Mixed Environment, Multilevel Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-(Windows,-Linux,-BSD)-Multilevel-Backup)
-      * [Disaster Recovery and Backups for OpenRC BSDs to non ZFS Repositories](https://github.com/jdrch/Hardware/wiki/Disaster-Recovery-and-Backups-for-Project-Trident-to-non-ZFS-Repositories)
+    * [Mixed Environment, Multilevel Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-(Windows,-Linux,-BSD)-Multilevel-Backup)     
   * Future (in order of descending priority/implementation)
     * [Migrate Dell OptiPlex 390 SFF from Project Trident to GhostBSD](https://github.com/jdrch/Hardware/wiki/Migrate-Dell-OptiPlex-390-SFF-from-Project-Trident-to-GhostBSD)
     * [Update Firmware on Unused PCs](https://github.com/jdrch/Hardware/wiki/Update-Firmware-on-Unused-PCs)
@@ -34,6 +34,3 @@ Organized Alphabetically:
 * [Recommended Hardware](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware)
 * [Troubleshooting](https://github.com/jdrch/Hardware/wiki/Troubleshooting)
 * [Useful Links](https://github.com/jdrch/Hardware/wiki/Useful-Links)
-
-
-
