@@ -214,7 +214,7 @@ https://www.smartmontools.org/wiki/TocDoc
 
 # SSDs
 
-[Endurance tests](https://techreport.com/review/27909/the-ssd-endurance-experiment-theyre-all-dead/)
+[The SSD Endurance Experiment: They’re all dead](https://techreport.com/review/27909/the-ssd-endurance-experiment-theyre-all-dead/)
 
 # systemd
 
