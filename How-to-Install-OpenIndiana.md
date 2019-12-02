@@ -1,6 +1,6 @@
 1. Update the PC's BIOS to the latest version. Dell instructions are [here](https://github.com/jdrch/Hardware/wiki/Useful-Links#bios-updates-using-a-usb-stick)
 2. Download the OpenIndiana Live USB
-3. Write the OpenIndiana Live USB to disk (add link to Gparted USB disk formatting instructions) using:
+3. Write the OpenIndiana Live USB to disk ([Gparted manual](https://gparted.org/display-doc.php?name=help-manual)) using:
    `dd if=OpenIndianaLiveUSBFile of=/dev/USBDiskIdentifier`
 4. Enter the PC's BIOS
 5. Set boot mode to UEFI
