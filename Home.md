@@ -27,11 +27,7 @@ Organized Alphabetically:
   * Current
     * [Mixed Environment, Multilevel Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-(Windows,-Linux,-BSD)-Multilevel-Backup)
   * Future (in order of descending priority/implementation)
-    * [Migrate Dell OptiPlex 390 SFF from Project Trident to GhostBSD](https://github.com/jdrch/Hardware/wiki/Migrate-Dell-OptiPlex-390-SFF-from-Project-Trident-to-GhostBSD)
     * [Update Firmware on Unused PCs](https://github.com/jdrch/Hardware/wiki/Update-Firmware-on-Unused-PCs)
-    * Storage Reconfiguration
-      * [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/wiki/Dell-XPS-8500-Special-Edition-Storage-Reconfiguration)
-      * [Dell Inspiron 560](https://github.com/jdrch/Hardware/wiki/Dell-Inspiron-560-Storage-Reconfiguration)
     * [Setup OpenIndiana on Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/wiki/Setup-OpenIndiana-on-Dell-OptiPlex-390-MT)
 * [Recommended Hardware](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware)
 * [Troubleshooting](https://github.com/jdrch/Hardware/wiki/Troubleshooting)
