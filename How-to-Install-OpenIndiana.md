@@ -10,7 +10,7 @@
 9. Hit **Enter**
 10. When the OpenIndiana boot menu appears, hit **5**. All the options are explained [here](http://docs.openindiana.org/handbook/getting-started/)
 11. In the following menu, set `ACPI` and `Verbose` to `On`
-12. Hit *1* to return to the previous menu
+12. Hit **1** to return to the previous menu
 13. Hit **6** to `ChainLoad disk`*n*, where *n* is a whole number. This should cause the graphical live environment to boot
 14. When the live enviroment boots, double-click **Install OpenIndiana**
 15. When the installation is complete, reboot as suggested, while holding down the PC OEM's BIOS hotkey. This hotkey is F2 for the Dell OptiPlex 390 MT
