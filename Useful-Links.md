@@ -13,6 +13,10 @@
 * Use [DisplayInfo](https://play.google.com/store/apps/details?id=it.gerdavax.displayinfo) to find `dpi`
 * `px` is display horizontal resolution
 
+# Bash
+
+[How to check version](https://www.cyberciti.biz/faq/how-do-i-check-my-bash-version/)
+
 # Dell
 
 ## BIOS updates using a USB stick
