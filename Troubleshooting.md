@@ -78,6 +78,13 @@ Run `sudo service ntpdate restart` in the terminal. The [command might hang](htt
 * Run the installer 3 times to complete the installation
 * Do not delete the associated .dat file that comes with the installer until after the installation is complete
 
+# `ntp`
+
+## `dnscrypt-proxy`, etc. failing due to wrong time
+
+* https://www.reddit.com/r/raspberry_pi/comments/ae00gz/psa_if_you_run_pihole_or_dnscryptproxy_on_a_pi/?utm_medium=android_app&utm_source=share
+* https://github.com/DNSCrypt/dnscrypt-proxy/issues/1081
+
 # Pi-hole
 
 ## Excessive DNS queries from clients
