@@ -29,4 +29,4 @@ OpenIndiana does not have a Resilio Sync build, therefore might have to mount sh
 * [Setup manual](http://www.napp-it.org/doc/downloads/setup_napp-it_os.pdf)
 * [User manual](http://openzfs.hfg-gmuend.de/napp-it_manuals/napp-it.pdf)
 * [Tuning](https://napp-it.org/manuals/tuning_en.html)
-* [Installation instructions](https://napp-it.org/manuals/nas_en.html)
+* [Installation instructions](https://napp-it.org/manuals/nas_en.html) (see **Install napp-it/ setup your NAS ready to use**)
