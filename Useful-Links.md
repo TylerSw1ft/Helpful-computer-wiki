@@ -22,6 +22,10 @@
 * [How to check version](https://www.cyberciti.biz/faq/how-do-i-check-my-bash-version/)
 * [Writing Scripts on Linux using Bash](https://devconnected.com/writing-scripts-on-linux-using-bash/)
 
+# Computer Science
+
+[Ultimate physical limits to computation](https://arxiv.org/abs/quant-ph/9908043)
+
 # Dell
 
 ## BIOS updates using a USB stick
