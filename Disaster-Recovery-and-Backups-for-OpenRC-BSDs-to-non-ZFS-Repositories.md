@@ -1,3 +1,5 @@
+# UPDATE: Project Trident, referenced below, has since been replaced with GhostBSD on that particular machine. Since GhostBSD also uses OpenRC and has the same base Trident did at the time, it is reasonable to assume GhostBSD may suffer from limitations similar to those described below.
+
 # Preamble
 
 Yes, you can use `zfs send` and `zfs receive` for this. However, that requires having another, separate ZFS machine, which is expensive. OTOH, this method allows you to backup to any repository you have access to, regardless of filesystems.
