@@ -99,6 +99,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 `sudo crontab -u root -e`
 
+# Debian
+
+* [Don't Break Debian](https://wiki.debian.org/DontBreakDebian)
+
 # Disk Erasure
 
 ## Windows
