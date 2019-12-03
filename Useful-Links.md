@@ -148,6 +148,15 @@ Run `sudo service sshd start` at the terminal.
 
 [Getting started](https://www.redhat.com/sysadmin/getting-started-nano)
 
+# Napp-it
+
+* [Official Napp-it forum](https://forums.servethehome.com/index.php?forums/solaris-nexenta-openindiana-and-napp-it.26/)
+* [HardForum thread](https://hardforum.com/threads/opensolaris-derived-zfs-nas-san-omnios-openindiana-solaris-and-napp-it.1573272/)
+* [Setup manual](http://www.napp-it.org/doc/downloads/setup_napp-it_os.pdf)
+* [User manual](http://openzfs.hfg-gmuend.de/napp-it_manuals/napp-it.pdf)
+* [Tuning](https://napp-it.org/manuals/tuning_en.html)
+* [Installation instructions](https://napp-it.org/manuals/nas_en.html) (see **Install napp-it/ setup your NAS ready to use**)
+
 # OpenRC
 
 My OpenRC advice is to interact with it only:
