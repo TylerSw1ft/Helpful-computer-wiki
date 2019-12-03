@@ -113,6 +113,11 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [What HTML tags are allowed within comments](https://help.disqus.com/en/articles/1717235-what-html-tags-are-allowed-within-comments)
 
+# FuryBSD
+
+* [Installation](https://github.com/furybsd/furybsd-handbook/wiki/Installing-FuryBSD)
+* [Live USB creation](https://github.com/furybsd/furybsd-livecd/wiki)
+
 # GhostBSD
 
 ## Enable `sshd` at startup
