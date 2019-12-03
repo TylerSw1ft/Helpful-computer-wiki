@@ -114,6 +114,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [What HTML tags are allowed within comments](https://help.disqus.com/en/articles/1717235-what-html-tags-are-allowed-within-comments)
 
+# FreeBSD
+
+[FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
+
 # FuryBSD
 
 * [Installation](https://github.com/furybsd/furybsd-handbook/wiki/Installing-FuryBSD)
@@ -281,3 +285,13 @@ https://www.smartmontools.org/wiki/TocDoc
 * [Performance, Part 2](https://www.ixsystems.com/blog/zfs-pool-performance-2/)
 * [Quickstart (See Steps 3 to 6)](https://github.com/jdrch/Hardware/wiki/How-to-Set-Up-Regular,-Recurring,-Incremental,-Online-Filesystem-Backups-using-Restic)
 * [RAIDZ*x* vs. mirroring resilience to *F* drive destruction](https://github.com/jdrch/Hardware/wiki/How-to-Calculate-the-Odds-of-Physical-Attack-Data-Loss-for-a-ZFS-Array)
+
+# zfsnap
+
+* [Homepage](https://www.zfsnap.org/)
+* [Github](https://github.com/zfsnap/zfsnap.org)
+
+## zrep
+
+* [Homepage](http://www.bolthole.com/solaris/zrep/)
+* [Github](https://github.com/bolthole/zrep)
