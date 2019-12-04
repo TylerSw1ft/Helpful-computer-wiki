@@ -206,12 +206,12 @@ My OpenRC advice is to interact with it only:
 
 # `pip` for Python 3
 
-# Installation
+## Installation
 
 * [Debian 10](https://linux4one.com/how-to-install-pip-on-debian-10/)
 * [Ubuntu 19.04](https://www.serverlab.ca/scripting-programming/install-python-pip-on-ubuntu-19-04/)
 
-# Updating
+## Updating
 
 Run:
 
