@@ -116,7 +116,8 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # FreeBSD
 
-[FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
+* [FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
+* [Shells](https://www.freebsd.org/doc/handbook/shells.html)
 
 # FuryBSD
 
@@ -264,6 +265,10 @@ https://www.smartmontools.org/wiki/TocDoc
 # systemd
 
 [How to create a new systemd service](https://www.redhat.com/sysadmin/replacing-rclocal-systemd)
+
+# tsch
+
+[Add a splash of color to your command line environment](https://blogs.aalto.fi/marijn/2016/07/05/add-a-splash-of-color-to-your-command-line-environment/)
 
 # Veeam
 
