@@ -30,6 +30,10 @@
 * [Writing Scripts on Linux using Bash](https://devconnected.com/writing-scripts-on-linux-using-bash/)
 * [Zsh/Bash startup files loading order (.bashrc, .zshrc etc.)](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
 
+# BSD
+
+[Manpower issues](https://www.csoonline.com/article/3250653/is-the-bsd-os-dying-some-security-researchers-think-so.html)
+
 # Computer Science
 
 [Ultimate physical limits to computation](https://arxiv.org/abs/quant-ph/9908043)
