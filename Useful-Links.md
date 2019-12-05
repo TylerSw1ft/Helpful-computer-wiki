@@ -13,9 +13,16 @@
 * Use [DisplayInfo](https://play.google.com/store/apps/details?id=it.gerdavax.displayinfo) to find `dpi`
 * `px` is display horizontal resolution
 
-## Kernel updates
+## Kernel
+
+### Updates
 
 [Android devices do NOT receive kernel version updates (see Paragraph 3)](https://arstechnica.com/gadgets/2019/11/google-outlines-plans-for-mainline-linux-kernel-support-in-android/)
+
+### Why ARM requires per-device kernel builds (and x86 doesn't)
+
+* [Source comment](https://www.reddit.com/r/linux/comments/dyv2qi/google_outlines_plans_for_mainline_linux_kernel/f840zb5/)
+* [Expansion on the above](https://www.reddit.com/r/Android/comments/e5qqn6/engineer_from_samsung_says_chipset_vendors_are_to/f9rq3dm/)
 
 # Bash
 
