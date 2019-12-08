@@ -92,7 +92,7 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 
 # `cp` command
 
-[Syntax](https://www.computerhope.com/unix/ucp.htm)
+# [Syntax](https://www.computerhope.com/unix/ucp.htm)
 
 ## How to copy new scripts to Termux script folder on Android:
 
@@ -183,6 +183,10 @@ Run `sudo service sshd start` at the terminal.
 * [User manual](http://openzfs.hfg-gmuend.de/napp-it_manuals/napp-it.pdf)
 * [Tuning](https://napp-it.org/manuals/tuning_en.html)
 * [Installation instructions](https://napp-it.org/manuals/nas_en.html) (see **Install napp-it/ setup your NAS ready to use**)
+
+# `nnn`
+
+[Keyboard and mouse](https://github.com/jarun/nnn#keyboard-and-mouse)
 
 # OpenRC
 
@@ -295,6 +299,10 @@ https://www.smartmontools.org/wiki/TocDoc
 ### for Linux FREE
 
 [System Requirements](https://helpcenter.veeam.com/docs/agentforlinux/userguide/system_requirements.html?ver=30)
+
+# `vifm`
+
+[Cheatsheet](https://vifm.info/cheatsheets.shtml)
 
 # Volume Shadow Copy
 
