@@ -25,6 +25,18 @@
 * [Lack of DeviceTree support](https://www.reddit.com/r/linux/comments/dyv2qi/google_outlines_plans_for_mainline_linux_kernel/f84kokk/)
 * [Combination of the above](https://www.reddit.com/r/Android/comments/e5qqn6/engineer_from_samsung_says_chipset_vendors_are_to/f9rq3dm/)
 
+# Backup
+
+## Strategy
+
+### How many copies of data are needed
+
+[3-2-1](https://www.reddit.com/r/DataHoarder/wiki/backups#wiki_the_3-2-1_strategy)
+
+### How to select HDD capacity
+
+Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost isn't a bad metric, but as fleet size grows, footprint costs begin to dominate. For example, it's less expensive in the long run to have 1 machine with 4x16 TB HDDs than 4 machines with 4x4 TB HDDs each. See the *Retiring Pods* section [here](https://www.soothsawyer.com/ryan-smith-uses-backblazes-smart-data-to-illustrate-the-power-of-data/) for a case study.
+
 # Bash
 
 * [How to check version](https://www.cyberciti.biz/faq/how-do-i-check-my-bash-version/)
@@ -42,29 +54,6 @@
 # BSD
 
 [Manpower issues](https://www.csoonline.com/article/3250653/is-the-bsd-os-dying-some-security-researchers-think-so.html)
-
-# Computer Science
-
-[Ultimate physical limits to computation](https://arxiv.org/abs/quant-ph/9908043)
-
-# Dell
-
-## BIOS updates using a USB stick
-
-1. Follow Steps 2.1 to 2.6 [here](https://www.dell.com/support/article/us/en/19/sln143196/how-to-create-a-bootable-usb-flash-drive-using-dell-diagnostic-deployment-package-dddp?lang=en)
-2. Follow these [instructions](https://www.dell.com/support/article/us/en/19/sln129956/dell-bios-updates?lang=en#Five)
-
-# Backup
-
-## Strategy
-
-### How many copies of data are needed
-
-[3-2-1](https://www.reddit.com/r/DataHoarder/wiki/backups#wiki_the_3-2-1_strategy)
-
-### How to select HDD capacity
-
-Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost isn't a bad metric, but as fleet size grows, footprint costs begin to dominate. For example, it's less expensive in the long run to have 1 machine with 4x16 TB HDDs than 4 machines with 4x4 TB HDDs each. See the *Retiring Pods* section [here](https://www.soothsawyer.com/ryan-smith-uses-backblazes-smart-data-to-illustrate-the-power-of-data/) for a case study.
 
 # Btrfs
 
@@ -98,6 +87,10 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 * [Performing storage management tasks in Cockpit](https://fedoramagazine.org/performing-storage-management-tasks-in-cockpit/)
 * [Managing software and services with Cockpit](https://fedoramagazine.org/managing-software-and-services-with-cockpit/)
 
+# Computer Science
+
+[Ultimate physical limits to computation](https://arxiv.org/abs/quant-ph/9908043)
+
 # `cp` command
 
 # [Syntax](https://www.computerhope.com/unix/ucp.htm)
@@ -123,6 +116,13 @@ Pretty much anything that requires `sudo` needs to be put here:
 # Debian
 
 [Don't Break Debian](https://wiki.debian.org/DontBreakDebian)
+
+# Dell
+
+## BIOS updates using a USB stick
+
+1. Follow Steps 2.1 to 2.6 [here](https://www.dell.com/support/article/us/en/19/sln143196/how-to-create-a-bootable-usb-flash-drive-using-dell-diagnostic-deployment-package-dddp?lang=en)
+2. Follow these [instructions](https://www.dell.com/support/article/us/en/19/sln129956/dell-bios-updates?lang=en#Five)
 
 # Disk Erasure
 
