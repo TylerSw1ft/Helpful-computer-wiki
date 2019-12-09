@@ -195,6 +195,19 @@ Run `sudo service sshd start` at the terminal.
 
 [Keyboard and mouse](https://github.com/jarun/nnn#keyboard-and-mouse)
 
+# OpenIndiana
+
+## General documentation
+
+* [Oracle Solaris Information Library](https://docs.oracle.com/cd/E37838_01/)
+* [OpenIndiana Docs](http://docs.openindiana.org/)
+* [OpenIndiana Wiki](https://wiki.openindiana.org/)
+
+## Packages and publishers (repositories)
+
+* [How to update packages](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
+* [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
+
 # OpenRC
 
 My OpenRC advice is to interact with it only:
@@ -213,19 +226,6 @@ My OpenRC advice is to interact with it only:
 
 * [Gentoo OpenRC Wiki](https://wiki.gentoo.org/wiki/OpenRC)
 * [Gentoo supervise-daemon Tips 'n Tricks](https://wiki.gentoo.org/wiki/OpenRC/supervise-daemon#Tips_.27n_tricks)
-
-# OpenIndiana
-
-## General documentation
-
-* [Oracle Solaris Information Library](https://docs.oracle.com/cd/E37838_01/)
-* [OpenIndiana Docs](http://docs.openindiana.org/)
-* [OpenIndiana Wiki](https://wiki.openindiana.org/)
-
-## Packages and publishers (repositories)
-
-* [How to update packages](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
-* [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
 
 # `pip` for Python 3
 
