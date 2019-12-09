@@ -15,7 +15,7 @@
 
 # Details
 
-I run all 3 major OS paradigms (officially the excuse for this is "just in case 2 of them get compromised," but the real reason is I love computers 🤷‍♂️) and want to back all of them up at multiple levels (device, irreplaceable user data, operating system.)
+I run all 4 major OS paradigms (officially the excuse for this is "just in case 2 of them get compromised," but the real reason is I love computers 🤷‍♂️) and want to back all of them up at multiple levels (device, irreplaceable user data, operating system.)
 
 This requires multiple solutions, and I was getting confused keeping all of them in my head. Excel to the rescue! Here's my current blueprint and progress status (I'm continuously updating this as I tweak my plans, notation, and actually get solutions implemented):
 
