@@ -37,7 +37,7 @@
   * After installation, run the following:
     * `bash-it enable completion all`
     * `bash-it enable plugin all`
-    * Add `bash-it update` job in crontab
+    * Add `bash-it update` `cron` job to root crontab
 
 # BSD
 
