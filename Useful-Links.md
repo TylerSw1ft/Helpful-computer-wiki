@@ -48,7 +48,6 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 * [How To Customize Bash on Linux with Bash-it](https://computingforgeeks.com/easily-customize-linux-bash-with-bash-it/)
   * After installation, run the following:
     * `bash-it enable completion all`
-    * `bash-it enable plugin all`
     * Add `bash-it update` `cron` job to root crontab
 
 # BSD
