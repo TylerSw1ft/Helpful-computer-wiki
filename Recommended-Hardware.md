@@ -50,6 +50,12 @@
 
 [StarTech HDD Docking Stations](https://www.startech.com/HDD/Docking/?filter_IOINTERFACE=USB+3.1+Gen+2)
 
+# NAS
+
+## Raspberry Pi
+
+[Penta SATA HAT](https://wiki.radxa.com/Penta_SATA_HAT)
+
 # Networking
 
 ## Wireless 
