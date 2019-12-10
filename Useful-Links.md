@@ -180,7 +180,8 @@ Run `sudo service sshd start` at the terminal.
 
 # Microsoft Windows 10
 
-[How to perform a clean boot in Windows](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-boot-in-windows)
+* [How to perform a clean boot in Windows](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-bot-in-windows)
+* [Release channels](https://www.reddit.com/r/sysadmin/comments/e8k8jt/the_release_ring_sku_combo_completely_specify_an/fadyfq3/)
 
 # `nano`
 
@@ -194,6 +195,7 @@ Run `sudo service sshd start` at the terminal.
 * [User manual](http://openzfs.hfg-gmuend.de/napp-it_manuals/napp-it.pdf)
 * [Tuning](https://napp-it.org/manuals/tuning_en.html)
 * [Installation instructions](https://napp-it.org/manuals/nas_en.html) (see **Install napp-it/ setup your NAS ready to use**)
+* `napp-it-18.12.zip`, `nappit2.sh`, & `setup-napp-it.log` can all be safely deleted after successful installation
 
 # `nnn`
 
