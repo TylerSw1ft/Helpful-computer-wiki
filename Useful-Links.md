@@ -70,7 +70,7 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 
 In terminal, run `sudo rc-update add sshd default`
 
-## Mount (Debian 10.2+) NFSv4 share
+### Mount (Debian 10.2+) NFSv4 share
 
 In terminal, run `sudo mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare LocalMountPath`
 
