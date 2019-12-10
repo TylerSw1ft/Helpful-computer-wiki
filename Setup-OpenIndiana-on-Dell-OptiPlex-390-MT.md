@@ -21,3 +21,7 @@ OpenIndiana does not have a Resilio Sync build, therefore might have to mount sh
 # pkgsrc
 
 https://pkgsrc.joyent.com/install-on-illumos/
+
+# SFE
+
+http://sfe.opencsw.org/quickrepolinks
