@@ -12,6 +12,7 @@
 * All devices must have one of the following:
   * Folders that real-time sync among all the other devices
   * R/W network access to the real-time sync folders of another device
+* All backups must be automated
 
 # Details
 
