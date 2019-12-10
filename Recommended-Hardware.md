@@ -38,7 +38,8 @@ Note: I haven't used everything on this list. Some of these products are simply 
 
 ### Used
 
-1. CPU: ≥ 2C/4T. Must be covered by Intel speculative execution security patches 
+1. CPU: ≥ 2C/4T
+   * Must be either covered by speculative execution security patches (e.g. Intel Core 2nd Gen and above) or unaffected by speculative execution vulnerabilities 
 2. RAM: Max supported RAM ≥ 8 GB
 3. USB: ≥ USB 2.0
 4. Storage: Available port for SATA SSD
