@@ -49,6 +49,7 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
   * After installation, run the following:
     * `bash-it enable completion all`
     * Add `bash-it update` `cron` job to root crontab
+    * Enable plugins (`bash-it enable plugin PluginName`) individually and only if necessary. `bash-it enable plugin all` tends to throw errors on login
 
 # BSD
 
