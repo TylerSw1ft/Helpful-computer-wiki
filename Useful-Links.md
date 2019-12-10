@@ -54,6 +54,30 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 
 [Manpower issues](https://www.csoonline.com/article/3250653/is-the-bsd-os-dying-some-security-researchers-think-so.html)
 
+## FreeBSD
+
+* [FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
+* [Shells](https://www.freebsd.org/doc/handbook/shells.html)
+
+## FuryBSD
+
+* [Installation](https://github.com/furybsd/furybsd-handbook/wiki/Installing-FuryBSD)
+* [Live USB creation](https://github.com/furybsd/furybsd-livecd/wiki)
+
+## GhostBSD
+
+### Enable `sshd` at startup
+
+In terminal, run `sudo rc-update add sshd default`
+
+## Mount (Debian 10.2+) NFSv4 share
+
+In terminal, run `sudo mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare LocalMountPath`
+
+### Setup SSH server
+
+Run `sudo service sshd start` at the terminal.
+
 # Btrfs
 
 [Cheatsheet](https://blog.programster.org/btrfs-cheatsheet)
@@ -136,30 +160,6 @@ Pretty much anything that requires `sudo` needs to be put here:
 # Firefox
 
 [ How To Install The Latest Firefox (Non-ESR) On Debian 10 Buster (Stable) Or Bullseye (Testing)](https://www.linuxuprising.com/2019/12/how-to-install-latest-firefox-non-esr.html?m=1)
-
-# FreeBSD
-
-* [FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
-* [Shells](https://www.freebsd.org/doc/handbook/shells.html)
-
-# FuryBSD
-
-* [Installation](https://github.com/furybsd/furybsd-handbook/wiki/Installing-FuryBSD)
-* [Live USB creation](https://github.com/furybsd/furybsd-livecd/wiki)
-
-# GhostBSD
-
-## Enable `sshd` at startup
-
-In terminal, run `sudo rc-update add sshd default`
-
-## Mount (Debian 10.2+) NFSv4 share
-
-In terminal, run `sudo mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare LocalMountPath`
-
-## Setup SSH server
-
-Run `sudo service sshd start` at the terminal.
 
 # Github
 
