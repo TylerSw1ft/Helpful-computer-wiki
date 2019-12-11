@@ -12,8 +12,8 @@
 11. In the following menu, set `ACPI` and `Verbose` to `On`
 12. Hit **1** to return to the previous menu
 13. Hit **6** to `ChainLoad disk`*n*, where *n* is a whole number. This should cause the graphical live environment to boot
-14. When the live enviroment boots, double-click **Install OpenIndiana**
+14. When the live enviroment boots, double-click the **Install OpenIndiana** desktop shortcut
 15. When the installation is complete, reboot as suggested, while pressing the PC OEM's BIOS hotkey. This hotkey is F2 for the Dell OptiPlex 390 MT
 16. Set the boot mode back to Legacy
 17. In the Legacy boot mode list, move the disk to which OpenIndiana is installed to the top
-18. Exit the BIOS. The new OpenIndiana installation should now boot just fine
+18. Save your changes and exit the BIOS. The new OpenIndiana installation should now boot just fine
