@@ -47,6 +47,19 @@ Note: I haven't used everything on this list. Some of these products are simply 
 6. Display: ≥ 768p
 7. LAN: ≥ 1000BASE-T Ethernet
 
+## Enterprise product lines
+
+* Dell
+   * OptiPlex
+   * Precision
+* Lenovo
+   * ThinkCentre
+   * ThinkStation
+* HP
+   * Elite
+   * Pro
+   * Z
+
 # Docks
 
 ## USB 3.1 Gen 1+
