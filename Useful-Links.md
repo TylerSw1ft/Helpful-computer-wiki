@@ -43,6 +43,7 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 * [Writing Scripts on Linux using Bash](https://devconnected.com/writing-scripts-on-linux-using-bash/)
 * [Zsh/Bash startup files loading order (.bashrc, .zshrc etc.)](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
 * [Advanced Bash Scripting Guide](https://devconnected.com/advanced-bash-scripting-guide/)
+* [In commands, `#` means `root`, `$` means any other user](https://unix.stackexchange.com/a/291733)
 
 # `bash-it`
 
@@ -183,7 +184,12 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 ### Packages and publishers (repositories)
 
-* [How to update packages](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
+* [How to update all packages & system](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
+  * Run the following:
+    * `# pkgin -y full-upgrade`
+    * `# pkgin -y autoremove`
+    * `# pkg update -v -r`
+    * Check the output of the last command to see if there's a new boot environment to boot into
 * [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
 * [How to set up, update, and manage packages from pkgsrc repository](https://pkgsrc.joyent.com/install-on-illumos/) 
   * Replace all instances of `gpg` on that page with `gpg2`
