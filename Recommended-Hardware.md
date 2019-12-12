@@ -74,6 +74,13 @@ Note: I haven't used everything on this list. Some of these products are simply 
 
 # Networking
 
+## Wired
+
+### MoCA adapters
+
+* [Actiontec Bonded MoCA 2.0 Network Adapter](https://www.actiontec.com/products/home-networking/ecb6200/)
+* [Hitron HT-EM2](http://www.hitron-americas.com/product/ht-em2/)
+
 ## Wireless 
 
 ### Access Points
