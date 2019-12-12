@@ -189,7 +189,7 @@ Pretty much anything that requires `sudo` needs to be put here:
     * `# pkgin -y full-upgrade`
     * `# pkgin -y autoremove`
     * `# pkg update -v -r`
-    * Check the output of the last command to see if there's a new boot environment to boot into
+    * Check the output of the last command to see if there's a new boot environment to boot into. If there is, reboot the machine
 * [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
 * [How to set up, update, and manage packages from pkgsrc repository](https://pkgsrc.joyent.com/install-on-illumos/) 
   * Replace all instances of `gpg` on that page with `gpg2`
