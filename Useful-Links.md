@@ -358,7 +358,7 @@ https://www.smartmontools.org/wiki/TocDoc
 * [RAIDZ*x* vs. mirroring resilience to *F* drive destruction](https://github.com/jdrch/Hardware/wiki/How-to-Calculate-the-Odds-of-Physical-Attack-Data-Loss-for-a-ZFS-Array)
 * [Latest OpenZFS development status and relationship among projects](https://drive.google.com/file/d/197jS8_MWtfdW2LyvIFnH58uUasHuNszz/view)
 
-# zfsnap
+# `zfsnap`
 
 * [Homepage](https://www.zfsnap.org/)
 * [Github](https://github.com/zfsnap/zfsnap.org)
