@@ -44,6 +44,25 @@ It should now boot.
 
 Run `sudo service ntpdate restart` in the terminal. The [command might hang](https://issues.ghostbsd.org/issues/125); if that happens, wait for the MATE clock to update (might be able to force this by locking the display) and then close the terminal window.
 
+# Illumos
+
+## OpenIndiana
+
+### Bash-it shows up just fine in MATE terminal but not over SSH unless you `su` into root
+
+* [Add this](https://www.reddit.com/r/illumos/comments/e531pq/openindiana_hipster_201910_bashit_shows_up_just/f9lpmnj/) under the 1st block of comments in `~/.profile`:
+
+```
+# if running bash
+if [ -n "$BASH_VERSION" ]; then
+    # include .bashrc if it exists
+    if [ -f "$HOME/.bashrc" ]; then
+    . "$HOME/.bashrc"
+    fi
+fi
+```
+* Log out and log in again. `bash-it` should show up correctly
+
 # Microsoft Windows 10
 
 ## File Explorer
