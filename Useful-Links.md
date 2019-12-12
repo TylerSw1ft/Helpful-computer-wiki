@@ -195,9 +195,10 @@ Pretty much anything that requires `sudo` needs to be put here:
   * Replace all instances of `gpg` on that page with `gpg2`
   * Edit `PATH` & `MANPATH` variables in `/export/home/YourUsername/.profile` using `pluma`. New lines should look like:
 
-> `PATH="$HOME/bin:$HOME/.local/bin:/opt/local/sbin:/opt/local/bin:$PATH"`
->>
-> `MANPATH=/opt/local/man:$MANPATH`
+```
+PATH="$HOME/bin:$HOME/.local/bin:/opt/local/sbin:/opt/local/bin:$PATH"
+MANPATH=/opt/local/man:$MANPATH
+```
 
 * [How to set up SFE repository](http://sfe.opencsw.org/quickrepolinks)
   * Run `sudo pfexec pkg set-publisher -G '*' -g http://sfe.opencsw.org/localhostoih localhostoih`
