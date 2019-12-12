@@ -171,6 +171,31 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [Manual](https://gparted.org/display-doc.php?name=help-manual)
 
+# Illumos
+
+## OpenIndiana
+
+### General documentation
+
+* [Oracle Solaris Information Library](https://docs.oracle.com/cd/E37838_01/)
+* [OpenIndiana Docs](http://docs.openindiana.org/)
+* [OpenIndiana Wiki](https://wiki.openindiana.org/)
+
+### Packages and publishers (repositories)
+
+* [How to update packages](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
+* [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
+* [How to set up pkgsrc repository](https://pkgsrc.joyent.com/install-on-illumos/) 
+  * Replace all instances of `gpg` on that page with `gpg2`
+  * Edit `PATH` & `MANPATH` variables in `/export/home/YourUsername/.profile` using `pluma`. New lines should look like:
+
+> `PATH="$HOME/bin:$HOME/.local/bin:/opt/local/sbin:/opt/local/bin:$PATH"`
+>>
+> `MANPATH=/opt/local/man:$MANPATH`
+
+* [How to set up SFE repository](http://sfe.opencsw.org/quickrepolinks)
+  * Run `sudo pfexec pkg set-publisher -G '*' -g http://sfe.opencsw.org/localhostoih localhostoih`
+
 # ISA
 
 [The final ISA showdown: Is ARM, x86, or MIPS intrinsically more power efficient?](https://www.extremetech.com/extreme/188396-the-final-isa-showdown-is-arm-x86-or-mips-intrinsically-more-power-efficient/3) Answer: power efficiency is largely independent of ISA
@@ -202,19 +227,6 @@ Pretty much anything that requires `sudo` needs to be put here:
 # `nnn`
 
 [Keyboard and mouse](https://github.com/jarun/nnn#keyboard-and-mouse)
-
-# OpenIndiana
-
-## General documentation
-
-* [Oracle Solaris Information Library](https://docs.oracle.com/cd/E37838_01/)
-* [OpenIndiana Docs](http://docs.openindiana.org/)
-* [OpenIndiana Wiki](https://wiki.openindiana.org/)
-
-## Packages and publishers (repositories)
-
-* [How to update packages](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
-* [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
 
 # OpenRC
 
