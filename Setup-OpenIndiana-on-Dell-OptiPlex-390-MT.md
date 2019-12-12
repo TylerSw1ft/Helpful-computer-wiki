@@ -17,11 +17,3 @@ Time Slider to ZFS pool
 # Synced Folder Access
 
 OpenIndiana does not have a Resilio Sync build, therefore might have to mount shared NFS folders from [Debian 10 machine](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md)
-
-# pkgsrc
-
-https://pkgsrc.joyent.com/install-on-illumos/
-
-# SFE
-
-http://sfe.opencsw.org/quickrepolinks
