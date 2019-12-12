@@ -278,6 +278,12 @@ Run:
 
 [Wiki](https://old.reddit.com/r/DataHoarder/wiki/index)
 
+# Pushover
+
+* [Push Notifications from the Command Line Using Pushover](https://mikebuss.com/2014/01/03/push-notifications-cli/)
+* [API](https://pushover.net/api)
+* [Example code and Pushover libraries](https://support.pushover.app/i44-example-code-and-pushover-libraries)
+
 # RAID
 
 * [Explanation of parity and redundancy levels](http://www.raid-calculator.com/raid-types-reference.aspx)
