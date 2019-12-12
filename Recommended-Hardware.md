@@ -85,6 +85,8 @@ Note: I haven't used everything on this list. Some of these products are simply 
 
 ### Access Points
 
+#### High Performance
+
 If you don't absolutely need an AP right now, wait for Ubiquity UniFi Wi-Fi 6 APs before buying. Also, bear in mind you'll need UniFi Controller for all of the following. If you want to run Controller on standalone hardware, I recommend Debian 10 on a [used PC](https://github.com/jdrch/Hardware#what-are-the-minimum-specs-you-recommend-for-any-used-pc) or Raspbian on a Raspberry Pi 4. 
 
 In order of increasing performance and client density:
@@ -92,6 +94,12 @@ In order of increasing performance and client density:
 * [Ubiquiti UniFi AP HD](https://www.ubnt.com/downloads/datasheets/unifi/UniFi_UAP-AC-HD_DS.pdf)
 * [Ubiquiti UniFi AP SHD](https://dl.ubnt.com/datasheets/unifi/UniFi_UAP-AC-SHD_DS.pdf)
 * [Ubiquiti UniFi AP XG](https://dl.ubnt.com/datasheets/unifi/UniFi_XG_AP_DS.pdf)
+
+#### Value
+
+If you absolutely need to save money or better Windows support than what UniFi Controller offers:
+
+[EAP245 V3](https://www.tp-link.com/us/business-networking/ceiling-mount-access-point/eap245/v3/) + [Omada Software Controller](https://www.tp-link.com/us/business-networking/ceiling-mount-access-point/eap-controller/) + [Omada app](https://play.google.com/store/apps/details?id=com.tplink.omada)
 
 # Storage
 
