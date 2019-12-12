@@ -185,7 +185,7 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 * [How to update packages](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
 * [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
-* [How to set up pkgsrc repository](https://pkgsrc.joyent.com/install-on-illumos/) 
+* [How to set up, update, and manage packages from pkgsrc repository](https://pkgsrc.joyent.com/install-on-illumos/) 
   * Replace all instances of `gpg` on that page with `gpg2`
   * Edit `PATH` & `MANPATH` variables in `/export/home/YourUsername/.profile` using `pluma`. New lines should look like:
 
