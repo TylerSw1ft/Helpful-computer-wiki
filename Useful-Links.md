@@ -274,15 +274,15 @@ Run:
 * [Cables cannot be reliably mixed](https://www.gamersnexus.net/guides/2702-psa-on-mixing-modular-psu-cables-dont-do-it)
 * [Why cables cannot be reliably mixed](https://forums.evga.com/FindPost/2646323)
 
-# [r/DataHoarder](https://www.reddit.com/r/DataHoarder/)
-
-[Wiki](https://old.reddit.com/r/DataHoarder/wiki/index)
-
 # Pushover
 
 * [Push Notifications from the Command Line Using Pushover](https://mikebuss.com/2014/01/03/push-notifications-cli/)
 * [API](https://pushover.net/api)
 * [Example code and Pushover libraries](https://support.pushover.app/i44-example-code-and-pushover-libraries)
+
+# [r/DataHoarder](https://www.reddit.com/r/DataHoarder/)
+
+[Wiki](https://old.reddit.com/r/DataHoarder/wiki/index)
 
 # RAID
 
