@@ -193,13 +193,13 @@ Pretty much anything that requires `sudo` needs to be put here:
 * [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
 * [How to set up, update, and manage packages from pkgsrc repository](https://pkgsrc.joyent.com/install-on-illumos/) 
   * Replace all instances of `gpg` on that page with `gpg2`
-  * Edit `PATH` & `MANPATH` variables in `/export/home/YourUsername/.profile` using `pluma`. New lines should look like:
+  * Edit `PATH` & `MANPATH` variables in `/export/home/YourUsername/.profile` using `pluma`. New lines should look like the code block below
+  * `bootstrap-trunk-x86_64-YYYYMMDD.tar.gz` & `bootstrap-trunk-x86_64-YYYYMMDD.tar.gz.asc` can be safely deleted once setup is complete
 
 ```
 PATH="$HOME/bin:$HOME/.local/bin:/opt/local/sbin:/opt/local/bin:$PATH"
 MANPATH=/opt/local/man:$MANPATH
 ```
-  * `bootstrap-trunk-x86_64-YYYYMMDD.tar.gz` & `bootstrap-trunk-x86_64-YYYYMMDD.tar.gz.asc` can be safely deleted once setup is complete
 * [How to set up SFE repository](http://sfe.opencsw.org/quickrepolinks)
   * Run `sudo pfexec pkg set-publisher -G '*' -g http://sfe.opencsw.org/localhostoih localhostoih`
 
