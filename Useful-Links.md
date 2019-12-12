@@ -199,7 +199,7 @@ Pretty much anything that requires `sudo` needs to be put here:
 PATH="$HOME/bin:$HOME/.local/bin:/opt/local/sbin:/opt/local/bin:$PATH"
 MANPATH=/opt/local/man:$MANPATH
 ```
-
+  * `bootstrap-trunk-x86_64-20190317.tar.gz` & `bootstrap-trunk-x86_64-20190317.tar.gz.asc` can be safely deleted once setup is complete
 * [How to set up SFE repository](http://sfe.opencsw.org/quickrepolinks)
   * Run `sudo pfexec pkg set-publisher -G '*' -g http://sfe.opencsw.org/localhostoih localhostoih`
 
