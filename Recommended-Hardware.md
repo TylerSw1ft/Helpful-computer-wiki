@@ -27,7 +27,7 @@ Note: I haven't used everything on this list. Some of these products are simply 
 ### New
 
 1. CPU: ≥ 4C/8T for mainstream use, ≥ 6C/12T for gaming
-2. RAM: Max supported RAM ≥ 16 GB
+2. RAM: Max supported RAM (by motherboard) ≥ 16 GB
 3. LAN: ≥ 1000BASE-T Ethernet
 4. Bluetooth: ≥ 5.0
 5. Wi-Fi: ≥ 2x2 802.11ac
@@ -40,7 +40,7 @@ Note: I haven't used everything on this list. Some of these products are simply 
 
 1. CPU: ≥ 2C/4T
    * Must be either covered by speculative execution security patches (e.g. Intel Core 2nd Gen and above) or unaffected by speculative execution vulnerabilities 
-2. RAM: Max supported RAM ≥ 8 GB
+2. RAM: Max supported RAM (by CPU) ≥ 8 GB
 3. USB: ≥ USB 2.0
 4. Storage: Available port for SATA SSD
 5. GPU/video out: ≥ HDMI
