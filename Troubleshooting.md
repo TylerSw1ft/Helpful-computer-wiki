@@ -1,3 +1,13 @@
+# Bash
+
+## How to recover a broken terminal
+
+* Copy `/etc/skel/.bashrc` to `~` folder
+
+OR
+
+* If using `bash-it`, delete the existing `.bashrc` file in `~` and rename the `.bashrc.bak` file to `.bashrc`
+
 # `dd`
 
 ## Resolving the `Operation not permitted` error message
