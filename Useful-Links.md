@@ -52,6 +52,7 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
     * `bash-it enable completion all`
     * Add `bash-it update` `cron` job to root crontab
     * Enable plugins (`bash-it enable plugin PluginName`) individually and only if necessary. `bash-it enable plugin all` tends to throw errors on login
+    * **DO NOT** install `ng-common` as it will break `bash-it`
 
 # BSD
 
