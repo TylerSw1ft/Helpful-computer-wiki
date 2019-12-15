@@ -142,7 +142,8 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # Debian
 
-[Don't Break Debian](https://wiki.debian.org/DontBreakDebian)
+* [Don't Break Debian](https://wiki.debian.org/DontBreakDebian)
+* [systemd documentation index](https://wiki.debian.org/systemd/documentation)
 
 # Dell
 
