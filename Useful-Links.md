@@ -72,15 +72,15 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 
 ### Enable `sshd` at startup
 
-In terminal, run `sudo rc-update add sshd default`
+In terminal, run `# rc-update add sshd default`
 
 ### Mount (Debian 10.2+) NFSv4 share
 
-In terminal, run `sudo mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare LocalMountPath`
+In terminal, run `# mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare LocalMountPath`
 
 ### Setup SSH server
 
-Run `sudo service sshd start` at the terminal.
+Run `# service sshd start` at the terminal.
 
 # Btrfs
 
@@ -138,7 +138,7 @@ e.g. `cp /sdcard/Sync/Scripts/Bash/MoveFilesToSync.sh ~/.termux/tasker/MoveFiles
 
 Pretty much anything that requires `sudo` needs to be put here:
 
-`sudo crontab -u root -e`
+`# crontab -u root -e`
 
 # Debian
 
@@ -202,7 +202,7 @@ PATH="$HOME/bin:$HOME/.local/bin:/opt/local/sbin:/opt/local/bin:$PATH"
 MANPATH=/opt/local/man:$MANPATH
 ```
 * [How to set up SFE repository](http://sfe.opencsw.org/quickrepolinks)
-  * Run `sudo pfexec pkg set-publisher -G '*' -g http://sfe.opencsw.org/localhostoih localhostoih`
+  * Run `# pfexec pkg set-publisher -G '*' -g http://sfe.opencsw.org/localhostoih localhostoih`
 
 # ISA
 
