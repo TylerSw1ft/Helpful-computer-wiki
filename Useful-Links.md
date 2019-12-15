@@ -205,6 +205,17 @@ MANPATH=/opt/local/man:$MANPATH
 * [How to set up SFE repository](http://sfe.opencsw.org/quickrepolinks)
   * Run `# pfexec pkg set-publisher -G '*' -g http://sfe.opencsw.org/localhostoih localhostoih`
 
+### crontab
+
+* [Creating and Editing crontab Files](https://docs.oracle.com/cd/E37838_01/html/E60997/sysrescron-24589.html#scrolltoc)
+* [Syntax of crontab File Entries](https://docs.oracle.com/cd/E37838_01/html/E60997/sysrescron-62861.html#scrolltoc)
+
+### ZFS
+
+#### How to determine which drives a zpool is on
+
+`$ zpool status -v ZPoolName`
+
 # ISA
 
 [The final ISA showdown: Is ARM, x86, or MIPS intrinsically more power efficient?](https://www.extremetech.com/extreme/188396-the-final-isa-showdown-is-arm-x86-or-mips-intrinsically-more-power-efficient/3) Answer: power efficiency is largely independent of ISA
