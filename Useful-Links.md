@@ -120,9 +120,8 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 
 # `cp` command
 
-# [Syntax](https://www.computerhope.com/unix/ucp.htm)
-
-## How to copy new scripts to Termux script folder on Android:
+* [Syntax](https://www.computerhope.com/unix/ucp.htm)
+* How to copy new scripts to Termux script folder on Android:
 
 `cp /sdcard/SourceFolder/Script.sh ~/.termux/tasker/Script.sh`
 
