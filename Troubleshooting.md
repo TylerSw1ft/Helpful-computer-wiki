@@ -4,6 +4,11 @@
 
 [Solution](https://github.com/asbru-cm/asbru-cm/issues/311#issuecomment-565791700)
 
+* In the main window, click **Preferences**
+* Under **Main Options** click the **Advanced** tab
+* In the **Command Prompt:** field, enter `[#%\$>-]|\:\/\s*$`
+* Click **Save and Close**
+
 # Bash
 
 ## How to recover a broken terminal
