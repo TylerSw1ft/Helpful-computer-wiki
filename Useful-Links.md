@@ -349,6 +349,10 @@ https://www.smartmontools.org/wiki/TocDoc
 
 [Add a splash of color to your command line environment](https://blogs.aalto.fi/marijn/2016/07/05/add-a-splash-of-color-to-your-command-line-environment/)
 
+# Ubuntu
+
+[How to Easily Add Users to Groups in Ubuntu](https://www.maketecheasier.com/add-remove-user-to-groups-in-ubuntu/) (See Section 2)
+
 # Veeam
 
 ## Agent
