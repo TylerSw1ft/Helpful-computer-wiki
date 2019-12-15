@@ -1,4 +1,4 @@
-# `Ásbrú Connection Manager`
+# Ásbrú Connection Manager
 
 ## [Asbru gets stuck on "Status: PASSWORD:Sent (not shown)" during SSH to OpenIndiana Hipster machine](https://github.com/asbru-cm/asbru-cm/issues/311)
 
