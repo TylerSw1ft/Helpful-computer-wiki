@@ -360,6 +360,10 @@ https://www.smartmontools.org/wiki/TocDoc
 
 [System Requirements](https://helpcenter.veeam.com/docs/agentforlinux/userguide/system_requirements.html?ver=30)
 
+# `vi`
+
+[vi Editor in UNIX](https://www.geeksforgeeks.org/vi-editor-unix/)
+
 # `vifm`
 
 [Cheatsheet](https://vifm.info/cheatsheets.shtml)
