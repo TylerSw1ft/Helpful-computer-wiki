@@ -354,11 +354,16 @@ https://www.smartmontools.org/wiki/TocDoc
 
 # Veeam
 
-## Agent
+## Agent for
 
-### for Linux FREE
+### Linux FREE
 
-[System Requirements](https://helpcenter.veeam.com/docs/agentforlinux/userguide/system_requirements.html?ver=30)
+* [System Requirements](https://helpcenter.veeam.com/docs/agentforlinux/userguide/system_requirements.html?ver=30)
+* [User Guide](https://helpcenter.veeam.com/docs/agentforlinux/userguide/overview.html?ver=30)
+
+### Windows FREE
+
+[User Guide](https://helpcenter.veeam.com/docs/agentforwindows/userguide/overview.html?ver=30)
 
 # `vi`
 
