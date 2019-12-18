@@ -175,7 +175,8 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # HDDs
 
-[4k vs. 512](https://community.spiceworks.com/topic/post/6093125)
+[4k vs. 512](https://community.spiceworks.com/topic/post/6093125) ([Further discussion](https://www.techpowerup.com/forums/threads/hdd-bytes-per-sector-types-512e-vs-512n-vs-4kn.254422/))
+
 
 # Illumos
 
