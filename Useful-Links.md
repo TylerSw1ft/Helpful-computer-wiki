@@ -350,6 +350,10 @@ https://www.smartmontools.org/wiki/TocDoc
 
 [The SSD Endurance Experiment: They’re all dead](https://techreport.com/review/27909/the-ssd-endurance-experiment-theyre-all-dead/)
 
+# Synology
+
+[RAID Calculator](https://www.synology.com/en-us/support/RAID_calculator)
+
 # systemd
 
 [How to create a new systemd service](https://www.redhat.com/sysadmin/replacing-rclocal-systemd)
@@ -361,6 +365,10 @@ https://www.smartmontools.org/wiki/TocDoc
 # Ubuntu
 
 [How to Easily Add Users to Groups in Ubuntu](https://www.maketecheasier.com/add-remove-user-to-groups-in-ubuntu/) (See Section 2)
+
+# unRAID
+
+[Calculator](http://unraid.category5.tv/)
 
 # Veeam
 
