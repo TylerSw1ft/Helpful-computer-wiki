@@ -173,6 +173,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [Manual](https://gparted.org/display-doc.php?name=help-manual)
 
+# HDDs
+
+[4k vs. 512](https://community.spiceworks.com/topic/post/6093125)
+
 # Illumos
 
 ## OpenIndiana
