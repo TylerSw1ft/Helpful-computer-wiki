@@ -1,3 +1,5 @@
+# NOTE: Below is an initial list. All other issues with solutions and details of both can be found [here](https://github.com/jdrch/Hardware/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+label%3Abug+).
+
 # Ásbrú Connection Manager
 
 ## [Asbru gets stuck on "Status: PASSWORD:Sent (not shown)" during SSH to OpenIndiana Hipster machine](https://github.com/asbru-cm/asbru-cm/issues/311)
