@@ -199,7 +199,7 @@ Pretty much anything that requires `sudo` needs to be put here:
     * Check the output of the last command to see if there's a new boot environment to boot into. If there is, reboot the machine
 * [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
 * [How to set up, update, and manage packages from pkgsrc repository](https://pkgsrc.joyent.com/install-on-illumos/) 
-  * Replace all instances of `gpg` on that page with `gpg2`
+  * Replace all instances of `gpg` on above page with `gpg2`
   * Edit `PATH` & `MANPATH` variables in `/export/home/YourUsername/.profile` using `pluma`. New lines should look like the code block below
   * `bootstrap-trunk-x86_64-YYYYMMDD.tar.gz` & `bootstrap-trunk-x86_64-YYYYMMDD.tar.gz.asc` can be safely deleted once setup is complete
 
@@ -207,6 +207,7 @@ Pretty much anything that requires `sudo` needs to be put here:
 PATH="$HOME/bin:$HOME/.local/bin:/opt/local/sbin:/opt/local/bin:$PATH"
 MANPATH=/opt/local/man:$MANPATH
 ```
+* [List of all available pkgsrc packages](https://pkgsrc.joyent.com/packages/SmartOS/trunk/x86_64/All/)
 * [How to set up SFE repository](http://sfe.opencsw.org/quickrepolinks)
   * Run `# pfexec pkg set-publisher -G '*' -g http://sfe.opencsw.org/localhostoih localhostoih`
 
@@ -227,7 +228,8 @@ MANPATH=/opt/local/man:$MANPATH
 
 # Linux
 
-Documentation parody: [You Figure It Out](https://www.youtube.com/watch?v=ZZtu6c_c3W8)
+* Documentation parody: [You Figure It Out](https://www.youtube.com/watch?v=ZZtu6c_c3W8)
+* [Linux Boot Process: What You Should Know](https://www.maketecheasier.com/linux-boot-process/)
 
 # LTO-8 
 
