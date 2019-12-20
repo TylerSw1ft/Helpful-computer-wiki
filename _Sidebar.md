@@ -25,8 +25,7 @@ Organized Alphabetically:
   * Current
     * [Mixed Environment, Multilevel Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
   * Future (in order of descending priority/implementation)
-    * [Update Firmware on Unused PCs](https://github.com/jdrch/Hardware/wiki/Update-Firmware-on-Unused-PCs)
-    * [Setup OpenIndiana on Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/wiki/Setup-OpenIndiana-on-Dell-OptiPlex-390-MT)
+    * [All Other Projects](https://github.com/jdrch/Hardware/wiki/All-Other-Projects)
 * [Recommended Hardware](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware)
 * [Troubleshooting](https://github.com/jdrch/Hardware/wiki/Troubleshooting)
 * [Useful Links](https://github.com/jdrch/Hardware/wiki/Useful-Links)
