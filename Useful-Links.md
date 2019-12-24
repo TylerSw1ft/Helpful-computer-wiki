@@ -228,6 +228,7 @@ MANPATH=/opt/local/man:$MANPATH
 
 # Linux
 
+* [Basic Linux Commands](https://linuxize.com/post/basic-linux-commands/)
 * Documentation parody: [You Figure It Out](https://www.youtube.com/watch?v=ZZtu6c_c3W8)
 * [Linux Boot Process: What You Should Know](https://www.maketecheasier.com/linux-boot-process/)
 
