@@ -1,5 +1,13 @@
 Note: I haven't used everything on this list. Some of these products are simply what I consider to be the best or best value for money in their category.
 
+# Cables
+
+## Brands
+
+* Monoprice
+* Cables2Go
+* StarTech.com
+
 # Cases/Chassis
 
 ## Rackmount
@@ -103,17 +111,6 @@ If you absolutely need to save money or better Windows support than what UniFi C
 
 # Storage
 
-## Tape
-
-### LTO-8
-
-#### Drives
-
-##### Internal
-
-[Quantum LTO Drives](https://iq.quantum.com/exLink.asp?10444458OP44N16I37407297&view=1)
-* TC-L82AN-EY
-* TC-L82AN-BR
 
 ## HDDs
 
@@ -132,6 +129,12 @@ Western Digital's UltraStar DC HC550 *should* be recommendable, but it [lacks a 
 #### Accessories
 
 [StarTech.com 3.5in Silicone Hard Drive Protector Sleeve with Connector Cap](https://www.startech.com/HDD/Brackets/35in-Silicone-Laptop-Hard-Drive-Protector-Sleeve-with-Connector-Cap~HDDSLEV35)
+
+##### Brands
+
+* StarTech.com (always check here first)
+* IcyDock
+* Vantec
 
 ## SSDs
 
@@ -153,6 +156,18 @@ Unless you're using the SSD in an extremely write-heavy application (e.g. as an 
 Don't skimp on performance with NVMe. Samsung is the fastest, highest endurance, and best supported on the market.
 
 [Samsung SSD 970 EVO Plus NVMe M.2](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1-tb-mz-v7s1t0b-am/)
+
+## Tape
+
+### LTO-8
+
+#### Drives
+
+##### Internal
+
+[Quantum LTO Drives](https://iq.quantum.com/exLink.asp?10444458OP44N16I37407297&view=1)
+* TC-L82AN-EY
+* TC-L82AN-BR
 
 # UPS
 
