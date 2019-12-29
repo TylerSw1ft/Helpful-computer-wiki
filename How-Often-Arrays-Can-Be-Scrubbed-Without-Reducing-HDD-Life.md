@@ -1,4 +1,4 @@
-NOTE: 
+# NOTE: 
 
 * Most CoW filesystems either recommend monthly scrubs (ZFS, Btrfs) or perform monthly scrubs automatically (ReFS + Storage Spaces)
 * Many of the inputs are estimates/informed guesses
@@ -12,11 +12,11 @@ NOTE:
 * This method applies to any redundant backup array targeted by an incremental backup method
 * This method does not account for read/write resulting from snapshot pruning; hopefully the conservatism built into the calculations covers that
 
-**STEP 0: Compute source dataset size**
+## STEP 0: Compute source dataset size
 
 This is `SourceDatasetSize`
 
-**STEP 1: Estimate the annual workload rating**
+## STEP 1: Estimate the annual workload rating
 
 If the HDD's workload rating is already known, skip to STEP 2.
 
@@ -26,7 +26,7 @@ The Toshiba L200 is used as an example. Based on datasheets, Toshiba HDDs have 3
 
 This is a very conservative estimate; it's basically the minimum the HDD can be expected to handle. It may be a valid assumption to use the lowest published workload rating of 72 TB, but that is left to the user to decide.
 
-**STEP 2: Compute weekly workload rating**
+## STEP 2: Compute weekly workload rating
 
 This is as simple as:
 
@@ -40,7 +40,7 @@ This calculation can be adjusted to a daily value (useful for multiple snapshots
 
 The variable `MinimumWeeksBetweenScrubs` is defined to represent the smallest number of weeks between scrubs.
 
-**STEP 3: Compute how much differential data in the source dataset needs to be backed up weekly**
+## STEP 3: Compute how much differential data in the source dataset needs to be backed up weekly
 
 If most of the dataset comes from downloaded files, Use the ISP's data usage meter:
 
@@ -54,7 +54,7 @@ If there are other (heavy, streaming uses a lot of data so this is a reasonable 
 
 `WeeklySourceDatasetChange=AverageMonthlyDataUsage/NumberOfUsers/4.33`
 
-**STEP 4: Compute how often the backup dataset can be scrubbed**
+## STEP 4: Compute how often the backup dataset can be scrubbed
 
 At the very least, the backup system should capture all the dataset changes in a week (or other preferred base time unit). So:
 
