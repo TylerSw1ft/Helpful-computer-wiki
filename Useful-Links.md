@@ -353,6 +353,10 @@ https://www.smartmontools.org/wiki/TocDoc
 
 [The SSD Endurance Experiment: They’re all dead](https://techreport.com/review/27909/the-ssd-endurance-experiment-theyre-all-dead/)
 
+# Structured Cabling
+
+[When you need plenum cable](https://www.reddit.com/r/homelab/comments/ejkrrq/using_solid_core_cat6_cable_with_ip_security/fczrxbs/)
+
 # Synology
 
 [RAID Calculator](https://www.synology.com/en-us/support/RAID_calculator)
