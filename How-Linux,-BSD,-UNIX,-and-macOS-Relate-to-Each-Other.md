@@ -37,7 +37,7 @@ MacOS is a mixed source UNIX OS.
 1. Each use the centrally developed Linux kernel
 2. *May* modify the kernel for their own purposes, but there is, by virtue of the common kernel:
    1. Binary (*not* necessarily package) compatibility among Linux distros on the same CPU architecture
-   2. Feature parity among all kernels based on the same release
+   2. The features of each kernel are a superset of the features of the mainline Linux kernel of the same release version
 3. Each use the [GNU General Public License (GPL)](https://en.wikipedia.org/wiki/GNU_General_Public_License) for the kernel at the very least
 
 # Notes
