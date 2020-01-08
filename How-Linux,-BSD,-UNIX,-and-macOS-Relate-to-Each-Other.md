@@ -45,6 +45,7 @@ MacOS is a mixed source UNIX OS.
 * The differences between the BSD License and the GPL, while outside the scope of this comparison, are [significant](https://fossbytes.com/open-sources-license-type/)
 * Licensing and certification fees for both [POSIX](http://get.posixcertified.ieee.org/docs/posix-fee-schedule-1.3.PDF) and [UNIX](https://www.opengroup.org/openbrand/Brandfees.htm) are expensive relative to open source OS budgets. This appears to be the main reason BSD and Linux are neither certified nor licensed
 * POSIX certification appears to involve an [audited self-test](http://get.posixcertified.ieee.org/certification_guide.html#Formal%20Testing), using a standardized testing suite supplied by the IEEE
-* UNIX certification appears to involve [approved results self-testing](https://www.opengroup.org/openbrand/docs/faq.html#general21), using [standardized testing suites]9https://www.opengroup.org/openbrand/testing/prodstds.htm) supplied by The Open Group
+* UNIX certification appears to involve [approved results self-testing](https://www.opengroup.org/openbrand/docs/faq.html#general21), using [standardized testing suites](https://www.opengroup.org/openbrand/testing/prodstds.htm) supplied by The Open Group
 * There is at least 1 other standard that exists within the Linux ecosystem only: the [Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/fhs.shtml)
-* The Open Group maintains a [list](https://www.opengroup.org/openbrand/register/) of OSes that have been certified to UNIX standards
+* The Open Group maintains a [list](https://www.opengroup.org/openbrand/register/) of currently marketed OSes that have been certified to comply with the UNIX specification
+* The Open Group & IEEE maintain a [list](http://get.posixcertified.ieee.org/register.html) of products that have been certified to comply with POSIX specification.
