@@ -237,10 +237,11 @@ MANPATH=/opt/local/man:$MANPATH
 * [Backwards compatibility](https://www.lto.org/solutions/benefits/compatibility/)
 * [Recommended models](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#internal)
 
-# Microsoft Windows 10
+# Microsoft Windows 
 
 * [How to perform a clean boot in Windows](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-bot-in-windows)
 * [Release channels](https://www.reddit.com/r/sysadmin/comments/e8k8jt/the_release_ring_sku_combo_completely_specify_an/fadyfq3/)
+* [Deploy Storage Spaces on a stand-alone server](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/deploy-standalone-storage-spaces)
 
 # `nano`
 
