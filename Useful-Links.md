@@ -280,6 +280,12 @@ My OpenRC advice is to interact with it only:
 * [Gentoo OpenRC Wiki](https://wiki.gentoo.org/wiki/OpenRC)
 * [Gentoo supervise-daemon Tips 'n Tricks](https://wiki.gentoo.org/wiki/OpenRC/supervise-daemon#Tips_.27n_tricks)
 
+# Oracle
+
+## Solaris
+
+[The sudden death and eternal life of Solaris](http://dtrace.org/blogs/bmc/2017/09/04/the-sudden-death-and-eternal-life-of-solaris/)
+
 # `pip` for Python 3
 
 ## Installation
