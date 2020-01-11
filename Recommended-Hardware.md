@@ -111,7 +111,6 @@ If you absolutely need to save money or better Windows support than what UniFi C
 
 # Storage
 
-
 ## HDDs
 
 Generally speaking, all HDDs that lack a workload rating have the same reliability. The only 2.5 in HDDs with workload ratings are ≥ 15 mm thick, which means they consume (nearly) as much space as a 3.5 in HDD. Also, I have no experience with the former. Ergo, they are omitted here.
@@ -135,6 +134,10 @@ Western Digital's UltraStar DC HC550 *should* be recommendable, but it [lacks a 
 * StarTech.com (always check here first)
 * IcyDock
 * Vantec
+
+## SATA Controller Cards
+
+[StarTech.com 2 Port PCI Express SATA 6 Gbps eSATA Controller Card](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I)
 
 ## SSDs
 
