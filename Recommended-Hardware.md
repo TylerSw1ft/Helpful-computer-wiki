@@ -12,7 +12,7 @@ Note: I haven't used everything on this list. Some of these products are simply 
 
 ## Rackmount
 
-[Rosewill RSV-4015L – 4U Rackmount with 8 Cooling Fans, 15 Internal Bays](https://www.rosewill.com/product/rsv-4015l-4u-rackmount-with-8-cooling-fans-15-internal-bays/)
+[RSV-L4312 – 4U Rackmount with 5 Cooling Fans, 12 Internal Bays](https://www.rosewill.com/product/rsv-l4312-4u-rackmount-with-5-cooling-fans-12-internal-bays/)
 
 ## Desktop
 
