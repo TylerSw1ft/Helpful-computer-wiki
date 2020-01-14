@@ -137,23 +137,39 @@ Western Digital's UltraStar DC HC550 *should* be recommendable, but it [lacks a 
 
 ## SATA Controller Cards (non-RAID)
 
-Select the highest PCI Express version (1.0, 2.0, etc.) for your available slot (x1, x2, etc.)
+### Throughput needs
 
-### PCI Express 1.0 x1
+The following are based on the highest known (to me) specified throughput values. Check the specs of the disks you're intending to connect to the controller card for their throughput values. To avoid bottlenecking, ensure the selected card's throughput per port exceeds your disks' maximum individual throughput.
 
-[StarTech.com 2 Port PCI Express SATA 6 Gbps eSATA Controller Card](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I) - **Warning: this card gives only 125 MB/s per attached HDD, which is well below SATA I speeds (187.5 MB/s)**
+* HDDs: ≥ 270 MB/s (estimated)
+* SSDs: ≥ 550 MB/s (estimated)
+  * AFAIK no SATA controller supports this much throughput per port. Users intending to use SSDs should probably use a higher end HBA instead
+* SATA 3.0: 750 MB/s
+  * The above comment for SSDs applies 
 
-### PCI Express 2.0 x1
+#### How to calculate throughput per port
 
-[SIIG Dual Profile 4-Channel SATA 6G PCIe Host Card](https://www.siig.com/products/it-products/controllers-storage/serialata/pcie/dual-profile-4-channel-sata-6g-pcie-host-card.html) - **Warning: this card gives only 125 MB/s per attached HDD, which is well below SATA I speeds (187.5 MB/s)**
+1. Look up the **Throughput** value corresponding to the card's **PCI Express version** and lane count (x*n*, where *n* is an integer) in the **PCI Express link performance** table [here](https://en.wikipedia.org/wiki/PCI_Express#History_and_revisions)
+2. Divide the result in 1) by the number of ports on the card
 
-### PCI Express 2.0 x2
+Always select the highest PCI Express version (1.0, 2.0, etc.) for your available slot (x1, x2, etc.) *OR*, if you have multiple available slots, the PCI Expression version + slot width combination that gives you the highest throughput in the **PCI Express link performance table** in 1) above.
 
-[StarTech.com 4 Port PCI Express 2.0 SATA III 6Gbps RAID Controller Card with HyperDuo SSD Tiering](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/4-Port-PCI-Express-SATA-6Gbps-RAID-Controller-Card~PEXSAT34RH)
+#### PCI Express version + lane count combinations to avoid
 
-### PCI Express 3.1 x4
+The following combinations might bottleneck the connected disks and should be avoided unless there are no other options:
 
-[SYBA 5 port Non-RAID SATA III 6Gbp/s PCI-e x4 Controller Card](https://www.sybausa.com/index.php?route=product/product&path=64_181_85&product_id=1027&filter=38,19&limit=32)
+* 1.0 x1,2
+* 2.0 x1
+
+### PCI Express 2.0 x4
+
+* [High Point Rocket 640L](https://highpoint-tech.com/USA_new/series_r600-overview.htm)
+* [SYBA 4 Port SAS/SATA 6Gbps PCI-e 2.0 x4 Card - SY-PEX40096](https://www.sybausa.com/index.php?route=product/product&path=64_181_85&product_id=827&filter=38,19,188&sort=p.price&order=ASC&limit=32)
+  * The "PCIe 2.0 Host Interface (up to 5.0 Gbps)" on the product page appears to be a typo; PCI Express 2.0 has a 5.0 GT/s transfer rate
+
+### PCI Express 3.1 x2
+
+[SYBA 5 port Non-RAID SATA III 6Gbp/s PCI-e x4 Controller Card](https://www.sybausa.com/index.php?route=product/product&path=64_181_85&product_id=1027&filter=38,19&limit=32) (**Warning: this card provides x2 lane width but requires an x4 slot**)
 
 ## SSDs
 
