@@ -218,6 +218,6 @@ Don't skimp on performance with NVMe. Samsung is the fastest, highest endurance,
 ### Automatic restart of loads after UPS shutdown
 
 * APC
-  * Smart-UPS ([Differences between picks]9https://www.apc.com/shop/us/en/tools/compare-products/g2ar2/SMT1500C|SMC1500C/450))
+  * Smart-UPS ([Differences between picks](https://www.apc.com/shop/us/en/tools/compare-products/g2ar2/SMT1500C|SMC1500C/450))
     * [C LCD 120V with SmartConnect](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-C-1500VA-LCD-120V-with-SmartConnect/P-SMC1500C)
     * [LCD 120V with SmartConnect](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-1500VA-LCD-120V-with-SmartConnect/P-SMT1500C)
