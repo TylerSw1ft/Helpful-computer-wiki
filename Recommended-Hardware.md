@@ -137,6 +137,8 @@ Western Digital's UltraStar DC HC550 *should* be recommendable, but it [lacks a 
 
 ## SATA Controller Cards (non-RAID)
 
+Get the SYBA over the StarTech if you have a matching available slot; it's faster. 
+
 ### PCI Express 1.0 x1
 
 [StarTech.com 2 Port PCI Express SATA 6 Gbps eSATA Controller Card](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I)
