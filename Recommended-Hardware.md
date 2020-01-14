@@ -12,7 +12,13 @@ Note: I haven't used everything on this list. Some of these products are simply 
 
 ## Rackmount
 
-[RSV-L4312 – 4U Rackmount with 5 Cooling Fans, 12 Internal Bays](https://www.rosewill.com/product/rsv-l4312-4u-rackmount-with-5-cooling-fans-12-internal-bays/)
+[Rosewill RSV-L4312 – 4U Rackmount with 5 Cooling Fans, 12 Internal Bays](https://www.rosewill.com/product/rsv-l4312-4u-rackmount-with-5-cooling-fans-12-internal-bays/)
+
+Other brands to consider:
+
+* SuperMicro
+* iStarUSA
+* NORCO
 
 ## Desktop
 
