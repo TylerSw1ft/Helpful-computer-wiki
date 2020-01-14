@@ -141,7 +141,11 @@ Get the SYBA over the StarTech if you have a matching available slot; it's faste
 
 ### PCI Express 1.0 x1
 
-[StarTech.com 2 Port PCI Express SATA 6 Gbps eSATA Controller Card](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I)
+[StarTech.com 2 Port PCI Express SATA 6 Gbps eSATA Controller Card](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I) - **Warning: this card gives only 125 MB/s per attached HDD, which is well below SATA I speeds (187.5 MB/s)**
+
+### PCI Express 2.0 x2
+
+[StarTech.com 4 Port PCI Express 2.0 SATA III 6Gbps RAID Controller Card with HyperDuo SSD Tiering](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/4-Port-PCI-Express-SATA-6Gbps-RAID-Controller-Card~PEXSAT34RH)
 
 ### PCI Express 3.1 x4
 
