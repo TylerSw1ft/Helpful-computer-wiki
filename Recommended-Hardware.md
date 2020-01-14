@@ -135,9 +135,15 @@ Western Digital's UltraStar DC HC550 *should* be recommendable, but it [lacks a 
 * IcyDock
 * Vantec
 
-## SATA Controller Cards
+## SATA Controller Cards (non-RAID)
+
+### PCI Express (1.0?) x1
 
 [StarTech.com 2 Port PCI Express SATA 6 Gbps eSATA Controller Card](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I)
+
+### PCI Express 3.1 x4
+
+[SYBA 5 port Non-RAID SATA III 6Gbp/s PCI-e x4 Controller Card](https://www.sybausa.com/index.php?route=product/product&path=64_181_85&product_id=1027&filter=38,19&limit=32)
 
 ## SSDs
 
