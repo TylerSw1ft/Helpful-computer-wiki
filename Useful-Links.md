@@ -178,6 +178,9 @@ Pretty much anything that requires `sudo` needs to be put here:
 * [4k vs. 512](https://community.spiceworks.com/topic/post/6093125) 
   * ([Further discussion](https://www.techpowerup.com/forums/threads/hdd-bytes-per-sector-types-512e-vs-512n-vs-4kn.254422/))
 * [Advanced format (4K) disk compatibility update](https://docs.microsoft.com/en-us/windows/win32/w8cookbook/advanced-format--4k--disk-compatibility-update)
+* [Don't Know What 4K Hard Drive Is? Look Here!](https://www.partitionwizard.com/partitionmagic/what-is-4k-hard-drive.html)
+
+> 4K native HDD is also called 4Kn hard drive. Both 512 emulated hard drive and 4Kn hard drive are 4K drives as their physical sector size are 4096 (4K) bytes. However, for hard disk drives working in the 4K native mode, there is no emulation layer in place, and the disk media directly exposes its 4096, 4112, 4160, or 4224-byte physical sector size to the system firmware and operating system.
 
 # Illumos
 
