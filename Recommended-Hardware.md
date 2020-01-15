@@ -13,15 +13,15 @@ Note: I haven't used everything on this list. Some of these products are simply 
 ## Rackmount
 
 * [Rosewill RSV-L4312 – 4U Rackmount with 5 Cooling Fans, 12 Internal Bays](https://www.rosewill.com/product/rsv-l4312-4u-rackmount-with-5-cooling-fans-12-internal-bays/) (rarely in stock)
-* Super Micro (# of 3.5" HDDs || Max # & type of LP/AICs)
+* Super Micro (# of 3.5" HDDs || Max # & type of AICs)
   * 2U Super Chassis
-    * [825](https://www.supermicro.com/products/chassis/2U/?chs=825) (8 || 7x Low Profile|4x Full Height, Full Length|7x Low Profile, Full Length)
-    * [826](https://www.supermicro.com/products/chassis/2U/?chs=826) (8|12 || 7x Low Profile|4x Full Height, Full Length)
+    * [825](https://www.supermicro.com/products/chassis/2U/?chs=825) (8 || 7x Low Profile | 4x Full Height, Full Length | 7x Low Profile, Full Length)
+    * [826](https://www.supermicro.com/products/chassis/2U/?chs=826) (8|12 || 7x Low Profile | 4x Full Height, Full Length)
   * 3U SuperChassis
-    * [835](https://www.supermicro.com/products/chassis/3U/?chs=835) (8 || 7x Full Height, Full Length|4x Full Height, Half Length)
+    * [835](https://www.supermicro.com/products/chassis/3U/?chs=835) (8 || 7x Full Height, Full Length | 4x Full Height, Half Length)
   * 4U SuperChassis
     * [846](https://www.supermicro.com/products/chassis/4U/?chs=846) (24 || 7x Full Height, Full Length)
-    * [847](https://www.supermicro.com/products/chassis/4U/?chs=847) (36|44|90 || 7x Low Profile|4x Full Height, Full Length)
+    * [847](https://www.supermicro.com/products/chassis/4U/?chs=847) (36|44|90 || 7x Low Profile | 4x Full Height, Full Length)
 
 ## Desktop
 
