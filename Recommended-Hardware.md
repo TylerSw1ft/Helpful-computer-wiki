@@ -147,8 +147,15 @@ Western Digital's UltraStar DC HC550 *should* be recommendable, but it [lacks a 
 * Toshiba Enterprise Capacity Hard Drive – MG Series
   * [US product page](https://toshiba.semicon-storage.com/us/product/storage-products/enterprise-hdd.html) (Limited US availability, especially for higher end models) 
   * [EMEA product page](https://www.toshiba-storage.com/products/enterprise-capacity-hard-drive-mg-series/) with comprehensive [PDF spec sheet](https://www.toshiba-storage.com/wp-content/uploads/2019/09/TOSH_DS_MG_Series_print.pdf)
-* [WD Gold Enterprise Class SATA HDD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/product-brief-wd-gold-2579-810192.pdf)
-
+* Western Digital
+  * [Gold Enterprise Class SATA HDD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/product-brief-wd-gold-2579-810192.pdf)
+  * Ultrastar DC HC (Both the 300 and 500 series HDDs have the same workload rating, but the 500 series is helium filled and has a low annualized failure rate (AFR))
+    * [320](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc300-series/data-sheet-ultrastar-dc-hc320.pdf)
+    * [330](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc300-series/data-sheet-ultrastar-dc-hc330.pdf)
+    * [510](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc500-series/data-sheet-ultrastar-dc-hc510.pdf)
+    * [520](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc500-series/data-sheet-ultrastar-dc-hc520.pdf)
+    * [530](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc500-series/data-sheet-ultrastar-dc-hc530.pdf)
+    
 #### Accessories
 
 [StarTech.com 3.5in Silicone Hard Drive Protector Sleeve with Connector Cap](https://www.startech.com/HDD/Brackets/35in-Silicone-Laptop-Hard-Drive-Protector-Sleeve-with-Connector-Cap~HDDSLEV35)
