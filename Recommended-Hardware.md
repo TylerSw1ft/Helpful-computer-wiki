@@ -22,11 +22,6 @@ Note: I haven't used everything on this list. Some of these products are simply 
   * 4U SuperChassis
     * [846](https://www.supermicro.com/products/chassis/4U/?chs=846) (24 || 7x Full Height, Full Length)
     * [847](https://www.supermicro.com/products/chassis/4U/?chs=847) (36|44|90 || 7x Low Profile|4x Full Height, Full Length)
-Other brands to consider:
-
-* SuperMicro
-* iStarUSA
-* NORCO
 
 ## Desktop
 
