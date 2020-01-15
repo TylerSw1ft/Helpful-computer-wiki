@@ -149,7 +149,7 @@ Western Digital's UltraStar DC HC550 *should* be recommendable, but it [lacks a 
   * [EMEA product page](https://www.toshiba-storage.com/products/enterprise-capacity-hard-drive-mg-series/) with comprehensive [PDF spec sheet](https://www.toshiba-storage.com/wp-content/uploads/2019/09/TOSH_DS_MG_Series_print.pdf)
 * Western Digital
   * [Gold Enterprise Class SATA HDD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/product-brief-wd-gold-2579-810192.pdf)
-  * Ultrastar DC HC (Both the 300 and 500 series HDDs have the same workload rating, but the 500 series is helium filled and has a low annualized failure rate (AFR))
+  * Ultrastar DC HC (Both the 300 and 500 series HDDs have the same workload rating, but the 500 series is helium filled and has a low annualized failure rate (AFR). The 2nd digit in the series number is apparently a drive raw capacity reference)
     * [320](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc300-series/data-sheet-ultrastar-dc-hc320.pdf)
     * [330](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc300-series/data-sheet-ultrastar-dc-hc330.pdf)
     * [510](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc500-series/data-sheet-ultrastar-dc-hc510.pdf)
