@@ -193,7 +193,7 @@ The following combinations might bottleneck the connected disks and should be av
 
 ### PCI Express 3.1 x2
 
-[SYBA 5 port Non-RAID SATA III 6Gbp/s PCI-e x4 Controller Card](https://www.sybausa.com/index.php?route=product/product&path=64_181_85&product_id=1027&filter=38,19&limit=32) (340 MB/s/port) **(Warning: this card provides x2 lane width but requires an x4 slot. Use it only if you lack the slot width for the 2 preceding picks and/or need more than 4 ports)**
+[SYBA 5 port Non-RAID SATA III 6Gbp/s PCI-e x4 Controller Card](https://www.sybausa.com/index.php?route=product/product&path=64_181_85&product_id=1027&filter=38,19&limit=32) (340 MB/s/port) **(WARNING: this card provides x2 lane width but requires an x4 slot. Use it only if you lack the slot width for the 2 preceding picks and/or need more than 4 ports)**
 
 ## SSDs
 
