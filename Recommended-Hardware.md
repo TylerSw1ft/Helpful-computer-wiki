@@ -24,6 +24,10 @@ These recommendations are primarily storage oriented.
     * [HPC-7484](https://www.advantech.com/products/4u_server_chassis/hpc-7484/mod_bd06a4a2-46c2-4f57-aa08-bd286255d781) (8 || 7x Full Height, Full Length)
     * [HPC-8424](https://www.advantech.com/products/4u_server_chassis/hpc-8424/mod_488d4a34-a383-4346-8375-8c275e481c0c) (24 || 7x Full Height, Full Length)
 
+* iStarUSA
+  * 3U
+    * [D-3100HN](http://www.istarusa.com/en/istarusa/products.php?model=D-3100HN) (10 || 4 Full Height, Full Length(?)) **(WARNING: the first three expansion slots on an ATX motherboard cannot be used if using an ATX MB in this chassis)**
+
 * [Supermicro](https://www.supermicro.com/en/support/product-matrices)
   * [2U Super Chassis](https://www.supermicro.com/products/chassis/2U/)
     * [825](https://www.supermicro.com/products/chassis/2U/?chs=825) (8 || 7x Low Profile / 4x Full Height, Full Length / 7x Low Profile, Full Length)
