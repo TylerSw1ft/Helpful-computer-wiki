@@ -388,6 +388,10 @@ https://www.smartmontools.org/wiki/TocDoc
 * [Transition from MongoDB](https://community.ui.com/user/di3/f30234be-4be5-45e5-abf9-a4c2320f7080) in version 5.13.x
 * [EOL Definitions](https://community.ui.com/questions/Announcement-EOL-for-some-UniFi-AP-models/65487283-ce9d-49f4-85b9-b6aa54659ef7)
 
+# UNIX
+
+[What UNIX Cost Us](https://www.youtube.com/watch?v=9-IWMbJXoLM) - A talk about how "the UNIX way" makes a lot of stuff much more difficult than it needs to be
+
 # unRAID
 
 [Calculator](http://unraid.category5.tv/)
