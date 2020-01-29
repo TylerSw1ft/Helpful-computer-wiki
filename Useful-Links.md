@@ -239,6 +239,10 @@ MANPATH=/opt/local/man:$MANPATH
 * Documentation parody: [You Figure It Out](https://www.youtube.com/watch?v=ZZtu6c_c3W8)
 * [Linux Boot Process: What You Should Know](https://www.maketecheasier.com/linux-boot-process/)
 
+# Logical Volume Management
+
+[https://devconnected.com/logical-volume-management-explained-on-linux/](https://devconnected.com/logical-volume-management-explained-on-linux/)
+
 # LTO-8 
 
 * [Backwards compatibility](https://www.lto.org/solutions/benefits/compatibility/)
