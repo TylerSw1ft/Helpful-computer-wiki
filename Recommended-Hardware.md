@@ -44,11 +44,11 @@ These recommendations are primarily storage oriented.
 
 #### Full
 
-##### No Tempered Glass
+##### No tempered glass
 
 [Phanteks Enthoo Pro](http://www.phanteks.com/Enthoo-Pro.html)
 
-##### Tempered Glass
+##### Tempered glass
 
 [Phanteks Enthoo Pro Tempered Glass](http://www.phanteks.com/Enthoo-Pro-TemperedGlass.html)
 
@@ -115,9 +115,9 @@ These recommendations are primarily storage oriented.
 
 ## Wireless 
 
-### Access Points
+### Access points
 
-#### High Performance
+#### High performance
 
 If you don't absolutely need an AP right now, wait for Ubiquity UniFi Wi-Fi 6 APs before buying. Also, bear in mind you'll need UniFi Controller for all of the following. If you want to run Controller on standalone hardware, I recommend Debian 10 on a [used PC](https://github.com/jdrch/Hardware#what-are-the-minimum-specs-you-recommend-for-any-used-pc) or Raspbian on a Raspberry Pi 4. 
 
@@ -166,7 +166,7 @@ Western Digital's UltraStar DC HC550 *should* be recommendable, but it [lacks a 
 * IcyDock
 * Vantec
 
-## SATA Controller Cards (non-RAID)
+## SATA controller cards (non-RAID)
 
 ### Throughput needs
 
@@ -192,13 +192,15 @@ The following combinations might bottleneck the connected disks and should be av
 * 1.0 x1,2
 * 2.0 x1
 
-### PCI Express 2.0 x4
+#### Recommended products
+
+##### PCI Express 2.0 x4
 
 * [High Point Rocket 640L](https://highpoint-tech.com/USA_new/series_r600-overview.htm) (4 ports, 500 MB/s/port)
 * [SYBA 4 Port SAS/SATA 6Gbps PCI-e 2.0 x4 Card - SY-PEX40096](https://www.sybausa.com/index.php?route=product/product&path=64_181_85&product_id=827&filter=38,19,188&sort=p.price&order=ASC&limit=32) (500 MB/s/port)
   * The "PCIe 2.0 Host Interface (up to 5.0 Gbps)" on the product page appears to be a typo; PCI Express 2.0 has a 5.0 GT/s transfer rate
 
-### PCI Express 3.1 x2
+##### PCI Express 3.1 x2
 
 [SYBA 5 port Non-RAID SATA III 6Gbp/s PCI-e x4 Controller Card](https://www.sybausa.com/index.php?route=product/product&path=64_181_85&product_id=1027&filter=38,19&limit=32) (340 MB/s/port) **(WARNING: this card provides x2 lane width but requires an x4 slot. Use it only if you lack the slot width for the 2 preceding picks and/or need more than 4 ports)**
 
@@ -208,7 +210,7 @@ The following combinations might bottleneck the connected disks and should be av
 
 Unless you're using the SSD in an extremely write-heavy application (e.g. as an array cache drive) or need > 2 TB of capacity, get the Crucial MX500.
 
-#### Performance & Endurance
+#### Performance & endurance
 
 * [Samsung SSD 860 EVO 2.5" SATA III](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-2-5--sata-iii-2tb-mz-76e2t0b-am/)
 * [Samsung SSD 860 PRO 2.5" SATA III](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-pro-2-5--sata-iii-2tb-mz-76p2t0bw/)
@@ -257,4 +259,9 @@ Don't skimp on performance with NVMe. Samsung is the fastest, highest endurance,
 
 ## Type C
 
-[https://thewirecutter.com/reviews/best-usb-c-cables/](https://thewirecutter.com/reviews/best-usb-c-cables/)
+[The Best USB-C Cables and Adapters](https://thewirecutter.com/reviews/best-usb-c-cables/)
+
+### Charge + Listen adapters
+
+* [Belkin RockStar™ 3.5mm Audio + USB-C™ Charge Adapter](https://www.belkin.com/us/p/P-F7U080/)
+* [Moshi USB-C Digital Audio Adapter with Charging](https://www.moshi.com/en/product/usb-c-to-digital-audio-adapter-with-charging-adapter-ipad-pro/silver)
