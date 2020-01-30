@@ -92,6 +92,13 @@ These recommendations are primarily storage oriented.
    * Pro
    * Z
 
+# Displays
+
+## Monitors
+
+[BenQ Designer Monitor with 27 inch, 4K UHD, sRGB | PD2700U](https://www.benq.com/en-us/monitor/designer/pd2700u.html)
+* High end monitor users tend to be very demanding and nitpicky, so anything with a ≥ 4/5 ⭐ rating is very, very good
+
 # Docks
 
 ## USB 3.1 Gen 1+
@@ -223,7 +230,13 @@ Unless you're using the SSD in an extremely write-heavy application (e.g. as an 
 
 Don't skimp on performance with NVMe. Samsung is the fastest, highest endurance, and best supported on the market.
 
+#### PCI Express 3.0
+
 [Samsung SSD 970 EVO Plus NVMe M.2](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1-tb-mz-v7s1t0b-am/)
+
+#### PCI Express 4.0
+
+Samsung SSD 980 PRO ([Announced at CES 2020](https://www.anandtech.com/show/15352/ces-2020-samsung-980-pro-pcie-40-ssd-makes-an-appearance), not yet available)
 
 ## Tape
 
