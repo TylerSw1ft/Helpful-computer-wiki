@@ -242,13 +242,20 @@ Samsung SSD 980 PRO ([Announced at CES 2020](https://www.anandtech.com/show/1535
 
 ### LTO-8
 
+Note: all LTO-8 drives need SAS at the minimum and do not support SATA. 
+
 #### Drives
+
+##### External
+
+[HPE StoreEver LTO-8 Ultrium 30750 External Tape Drive](https://buy.hpe.com/us/en/storage/tape-storage/tape-drives-ultrium/storeever-ultrium-tape-drives/hpe-storeever-lto-ultrium-tape-drives/hpe-storeever-lto-8-ultrium-30750-external-tape-drive/p/BC023A)
 
 ##### Internal
 
-[Quantum LTO Drives](https://iq.quantum.com/exLink.asp?10444458OP44N16I37407297&view=1)
-* TC-L82AN-EY
-* TC-L82AN-BR
+* [Quantum LTO Drives](https://iq.quantum.com/exLink.asp?10444458OP44N16I37407297&view=1)
+  * TC-L82AN-EY
+  * TC-L82AN-BR
+* [HPE StoreEver LTO-8 Ultrium 30750 Internal Tape Drive](https://buy.hpe.com/us/en/storage/tape-storage/tape-drives-ultrium/storeever-ultrium-tape-drives/hpe-storeever-lto-ultrium-tape-drives/hpe-storeever-lto-8-ultrium-30750-internal-tape-drive/p/BC022A)
 
 # UPS
 
