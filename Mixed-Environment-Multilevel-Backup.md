@@ -22,7 +22,7 @@ This requires multiple solutions, and I was getting confused keeping all of them
 
 ![](https://raw.githubusercontent.com/jdrch/Hardware/c9383158334984d54eb6330686acdb8a65e1f820/Backup%20Table.png)
 
-I also have target dates to keep myself on track. The object here is ultimately turn the entire top table green.
+The objective here is ultimately turn the entire top table green.
 
 The point of this is to help myself (and others who might want to use the same method) to see:
 
@@ -40,7 +40,7 @@ To keep the spreadsheet manageable, there isn't. However, I'm building a list of
 
 **This looks expensive**
 
-The most expensive part has been the HDDs. The only paid software products in the list are Office 356 and Resilio Sync, and I have a lifetime free license from helping the latter beta test back in the day. 3 of the listed PCs are castoffs and I have another Craigslist one waiting in the wings, possibly for Bacula or pfSense purposes, whichever duty calls first.
+The most expensive part has been the HDDs. The only paid software products in the list are Office 356 and Resilio Sync, and I have a lifetime free license from helping the latter beta test back in the day. 
 
 **Why not stick on one data integrity filesystem?**
 
