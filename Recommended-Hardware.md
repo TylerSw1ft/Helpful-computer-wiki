@@ -192,22 +192,22 @@ The following are based on the highest known (to me) specified throughput values
 
 Always select the highest PCI Express version (1.0, 2.0, etc.) for your available slot (x1, x2, etc.) *OR*, if you have multiple available slots, the PCI Expression version + slot width combination that gives you the highest throughput in the **PCI Express link performance table** in 1) above.
 
-#### PCI Express version + lane count combinations to avoid
+### PCI Express version + lane count combinations to avoid
 
 The following combinations might bottleneck the connected disks and should be avoided unless there are no other options:
 
 * 1.0 x1,2
 * 2.0 x1
 
-#### Recommended products
+### Cards
 
-##### PCI Express 2.0 x4
+#### PCI Express 2.0 x4
 
 * [High Point Rocket 640L](https://highpoint-tech.com/USA_new/series_r600-overview.htm) (4 ports, 500 MB/s/port)
 * [SYBA 4 Port SAS/SATA 6Gbps PCI-e 2.0 x4 Card - SY-PEX40096](https://www.sybausa.com/index.php?route=product/product&path=64_181_85&product_id=827&filter=38,19,188&sort=p.price&order=ASC&limit=32) (500 MB/s/port)
   * The "PCIe 2.0 Host Interface (up to 5.0 Gbps)" on the product page appears to be a typo; PCI Express 2.0 has a 5.0 GT/s transfer rate
 
-##### PCI Express 3.1 x2
+#### PCI Express 3.1 x2
 
 [SYBA 5 port Non-RAID SATA III 6Gbp/s PCI-e x4 Controller Card](https://www.sybausa.com/index.php?route=product/product&path=64_181_85&product_id=1027&filter=38,19&limit=32) (340 MB/s/port) **(WARNING: this card provides x2 lane width but requires an x4 slot. Use it only if you lack the slot width for the 2 preceding picks and/or need more than 4 ports)**
 
