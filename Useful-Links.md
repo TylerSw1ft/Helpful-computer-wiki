@@ -25,6 +25,16 @@
 * [Lack of DeviceTree support](https://www.reddit.com/r/linux/comments/dyv2qi/google_outlines_plans_for_mainline_linux_kernel/f84kokk/)
 * [Combination of the above](https://www.reddit.com/r/Android/comments/e5qqn6/engineer_from_samsung_says_chipset_vendors_are_to/f9rq3dm/)
 
+# ANSYS
+
+## Benchmarks
+
+### CFD
+
+* [ANSYS FLUENT Performance Comparison: AMD Opteron vs. Intel XEON](http://www.padtinc.com/blog/ansys-fluent-performance-comparison-amd-opteron-vs-intel-xeon/)
+* [Part 2: ANSYS FLUENT Performance Comparison: AMD Opteron vs. Intel XEON](Part 2: ANSYS FLUENT Performance Comparison: AMD Opteron vs. Intel XEON)
+* [Xeon Gold Cascade Lake vs Epyc Rome - CFX & Fluent - Benchmarks (Windows Server 2019)](https://www.cfd-online.com/Forums/hardware/223929-xeon-gold-cascade-lake-vs-epyc-rome-cfx-fluent-benchmarks-windows-server-2019-a.html)
+
 # Backup
 
 ## Strategy
