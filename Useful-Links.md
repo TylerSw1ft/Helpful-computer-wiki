@@ -243,6 +243,10 @@ MANPATH=/opt/local/man:$MANPATH
 
 [The final ISA showdown: Is ARM, x86, or MIPS intrinsically more power efficient?](https://www.extremetech.com/extreme/188396-the-final-isa-showdown-is-arm-x86-or-mips-intrinsically-more-power-efficient/3) Answer: power efficiency is largely independent of ISA
 
+# Latency
+
+[Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+
 # Linux
 
 * [Basic Linux Commands](https://linuxize.com/post/basic-linux-commands/)
@@ -281,10 +285,6 @@ MANPATH=/opt/local/man:$MANPATH
 # `nnn`
 
 [Keyboard and mouse](https://github.com/jarun/nnn#keyboard-and-mouse)
-
-# Nutanix
-
-[The Importance of Latency](https://nutanixbible.com/#anchor-a-brief-lesson-in-history-the-importance-of-latency)
 
 # OpenRC
 
