@@ -282,6 +282,10 @@ MANPATH=/opt/local/man:$MANPATH
 
 [Keyboard and mouse](https://github.com/jarun/nnn#keyboard-and-mouse)
 
+# Nutanix
+
+[The Importance of Latency](https://nutanixbible.com/#anchor-a-brief-lesson-in-history-the-importance-of-latency)
+
 # OpenRC
 
 My OpenRC advice is to interact with it only:
