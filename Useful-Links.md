@@ -251,7 +251,7 @@ MANPATH=/opt/local/man:$MANPATH
 
 # Logical Volume Management
 
-[https://devconnected.com/logical-volume-management-explained-on-linux/](https://devconnected.com/logical-volume-management-explained-on-linux/)
+[Logical Volume Management Explained on Linux](https://devconnected.com/logical-volume-management-explained-on-linux/)
 
 # LTO-8 
 
