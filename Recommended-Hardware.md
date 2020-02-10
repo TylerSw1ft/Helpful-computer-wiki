@@ -85,7 +85,7 @@ These recommendations are primarily storage oriented.
 6. Display: ≥ 768p
 7. LAN: ≥ 1000BASE-T Ethernet
 
-## Enterprise product lines
+## Enterprise desktop product lines
 
 * Dell
    * OptiPlex
@@ -145,6 +145,14 @@ In order of increasing performance and client density:
 If you absolutely need to save money or better Windows support than what UniFi Controller offers:
 
 [EAP245 V3](https://www.tp-link.com/us/business-networking/ceiling-mount-access-point/eap245/v3/) + [Omada Software Controller](https://www.tp-link.com/us/business-networking/ceiling-mount-access-point/eap-controller/) + [Omada app](https://play.google.com/store/apps/details?id=com.tplink.omada)
+
+# Scanners
+
+## Automatic Document Feed (ADF)/Flatbed
+
+For some reason, it's become incredibly difficult to find highly rated (≥ 4⭐) ADF + flatbed scanners. However, the following model comes the closest of all (the affordable ones) I've seen:
+
+[Xerox Duplex Combo Scanner](https://www.xeroxscanners.com/en/us/products/item.asp?PN=XDCS)
 
 # Storage
 
