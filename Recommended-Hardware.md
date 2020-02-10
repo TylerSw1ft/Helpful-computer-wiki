@@ -150,7 +150,7 @@ If you absolutely need to save money or better Windows support than what UniFi C
 
 ## Automatic Document Feed (ADF)/Flatbed
 
-For some reason, it's become incredibly difficult to find highly rated (≥ 4⭐) ADF + flatbed scanners. However, the following model comes the closest of all (the affordable ones) I've seen:
+For some reason, it's become incredibly difficult to find highly rated (≥ 4 ⭐) ADF + flatbed scanners. However, the following model comes the closest of all (the affordable ones) I've seen:
 
 [Xerox Duplex Combo Scanner](https://www.xeroxscanners.com/en/us/products/item.asp?PN=XDCS)
 
