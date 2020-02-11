@@ -31,8 +31,9 @@
 
 ### CFD
 
-* [ANSYS FLUENT Performance Comparison: AMD Opteron vs. Intel XEON](http://www.padtinc.com/blog/ansys-fluent-performance-comparison-amd-opteron-vs-intel-xeon/)
-* [Part 2: ANSYS FLUENT Performance Comparison: AMD Opteron vs. Intel XEON](http://www.padtinc.com/blog/part2-ansys-fluent-performance-comparison-amd-opteron-vs-intel-xeon/)
+* ANSYS FLUENT Performance Comparison: AMD Opteron vs. Intel XEON, Part
+  * [1](http://www.padtinc.com/blog/ansys-fluent-performance-comparison-amd-opteron-vs-intel-xeon/)
+  * [2](http://www.padtinc.com/blog/part2-ansys-fluent-performance-comparison-amd-opteron-vs-intel-xeon/)
 * [Xeon Gold Cascade Lake vs Epyc Rome - CFX & Fluent - Benchmarks (Windows Server 2019)](https://www.cfd-online.com/Forums/hardware/223929-xeon-gold-cascade-lake-vs-epyc-rome-cfx-fluent-benchmarks-windows-server-2019-a.html)
 
 # Backup
