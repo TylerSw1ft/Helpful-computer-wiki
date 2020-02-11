@@ -246,6 +246,7 @@ MANPATH=/opt/local/man:$MANPATH
 # Latency
 
 [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+* Note: this analysis is not exhaustive. There are other considerations, [such as memory bandwidth upper and lower limits](https://github.com/jdrch/Hardware/wiki/Useful-Links#bandwidth).
 
 # Linux
 
