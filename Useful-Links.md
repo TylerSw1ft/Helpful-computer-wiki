@@ -262,6 +262,12 @@ MANPATH=/opt/local/man:$MANPATH
 * [Backwards compatibility](https://www.lto.org/solutions/benefits/compatibility/)
 * [Recommended models](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#internal)
 
+# Memory
+
+## Bandwidth
+
+[Memory Bandwidth Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
+
 # Microsoft Windows 
 
 * [How to perform a clean boot in Windows](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-bot-in-windows)
