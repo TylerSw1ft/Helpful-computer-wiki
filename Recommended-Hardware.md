@@ -273,6 +273,8 @@ Note: all LTO-8 drives need SAS at the minimum and do not support SATA.
 
 # UPS
 
+I've heard good things about Eaton, but their lineup on their product site is pretty much impossible to filter, so I really have no idea where to start with them.
+
 ## Sine Wave
 
 * CyberPower
