@@ -386,7 +386,8 @@ Run:
 
 # Scripting (Linux)
 
-[How to make a script executable](https://stackoverflow.com/a/43530252/3754100): at script location, run `chmod +x <script-file-name-including-extension>`
+* [How to make a script executable](https://stackoverflow.com/a/43530252/3754100): at script location, run `chmod +x <script-file-name-including-extension>`
+* How to execute script: `$ ./script.sh` or `# ./script.sh`
 
 # smartmontools
 
