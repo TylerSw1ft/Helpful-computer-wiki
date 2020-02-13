@@ -413,14 +413,22 @@ https://www.smartmontools.org/wiki/TocDoc
 
 [Add a splash of color to your command line environment](https://blogs.aalto.fi/marijn/2016/07/05/add-a-splash-of-color-to-your-command-line-environment/)
 
-# Ubuntu
+# Ubiquiti
 
-[How to Easily Add Users to Groups in Ubuntu](https://www.maketecheasier.com/add-remove-user-to-groups-in-ubuntu/) (See Section 2)
+## UniFi
 
-# UniFi Controller
+### Controller
 
 * [Transition from MongoDB](https://community.ui.com/user/di3/f30234be-4be5-45e5-abf9-a4c2320f7080) in version 5.13.x
 * [EOL Definitions](https://community.ui.com/questions/Announcement-EOL-for-some-UniFi-AP-models/65487283-ce9d-49f4-85b9-b6aa54659ef7)
+
+### Cloud Key
+
+[Cloud Keys are easily corrupted by power failures](https://www.reddit.com/r/Ubiquiti/comments/f2wg2f/devices_keep_getting_lost/fhfn31p/)
+
+# Ubuntu
+
+[How to Easily Add Users to Groups in Ubuntu](https://www.maketecheasier.com/add-remove-user-to-groups-in-ubuntu/) (See Section 2)
 
 # UNIX
 
