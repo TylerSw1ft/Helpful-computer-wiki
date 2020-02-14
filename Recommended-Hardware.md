@@ -22,13 +22,23 @@ These recommendations are primarily storage oriented.
 
 * [Advantech](https://www.advantech.com/products/server-chassis/sub_214580ab-268b-4b3c-b02e-0c5d94d0ca14)
   * [2U Chassis](https://www.advantech.com/products/2u-chassis/sub_4u_industrial_server)
-    * [HPC-7282](https://www.advantech.com/products/4u_industrial_server/hpc-7282/mod_77c9cedc-fcaf-4129-a5f0-a9ac86ac3976) (8 || 7x Low Profile)
-    * [HPC-8212](https://www.advantech.com/products/4u_industrial_server/hpc-8212/mod_8e45b38f-3059-445f-b1e0-02d1eef72325) (12 || 7x Low Profile / 3x Full Height, Full Length)
+    * [HPC-7282](https://www.advantech.com/products/4u_industrial_server/hpc-7282/mod_77c9cedc-fcaf-4129-a5f0-a9ac86ac3976) (8 || 7 Low Profile)
+    * [HPC-8212](https://www.advantech.com/products/4u_industrial_server/hpc-8212/mod_8e45b38f-3059-445f-b1e0-02d1eef72325) (12 || 7 Low Profile / 3 Full Height, Full Length)
   * [3U Chassis](https://www.advantech.com/products/3u-chassis/sub_9d52d6b7-f385-42de-9af4-779465d54e9a)  
-    * [HPC-8316](https://www.advantech.com/products/9d52d6b7-f385-42de-9af4-779465d54e9a/hpc-8316/mod_55cbce0d-b4d2-4cef-850f-e26852685197) (16 || 6x Full Height, Full Length)
+    * [HPC-8316](https://www.advantech.com/products/9d52d6b7-f385-42de-9af4-779465d54e9a/hpc-8316/mod_55cbce0d-b4d2-4cef-850f-e26852685197) (16 || 6 Full Height, Full Length)
   * [4U Chassis](https://www.advantech.com/products/4u-chassis/sub_4u_server_chassis)
-    * [HPC-7484](https://www.advantech.com/products/4u_server_chassis/hpc-7484/mod_bd06a4a2-46c2-4f57-aa08-bd286255d781) (8 || 7x Full Height, Full Length)
-    * [HPC-8424](https://www.advantech.com/products/4u_server_chassis/hpc-8424/mod_488d4a34-a383-4346-8375-8c275e481c0c) (24 || 7x Full Height, Full Length)
+    * [HPC-7484](https://www.advantech.com/products/4u_server_chassis/hpc-7484/mod_bd06a4a2-46c2-4f57-aa08-bd286255d781) (8 || 7 Full Height, Full Length)
+    * [HPC-8424](https://www.advantech.com/products/4u_server_chassis/hpc-8424/mod_488d4a34-a383-4346-8375-8c275e481c0c) (24 || 7 Full Height, Full Length)
+
+* [AIC](https://www.aicipc.com/en/solutions/170-1419)
+  * 2U
+    * [RSC-2ET](https://www.aicipc.com/en/productdetail/84) (12 || 7 Low Profile)
+  * 3U
+    * [RSC-3ET](https://www.aicipc.com/en/productdetail/85) (16 || 7 Full Height)
+  * 4U
+    * [RSC-4BT](https://www.aicipc.com/en/productdetail/86) (36 || 7 Low Profile)
+    * [RSC-4ET](https://www.aicipc.com/en/productdetail/87) (24 || 7 Full Height)
+    * [RSC-4H](https://www.aicipc.com/en/productdetail/91) (60 || 7 Full Height)
 
 * [iStarUSA](http://www.istarusa.com/en/istarusa/)
   * 3U
@@ -36,13 +46,13 @@ These recommendations are primarily storage oriented.
 
 * [Supermicro](https://www.supermicro.com/en/support/product-matrices)
   * [2U Super Chassis](https://www.supermicro.com/products/chassis/2U/)
-    * [825](https://www.supermicro.com/products/chassis/2U/?chs=825) (8 || 7x Low Profile / 4x Full Height, Full Length / 7x Low Profile, Full Length)
-    * [826](https://www.supermicro.com/products/chassis/2U/?chs=826) (8 / 12 || 7x Low Profile / 4x Full Height, Full Length)
+    * [825](https://www.supermicro.com/products/chassis/2U/?chs=825) (8 || 7 Low Profile / 4 Full Height, Full Length / 7 Low Profile, Full Length)
+    * [826](https://www.supermicro.com/products/chassis/2U/?chs=826) (8 / 12 || 7 Low Profile / 4 Full Height, Full Length)
   * [3U SuperChassis](https://www.supermicro.com/products/chassis/3U/)
-    * [835](https://www.supermicro.com/products/chassis/3U/?chs=835) (8 || 7x Full Height, Full Length / 4x Full Height, Half Length)
+    * [835](https://www.supermicro.com/products/chassis/3U/?chs=835) (8 || 7 Full Height, Full Length / 4 Full Height, Half Length)
   * [4U SuperChassis](https://www.supermicro.com/products/chassis/4U/)
-    * [846](https://www.supermicro.com/products/chassis/4U/?chs=846) (24 || 7x Full Height, Full Length)
-    * [847](https://www.supermicro.com/products/chassis/4U/?chs=847) (36 / 44 / 90 || 7x Low Profile / 4x Full Height, Full Length)
+    * [846](https://www.supermicro.com/products/chassis/4U/?chs=846) (24 || 7 Full Height, Full Length)
+    * [847](https://www.supermicro.com/products/chassis/4U/?chs=847) (36 / 44 / 90 || 7 Low Profile / 4 Full Height, Full Length)
 
 ## Desktop
 
