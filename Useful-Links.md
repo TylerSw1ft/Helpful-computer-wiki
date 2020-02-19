@@ -1,3 +1,5 @@
+# WARNING: The links on this page are not necessarily exhaustive with respect to each topic
+
 # Android
 
 ## Developer Options
@@ -276,7 +278,7 @@ MANPATH=/opt/local/man:$MANPATH
 
 ## [Storage](https://docs.microsoft.com/en-us/windows-server/storage/storage)
 
-## Storage Spaces
+## [Storage Spaces](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/overview) ([Direct](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/storage-spaces-direct-overview))
 
 ### Current
 
