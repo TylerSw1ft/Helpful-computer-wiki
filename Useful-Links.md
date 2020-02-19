@@ -273,7 +273,23 @@ MANPATH=/opt/local/man:$MANPATH
 
 * [How to perform a clean boot in Windows](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-bot-in-windows)
 * [Release channels](https://www.reddit.com/r/sysadmin/comments/e8k8jt/the_release_ring_sku_combo_completely_specify_an/fadyfq3/)
+
+## [Storage](https://docs.microsoft.com/en-us/windows-server/storage/storage)
+
+## Storage Spaces
+
+### Current
+
 * [Deploy Storage Spaces on a stand-alone server](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/deploy-standalone-storage-spaces)
+
+### Legacy
+
+These are articles based on previous gen Windows releases. While they may not be 100% accurate with respect to current releases, they do a fairly good job of giving a general idea of how Storage Spaces behaves and functions internally.
+
+* [Deep Dive: The Storage Pool in Storage Spaces Direct](https://techcommunity.microsoft.com/t5/storage-at-microsoft/deep-dive-the-storage-pool-in-storage-spaces-direct/ba-p/425959#)
+* [Storage Spaces - Designing for Performance](https://social.technet.microsoft.com/wiki/contents/articles/15200.storage-spaces-designing-for-performance.aspx)
+* [Storage Spaces Frequently Asked Questions (FAQ)](https://social.technet.microsoft.com/wiki/contents/articles/11382.storage-spaces-frequently-asked-questions-faq.aspx)
+* [Virtualizing storage for scale, resiliency, and efficiency](https://docs.microsoft.com/en-us/archive/blogs/b8/virtualizing-storage-for-scale-resiliency-and-efficiency)
 
 # `nano`
 
