@@ -75,12 +75,6 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 
 [`INFECTED: Possible Malicious Linux.Xor.DDoS installed` false positive occurs whenever there is an executable in /tmp](https://www.linuxquestions.org/questions/slackware-14/possible-infection-chrootkit-reports-linux-xor-ddos-4175605450/#post5707549)
 
-# `find`
-
-## Syntax
-
-To find a file with a certain name in a given path: `# find /PathToBeSearched -type -f -name filename.extension`
-
 ## FreeBSD
 
 * [FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
@@ -187,6 +181,12 @@ Pretty much anything that requires `sudo` needs to be put here:
 # Fans
 
 [Effects of Grill Patterns on Fan Performance/Noise](https://www.pugetsystems.com/labs/articles/Effects-of-Grill-Patterns-on-Fan-Performance-Noise-107/)
+
+# `find`
+
+## Syntax
+
+To find a file with a certain name in a given path: `# find /PathToBeSearched -type -f -name filename.extension`
 
 # Firefox
 
