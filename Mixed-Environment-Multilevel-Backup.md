@@ -1,3 +1,5 @@
+This project is tracked [here](https://github.com/jdrch/Hardware/projects/2).
+
 # Core backup principles
 
 * Prepare to permanently lose anything that isn't backed up. I prefer this to "back *everything* up," as some things aren't worth the efort
