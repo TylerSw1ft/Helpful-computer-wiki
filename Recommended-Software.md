@@ -1,6 +1,7 @@
 # Foreword
 
-* The following are either software I've used personally or know to work best in the noted capacity/context. The list of supported OSes for particular applications is not necessarily exhaustive
+* The following are either software I've used personally or know to work best in the noted capacity/context. 
+* The list of supported OSes for particular applications is not necessarily exhaustive
 * GhostBSD is based on FreeBSD, and so anything that is listed as working with one can be assumed to work with both unless otherwise stated
 
 # Antimalware
@@ -39,6 +40,14 @@
 
 There are many people who swear by `rsync`, but I find it obtuse to use, so it's not listed here.
 
+# BitTorrent Clients
+
+[qBittorrent](https://www.qbittorrent.org) (BSD, Haiku, Linux, macOS, OS/2, Windows)
+
+# Calculators
+
+* Calculator (Windows)
+
 # Calendars
 
 [Google Calendar](https://calendar.google.com)
@@ -51,8 +60,8 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 
 # Community Chat Clients
 
-* Discord (Android, iOS, Linux, macOS, web, Windows)
-* Telegram (Android, FreeBSD, iOS, Linux, macOS, web, Windows)
+* [Discord](https://discordapp.com) (Android, iOS, Linux, macOS, web, Windows)
+* [Telegram](https://telegram.org/) (Android, FreeBSD, iOS, Linux, macOS, web, Windows)
 
 # Computational Fluid Dynamics Solvers
 
@@ -63,6 +72,11 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 
 * [draw.io](https://www.draw.io/) (web)
 * [Microsoft Visio](https://products.office.com/en-us/visio/flowchart-software) (Windows)
+
+# Download Managers
+
+* [JDownloader](http://installer.jdownloader.org/ic/JD2SilentSetup_x64.exe) (Windows)
+* [Persepolis](https://persepolisdm.github.io/) (Linux, Windows)
 
 # Email Clients
 
@@ -76,6 +90,11 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 * File Explorer (Windows)
 * [Krusader](https://krusader.org/) (KDE)
 * [MiXplorer Silver - File Manager](https://play.google.com/store/apps/details?id=com.mixplorer.silver) (Android)
+
+# (s)FTP Clients
+
+* [FileZilla](https://filezilla-project.org/) (FreeBSD, Linux, macOS, Windows)
+* [MobaXterm](https://mobaxterm.mobatek.net/) (Windows)
 
 # Image Viewers
 
@@ -101,14 +120,19 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 * [Foobar2000](https://www.foobar2000.org/) (Windows)
 * [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) (Android)
 
+# Music Streamers
+
+* Soundcloud
+* [Spotify](https://www.spotify.com)
+
 # Music Taggers
 
 [MP3Tag](https://www.mp3tag.de/en/) (Windows)
 
 # Notekeepers
 
-* Evernote (Android, iOS, macOS, web, Windows)
-* Microsoft OneNote (Android, iOS, macOS, web, Windows)
+* [Evernote](https://evernote.com/) (Android, iOS, macOS, web, Windows)
+* [Microsoft OneNote](https://www.onenote.com) (Android, iOS, macOS, web, Windows)
 
 # Notification Mirrors
 
@@ -121,12 +145,14 @@ Pushbullet (Android, web, Windows)
   * FreeNAS (NAS)
   * GhostBSD (Desktop, Server)
   * pfSense (Firewall)
-* IoT
-  * Raspbian
 * Linux Distributions
+  * Android (mobile)
+    * [LineageOS](https://lineageos.org/)
+    * Samsung One UI
   * Debian Stable (Desktop)
   * Debian Stable Server (Server)
   * Proxmox (Virtualization Environment)
+  * Raspbian (IoT)
 * UNIX
   * Oracle Solaris (Desktop, Server)
 * Unix
@@ -138,19 +164,18 @@ Pushbullet (Android, web, Windows)
 
 # Partition Managers
 
-* MiniTool Partition Wizard (Windows)
-* GParted (Linux, OpenIndiana)
+* [MiniTool Partition Wizard Free](https://www.partitionwizard.com/free-partition-manager.html) (Windows)
+* [GParted](https://gparted.org/) (Linux, OpenIndiana)
 
 # Password Managers
 
 * KeePass (FreeBSD, Linux, OpenIndiana, Windows)
 * KeePass2Android (Android)
-* KeePassXC (FreeBSD, Linux, macOS, Windows)
+* [KeePassXC](https://keepassxc.org/) (Linux, macOS, Windows)
 
 # PDF Clients
 
 * Adobe Reader DC (Windows)
-* SumatraPDF (Windows)
 * Xodo (Android)
 
 # Presentation Clients
@@ -167,13 +192,13 @@ ANSYS Workbench (Linux, Windows)
 
 # Spreadsheets
 
-* Google Sheets (web)
+* [Google Sheets](https://www.google.com/sheets/about/) (web)
 * Microsoft Excel (macOS, Windows)
 
 # SSH Clients 
 
 * Ásbrú Connection Manager (Linux)
-* MobaXterm (Windows)
+* MobaXterm
 
 # Structural Solvers
 
@@ -186,20 +211,29 @@ Todoist
 # Text Editors 
 
 * QuickEdit+ (Android)
-* Sublime Text (Linux, Windows)
+* [Sublime Text](https://www.sublimetext.com/) (Linux, Windows)
 
-# TOTP
+# Twitter Clients
 
-Authy (Android, iOS, desktop)
+* [Tweeten](https://tweetenapp.com) (Chrome, macOS, Windows)
+* Twitter (Android, iOS, web, [Windows](https://www.microsoft.com/en-us/p/twitter/9wzdncrfj140))
+
+# Two Factor Authentication App
+
+[Authy](https://authy.com/) (Android, iOS, desktop)
 
 # Unit Converters
 
 Converber (Windows)
 
+# Volume Spanners
+
+[StableBit DrivePool](https://stablebit.com/DrivePool)
+
 # Web Browsers 
 
-* Mozilla Firefox (Android, FreeBSD, Linux, macOS, OpenIndiana, Windows)
-* Google Chrome (Android, FreeBSD, Linux, macOS, Windows)
+* [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) (Android, FreeBSD, iOS, Linux, macOS, OpenIndiana, Windows)
+* [Google Chrome](https://www.google.com/chrome/) (Android, FreeBSD, Linux, macOS, Windows)
 
 # Word Processors
 
