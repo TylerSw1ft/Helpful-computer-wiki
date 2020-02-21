@@ -127,8 +127,8 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 
 # Music Streamers
 
-* Soundcloud
-* [Spotify](https://www.spotify.com)
+* Soundcloud (Android, iOS, web)
+* [Spotify](https://www.spotify.com) (Android, iOS, Linux, web, Windows)
 
 # Music Taggers
 
@@ -158,14 +158,14 @@ Pushbullet (Android, web, Windows)
   * Debian Stable Server (Server)
   * Proxmox (Virtualization Environment)
   * Raspbian (IoT)
+* Microsoft Windows Semi-Annual Channel (Pro and Home work well enough, but the following SKUs have better feature parity with FreeBSD, Linux distributions, UNIX, and Unix)
+  * Enterprise (Desktop, Server)
+  * Pro for Workstations (Workstation, Server)
+  * (Server)
 * UNIX
   * Oracle Solaris (Desktop, Server)
 * Unix
   * OpenIndiana (Desktop, Server)
-* Windows Semi-Annual Channel (Pro and Home work well enough, but the following SKUs have better feature parity with FreeBSD, Linux distributions, UNIX, and Unix)
-  * Enterprise (Desktop, Server)
-  * Pro for Workstations (Workstation, Server)
-  * (Server)
 
 # Partition Managers
 
