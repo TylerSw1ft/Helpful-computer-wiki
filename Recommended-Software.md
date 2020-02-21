@@ -204,6 +204,11 @@ Microsoft PowerPoint (macOS, Windows)
 
 Microsoft Office 365 (Android, macOS, Windows)
 
+# Remote Desktop
+
+[TeamViewer](https://www.teamviewer.com/en-us/) 
+* **WARNING:** TeamViewer is a major security attack target whose default settings are inadequate for that fact. Enable TOTP 2FA for your account and unique, strong, per device remote access passwords 
+
 # Simulation Environments
 
 ANSYS Workbench (Linux, Windows)
