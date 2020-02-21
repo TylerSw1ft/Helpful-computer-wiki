@@ -24,30 +24,30 @@
 
 **NOTE:** These do not necessarily have equivalent features. 
 
-* Backintime (Linux)
-* Duplicati (Windows & more)
-* Restic (FreeBSD, Linux)
-* rpi-clone (Linux)
-* Syncback Freeware (Windows)
-* System Restore (Windows)
-* Time Slider (OpenIndiana, Solaris)
-* TimeShift (Linux)
-* TWRP (Android)
-* Veeam Agent FREE (Linux, Windows)
-* Volume Shadow Copy (Windows)
-* zfsnap (FreeBSD, Linux)
+* [Back In Time](https://github.com/bit-team/backintime) (Linux)
+* [Duplicati](https://www.duplicati.com/) (Windows & more)
+* [Restic](https://restic.net/) (FreeBSD, Linux)
+* [rpi-clone](https://github.com/billw2/rpi-clone) (Linux)
+* [Syncback Freeware](https://www.2brightsparks.com/freeware/freeware-hub.html) (Windows)
+* [System Restore](https://docs.microsoft.com/en-us/windows/win32/sr/system-restore-reference) (Windows)
+* [Time Slider](https://docs.oracle.com/cd/E37838_01/html/E61017/timeslider.html#scrolltoc) (OpenIndiana, Solaris)
+* [Timeshift](https://github.com/teejee2008/Timeshift) (Linux)
+* [TWRP](https://twrp.me) (Android)
+* Veeam Agent FREE ([Linux](https://www.veeam.com/linux-backup-free.html), [Windows](https://www.veeam.com/windows-endpoint-server-backup-free.html))
+* [Volume Shadow Copy](https://docs.microsoft.com/en-us/windows/win32/vss/volume-shadow-copy-service-overview)
+* [`zfsnap`](https://www.zfsnap.org/) (FreeBSD, Linux)
 
 There are many people who swear by `rsync`, but I find it obtuse to use, so it's not listed here.
 
 # Calendars
 
-Google Calendar
+[Google Calendar](https://calendar.google.com)
 
 # Comic Book Readers
 
-* Challenge Comic Reader (Android)
-* ComicRack (Android, Windows)
-
+* [Challenger Comics Viewer](https://play.google.com/store/apps/details?id=org.kill.geek.bdviewer) (Android)
+* [ComicRack](https://play.google.com/store/apps/details?id=com.cyo.comicrack.viewer) (Android, Windows)
+  * ComicRack hasn't been updated in aeons, but it's still pretty far ahead of the competition in features, spit, and polish
 
 # Community Chat Clients
 
@@ -56,60 +56,63 @@ Google Calendar
 
 # Computational Fluid Dynamics Solvers
 
-* ANSYS Fluent (Linux, Windows)
-* Siemens STAR-CCM+ (Windows)
+* [ANSYS Fluent](https://www.ansys.com/products/fluids/ansys-fluent) (Linux, Windows)
+* [Siemens PLM STAR-CCM+]9https://www.plm.automation.siemens.com/global/en/products/simcenter/STAR-CCM.html) (Windows)
 
-# Diagrammers
+# Diagramming Clients
 
-* Draw.io (web)
-* Microsoft Visio (Windows)
+* [draw.io](https://www.draw.io/) (web)
+* [Microsoft Visio](https://products.office.com/en-us/visio/flowchart-software) (Windows)
 
 # Email Clients
 
-* Gmail (web)
-* Microsoft Outlook (Android, macOS, Windows)
+* [Gmail](https://gmail.com) (web)
+* [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook) (Windows)
 
-# Finite Element Analysis Solvers
-
-ANSYS Mechanical (Linux, Windows)
+Don't use anything other than Mechanical unless you absolutely have to. Everything else is an absolute pain to deal with.
 
 # File Managers
 
 * File Explorer (Windows)
-* Krusader (KDE)
-* MiXplorer (Android)
+* [Krusader](https://krusader.org/) (KDE)
+* [MiXplorer Silver - File Manager](https://play.google.com/store/apps/details?id=com.mixplorer.silver) (Android)
 
 # Image Viewers
 
-IrfanView (Windows)
+[IrfanView](https://www.irfanview.com/) (Windows)
 
 # Image Organizers
 
-digiKam (Linux, Windows)
+[digiKam](https://www.digikam.org/) (Linux, Windows)
 
 # Instant Messengers
 
-* Google Messages (Android, [Linux, macOS](https://github.com/chrisknepper/android-messages-desktop), web, [Windows](https://github.com/chrisknepper/android-messages-desktop))
-* Signal (Android, iOS, Linux, Windows)
+* Messages ([Android](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging), [Linux, macOS](https://github.com/chrisknepper/android-messages-desktop), web, [Windows](https://github.com/chrisknepper/android-messages-desktop))
+* [Skype](https://www.skype.com/en/) (Android, iOS, macOS, Linux, Windows)
+* [Signal](https://signal.org/) (Android, iOS, Linux, Windows)
 
 # Media Players
 
-VLC (Android, FreeBSD, Linux, macOS, Windows)
+[VLC](https://www.videolan.org) (Android, FreeBSD, Linux, macOS, Windows)
 
 # Music Players
 
-* AIMP (Windows)
-* Foobar2000 (Windows)
-* Poweramp (Android)
+* [AIMP](https://www.aimp.ru) (Windows)
+* [Foobar2000](https://www.foobar2000.org/) (Windows)
+* [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) (Android)
 
 # Music Taggers
 
-MP3Tag (Windows)
+[MP3Tag](https://www.mp3tag.de/en/) (Windows)
 
 # Notes
 
 * Evernote (Android, iOS, macOS, web, Windows)
 * Microsoft OneNote (Android, iOS, macOS, web, Windows)
+
+# Notification Mirrors
+
+Pushbullet (Android)
 
 # Operating Systems
 
@@ -138,6 +141,12 @@ MP3Tag (Windows)
 * MiniTool Partition Wizard (Windows)
 * GParted (Linux, OpenIndiana)
 
+# Password Managers
+
+* KeePass (FreeBSD, Linux, OpenIndiana, Windows)
+* KeePass2Android (Android)
+* KeePassXC (FreeBSD, Linux, macOS, Windows)
+
 # PDF Clients
 
 * Adobe Reader DC (Windows)
@@ -152,24 +161,40 @@ Microsoft PowerPoint (macOS, Windows)
 
 Microsoft Office 365 (Android, macOS, Windows)
 
+# Simulation Environments
+
+ANSYS Workbench (Linux, Windows)
+
 # Spreadsheets
 
 * Google Sheets (web)
 * Microsoft Excel (macOS, Windows)
-
-# Simulation Environments
-
-ANSYS Workbench (Linux, Windows)
 
 # SSH Clients 
 
 * Ásbrú Connection Manager (Linux)
 * MobaXterm (Windows)
 
+# Structural Solvers
+
+[ANSYS Mechanical](https://www.ansys.com/products/structures/ansys-mechanical-enterprise) (Linux, Windows)
+
+# Task Managers
+
+Todoist
+
 # Text Editors 
 
 * QuickEdit+ (Android)
 * Sublime Text (Linux, Windows)
+
+# TOTP
+
+Authy (Android, iOS, desktop)
+
+# Unit Converters
+
+Converber (Windows)
 
 # Web Browsers 
 
