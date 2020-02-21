@@ -146,7 +146,7 @@ Pushbullet (Android, web, Windows)
   * GhostBSD (Desktop, Server)
   * pfSense (Firewall)
 * Linux Distributions
-  * Android (mobile)
+  * Android (Mobile)
     * [LineageOS](https://lineageos.org/)
     * Samsung One UI
   * Debian Stable (Desktop)
