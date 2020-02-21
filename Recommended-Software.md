@@ -10,13 +10,13 @@
 * ClamAV (Linux)
 * Windows Defender (Windows)
 
-# Archiving
+# Archive Managers
 
 7-zip (Windows)
 
 # Backup
 
-## Backup Target
+## Backup Targets
 
 Veeam Backup and Replication Community Edition (Windows)
 
@@ -39,7 +39,7 @@ Veeam Backup and Replication Community Edition (Windows)
 
 There are many people who swear by `rsync`, but I find it obtuse to use, so it's not listed here.
 
-# Calendar
+# Calendars
 
 Google Calendar
 
@@ -49,29 +49,29 @@ Google Calendar
 * ComicRack (Android, Windows)
 
 
-# Community Chat
+# Community Chat Clients
 
 * Discord (Android, iOS, Linux, macOS, web, Windows)
 * Telegram (Android, FreeBSD, iOS, Linux, macOS, web, Windows)
 
-# Computational Fluid Dynamics
+# Computational Fluid Dynamics Solvers
 
-* ANSYS Fluent
-* Siemens STAR-CCM+
+* ANSYS Fluent (Linux, Windows)
+* Siemens STAR-CCM+ (Windows)
 
-# Diagrams
+# Diagrammers
 
-* Draw.io
-* Microsoft Visio
+* Draw.io (web)
+* Microsoft Visio (Windows)
 
-# Email
+# Email Clients
 
-* Gmail
-* Microsoft Outlook
+* Gmail (web)
+* Microsoft Outlook (Android, macOS, Windows)
 
-# Finite Element Analysis 
+# Finite Element Analysis Solvers
 
-ANSYS Mechanical
+ANSYS Mechanical (Linux, Windows)
 
 # File Managers
 
@@ -144,18 +144,22 @@ MP3Tag (Windows)
 * SumatraPDF (Windows)
 * Xodo (Android)
 
-# Presenters
+# Presentation Clients
 
-Microsoft PowerPoint
+Microsoft PowerPoint (macOS, Windows)
+
+# Productivity Suites
+
+Microsoft Office 365 (Android, macOS, Windows)
 
 # Spreadsheets
 
-* Google Sheets
-* Microsoft Excel
+* Google Sheets (web)
+* Microsoft Excel (macOS, Windows)
 
-# Simulation
+# Simulation Environments
 
-ANSYS Workbench
+ANSYS Workbench (Linux, Windows)
 
 # SSH Clients 
 
