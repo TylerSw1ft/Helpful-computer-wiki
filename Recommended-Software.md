@@ -145,27 +145,38 @@ Pushbullet (Android, web, Windows)
 
 # Operating Systems
 
-* BSD
-  * FreeBSD (Server)
-  * FreeNAS (NAS)
-  * GhostBSD (Desktop, Server)
-  * pfSense (Firewall)
-* Linux Distributions
-  * Android (Mobile)
-    * [LineageOS](https://lineageos.org/)
-    * Samsung One UI
-  * Debian Stable (Desktop)
-  * Debian Stable Server (Server)
-  * Proxmox (Virtualization Environment)
-  * Raspbian (IoT)
-* Microsoft Windows Semi-Annual Channel (Pro and Home work well enough, but the following SKUs have better feature parity with FreeBSD, Linux distributions, UNIX, and Unix)
-  * Enterprise (Desktop, Server)
-  * Pro for Workstations (Workstation, Server)
-  * (Server)
-* UNIX
-  * Oracle Solaris (Desktop, Server)
-* Unix
-  * OpenIndiana (Desktop, Server)
+## BSD
+
+* FreeBSD (Server)
+* FreeNAS (NAS)
+* GhostBSD (Desktop, Server)
+* pfSense (Firewall)
+
+## Linux Distributions
+
+* Debian Stable (Desktop)
+* Debian Stable Server (Server)
+* Proxmox (Virtualization Environment)
+* Raspbian (IoT)
+
+### Android (Mobile)
+
+* [LineageOS](https://lineageos.org/)
+* Samsung One UI
+
+## Microsoft Windows Semi-Annual Channel (Pro and Home work well enough, but the following SKUs have better feature parity with FreeBSD, Linux distributions, UNIX, and Unix)
+
+* Enterprise (Desktop, Server)
+* Pro for Workstations (Workstation, Server)
+* (Server)
+
+## UNIX
+  
+Oracle Solaris (Desktop, Server)
+
+## Unix
+  
+OpenIndiana (Desktop, Server)
 
 # Partition Managers
 
