@@ -57,7 +57,7 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 # Computational Fluid Dynamics Solvers
 
 * [ANSYS Fluent](https://www.ansys.com/products/fluids/ansys-fluent) (Linux, Windows)
-* [Siemens PLM STAR-CCM+]9https://www.plm.automation.siemens.com/global/en/products/simcenter/STAR-CCM.html) (Windows)
+* [Siemens PLM STAR-CCM+](https://www.plm.automation.siemens.com/global/en/products/simcenter/STAR-CCM.html) (Windows)
 
 # Diagramming Clients
 
@@ -105,14 +105,14 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 
 [MP3Tag](https://www.mp3tag.de/en/) (Windows)
 
-# Notes
+# Notekeepers
 
 * Evernote (Android, iOS, macOS, web, Windows)
 * Microsoft OneNote (Android, iOS, macOS, web, Windows)
 
 # Notification Mirrors
 
-Pushbullet (Android)
+Pushbullet (Android, web, Windows)
 
 # Operating Systems
 
