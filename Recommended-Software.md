@@ -164,7 +164,9 @@ Pushbullet (Android, web, Windows)
 * [LineageOS](https://lineageos.org/)
 * Samsung One UI
 
-## Microsoft Windows Semi-Annual Channel (Pro and Home work well enough, but the following SKUs have better feature parity with FreeBSD, Linux distributions, UNIX, and Unix)
+## Microsoft Windows Semi-Annual Channel 
+
+Pro and Home work well enough, but the following SKUs have better feature parity with the other non-mobile OSes listed here.
 
 * Enterprise (Desktop, Server)
 * Pro for Workstations (Workstation, Server)
