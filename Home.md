@@ -29,5 +29,6 @@ Organized Alphabetically:
   * Future (in order of descending priority/implementation)
     * [All Other Projects](https://github.com/jdrch/Hardware/wiki/All-Other-Projects)
 * [Recommended Hardware](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware)
+* [Recommended Software](https://github.com/jdrch/Hardware/wiki/Recommended-Software)
 * [Troubleshooting](https://github.com/jdrch/Hardware/wiki/Troubleshooting)
 * [Useful Links](https://github.com/jdrch/Hardware/wiki/Useful-Links)
