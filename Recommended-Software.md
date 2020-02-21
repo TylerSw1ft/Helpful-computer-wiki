@@ -157,7 +157,7 @@ Pushbullet (Android, web, Windows)
   * Oracle Solaris (Desktop, Server)
 * Unix
   * OpenIndiana (Desktop, Server)
-* Windows Semi-Annual Channel (Pro and Home work well enough, but the following SKUs have all the features)
+* Windows Semi-Annual Channel (Pro and Home work well enough, but the following SKUs have better feature parity with FreeBSD, Linux distributions, UNIX, and Unix)
   * Enterprise (Desktop, Server)
   * Pro for Workstations (Workstation, Server)
   * (Server)
