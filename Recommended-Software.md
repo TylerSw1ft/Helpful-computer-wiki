@@ -91,6 +91,11 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 * [Krusader](https://krusader.org/) (KDE)
 * [MiXplorer Silver - File Manager](https://play.google.com/store/apps/details?id=com.mixplorer.silver) (Android)
 
+# File Manager Utilities
+
+* [dBpoweramp](https://www.dbpoweramp.com/) (Windows)
+* [FileMenu Tools](https://www.lopesoft.com/index.php/en/filemenutools) (Windows)
+
 # (s)FTP Clients
 
 * [FileZilla](https://filezilla-project.org/) (FreeBSD, Linux, macOS, Windows)
