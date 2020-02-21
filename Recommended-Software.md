@@ -101,13 +101,13 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 * [FileZilla](https://filezilla-project.org/) (FreeBSD, Linux, macOS, Windows)
 * [MobaXterm](https://mobaxterm.mobatek.net/) (Windows)
 
-# Image Viewers
-
-[IrfanView](https://www.irfanview.com/) (Windows)
-
 # Image Organizers
 
 [digiKam](https://www.digikam.org/) (Linux, Windows)
+
+# Image Viewers
+
+[IrfanView](https://www.irfanview.com/) (Windows)
 
 # Instant Messengers
 
