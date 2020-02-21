@@ -10,6 +10,10 @@
 * ClamAV (Linux)
 * Windows Defender (Windows)
 
+# Archiving
+
+7-zip (Windows)
+
 # Backup
 
 ## Backup Target
@@ -38,6 +42,12 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 # Calendar
 
 Google Calendar
+
+# Comic Book Readers
+
+* Challenge Comic Reader (Android)
+* ComicRack (Android, Windows)
+
 
 # Community Chat
 
@@ -69,10 +79,18 @@ ANSYS Mechanical
 * Krusader (KDE)
 * MiXplorer (Android)
 
-# Instant Messaging
+# Image Viewers
+
+IrfanView (Windows)
+
+# Image Organizers
+
+digiKam (Linux, Windows)
+
+# Instant Messengers
 
 * Google Messages (Android, [Linux, macOS](https://github.com/chrisknepper/android-messages-desktop), web, [Windows](https://github.com/chrisknepper/android-messages-desktop))
-* Signal
+* Signal (Android, iOS, Linux, Windows)
 
 # Media Players
 
@@ -95,61 +113,38 @@ MP3Tag (Windows)
 
 # Operating Systems
 
-## Windows Semi-Annual Channel
+* BSD
+  * FreeBSD (Server)
+  * FreeNAS (NAS)
+  * GhostBSD (Desktop, Server)
+  * pfSense (Firewall)
+* IoT
+  * Raspbian
+* Linux Distributions
+  * Debian Stable (Desktop)
+  * Debian Stable Server (Server)
+  * Proxmox (Virtualization Environment)
+* UNIX
+  * Oracle Solaris (Desktop, Server)
+* Unix
+  * OpenIndiana (Desktop, Server)
+* Windows Semi-Annual Channel (Pro and Home work well enough, but the following SKUs have all the features)
+  * Enterprise (Desktop, Server)
+  * Pro for Workstations (Workstation, Server)
+  * (Server)
 
-* Enterprise
-* Pro for Workstations
-* (Server)
-  * Microsoft now calls its Server SKUs "Windows `ReleaseYear`". Latest stable release is Windows 2019
-
-## BSD
-
-### Desktop
-
-GhostBSD
-
-### Firewall
-
-pfSense
-
-Consider OPNSense if you want a prettier UI at the expense of less documentation.
-
-### NAS
-
-FreeNAS
-
-### (Storage) Server
-
-FreeBSD
-
-## Linux Distributions
-
-### Desktop & Server
-
-Debian
-
-### IoT
-
-Raspbian
-
-### Virtual Environment
-
-Proxmox
-
-## UNIX
-
-Oracle Solaris (Will be EOLed in 2024)
-
-## Unix
-
-OpenIndiana Hipster
-
-# Partitioning
+# Partition Managers
 
 * MiniTool Partition Wizard (Windows)
 * GParted (Linux, OpenIndiana)
 
-# Presentations
+# PDF Clients
+
+* Adobe Reader DC (Windows)
+* SumatraPDF (Windows)
+* Xodo (Android)
+
+# Presenters
 
 Microsoft PowerPoint
 
@@ -177,10 +172,6 @@ ANSYS Workbench
 * Mozilla Firefox (Android, FreeBSD, Linux, macOS, OpenIndiana, Windows)
 * Google Chrome (Android, FreeBSD, Linux, macOS, Windows)
 
-# Webmail
-
-Gmail
-
 # Word Processors
 
-Microsoft Word
+Microsoft Word (macOS, Windows)
