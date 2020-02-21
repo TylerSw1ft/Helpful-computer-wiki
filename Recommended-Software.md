@@ -5,20 +5,20 @@
 
 # Antimalware
 
-* Avira Pro (macOS, Windows)
-* chkrootkit (FreeBSD, Linux, OpenIndiana)
-* ClamAV (Linux)
-* Windows Defender (Windows)
+* [Avira Antivirus Pro](https://www.avira.com/en/antivirus-pro) (macOS, Windows)
+* [chkrootkit](http://www.chkrootkit.org/) (FreeBSD, Linux, OpenIndiana)
+* [ClamAV](https://www.clamav.net/) (Linux)
+* [Windows Defender Antivirus](https://www.microsoft.com/en-us/windows/comprehensive-security) (Windows)
 
 # Archive Managers
 
-7-zip (Windows)
+[7-zip](https://www.7-zip.org/) (Windows)
 
 # Backup
 
 ## Backup Targets
 
-Veeam Backup and Replication Community Edition (Windows)
+[Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) (Windows)
 
 ## Clients
 
