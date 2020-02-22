@@ -495,6 +495,7 @@ https://www.smartmontools.org/wiki/TocDoc
 # Volume Shadow Copy
 
 * [How to set it up](http://itsimple.info/?p=258)
+  * Author made a mistake in the screenshots; [here's the correction](http://itsimple.info/?p=258#comment-912)
 * [Shadow Explorer (shadow copies browsing tool)](https://www.shadowexplorer.com/downloads.html)
 
 # ZFS 
