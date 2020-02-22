@@ -78,6 +78,10 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 * [JDownloader](http://installer.jdownloader.org/ic/JD2SilentSetup_x64.exe) (Windows)
 * [Persepolis](https://persepolisdm.github.io/) (Linux, Windows)
 
+# Duplicate File Finder
+
+[DupeGuru](https://dupeguru.voltaicideas.net/) (macOS, Linux, Windows)
+
 # Email Clients
 
 * [Gmail](https://gmail.com) (web)
