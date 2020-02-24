@@ -509,7 +509,7 @@ https://www.smartmontools.org/wiki/TocDoc
 
 [The Ars Technica semi-scientific guide to Wi-Fi Access Point placement](https://arstechnica.com/gadgets/2020/02/the-ars-technica-semi-scientific-guide-to-wi-fi-access-point-placement/)
 
-The above article also explains why mesh routing systems can be a waste of time. FTA:
+The above article also explains that mesh wireless systems underperform under heavy network load (one of the problems they are marketed as solving.) FTA:
 
 >  Under heavy network load, cheap wired access points like Ubiquiti UAP-AC-Lites or TP-Link EAP-225v3s absolutely smoke even the best mesh kits, if the mesh kits are limited to Wi-Fi backhaul only.
 
