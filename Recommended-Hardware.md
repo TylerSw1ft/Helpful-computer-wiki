@@ -84,6 +84,25 @@ These recommendations are primarily storage oriented.
 8. GPU/video out: HDMI ≥ 1.4 or DisplayPort ≥ 1.2
 9. Display: ≥ 1080p for < 17 in; ≥ 2160p for ≥ 17.3 in
 
+#### Hardened
+
+**Note:** I'm not aware of any independent audits of the following lines, but I'm also not aware of an actively exploited unpatched vulnerabilities. Generally, as long you 
+
+1. Aggressive patch and update:
+   * your entire software stack
+     * BIOS
+     * drivers
+     * OS
+     * apps
+2. Use the disk encryption with a locally stored key you should be fine.
+   * Linux: Veracrypt or ZFS encryption
+   * Windows: Bitlocker + TPM 
+   * FreeBSD: ZFS encryption
+
+* [Apple Mac](https://www.apple.com/mac/) (macOS)    
+* [Purism Librem](https://puri.sm/products/) (Linux)
+* [Secured-Core PCs](https://www.microsoft.com/en-us/windowsforbusiness/windows10-secured-core-computers) (Windows)
+
 ### Used
 
 1. CPU: ≥ 2C/4T
