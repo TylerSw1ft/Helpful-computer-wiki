@@ -498,6 +498,10 @@ https://www.smartmontools.org/wiki/TocDoc
   * Author made a mistake in the screenshots; [here's the correction](http://itsimple.info/?p=258#comment-912)
 * [Shadow Explorer (shadow copies browsing tool)](https://www.shadowexplorer.com/downloads.html)
 
+# Wi-Fi
+
+[The Ars Technica semi-scientific guide to Wi-Fi Access Point placement](https://arstechnica.com/gadgets/2020/02/the-ars-technica-semi-scientific-guide-to-wi-fi-access-point-placement/)
+
 # ZFS 
 
 * [Feature Matrix](https://zgrep.org/zfs.html)
