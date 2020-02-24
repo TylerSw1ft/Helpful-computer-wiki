@@ -1,4 +1,4 @@
-# WARNING: The links on this page are not necessarily exhaustive with respect to each topic
+# WARNING: The links on this page are not necessarily exhaustive with respect to each heading/topic
 
 # Android
 
