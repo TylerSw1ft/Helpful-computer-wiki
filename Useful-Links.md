@@ -325,6 +325,11 @@ These are articles based on previous gen Windows releases. While they may not be
 
 [Keyboard and mouse](https://github.com/jarun/nnn#keyboard-and-mouse)
 
+# Open Source
+
+* [Open source licenses: What, which, and why](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license)
+* [List of Open Source Initiative approved licenses](https://opensource.org/licenses/alphabetical)
+
 # OpenRC
 
 My OpenRC advice is to interact with it only:
