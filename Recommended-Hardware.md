@@ -42,7 +42,7 @@ These recommendations are primarily storage oriented.
 
 * [iStarUSA](http://www.istarusa.com/en/istarusa/)
   * 3U
-    * [D-3100HN](http://www.istarusa.com/en/istarusa/products.php?model=D-3100HN) (10 || 4 Full Height, Full Length(?)) **(WARNING: the first three expansion slots on an ATX motherboard cannot be used if using an ATX MB in this chassis)**
+    * [D-3100HN](http://www.istarusa.com/en/istarusa/products.php?model=D-3100HN) (10 || 4 Full Height, Full Length(?)) **(WARNING: the first three expansion slots on an ATX motherboard cannot be used if the latter is installed in this chassis)**
 
 * [Supermicro](https://www.supermicro.com/en/support/product-matrices)
   * [2U Super Chassis](https://www.supermicro.com/products/chassis/2U/)
