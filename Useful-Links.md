@@ -358,6 +358,10 @@ My OpenRC advice is to interact with it only:
 
 [The sudden death and eternal life of Solaris](http://dtrace.org/blogs/bmc/2017/09/04/the-sudden-death-and-eternal-life-of-solaris/)
 
+# Pi-hole
+
+[How do I update Pi-hole?](https://discourse.pi-hole.net/t/how-do-i-update-pi-hole/249/13): `pihole -up`
+
 # `pip` for Python 3
 
 ## Installation
@@ -499,6 +503,13 @@ https://www.smartmontools.org/wiki/TocDoc
 # `vifm`
 
 [Cheatsheet](https://vifm.info/cheatsheets.shtml)
+
+# `vim`
+
+[How to enable syntax highlighting](https://linuxhint.com/best_vim_color_schemes/)
+* Press `Esc`
+* Type `:syntax on`
+* Press `Enter`
 
 # Volume Shadow Copy
 
