@@ -186,7 +186,8 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 ## Syntax
 
-To find a file with a certain name in a given path: `# find /PathToBeSearched -type -f -name filename.extension`
+* [Exclude a directory or multiple directories while using find command](https://www.crybit.com/exclude-directories/): `find /PathToBeSearched -options WhatYouAreLookingForIfNecessary ! -path /PathToBeExcluded1/* /PathToBeExcluded2/*`
+* To find a file with a certain name in a given path: `# find /PathToBeSearched -type -f -name filename.extension`
 
 # Firefox
 
