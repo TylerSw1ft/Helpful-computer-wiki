@@ -74,6 +74,7 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 ## FreeBSD
 
 * [FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
+* [Instant Workstation](https://euroquis.nl/freebsd/2019/08/12/instant-workstation.html): A script that automagically sets up KDE on a FreeBSD installation
 * [Shells](https://www.freebsd.org/doc/handbook/shells.html)
 
 ## FuryBSD
@@ -484,6 +485,8 @@ https://www.smartmontools.org/wiki/TocDoc
 [Calculator](http://unraid.category5.tv/)
 
 # Veeam
+
+[October 2019 Gartner Magic Quadrant](https://www.acronis.com/en-us/blog/posts/acronis-earns-its-spot-gartner-2019-magic-quadrant-enterprise-datacenter-backup-and-recovery)
 
 ## Agent for
 
