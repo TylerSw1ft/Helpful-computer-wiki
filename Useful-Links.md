@@ -433,6 +433,7 @@ Run:
 
 * [How to make a script executable](https://stackoverflow.com/a/43530252/3754100): at script location, run `chmod +x <script-file-name-including-extension>`
 * How to execute script: `$ ./script.sh` or `# ./script.sh`
+* [Place `set -u` just below the shebang of each script](https://towardsdatascience.com/this-will-make-you-a-command-line-ninja-93a51cdb16b1) (or at the top of the script if there's no shebang)
 
 # smartmontools
 
