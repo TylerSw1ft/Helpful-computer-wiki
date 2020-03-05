@@ -299,15 +299,15 @@ MANPATH=/opt/local/man:$MANPATH
 
 ## [Storage](https://docs.microsoft.com/en-us/windows-server/storage/storage)
 
-## [Storage Spaces](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/overview) ([Direct](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/storage-spaces-direct-overview))
+### [Storage Spaces](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/overview) ([Direct](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/storage-spaces-direct-overview))
 
 [Storage Spaces benchmarks](https://hardforum.com/threads/storage-spaces-3x10-tb-120-gb-ssd-cache-refs.1922186/)
 
-### Current
+#### Current
 
 * [Deploy Storage Spaces on a stand-alone server](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/deploy-standalone-storage-spaces)
 
-### Legacy
+#### Legacy
 
 These are articles based on previous gen Windows releases. While they may not be 100% accurate with respect to current releases, they do a fairly good job of giving a general idea of how Storage Spaces behaves and functions internally.
 
