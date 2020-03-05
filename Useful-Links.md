@@ -529,7 +529,7 @@ https://www.smartmontools.org/wiki/TocDoc
 
 # Wi-Fi
 
-# Access Point Placement
+## Access Point Placement
 
 [The Ars Technica semi-scientific guide to Wi-Fi Access Point placement](https://arstechnica.com/gadgets/2020/02/the-ars-technica-semi-scientific-guide-to-wi-fi-access-point-placement/)
 
