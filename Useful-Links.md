@@ -194,6 +194,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [ How To Install The Latest Firefox (Non-ESR) On Debian 10 Buster (Stable) Or Bullseye (Testing)](https://www.linuxuprising.com/2019/12/how-to-install-latest-firefox-non-esr.html?m=1)
 
+# fish shell
+
+[How to Install, Configure and Run the Fish Shell](https://www.linode.com/docs/quick-answers/linux/how-to-install-configure-and-run-fish/)
+
 # Github
 
 [Creating releases](https://help.github.com/en/articles/creating-releases)
