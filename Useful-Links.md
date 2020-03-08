@@ -510,6 +510,10 @@ https://www.smartmontools.org/wiki/TocDoc
 
 [User Guide](https://helpcenter.veeam.com/docs/agentforwindows/userguide/overview.html?ver=30)
 
+## Backup & Replication
+
+[User Guide](https://helpcenter.veeam.com/docs/backup/vsphere/overview.html?ver=100)
+
 # `vi`
 
 [vi Editor in UNIX](https://www.geeksforgeeks.org/vi-editor-unix/)
