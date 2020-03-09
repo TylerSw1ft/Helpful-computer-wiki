@@ -82,6 +82,42 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 * [Installation](https://github.com/furybsd/furybsd-handbook/wiki/Installing-FuryBSD)
 * [Live USB creation](https://github.com/furybsd/furybsd-livecd/wiki)
 
+### How to enable `sudo` for a user
+
+* Append `username ALL=(ALL) ALL` to `/etc/sudoers` or `/usr/local/etc/sudoers`
+
+### How to set up multiple monitors on Dell OptiPlex 390 SFF
+
+* Connect HDMI monitor only
+* UEFI boot into the live USB
+* Click `Xorg Setup`
+* In the window that pops up, select `Intel`
+* Click `OK`
+* In the list that follows, select the 3rd item (the one that begins with "x86" or something similar)
+* Click `OK`
+* Complete installation process
+* Reboot
+* Connect VGA monitor
+* Reboot
+
+The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Settings` to configure them.
+
+### How to set up UEFI boot
+
+* UEFI boot into the live USB
+* Install FuryBSD
+* Enter BIOS
+* In the boot sequence, delete all other entries except the UEFI one, and ensure the `UEFI` radio button is selected
+* Click `Add boot option`
+* Browse down through each successive folder to find a file that looks like `bootx64.efi` and select it
+* Name the boot method `FuryBSD`
+* Click `OK`
+* Ensure `FuryBSD` is checked in the UEFI boot list
+* Click `Apply`
+* Click `Exit`
+
+
+
 ## GhostBSD
 
 ### Enable `sshd` at startup
@@ -96,7 +132,7 @@ In terminal, run `# mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare Loc
 
 Run `# service sshd start` at the terminal.
 
-## Why I no longer run BSD
+## Why I might no longer run BSD
 
 TL,DR: it's too much trouble.
 
@@ -106,9 +142,7 @@ TL,DR: it's too much trouble.
   * I used GhostBSD for around 2 months, but eventually dropped it due to limited features (MATE is about as useless a DE as you can imagine) and stuff just not working reliably. The latter included, but it not limited to
     * I couldn't get 3rd party services to start reliably at boot. I wound up having to use an `@reboot` crontab entry as a workaround, but of course that doesn't help if the service crashes
     * I couldn't get NFS shares to mount reliably at boot, even with an `@reboot` crontab entry, or to mount at all otherwise at times
-* I tried Instant Workstation and FuryBSD, but both [resulted](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=241101#c29) in either [manged desktops](https://imgur.com/wNvNWV6) or flashing command prompt displays where KDE should have loaded.
-
-The next time I run FreeBSD will probably be via pfSense or TrueNAS Core.
+* FuryBSD is a major PITA to set up
 
 # Btrfs
 
