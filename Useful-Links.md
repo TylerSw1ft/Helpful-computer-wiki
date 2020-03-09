@@ -107,7 +107,7 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 
 The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Settings` to configure them.
 
-### How to set up UEFI boot
+### How to set up UEFI boot on Dell OptiPlex 390 SFF
 
 * UEFI boot into the live USB
 * Install FuryBSD
@@ -120,8 +120,6 @@ The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Setti
 * Ensure `FuryBSD` is checked in the UEFI boot list
 * Click `Apply`
 * Click `Exit`
-
-
 
 ## GhostBSD
 
@@ -148,6 +146,7 @@ TL,DR: it's too much trouble.
     * I couldn't get 3rd party services to start reliably at boot. I wound up having to use an `@reboot` crontab entry as a workaround, but of course that doesn't help if the service crashes
     * I couldn't get NFS shares to mount reliably at boot, even with an `@reboot` crontab entry, or to mount at all otherwise at times
 * FuryBSD is a major PITA to set up
+* Instant Workstation for FreeBSD is unreliable (on legacy hardware)
 
 # Btrfs
 
