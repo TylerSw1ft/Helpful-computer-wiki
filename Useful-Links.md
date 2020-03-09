@@ -77,6 +77,11 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 * [Instant Workstation](https://euroquis.nl/freebsd/2019/08/12/instant-workstation.html): A script that automagically sets up KDE on a FreeBSD installation
 * [Shells](https://www.freebsd.org/doc/handbook/shells.html)
 
+### Ports
+
+* [FreshPorts](https://www.freshports.org/)
+* [FreeBSD Ports Categories Listed By Groups](https://www.freebsd.org/ports/categories-grouped.html) (searchable)
+
 ## FuryBSD
 
 * [Installation](https://github.com/furybsd/furybsd-handbook/wiki/Installing-FuryBSD)
