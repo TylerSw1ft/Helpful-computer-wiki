@@ -209,6 +209,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 `# crontab -u root -e`
 
+# `dd`
+
+[Full Metal Backup Using the dd Command](https://www.linux.com/tutorials/full-metal-backup-using-dd-command/)
+
 # Debian
 
 * [Don't Break Debian](https://wiki.debian.org/DontBreakDebian)
