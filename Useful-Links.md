@@ -27,6 +27,16 @@
 * [Lack of DeviceTree support](https://www.reddit.com/r/linux/comments/dyv2qi/google_outlines_plans_for_mainline_linux_kernel/f84kokk/)
 * [Combination of the above](https://www.reddit.com/r/Android/comments/e5qqn6/engineer_from_samsung_says_chipset_vendors_are_to/f9rq3dm/)
 
+## LineageOS
+
+### How to determine upstream AOSP security patch status
+
+Search the page at the following URL for “security string” :
+
+`https://github.com/LineageOS/android_build/blob/lineage-X.Y/core/version_defaults.mk`
+
+Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a date which corresponds to an upstream Android patch date.
+
 # ANSYS
 
 ## Benchmarks
@@ -320,7 +330,7 @@ MANPATH=/opt/local/man:$MANPATH
 # Latency
 
 [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
-* Note: this analysis is not exhaustive. There are other considerations, [such as memory bandwidth upper and lower limits](https://github.com/jdrch/Hardware/wiki/Useful-Links#bandwidth).
+* Note: this analysis is not exhaustive. There are other considerations, [such as memory bandwidth upper and lower limits](https://github.com/jdrch/Hardware/wiki/Useful-Links#bandwidth)
 
 # Linux
 
