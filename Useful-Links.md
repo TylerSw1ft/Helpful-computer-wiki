@@ -294,6 +294,7 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 * [How to update all packages & system](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
   * Run the following:
+    * `$ bash-it update`
     * `# pkgin -y full-upgrade`
     * `# pkgin -y autoremove`
     * `# pkg update -v -r`
