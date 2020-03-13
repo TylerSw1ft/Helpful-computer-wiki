@@ -219,6 +219,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 `# crontab -u root -e`
 
+# CVEs
+
+[Search CVE List](https://cve.mitre.org/cve/search_cve_list.html)
+
 # `dd`
 
 [Full Metal Backup Using the dd Command](https://www.linux.com/tutorials/full-metal-backup-using-dd-command/)
