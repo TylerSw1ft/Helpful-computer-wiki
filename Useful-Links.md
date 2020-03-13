@@ -83,6 +83,7 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 
 ## FreeBSD
 
+* [How to switch packages from `quarterly` to `latest`](https://www.reddit.com/r/freebsd/comments/fg7598/pkg_removes_firefox_on_update_help_freebsd/fk6s2mo/)
 * [FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
 * [Instant Workstation](https://euroquis.nl/freebsd/2019/08/12/instant-workstation.html): A script that automagically sets up KDE on a FreeBSD installation
 * [Shells](https://www.freebsd.org/doc/handbook/shells.html)
@@ -108,7 +109,7 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 * Click `Xorg Setup`
 * In the window that pops up, select `Intel`
 * Click `OK`
-* In the list that follows, select the 3rd item (the one that begins with "x86" or something similar)
+* In the list that follows, select the `xf86-video-intel`
 * Click `OK`
 * Complete installation process
 * Reboot
