@@ -150,6 +150,8 @@ These recommendations are primarily storage oriented.
 
 ## Wired
 
+[Not all Ethernet NICs are Created Equal - Trying to Capture Invalid Ethernet Frames](https://isc.sans.edu/diary/rss/25896) (Why Intel NICs are superior to Realtek, Broadcom, and ASIX NICs)
+
 ### MoCA adapters
 
 * [Actiontec Bonded MoCA 2.0 Network Adapter](https://www.actiontec.com/products/home-networking/ecb6200/)
