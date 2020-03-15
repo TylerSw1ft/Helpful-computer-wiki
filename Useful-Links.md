@@ -544,7 +544,8 @@ https://www.smartmontools.org/wiki/TocDoc
 
 # tsch
 
-[Add a splash of color to your command line environment](https://blogs.aalto.fi/marijn/2016/07/05/add-a-splash-of-color-to-your-command-line-environment/)
+* [Add a splash of color to your command line environment](https://blogs.aalto.fi/marijn/2016/07/05/add-a-splash-of-color-to-your-command-line-environment/)
+* [Coloring the tcsh prompt](https://www.cs.umd.edu/~srhuang/teaching/code_snippets/prompt_color.tcsh.html)
 
 # Ubiquiti
 
