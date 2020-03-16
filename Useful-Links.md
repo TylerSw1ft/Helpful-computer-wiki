@@ -83,6 +83,7 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 
 ## FreeBSD
 
+* [How To Enable SSH On FreeBSD](https://www.ostechnix.com/how-to-enable-ssh-on-freebsd/)
 * [How to switch packages from `quarterly` to `latest`](https://www.reddit.com/r/freebsd/comments/fg7598/pkg_removes_firefox_on_update_help_freebsd/fk6s2mo/)
 * [FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
 * [Instant Workstation](https://euroquis.nl/freebsd/2019/08/12/instant-workstation.html): A script that automagically sets up KDE on a FreeBSD installation
