@@ -207,7 +207,7 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 
 `cp /sdcard/SourceFolder/Script.sh ~/.termux/tasker/Script.sh`
 
-e.g. `cp /sdcard/Sync/Scripts/Bash/MoveFilesToSync.sh ~/.termux/tasker/MoveFilesToSync.sh`
+e.g. `cp /sdcard/Sync/Scripts/Shell/MoveFilesToSync.sh ~/.termux/tasker/MoveFilesToSync.sh`
 
 # cron
 
