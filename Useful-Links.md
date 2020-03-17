@@ -90,7 +90,7 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
   2. Type the concatenation of the FreeBSD version and platform you're interested in, e.g. `121amd64`, into the search box
   3. Click the number in the `Build` column corresponding to the `Ports` column `pkg` repo of interest, where `default` = `latest` and `quarterly` = `quarterly`
   4. If looking for failed or skipped packages, check those headings in the page that follows
-  5. If the desired package isn't there, click `previous build` and repeat 4)
+  5. If the desired package isn't there, click `previous build` and repeat iv)
 * [How to switch packages from `quarterly` to `latest`](https://www.reddit.com/r/freebsd/comments/fg7598/pkg_removes_firefox_on_update_help_freebsd/fk6s2mo/)
 * [Instant Workstation](https://euroquis.nl/freebsd/2019/08/12/instant-workstation.html): A script that automagically sets up KDE on a FreeBSD installation
 * [Shells](https://www.freebsd.org/doc/handbook/shells.html)
