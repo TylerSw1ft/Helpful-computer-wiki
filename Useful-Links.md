@@ -99,6 +99,13 @@ Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost 
 * [Installation](https://github.com/furybsd/furybsd-handbook/wiki/Installing-FuryBSD)
 * [Live USB creation](https://github.com/furybsd/furybsd-livecd/wiki)
 
+### KDE
+
+#### [How to fix keyboard keys triggering the wrong things](https://www.reddit.com/r/freebsd/comments/fjfpa5/freebsd_121releasep2_dell_xd31_usb_multimedia/fknl59g/) (such as `End` raising the Application Menu)
+
+* Add `export XKB_DEFAULT_RULES=evdev` to `~/.xprofile`. If the file does not exist, create it first and then add the line
+* Reboot
+
 ### How to enable `sudo` for a user
 
 * Append `username ALL=(ALL) ALL` to `/etc/sudoers` or `/usr/local/etc/sudoers`
