@@ -379,6 +379,10 @@ MANPATH=/opt/local/man:$MANPATH
 
 [The final ISA showdown: Is ARM, x86, or MIPS intrinsically more power efficient?](https://www.extremetech.com/extreme/188396-the-final-isa-showdown-is-arm-x86-or-mips-intrinsically-more-power-efficient/3) Answer: power efficiency is largely independent of ISA
 
+# KDE
+
+[Documentation](https://docs.kde.org/)
+
 # Latency
 
 [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
@@ -566,6 +570,7 @@ Run:
 * How to execute script: `$ ./script.sh` or `# ./script.sh`
 * [How to chain commands using booleans](https://unix.stackexchange.com/questions/37069/what-is-the-difference-between-and-when-chaining-commands)
 * [Place `set -u` just below the shebang of each script](https://towardsdatascience.com/this-will-make-you-a-command-line-ninja-93a51cdb16b1) (or at the top of the script if there's no shebang)
+* [Try It Online](https://tio.run/#) - Test code snippets with inputs and arguments online for many languages
 
 # smartmontools
 
