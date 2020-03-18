@@ -146,6 +146,14 @@ The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Setti
 * Click `Apply`
 * Click `Exit`
 
+### Resilio Sync
+
+#### How to set up
+
+##### As root
+
+1. Download the FreeBSD archive from the Resilio
+
 ## GhostBSD
 
 ### Enable `sshd` at startup
