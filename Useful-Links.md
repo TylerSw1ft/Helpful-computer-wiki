@@ -150,9 +150,22 @@ The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Setti
 
 #### How to set up
 
-##### As root
+1. Download the FreeBSD archive from the Resilio Sync website
+2. Extract the FreeBSD archive
+3. Place the `rslsync` binary in `/bin`
 
-1. Download the FreeBSD archive from the Resilio
+##### as root
+
+1. Start Resilio Sync by running `cd /bin && sudo ./rslsync`
+2. To run at boot, add the following entry to `/etc/crontab`: `@reboot root cd /bin && ./rslsync`
+
+##### as MyUsername
+
+1. Complete 1) of **as root** instructions
+2. Kill the `rslsync` process
+3. Copy `.sync` from `/bin` to `~/`
+4. Change the permissions and ownership of the `.sync` copy to grant MyUsername `rwx` and ownership
+5. Start Resilio Sync by running `cd /bin && [./rslsync -- storage /absolute/path/to/home/.sync/folder](https://forum.resilio.com/topic/71858-linuxbsd-how-do-i-move-sync-from-running-as-root-to-running-as-my-user-without-having-to-setup-from-scratch/?do=findComment&comment=153863)`
 
 ## GhostBSD
 
