@@ -157,7 +157,7 @@ The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Setti
 ##### as root
 
 1. Start Resilio Sync by running `cd /bin && sudo ./rslsync`
-2. To run at boot, add the following entry to `/etc/crontab`: `@reboot root cd /bin && ./rslsync`
+2. To run Resilio Sync at boot, add the following entry to `/etc/crontab`: `@reboot root cd /bin && ./rslsync`
 
 ##### as MyUsername
 
@@ -166,6 +166,7 @@ The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Setti
 3. Copy `.sync` from `/bin` to `~/`
 4. Change the permissions and ownership of the `.sync` copy to grant MyUsername `rwx` and ownership
 5. Start Resilio Sync by running `cd /bin && ./rslsync -- storage /absolute/path/to/home/.sync/folder` ([Source](https://forum.resilio.com/topic/71858-linuxbsd-how-do-i-move-sync-from-running-as-root-to-running-as-my-user-without-having-to-setup-from-scratch/?do=findComment&comment=153863))
+6. To run Resilio Sync at boot, add the following entry to `/etc/crontab`: `@reboot MyUsername cd /bin && ./rslsync -- storage /absolute/path/to/home/.sync/folder`
 
 ## GhostBSD
 
