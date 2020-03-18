@@ -554,6 +554,7 @@ Run:
 
 * [How to make a script executable](https://stackoverflow.com/a/43530252/3754100): at script location, run `chmod +x <script-file-name-including-extension>`
 * How to execute script: `$ ./script.sh` or `# ./script.sh`
+* [How to chain commands using booleans](https://unix.stackexchange.com/questions/37069/what-is-the-difference-between-and-when-chaining-commands)
 * [Place `set -u` just below the shebang of each script](https://towardsdatascience.com/this-will-make-you-a-command-line-ninja-93a51cdb16b1) (or at the top of the script if there's no shebang)
 
 # smartmontools
@@ -569,6 +570,11 @@ https://www.smartmontools.org/wiki/TocDoc
 # Structured Cabling
 
 [When you need plenum cable](https://www.reddit.com/r/homelab/comments/ejkrrq/using_solid_core_cat6_cable_with_ip_security/fczrxbs/)
+
+# `sudo`
+
+[How to run multiple `sudo` commands on the same line](https://askubuntu.com/a/634626): `sudo some-command && sudo some-other-command` or `sudo sh -c "some-command && some-other-command"`
+
 
 # Synology
 
