@@ -308,7 +308,8 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # Firefox
 
-[ How To Install The Latest Firefox (Non-ESR) On Debian 10 Buster (Stable) Or Bullseye (Testing)](https://www.linuxuprising.com/2019/12/how-to-install-latest-firefox-non-esr.html?m=1)
+* [How To Install The Latest Firefox (Non-ESR) On Debian 10 Buster (Stable) Or Bullseye (Testing)](https://www.linuxuprising.com/2019/12/how-to-install-latest-firefox-non-esr.html?m=1)
+* [Firefox uses more RAM on FreeBSD than Linux because mozjemalloc (a heavily modified version of jemalloc) hasn't been ported to FreeBSD](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=244879#c1)
 
 # fish shell
 
