@@ -60,6 +60,15 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
 
 Buy the largest capacity HDDs per bay or slot you can afford. Unit storage cost isn't a bad metric, but as fleet size grows, footprint costs begin to dominate. For example, it's less expensive in the long run to have 1 machine with 4x16 TB HDDs than 4 machines with 4x4 TB HDDs each. See the *Retiring Pods* section [here](https://www.soothsawyer.com/ryan-smith-uses-backblazes-smart-data-to-illustrate-the-power-of-data/) for a case study.
 
+# Baloo file indexer
+
+How to disable:
+
+```
+$ balooctl suspend
+$ balooctl disable
+```
+
 # Bash
 
 * [How to check version](https://www.cyberciti.biz/faq/how-do-i-check-my-bash-version/)
