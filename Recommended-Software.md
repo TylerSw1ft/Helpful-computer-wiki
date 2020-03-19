@@ -129,7 +129,7 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 * [Foobar2000](https://www.foobar2000.org/) (Windows)
 * [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) (Android)
 
-# Music Streamers
+# Music Streaming Clients
 
 * Soundcloud (Android, iOS, web)
 * [Spotify](https://www.spotify.com) (Android, iOS, Linux, web, Windows)
@@ -145,16 +145,27 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 
 # Notification Mirrors
 
-Pushbullet (Android, web, Windows)
+[Pushbullet](https://www.pushbullet.com/) (Android, web, Windows)
 
 # Operating Systems
 
 ## BSD
 
-* FreeBSD (Server)
-* FreeNAS (NAS)
-* GhostBSD (Desktop, Server)
-* pfSense (Firewall)
+### Desktop
+
+[FuryBSD KDE](https://www.furybsd.org/)
+
+### Firewall
+
+[pfSense](https://www.pfsense.org/)
+
+### NAS
+
+[FreeNAS](https://www.freenas.org/) (NAS) (Soon to become [TrueNAS Core](https://www.ixsystems.com/blog/freenas-truenas-unification/))
+
+### Server
+
+[FreeBSD](https://www.freebsd.org/)
 
 ## Linux Distributions
 
