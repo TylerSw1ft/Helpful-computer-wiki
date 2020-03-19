@@ -169,8 +169,13 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 
 ## Linux Distributions
 
-* Debian Stable (Desktop)
-* Debian Stable Server (Server)
+### Desktop
+
+[Debian Stable](https://www.debian.org/releases/stable/)
+
+### Server
+
+Debian Stable Server Installation
 * Proxmox (Virtualization Environment)
 * Raspbian (IoT)
 
