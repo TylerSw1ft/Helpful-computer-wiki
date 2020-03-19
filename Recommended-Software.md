@@ -2,7 +2,7 @@
 
 * The following are either software I've used personally or know to work best in the noted capacity/context. 
 * The list of supported OSes for particular applications is not necessarily exhaustive
-* GhostBSD is based on FreeBSD, and so anything that is listed as working with one can be assumed to work with both unless otherwise stated
+* FuryBSD KDE is FreeBSD with a bundled live image desktop and KDE installation, and so anything that is listed as working with FuryBSD can be assumed to work with FreeBSD also unless otherwise stated
 
 # Antimalware
 
@@ -36,7 +36,7 @@
 * [TWRP](https://twrp.me) (Android)
 * Veeam Agent FREE ([Linux](https://www.veeam.com/linux-backup-free.html), [Windows](https://www.veeam.com/windows-endpoint-server-backup-free.html))
 * [Volume Shadow Copy](https://docs.microsoft.com/en-us/windows/win32/vss/volume-shadow-copy-service-overview)
-* [`zfsnap`](https://www.zfsnap.org/) (FreeBSD, Linux)
+* [`zfsnap2`](https://www.zfsnap.org/) (FreeBSD, Linux)
 
 There are many people who swear by `rsync`, but I find it obtuse to use, so it's not listed here.
 
