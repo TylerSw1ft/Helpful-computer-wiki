@@ -187,6 +187,16 @@ For some reason, it's become incredibly difficult to find highly rated (≥ 4 �
 
 # Storage
 
+## Cloud
+
+The only providers I recommend are (in alphabetical order):
+
+* Amazon
+* Backblaze
+* Dropbox
+* Google
+* Microsoft
+
 ## HDDs
 
 Generally speaking, all HDDs that lack a workload rating have the same reliability. The only 2.5 in HDDs with workload ratings are ≥ 15 mm thick, which means they consume (nearly) as much space as a 3.5 in HDD. Also, I have no experience with the former. Ergo, they are omitted here.
