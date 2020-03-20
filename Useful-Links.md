@@ -599,6 +599,10 @@ https://www.smartmontools.org/wiki/TocDoc
 
 [How to create a new systemd service](https://www.redhat.com/sysadmin/replacing-rclocal-systemd)
 
+# TPM
+
+[TPM 1.2, 2.0 and fTPM (firmware-based TPM) Information](http://aps2.toshiba-tro.de/kb0/TSB8B03XO0000R01.htm)
+
 # tsch
 
 * [Add a splash of color to your command line environment](https://blogs.aalto.fi/marijn/2016/07/05/add-a-splash-of-color-to-your-command-line-environment/)
