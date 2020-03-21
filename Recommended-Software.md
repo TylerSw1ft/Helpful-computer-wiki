@@ -255,6 +255,10 @@ Oracle Solaris
 
 OpenIndiana Hipster GUI
 
+### Firewall
+
+pfSense
+
 ### Internet of Things
 
 Raspbian Stable
@@ -272,12 +276,21 @@ FreeNAS
 * FreeBSD
 * FuryBSD KDE
 
+#### Linux Distributions
 
-* Debian Stable Server Installation 
-* FreeBSD
-* FuryBSD
+Debian Stable + Cockpit
 
-### Server
+#### Microsoft Windows Semi-Annual Channel
+
+Server
+
+#### UNIX
+
+Oracle Solaris
+
+#### Unix
+
+OpenIndiana Hipster GUI
 
 # Partition Managers
 
