@@ -92,6 +92,7 @@ $ balooctl disable
 
 ## FreeBSD
 
+* [Directory Structure](https://www.freebsd.org/doc/handbook/dirstructure.html)
 * [FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
 * [How To Enable SSH On FreeBSD](https://www.ostechnix.com/how-to-enable-ssh-on-freebsd/)
 * [How to use pkg-status.freebsd.org](https://forums.freebsd.org/threads/is-it-just-me-or-is-chromium-unavailable-in-latest-pgk-repo-for-12-1-release-p2.74501/post-455633)
@@ -607,6 +608,9 @@ https://www.smartmontools.org/wiki/TocDoc
 
 * [Add a splash of color to your command line environment](https://blogs.aalto.fi/marijn/2016/07/05/add-a-splash-of-color-to-your-command-line-environment/)
 * [Coloring the tcsh prompt](https://www.cs.umd.edu/~srhuang/teaching/code_snippets/prompt_color.tcsh.html)
+  * Comment out the 2nd prompt option  
+  * To color the root crontab, make the 1st prompt option `set prompt="${green}%N${blue}@%m ${white}%~ ${green}%%${end} "`
+* [Customizing your shell prompt](http://www.nparikh.org/unix/prompt.php)
 
 # Ubiquiti
 
