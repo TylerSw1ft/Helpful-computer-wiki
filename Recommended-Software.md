@@ -192,7 +192,7 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 
 #### Server
 
-Debian Stable + Cockpit
+Debian Stable + [Cockpit](https://cockpit-project.org/)
 
 #### Virtualization
 
@@ -299,22 +299,18 @@ OpenIndiana Hipster GUI
 
 # Password Managers
 
-* KeePass (FreeBSD, Linux, OpenIndiana, Windows)
-* KeePass2Android (Android)
+* [KeePass](https://keepass.info/) (FreeBSD, Linux, OpenIndiana, Windows)
+* [KeePass2Android](https://github.com/PhilippC/keepass2android) (Android)
 * [KeePassXC](https://keepassxc.org/) (Linux, macOS, Windows)
 
 # PDF Clients
 
-* Adobe Reader DC (Windows)
-* Xodo (Android)
-
-# Presentation Clients
-
-Microsoft PowerPoint (macOS, Windows)
+* [Adobe Reader DC](https://get.adobe.com/reader/) (Windows)
+* [Xodo](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader&hl=en) (Android)
 
 # Productivity Suites
 
-Microsoft Office 365 (Android, macOS, Windows)
+[Microsoft Office 365](https://office.com) (Android, macOS, Windows)
 
 # Remote Desktop
 
@@ -323,32 +319,27 @@ Microsoft Office 365 (Android, macOS, Windows)
 
 # Simulation Environments
 
-ANSYS Workbench (Linux, Windows)
-
-# Spreadsheets
-
-* [Google Sheets](https://www.google.com/sheets/about/) (web)
-* Microsoft Excel (macOS, Windows)
+[ANSYS Workbench](https://www.ansys.com) (Linux, Windows)
 
 # SSH Clients 
 
-* Ásbrú Connection Manager (Linux)
-* MobaXterm
+* [Ásbrú Connection Manager](https://www.asbru-cm.net/) (Linux)
+* [MobaXterm](https://mobaxterm.mobatek.net/) (Windows)
 
 # Structural Solvers
 
 [ANSYS Mechanical](https://www.ansys.com/products/structures/ansys-mechanical-enterprise) (Linux, Windows)
 
-Don't use anything other than Mechanical unless you absolutely have to. Everything else is an absolute pain to deal with.
+Don't use anything other than Mechanical unless you absolutely have to. Everything else is an absolute pain to deal with, relatively speaking.
 
 # Task Managers
 
-Todoist
+[Todoist](https://todoist.com/)
 
 # Text Editors 
 
-* QuickEdit+ (Android)
-* [Sublime Text](https://www.sublimetext.com/) (Linux, Windows)
+* [QuickEdit Text Editor Pro](https://play.google.com/store/apps/details?id=com.rhmsoft.edit.pro&hl=en_US) (Android)
+* [Sublime Text](https://www.sublimetext.com/) (FreeBSD, Linux, Windows)
 
 # Twitter Clients
 
@@ -361,7 +352,7 @@ Todoist
 
 # Unit Converters
 
-Converber (Windows)
+[Converber](http://www.xyntec.com/converber.htm) (Windows)
 
 # Volume Spanners
 
@@ -371,7 +362,3 @@ Converber (Windows)
 
 * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) (Android, FreeBSD, iOS, Linux, macOS, OpenIndiana, Windows)
 * [Google Chrome](https://www.google.com/chrome/) (Android, FreeBSD, Linux, macOS, Windows)
-
-# Word Processors
-
-Microsoft Word (macOS, Windows)
