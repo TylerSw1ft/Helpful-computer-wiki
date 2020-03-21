@@ -126,6 +126,12 @@ $ balooctl disable
 
 * Append `username ALL=(ALL) ALL` to `/etc/sudoers` or `/usr/local/etc/sudoers`
 
+### How to mount (Debian 10.2+) NFSv4 share
+
+In terminal, run `# mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare /LocalMountPath`
+
+The equivalent `/etc/fstab` entry for this is apparently ServerIPAddress:/PathToServerShare  /LocalMountPath                     nfs     rw,nfsv4acls    0 0`
+
 ### How to set up multiple monitors on Dell OptiPlex 390 SFF
 
 * Connect HDMI monitor only
@@ -177,20 +183,6 @@ The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Setti
 4. Change the permissions and ownership of the `.sync` copy to grant MyUsername `rwx` and ownership
 5. Start Resilio Sync by running `cd /bin && ./rslsync --storage /absolute/path/to/home/.sync/folder` ([Source](https://forum.resilio.com/topic/71858-linuxbsd-how-do-i-move-sync-from-running-as-root-to-running-as-my-user-without-having-to-setup-from-scratch/?do=findComment&comment=153863))
 6. To run Resilio Sync at boot, add the following entry to `/etc/crontab`: `@reboot MyUsername cd /bin && ./rslsync --storage /absolute/path/to/home/.sync/folder`
-
-## GhostBSD
-
-### Enable `sshd` at startup
-
-In terminal, run `# rc-update add sshd default`
-
-### Mount (Debian 10.2+) NFSv4 share
-
-In terminal, run `# mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare LocalMountPath`
-
-### Setup SSH server
-
-Run `# service sshd start` at the terminal.
 
 ## Why I might no longer run BSD
 
