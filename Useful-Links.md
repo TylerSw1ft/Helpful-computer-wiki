@@ -611,7 +611,7 @@ https://www.smartmontools.org/wiki/TocDoc
 * [Add a splash of color to your command line environment](https://blogs.aalto.fi/marijn/2016/07/05/add-a-splash-of-color-to-your-command-line-environment/)
 * [Coloring the tcsh prompt](https://www.cs.umd.edu/~srhuang/teaching/code_snippets/prompt_color.tcsh.html)
   * Comment out the 2nd prompt option  
-  * To color the root crontab, make the 1st prompt option `set prompt="${green}%N${blue}@%m ${white}%~ ${green}%%${end} "`
+  * To color the root crontab, make the 1st prompt option `set prompt="${green}%N${blue}@%m ${white}%~ ${green}%%${end} "` & place the file in `/root/.cshrc`
 * [Customizing your shell prompt](http://www.nparikh.org/unix/prompt.php)
 
 # Ubiquiti
