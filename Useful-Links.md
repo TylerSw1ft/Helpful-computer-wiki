@@ -130,7 +130,7 @@ $ balooctl disable
 
 In terminal, run `# mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare /LocalMountPath`
 
-The equivalent `/etc/fstab` entry for this is apparently ServerIPAddress:/PathToServerShare  /LocalMountPath                     nfs     rw,nfsv4acls    0 0`
+The equivalent `/etc/fstab` entry for this is apparently `ServerIPAddress:/PathToServerShare  /LocalMountPath                     nfs     rw,nfsv4acls    0 0`
 
 ### How to set up multiple monitors on Dell OptiPlex 390 SFF
 
