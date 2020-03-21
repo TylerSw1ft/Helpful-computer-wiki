@@ -288,6 +288,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [What HTML tags are allowed within comments](https://help.disqus.com/en/articles/1717235-what-html-tags-are-allowed-within-comments)
 
+# `exim4`
+
+[Instant fix for Exim4 ‘mailing to remote domains not supported’ error](https://bobcares.com/blog/exim4-mailing-to-remote-domains-not-supported/)
+
 # Fans
 
 [Effects of Grill Patterns on Fan Performance/Noise](https://www.pugetsystems.com/labs/articles/Effects-of-Grill-Patterns-on-Fan-Performance-Noise-107/)
@@ -386,6 +390,7 @@ MANPATH=/opt/local/man:$MANPATH
 * [Basic Linux Commands](https://linuxize.com/post/basic-linux-commands/)
 * Documentation parody: [You Figure It Out](https://www.youtube.com/watch?v=ZZtu6c_c3W8)
 * [Linux Boot Process: What You Should Know](https://www.maketecheasier.com/linux-boot-process/)
+* Mark all `username`'s mail as read (delete): `sudo rm /var/mail/username`
 
 # Logical Volume Management
 
@@ -499,6 +504,10 @@ My OpenRC advice is to interact with it only:
 Run:
 
 `pip3 install -U pip`
+
+# Postfix
+
+[Ubuntu documentation](https://help.ubuntu.com/lts/serverguide/postfix.html)
 
 # PSUs
 
@@ -620,6 +629,10 @@ https://www.smartmontools.org/wiki/TocDoc
 # Ubuntu
 
 [How to Easily Add Users to Groups in Ubuntu](https://www.maketecheasier.com/add-remove-user-to-groups-in-ubuntu/) (See Section 2)
+
+# `unattended-upgrades`
+
+[GitHub](https://github.com/mvo5/unattended-upgrades)
 
 # UNIX
 
