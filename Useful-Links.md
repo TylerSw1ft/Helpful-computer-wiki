@@ -599,8 +599,8 @@ https://www.smartmontools.org/wiki/TocDoc
 
 # systemd
 
-[How to create a new systemd service](https://www.redhat.com/sysadmin/replacing-rclocal-systemd)
-[vs. init](https://retrocomputing.stackexchange.com/a/14163/16563)
+* [How to create a new systemd service](https://www.redhat.com/sysadmin/replacing-rclocal-systemd)
+* [vs. init](https://retrocomputing.stackexchange.com/a/14163/16563)
 
 # TPM
 
