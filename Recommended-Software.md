@@ -1,7 +1,7 @@
 # Foreword
 
 * The following are either software I've used personally or know to work best in the noted capacity/context. 
-* The list of supported OSes for particular applications is not necessarily exhaustive
+* The list of supported OSes for particular applications is not necessarily exhaustive. Ports for a particular OS may exist; check [Repology](https://repology.org) or [Packages Search](https://pkgs.org)
 * FuryBSD KDE is FreeBSD with a bundled live image desktop and KDE installation, and so anything that is listed as working with FuryBSD can be assumed to work with FreeBSD also unless otherwise stated
 
 # Antimalware
@@ -46,6 +46,7 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 
 # Calculators
 
+* [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator&hl=en_US) (Android)
 * Calculator (Windows)
 
 # Calendars
@@ -84,10 +85,13 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 
 # Email Clients
 
-* [Gmail](https://gmail.com) (web)
-* [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook) (Windows)
+## Desktop
 
-Don't use anything other than Mechanical unless you absolutely have to. Everything else is an absolute pain to deal with.
+[Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook) (Windows)
+
+## Web
+
+[Gmail](https://gmail.com) (web)
 
 # File Managers
 
@@ -107,7 +111,7 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 
 # Image Organizers
 
-[digiKam](https://www.digikam.org/) (Linux, Windows)
+[digiKam](https://www.digikam.org/) (FreeBSD, Linux, OpenBSD, Windows)
 
 # Image Viewers
 
@@ -140,8 +144,13 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 
 # Notekeepers
 
-* [Evernote](https://evernote.com/) (Android, iOS, macOS, web, Windows)
+## Free
+
 * [Microsoft OneNote](https://www.onenote.com) (Android, iOS, macOS, web, Windows)
+
+## Paid
+
+* [Evernote](https://evernote.com/) (Android, iOS, macOS, web, Windows)
 
 # Notification Mirrors
 
@@ -149,56 +158,126 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 
 # Operating Systems
 
-## BSD
+## By Family
 
-### Desktop
+### BSD
+
+#### FreeBSD
+
+##### Desktop
 
 [FuryBSD KDE](https://www.furybsd.org/)
 
-### Firewall
+##### Firewall
 
 [pfSense](https://www.pfsense.org/)
 
-### NAS
+##### NAS
 
-[FreeNAS](https://www.freenas.org/) (NAS) (Soon to become [TrueNAS Core](https://www.ixsystems.com/blog/freenas-truenas-unification/))
+[FreeNAS](https://www.freenas.org/) (Soon to become [TrueNAS Core](https://www.ixsystems.com/blog/freenas-truenas-unification/))
 
-### Server
+##### Server
 
 [FreeBSD](https://www.freebsd.org/)
 
-## Linux Distributions
+### Linux Distributions
+
+#### Internet of Things (IoT)
+
+[Raspbian](https://www.raspberrypi.org/downloads/raspbian/)
+
+#### Desktop
+
+[Debian Stable](https://www.debian.org/releases/stable/) (KDE installation)
+
+#### Server
+
+Debian Stable + Cockpit
+
+#### Virtualization
+
+[Proxmox](https://www.proxmox.com/en/downloads)
+
+### Android
+
+* [LineageOS](https://lineageos.org/)
+* [Samsung One UI](https://www.samsung.com/us/apps/one-ui/)
+
+### [Microsoft Windows Semi-Annual Channel](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview#semi-annual-channel)
+
+Pro and Home work well enough for both *consumer* desktop and server applications, but the following SKUs have better feature parity with the other non-mobile OSes listed here.
+
+#### Desktop
+
+* Enterprise
+* Pro for Workstations
+
+#### Server
+
+Server (Since 2019, Microsoft has dropped the "Server" part of the name, calling it just Windows 2019. Presumably subsequent releases will follow this trend)
+
+### UNIX
+
+#### Desktop & Server
+
+[Oracle Solaris](https://www.oracle.com/solaris/solaris11/downloads/solaris-downloads.html)
+
+### Unix
+
+#### Desktop & Server
+  
+[OpenIndiana Hipster GUI](https://www.openindiana.org/download/)
+
+## By Application
 
 ### Desktop
 
-[Debian Stable](https://www.debian.org/releases/stable/)
+#### BSD
+
+##### FreeBSD
+
+FuryBSD KDE
+
+#### Linux Distributions
+
+Debian Stable
+
+#### Microsoft Windows Semi-Annual Channel
+
+* Enterprise
+* Pro for Workstations
+
+#### UNIX
+
+Oracle Solaris
+
+#### Unix
+
+OpenIndiana Hipster GUI
+
+### Internet of Things
+
+Raspbian Stable
+
+### NAS
+
+FreeNAS
 
 ### Server
 
-Debian Stable Server Installation
-* Proxmox (Virtualization Environment)
-* Raspbian (IoT)
+#### BSD
 
-### Android (Mobile)
+##### FreeBSD
 
-* [LineageOS](https://lineageos.org/)
-* Samsung One UI
+* FreeBSD
+* FuryBSD KDE
 
-## Microsoft Windows Semi-Annual Channel 
 
-Pro and Home work well enough, but the following SKUs have better feature parity with the other non-mobile OSes listed here.
+* Debian Stable Server Installation 
+* FreeBSD
+* FuryBSD
 
-* Enterprise (Desktop, Server)
-* Pro for Workstations (Workstation, Server)
-* (Server)
-
-## UNIX
-  
-Oracle Solaris (Desktop, Server)
-
-## Unix
-  
-OpenIndiana (Desktop, Server)
+### Server
 
 # Partition Managers
 
@@ -246,6 +325,8 @@ ANSYS Workbench (Linux, Windows)
 # Structural Solvers
 
 [ANSYS Mechanical](https://www.ansys.com/products/structures/ansys-mechanical-enterprise) (Linux, Windows)
+
+Don't use anything other than Mechanical unless you absolutely have to. Everything else is an absolute pain to deal with.
 
 # Task Managers
 
