@@ -151,7 +151,7 @@ The equivalent `/etc/fstab` entry for this is apparently `ServerIPAddress:/PathT
 * Click `Xorg Setup`
 * In the window that pops up, select `Intel`
 * Click `OK`
-* In the list that follows, select the `xf86-video-intel`
+* In the list that follows, select `xf86-video-intel`
 * Click `OK`
 * Complete installation process
 * Reboot
