@@ -338,6 +338,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 * [OpenIndiana Docs](http://docs.openindiana.org/)
 * [OpenIndiana Wiki](https://wiki.openindiana.org/)
 
+### [How to get notified of things going wrong](https://docs.oracle.com/cd/E37838_01/html/E60998/fddwy.html#scrolltoc)
+
+`# svccfg setnotify -g to-maintenance,to-offline,to-degraded mailto:MyEmailAddress@gmail.com`
+
 ### Packages and publishers (repositories)
 
 * [How to update all packages & system](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
