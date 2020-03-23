@@ -55,6 +55,7 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
   * Search for `Server (or Client) ANSLIC_ADMIN Utility 2020 R1`
   * Click `Run as Administrator`
   * In the window that pops up, click `Set License Preferences for User YourUsername`
+  * Click the `2020 R1` radio button and click `OK`
   * Ensure all the tabs in the window that pops up have the `Use a separate license for each application`
   * Click `Apply`
   * Click `OK`
