@@ -494,7 +494,12 @@ My OpenRC advice is to interact with it only:
 
 # Pi-hole
 
-[How do I update Pi-hole?](https://discourse.pi-hole.net/t/how-do-i-update-pi-hole/249/13): `pihole -up`
+* [How do I update Pi-hole?](https://discourse.pi-hole.net/t/how-do-i-update-pi-hole/249/13): `pihole -up`
+* Restart FTL: `# pihole restartdns`
+* [If FTL isn't running in the web console but has high CPU usage](https://discourse.pi-hole.net/t/pihole-ftl-using-all-my-cpu-and-breaks-all-internet-connectivity/15672/6?u=jdrch):
+  * `sudo service pihole-FTL stop`
+  * `sudo mv /etc/pihole/pihole-FTL.db /etc/pihole/pihole-FTL.db.old`
+  * `sudo service pihole-FTL start`
 
 # `pip` for Python 3
 
