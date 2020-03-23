@@ -700,13 +700,22 @@ The above article also explains that mesh wireless systems underperform under he
 # ZFS 
 
 * [Feature Matrix](https://zgrep.org/zfs.html)
+* [Latest OpenZFS development status and relationship among projects](https://drive.google.com/file/d/197jS8_MWtfdW2LyvIFnH58uUasHuNszz/view)
+* [Linus Torvalds recommends against ZFS (on Linux)](https://www.realworldtech.com/forum/?threadid=189711&curpostid=189841)
 * [Performance, Part 1](https://www.ixsystems.com/blog/zfs-pool-performance-1/)
 * [Performance, Part 2](https://www.ixsystems.com/blog/zfs-pool-performance-2/)
 * [Quickstart (See Steps 3 to 6)](https://github.com/jdrch/Hardware/wiki/How-to-Set-Up-Regular,-Recurring,-Incremental,-Online-Filesystem-Backups-using-Restic)
 * [RAIDZ*x* vs. mirroring resilience to *F* drive destruction](https://github.com/jdrch/Hardware/wiki/How-to-Calculate-the-Odds-of-Physical-Attack-Data-Loss-for-a-ZFS-Array)
-* [Latest OpenZFS development status and relationship among projects](https://drive.google.com/file/d/197jS8_MWtfdW2LyvIFnH58uUasHuNszz/view)
 * [When To (and Not To) Use RAID-Z](https://blogs.oracle.com/roch/when-to-and-not-to-use-raid-z)
-* [Linus Torvalds recommends against ZFS (on Linux)](https://www.realworldtech.com/forum/?threadid=189711&curpostid=189841)
+
+## Deduplication
+
+[How to check whether a zpool would benefit from deduplication](https://docs.oracle.com/cd/E37838_01/html/E61017/gazss.html#SVZFSgjhav):
+
+* `# zdb -S zpoolName`
+* Check the value of the `dedup` output. Do not enable deduplication if `dedup` ≤ 2
+
+
 
 # `zfsnap`
 
