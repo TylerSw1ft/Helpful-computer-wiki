@@ -438,6 +438,30 @@ MANPATH=/opt/local/man:$MANPATH
 * [How to manage Windows Server 2019 like a boss](https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-manage-windows-server-2019-like-a-boss/ba-p/1190784)
 * [Windows Admin Center Overview](https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/overview)
 
+## Maintenance
+
+How to keep your Windows installation healthy over the years without ever having to reinstall
+
+### Do
+
+* Ensure the latest *stable* BIOS and driver releases are installed. You can subscribe to email or RSS notifications from many OEMs
+* Install updates as soon as they are offered for your PC
+* Ensure the latest application releases are installed
+* Be patient
+
+### Don't
+
+* Run unsupported configurations
+* Edit the Windows registry directly unless it's for a mission critical feature
+* Enable optional features (under `Turn Windows Features On or Off`) unless they are mission critical
+* Install beta drivers unless they are mission critical or they address a mission critical bug
+* Use Windows customizers
+* Force updates on machines for whom the update hasn't been offered via Microsoft Update
+* Delete your recovery partition
+* Multiboot. Aside from Boot Camp, Windows is neither developed nor tested for this
+* Be impatient, such as turning off your computer during an update unless it's stalled for literally 24 hours
+
+
 ## Microsoft Update
 
 [Windows 10: How long will your next feature update take to install?](https://www.zdnet.com/article/windows-10-how-long-will-your-next-feature-update-take-to-install/) Answer: 7 minutes
