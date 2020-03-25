@@ -396,6 +396,10 @@ MANPATH=/opt/local/man:$MANPATH
 
 [Documentation](https://docs.kde.org/)
 
+# KeePass
+
+[How to update plugins](https://keepass.info/help/v2/plugins.html)
+
 # Latency
 
 [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
