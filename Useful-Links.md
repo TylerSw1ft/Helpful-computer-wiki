@@ -441,6 +441,10 @@ MANPATH=/opt/local/man:$MANPATH
 
 [Windows 10: How long will your next feature update take to install?](https://www.zdnet.com/article/windows-10-how-long-will-your-next-feature-update-take-to-install/) Answer: 7 minutes
 
+## [[Pro for Workstations] and Enterprise] vs. Pro performance
+
+[The Windows and Multithreading Problem (A Must Read)](https://www.anandtech.com/show/15483/amd-threadripper-3990x-review/3)
+
 ## [Storage](https://docs.microsoft.com/en-us/windows-server/storage/storage)
 
 ### [Storage Spaces](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/overview) ([Direct](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/storage-spaces-direct-overview))
