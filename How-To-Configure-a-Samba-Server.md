@@ -1,4 +1,4 @@
-# Step 1: Create a Samba user matching your OS credentials
+# Step 1: Create a Samba user matching your client OS credentials
 
 `smbpasswd -a MyUsername`
 
