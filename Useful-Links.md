@@ -656,6 +656,16 @@ https://www.smartmontools.org/wiki/TocDoc
 * [How to create a new systemd service](https://www.redhat.com/sysadmin/replacing-rclocal-systemd)
 * [vs. init](https://retrocomputing.stackexchange.com/a/14163/16563)
 
+# Telegram
+
+## Ubuntu
+
+### If the Telegram launch window has an error message only that says `FATAL: Could not open `~/.local/share/TelegramDesktop/log_startXX.txt' for writing log!`
+
+* Close the desktop app window
+* Delete `~/.local/share/TelegramDesktop/`
+* Launch the desktop app again
+
 # TPM
 
 [TPM 1.2, 2.0 and fTPM (firmware-based TPM) Information](http://aps2.toshiba-tro.de/kb0/TSB8B03XO0000R01.htm)
