@@ -461,7 +461,6 @@ How to keep your Windows installation healthy over the years without ever having
 * Multiboot. Aside from Boot Camp, Windows is neither developed nor tested for this
 * Be impatient, such as turning off your computer during an update unless it's stalled for literally 24 hours
 
-
 ## Microsoft Update
 
 [Windows 10: How long will your next feature update take to install?](https://www.zdnet.com/article/windows-10-how-long-will-your-next-feature-update-take-to-install/) Answer: 7 minutes
@@ -536,6 +535,16 @@ My OpenRC advice is to interact with it only:
 ## Solaris
 
 [The sudden death and eternal life of Solaris](http://dtrace.org/blogs/bmc/2017/09/04/the-sudden-death-and-eternal-life-of-solaris/)
+
+# Phones
+
+## Mobile
+
+### Smart
+
+#### Why compact smartphones are dead
+
+See [here](https://www.reddit.com/r/Android/comments/fr4j9t/on_compact_android_phones_and_the_reason_we_arent/) and [here](https://www.reddit.com/r/Android/comments/fr4j9t/on_compact_android_phones_and_the_reason_we_arent/flvdnrc/)
 
 # Pi-hole
 
