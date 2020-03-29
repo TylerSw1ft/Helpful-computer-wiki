@@ -660,7 +660,7 @@ https://www.smartmontools.org/wiki/TocDoc
 
 ## Ubuntu
 
-### If the Telegram launch window has an error message only that says `FATAL: Could not open `~/.local/share/TelegramDesktop/log_startXX.txt' for writing log!`
+### [If the Telegram launch window has an error message only that says `FATAL: Could not open `~/.local/share/TelegramDesktop/log_startXX.txt' for writing log!`](https://github.com/telegramdesktop/tdesktop/issues/7481#issuecomment-605695563)
 
 * Close the desktop app window
 * Delete `~/.local/share/TelegramDesktop/`
