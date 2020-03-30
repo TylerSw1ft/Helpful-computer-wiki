@@ -426,6 +426,15 @@ MANPATH=/opt/local/man:$MANPATH
 * [Backwards compatibility](https://www.lto.org/solutions/benefits/compatibility/)
 * [Recommended models](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#internal)
 
+# `mail`
+
+* [How to delete mail](https://forums.freebsd.org/threads/how-to-delete-mails.4544/)
+  * Enter `delete n`, where n is the number of the message. You can also specify a range, such as `1-4`
+  * Hit `Enter`
+  * Enter `quit` (do not enter `exit` or your changes will not be saved)
+  * Hit `Enter`   
+* [`/var/mail/username` can be safely deleted](https://community.spiceworks.com/topic/434032-is-it-safe-to-delete-the-files-in-var-mail-in-linux)
+
 # Memory
 
 ## Bandwidth
