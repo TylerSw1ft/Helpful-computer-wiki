@@ -642,6 +642,12 @@ Run:
 
 https://www.smartmontools.org/wiki/TocDoc
 
+# Snapper
+
+* [`snapper` man page](http://snapper.io/manpages/snapper.html)
+* [`snapper-configs` man page](http://snapper.io/manpages/snapper-configs.html)
+* [ArchWiki `snapper` documentation](https://wiki.archlinux.org/index.php/Snapper)
+
 # SSDs
 
 * [A Study of SSD Reliability in Large Scale Enterprise Storage Deployments](https://www.usenix.org/system/files/fast20-maneas.pdf)
