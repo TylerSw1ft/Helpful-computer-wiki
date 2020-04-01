@@ -397,6 +397,20 @@ MANPATH=/opt/local/man:$MANPATH
 
 [The final ISA showdown: Is ARM, x86, or MIPS intrinsically more power efficient?](https://www.extremetech.com/extreme/188396-the-final-isa-showdown-is-arm-x86-or-mips-intrinsically-more-power-efficient/3) Answer: power efficiency is largely independent of ISA
 
+# Jupyter
+
+## How to install
+
+### Linux
+
+[Instructions](https://jupyter.readthedocs.io/en/latest/install.html#alternative-for-experienced-python-users-installing-jupyter-with-pip)
+
+### BSD
+
+#### FreeBSD
+
+`# pkg install py37-jupyterlab py37-graphviz py37-twisted`
+
 # KDE
 
 [Documentation](https://docs.kde.org/)
