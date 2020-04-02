@@ -83,11 +83,12 @@ $ balooctl disable
 
 # Bash
 
+* [Advanced Bash Scripting Guide](https://devconnected.com/advanced-bash-scripting-guide/)
+* [bash history](https://www.unixtutorial.org/bash-history)
 * [How to check version](https://www.cyberciti.biz/faq/how-do-i-check-my-bash-version/)
+* [In commands, `#` means `root`, `$` means any other user](https://unix.stackexchange.com/a/291733)
 * [Writing Scripts on Linux using Bash](https://devconnected.com/writing-scripts-on-linux-using-bash/)
 * [Zsh/Bash startup files loading order (.bashrc, .zshrc etc.)](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
-* [Advanced Bash Scripting Guide](https://devconnected.com/advanced-bash-scripting-guide/)
-* [In commands, `#` means `root`, `$` means any other user](https://unix.stackexchange.com/a/291733)
 
 # `bash-it`
 
