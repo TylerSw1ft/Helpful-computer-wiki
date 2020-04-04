@@ -159,11 +159,15 @@ These recommendations are primarily storage oriented.
 
 ## Wireless 
 
+[WiFi Alliance Product Finder](https://www.wi-fi.org/product-finder)
+
 ### Access points
 
 #### High performance
 
 If you don't absolutely need an AP right now, wait for Ubiquity UniFi Wi-Fi 6 APs ***[with OFDMA enabled](https://www.smallnetbuilder.com/wireless/wireless-features/33221-what-s-missing-from-your-wi-fi-6-router-ofdma?start=0)*** before buying. Also, bear in mind you'll need UniFi Controller for all of the following. If you want to run Controller on standalone hardware, I recommend ~~Debian 10 on a [used PC](https://github.com/jdrch/Hardware#what-are-the-minimum-specs-you-recommend-for-any-used-pc) or~~Raspbian on a Raspberry Pi 4. 
+
+##### 802.11ac
 
 In order of increasing performance and client density:
 
@@ -176,6 +180,19 @@ In order of increasing performance and client density:
 If you absolutely need to save money or better Windows support than what UniFi Controller offers:
 
 [EAP245 V3](https://www.tp-link.com/us/business-networking/ceiling-mount-access-point/eap245/v3/) + [Omada Software Controller](https://www.tp-link.com/us/business-networking/ceiling-mount-access-point/eap-controller/) + [Omada app](https://play.google.com/store/apps/details?id=com.tplink.omada)
+
+### Routers
+
+#### 802.11ac
+
+[Ubiquiti UniFi Dream Machine](https://store.ui.com/collections/routing-switching/products/unifi-dream-machine)
+
+#### 802.11ax
+
+Look for OFDMA, 4x4 Tx & Rx, and MU-MIMO. 
+
+* [ASUS RT-AX88U](https://www.asus.com/us/Networking/RT-AX88U/)
+* [NETGEAR RAX75](https://www.netgear.com/home/products/networking/wifi-routers/rax75.aspx)
 
 # Scanners
 
