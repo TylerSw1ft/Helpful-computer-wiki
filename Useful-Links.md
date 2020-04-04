@@ -637,7 +637,7 @@ Run:
 
 # Raspberry Pi
 
-Which logs to check in case of crashes and other problems:
+[Which logs to check](https://raspberrypi.stackexchange.com/a/38005/97063) in case of crashes and other problems:
 * `/var/log/messages`
 * `/var/log/kern.log`
 
