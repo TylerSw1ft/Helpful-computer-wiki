@@ -531,6 +531,12 @@ These are articles based on previous gen Windows releases. While they may not be
 * [Installation instructions](https://napp-it.org/manuals/nas_en.html) (see **Install napp-it/ setup your NAS ready to use**)
 * `napp-it-18.12.zip`, `nappit2.sh`, & `setup-napp-it.log` can all be safely deleted after successful installation
 
+# Networking
+
+## Wireless
+
+[SmallNetBuilder's Wi-Fi Dynamic Frequency Selection (DFS) FAQ](https://www.smallnetbuilder.com/basics/wireless-basics/33082-smallnetbuilder-s-wi-fi-dynamic-frequency-selection-dfs-faq)
+
 # `nnn`
 
 [Keyboard and mouse](https://github.com/jarun/nnn#keyboard-and-mouse)
