@@ -720,10 +720,6 @@ https://www.smartmontools.org/wiki/TocDoc
 * Delete `~/.local/share/TelegramDesktop/`
 * Launch the desktop app again
 
-# TPM
-
-[TPM 1.2, 2.0 and fTPM (firmware-based TPM) Information](http://aps2.toshiba-tro.de/kb0/TSB8B03XO0000R01.htm)
-
 # tsch
 
 * [Add a splash of color to your command line environment](https://blogs.aalto.fi/marijn/2016/07/05/add-a-splash-of-color-to-your-command-line-environment/)
@@ -731,6 +727,11 @@ https://www.smartmontools.org/wiki/TocDoc
   * Comment out the 2nd prompt option  
   * To color the root crontab, make the 1st prompt option `set prompt="${green}%N${blue}@%m ${white}%~ ${green}%%${end} "` & place the file in `/root/.cshrc`
 * [Customizing your shell prompt](http://www.nparikh.org/unix/prompt.php)
+* [Special shell variables](https://nature.berkeley.edu/~casterln/tcsh/Special_shell_variables.html)
+
+# TPM
+
+[TPM 1.2, 2.0 and fTPM (firmware-based TPM) Information](http://aps2.toshiba-tro.de/kb0/TSB8B03XO0000R01.htm)
 
 # Ubiquiti
 
