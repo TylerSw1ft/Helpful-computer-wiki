@@ -179,7 +179,7 @@ In order of increasing performance and client density:
 
 If you absolutely need to save money or better Windows support than what UniFi Controller offers:
 
-[EAP245 V3](https://www.tp-link.com/us/business-networking/ceiling-mount-access-point/eap245/v3/) + [Omada Software Controller](https://www.tp-link.com/us/business-networking/ceiling-mount-access-point/eap-controller/) + [Omada app](https://play.google.com/store/apps/details?id=com.tplink.omada)
+[TP-Link EAP245 V3](https://www.tp-link.com/us/business-networking/ceiling-mount-access-point/eap245/v3/) + [Omada Software Controller](https://www.tp-link.com/us/business-networking/ceiling-mount-access-point/eap-controller/) + [Omada app](https://play.google.com/store/apps/details?id=com.tplink.omada)
 
 ### Routers
 
