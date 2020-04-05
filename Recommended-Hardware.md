@@ -60,13 +60,7 @@ These recommendations are primarily storage oriented.
 
 #### Full
 
-##### No tempered glass
-
-[Phanteks Enthoo Pro](http://www.phanteks.com/Enthoo-Pro.html)
-
-##### Tempered glass
-
-[Phanteks Enthoo Pro Tempered Glass](http://www.phanteks.com/Enthoo-Pro-TemperedGlass.html)
+[Fractal Define 7 XL](https://www.fractal-design.com/products/cases/define/define-7-xl/black/)
 
 # Computers
 
