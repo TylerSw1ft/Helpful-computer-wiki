@@ -153,7 +153,10 @@ These recommendations are primarily storage oriented.
 
 ## Wireless 
 
-[WiFi Alliance Product Finder](https://www.wi-fi.org/product-finder)
+* [Official IEEE Working Group Project Timelines](http://www.ieee802.org/11/Reports/802.11_Timelines.htm)
+   * See the 802.11ax line for when the standard is likely to be ratified. It isn't as of yet
+* [Wi-Fi 4/5/6 (802.11 n/ac/ad/ax)](https://www.duckware.com/tech/wifi-in-the-us.html)
+* [WiFi Alliance Product Finder](https://www.wi-fi.org/product-finder)
 
 ### Access points
 
@@ -183,10 +186,16 @@ If you absolutely need to save money or better Windows support than what UniFi C
 
 #### 802.11ax
 
-Look for OFDMA, 4x4 Tx & Rx, and MU-MIMO. 
+**CAUTION**: Although Wi-Fi Alliance certification for this has begun, the standard has not yet been finalized by the IEEE. Buy products at your own risk.
 
+Look for OFDMA, 4x4 Tx & Rx, DFS, and MU-MIMO. 
+
+* [ASUS ROG Rapture GT-AX11000](https://www.asus.com/us/Networking/ROG-Rapture-GT-AX11000/)
 * [ASUS RT-AX88U](https://www.asus.com/us/Networking/RT-AX88U/)
 * [NETGEAR RAX75](https://www.netgear.com/home/products/networking/wifi-routers/rax75.aspx)
+* [NETGEAR RAX80](https://www.netgear.com/home/products/networking/wifi-routers/rax80.aspx)
+* [NETGEAR RAX120](https://www.netgear.com/home/products/networking/wifi-routers/rax120.aspx)
+
 
 # Scanners
 
