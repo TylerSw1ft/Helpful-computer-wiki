@@ -649,6 +649,10 @@ Run:
 
 [How to enable X11 forwarding for GUI apps launched with `sudo`](https://www.raspberrypi.org/forums/viewtopic.php?p=1623628#p1623628)
 
+# Reddit
+
+[Markdown syntax](https://www.reddit.com/wiki/markdown)
+
 # ReFS
 
 [ReFS integrity streams](https://docs.microsoft.com/en-us/windows-server/storage/refs/integrity-streams)
