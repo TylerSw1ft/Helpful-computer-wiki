@@ -816,6 +816,10 @@ The above article also explains that mesh wireless systems underperform under he
 
 [SmallNetBuilder's Wi-Fi Dynamic Frequency Selection (DFS) FAQ](https://www.smallnetbuilder.com/basics/wireless-basics/33082-smallnetbuilder-s-wi-fi-dynamic-frequency-selection-dfs-faq)
 
+## Performance
+
+[Deriving max theoretical Wi-Fi data rates from (near-)1st principles](https://www.reddit.com/r/hardware/comments/fvthqj/deriving_max_theoretical_wifi_data_rates_from/)
+
 # [The XY Problem](http://xyproblem.info/)
 
 # Zabbix
