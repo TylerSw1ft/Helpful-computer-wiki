@@ -366,7 +366,7 @@ Pretty much anything that requires `sudo` needs to be put here:
     * `# pkg update -v -r`
     * Check the output of the last command to see if there's a new boot environment to boot into. If there is, reboot the machine
 * [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
-* [How to set up, update, and manage packages from pkgsrc repository](https://pkgsrc.joyent.com/install-on-illumos/) 
+* [How to set up the pkgsrc repository](https://pkgsrc.joyent.com/install-on-illumos/) (This needs to be done only once. From then on `# pkgin -y update` and `# pkgin -y upgrade` will keep you on the latest package releases)
   * Replace all instances of `gpg` on above page with `gpg2`
   * Edit `PATH` & `MANPATH` variables in `/export/home/YourUsername/.profile` using `pluma`. New lines should look like the code block below
   * `bootstrap-trunk-x86_64-YYYYMMDD.tar.gz` & `bootstrap-trunk-x86_64-YYYYMMDD.tar.gz.asc` can be safely deleted once setup is complete
