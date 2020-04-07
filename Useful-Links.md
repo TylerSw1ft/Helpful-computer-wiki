@@ -410,7 +410,8 @@ MANPATH=/opt/local/man:$MANPATH
 
 # KDE
 
-[Documentation](https://docs.kde.org/)
+* [Documentation](https://docs.kde.org/)
+* How to Restart KDE Plasma Desktop without Rebooting: `plasmashell --replace`
 
 # KeePass
 
