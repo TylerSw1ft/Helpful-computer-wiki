@@ -816,6 +816,11 @@ The above article also explains that mesh wireless systems underperform under he
 
 [Deriving max theoretical Wi-Fi data rates from (near-)1st principles](https://www.reddit.com/r/hardware/comments/fvthqj/deriving_max_theoretical_wifi_data_rates_from/)
 
+## Troubleshooting
+
+* [Access Point Placement](https://github.com/jdrch/Hardware/wiki/Useful-Links#access-point-placement)
+* [Troubleshooting 'slow' Wi-Fi](https://www.duckware.com/tech/wifi-in-the-us.html#troubleshooting)
+
 # [The XY Problem](http://xyproblem.info/)
 
 # Zabbix
@@ -839,8 +844,6 @@ The above article also explains that mesh wireless systems underperform under he
 
 * `# zdb -S zpoolName`
 * Check the value of the `dedup` output. Do not enable deduplication if `dedup` ≤ 2
-
-
 
 # `zfsnap`
 
