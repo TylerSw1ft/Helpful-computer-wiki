@@ -190,7 +190,19 @@ If you absolutely need to save money or better Windows support than what UniFi C
 
 **CAUTION**: Although Wi-Fi Alliance certification for this has begun, the standard has not yet been finalized by the IEEE. Buy products at your own risk.
 
-Look for OFDMA, 4x4 Tx & Rx, DFS, and MU-MIMO. 
+In the router/AP's Wi-Fi Alliance Wi-Fi 6 certificate, the following should be in the:
+
+1. **Security** section:
+   1. WPA3™ - Personal
+2. **Wi-Fi CERTIFIED 6™** section:
+   1. OFDMA
+      1. DL OFDMA
+      2. UL OFDMA
+   2. MU-MIMO
+   3. Maximum Supported Channel Width (20, 40, 80, 160 MHz)
+   4. Target Wake Time (TWT)
+   5. MCS 10-11 Rx (= 1024-QAM)
+   6. Beamforming
 
 [ASUS RT-AX88U](https://www.asus.com/us/Networking/RT-AX88U/) - ([Wi-Fi 6 Certificate](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91821))
 
