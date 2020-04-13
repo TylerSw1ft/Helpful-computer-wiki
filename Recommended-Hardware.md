@@ -184,14 +184,21 @@ If you absolutely need to save money or better Windows support than what UniFi C
 
 [Ubiquiti UniFi Dream Machine](https://store.ui.com/collections/routing-switching/products/unifi-dream-machine)
 
-#### 802.11ax
+#### 802.11ax 
+
+(Wi-Fi 6)
 
 **CAUTION**: Although Wi-Fi Alliance certification for this has begun, the standard has not yet been finalized by the IEEE. Buy products at your own risk.
 
 Look for OFDMA, 4x4 Tx & Rx, DFS, and MU-MIMO. 
 
+##### Wi-Fi 6 Certified
+
+[ASUS RT-AX88U](https://www.asus.com/us/Networking/RT-AX88U/)
+
+##### *NOT* Wi-Fi 6 Certified
+
 * [ASUS ROG Rapture GT-AX11000](https://www.asus.com/us/Networking/ROG-Rapture-GT-AX11000/)
-* [ASUS RT-AX88U](https://www.asus.com/us/Networking/RT-AX88U/)
 * [NETGEAR RAX75](https://www.netgear.com/home/products/networking/wifi-routers/rax75.aspx)
 * [NETGEAR RAX80](https://www.netgear.com/home/products/networking/wifi-routers/rax80.aspx)
 * [NETGEAR RAX120](https://www.netgear.com/home/products/networking/wifi-routers/rax120.aspx)
