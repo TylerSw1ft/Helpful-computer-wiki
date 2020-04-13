@@ -194,7 +194,7 @@ Look for OFDMA, 4x4 Tx & Rx, DFS, and MU-MIMO.
 
 ##### Wi-Fi 6 Certified
 
-[ASUS RT-AX88U](https://www.asus.com/us/Networking/RT-AX88U/)
+[ASUS RT-AX88U](https://www.asus.com/us/Networking/RT-AX88U/) - ([Certificate](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91821))
 
 ##### *NOT* Wi-Fi 6 Certified
 
