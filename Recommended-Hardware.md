@@ -192,17 +192,7 @@ If you absolutely need to save money or better Windows support than what UniFi C
 
 Look for OFDMA, 4x4 Tx & Rx, DFS, and MU-MIMO. 
 
-##### Wi-Fi 6 Certified
-
-[ASUS RT-AX88U](https://www.asus.com/us/Networking/RT-AX88U/) - ([Certificate](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91821))
-
-##### *NOT* Wi-Fi 6 Certified
-
-* [ASUS ROG Rapture GT-AX11000](https://www.asus.com/us/Networking/ROG-Rapture-GT-AX11000/)
-* [NETGEAR RAX75](https://www.netgear.com/home/products/networking/wifi-routers/rax75.aspx)
-* [NETGEAR RAX80](https://www.netgear.com/home/products/networking/wifi-routers/rax80.aspx)
-* [NETGEAR RAX120](https://www.netgear.com/home/products/networking/wifi-routers/rax120.aspx)
-
+[ASUS RT-AX88U](https://www.asus.com/us/Networking/RT-AX88U/) - ([Wi-Fi 6 Certificate](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91821))
 
 # Scanners
 
