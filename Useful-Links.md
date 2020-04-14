@@ -800,6 +800,8 @@ https://www.smartmontools.org/wiki/TocDoc
 
 # Wi-Fi
 
+[What’s the Difference Between 802.11ac Wave 1 and Wave 2? [FAQ’s]](https://www.securedgenetworks.com/blog/whats-the-difference-between-802.11ac-wave-1-and-wave-2-faqs)
+
 ## Access Point Placement
 
 [The Ars Technica semi-scientific guide to Wi-Fi Access Point placement](https://arstechnica.com/gadgets/2020/02/the-ars-technica-semi-scientific-guide-to-wi-fi-access-point-placement/)
