@@ -115,6 +115,7 @@ $ balooctl disable
 * [Instant Workstation](https://euroquis.nl/freebsd/2019/08/12/instant-workstation.html): A script that automagically sets up KDE on a FreeBSD installation
 * [Quarterly and Latest Ports Branches](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/pkgng-intro.html) (See Section 4.4.2)
 * [Shells](https://www.freebsd.org/doc/handbook/shells.html)
+* [Technical reasons to choose FreeBSD over GNU/Linux](https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html)
 
 ### Ports
 
@@ -289,6 +290,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 1. Follow Steps 2.1 to 2.6 [here](https://www.dell.com/support/article/us/en/19/sln143196/how-to-create-a-bootable-usb-flash-drive-using-dell-diagnostic-deployment-package-dddp?lang=en)
 2. Follow these [instructions](https://www.dell.com/support/article/us/en/19/sln129956/dell-bios-updates?lang=en#Five)
+
+# Desktop Environments
+
+[My opinions on the major DEs](https://forums.freebsd.org/threads/desktop-environment-what-do-you-use.74506/post-455819)
 
 # Disk Erasure
 
