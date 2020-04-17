@@ -72,7 +72,7 @@ These recommendations are primarily storage oriented.
 2. RAM: Max supported RAM (by motherboard) ≥ 16 GB
 3. LAN: ≥ 1000BASE-T Ethernet
 4. Bluetooth: ≥ 5.0
-5. Wi-Fi: ≥ 2x2 802.11ac
+5. Wi-Fi: ≥ 2x2 802.11ax
 6. USB: ≥ USB 3.1 Gen 1
 7. Storage: NVMe SSD at the least
 8. GPU/video out: HDMI ≥ 1.4 or DisplayPort ≥ 1.2
@@ -107,6 +107,7 @@ These recommendations are primarily storage oriented.
 5. GPU/video out: ≥ HDMI
 6. Display: ≥ 768p
 7. LAN: ≥ 1000BASE-T Ethernet
+8. Wi-Fi: ≥ 2x2 802.11ax
 
 ## Enterprise desktop product lines
 
