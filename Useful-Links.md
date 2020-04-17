@@ -60,6 +60,20 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
   * Click `Apply`
   * Click `OK`
 
+* How to resolve Model cells opening as Read-Only
+  * On the License Server:
+    * Click `Start`
+    * Click `Ansys Inc License Manager`
+    * Right-click on `SERVER ANSLIC_ADMIN`
+    * Click `Run as Administrator`
+    * Go to `Set Site Preferences` -> `Specify Product Order` -> `v12 and higher`
+    * Click `Reset to Default`
+  * On the workstation, *after the above has been completed*:
+    * Open Workbench
+    * Go to `Tools` -> `License Preferences`
+    * Click `Reset to Default`
+    * Quit and reopen Workbench
+
 # `apt`
 
 [How to clean up sources](https://askubuntu.com/a/762815/932418)
