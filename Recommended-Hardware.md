@@ -149,8 +149,21 @@ These recommendations are primarily storage oriented.
 
 ### MoCA adapters
 
+[Certified products](http://www.mocalliance.org/products/index.htm)
+
+#### MoCA 2.5
+
+This is the 2.5 Gb/s standard.
+
+* [Actiontec ECB6250 MoCA 2.5 Network Adapter](https://www.actiontec.com/products/home-networking/moca-2-5-network-adapter-ecb6250) (Sold to service providers only)
+* [goCoax WF-803M](https://www.gocoax.com/product-page/copy-of-wf-803m)
+
+#### MoCA 2.0
+
+This is the 1 Gb/s standard.
+
 * [Actiontec Bonded MoCA 2.0 Network Adapter](https://www.actiontec.com/products/home-networking/ecb6200/)
-* [Hitron HT-EM2](http://www.hitron-americas.com/product/ht-em2/)
+* [Hitron HT-EM2](http://www.hitron-americas.com/product/ht-em2/) (Difficult to find at retail; check service provider)
 
 ## Wireless 
 
