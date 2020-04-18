@@ -545,6 +545,10 @@ These are articles based on previous gen Windows releases. While they may not be
 * [Installation instructions](https://napp-it.org/manuals/nas_en.html) (see **Install napp-it/ setup your NAS ready to use**)
 * `napp-it-18.12.zip`, `nappit2.sh`, & `setup-napp-it.log` can all be safely deleted after successful installation
 
+# Networking
+
+[DSLReports Speed Test](http://www.dslreports.com/speedtest)
+
 # `nnn`
 
 [Keyboard and mouse](https://github.com/jarun/nnn#keyboard-and-mouse)
