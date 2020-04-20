@@ -172,6 +172,7 @@ This is the 1 Gb/s standard.
 * [Wi-Fi 4/5/6 (802.11 n/ac/ad/ax)](https://www.duckware.com/tech/wifi-in-the-us.html)
 * [WiFi Alliance Product Finder](https://www.wi-fi.org/product-finder)
 * [What's Missing From Your Wi-Fi 6 Router? OFDMA](https://www.smallnetbuilder.com/wireless/wireless-features/33221-what-s-missing-from-your-wi-fi-6-router-ofdma)
+
 ### Access points
 
 #### High performance
@@ -194,11 +195,13 @@ If you absolutely need to save money or better Windows support than what UniFi C
 
 ### Routers
 
-#### 802.11ac
+#### High Performance
+
+##### 802.11ac
 
 [Ubiquiti UniFi Dream Machine](https://store.ui.com/collections/routing-switching/products/unifi-dream-machine)
 
-#### 802.11ax 
+##### 802.11ax 
 
 (Wi-Fi 6)
 
@@ -219,6 +222,22 @@ In the router/AP's Wi-Fi Alliance Wi-Fi 6 certificate, the following should be i
    6. Beamforming
 
 [ASUS RT-AX88U](https://www.asus.com/us/Networking/RT-AX88U/) - ([Wi-Fi 6 Certificate](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91821))
+
+#### Value
+
+All products listed under this heading are [Wi-Fi certified](https://www.wi-fi.org/product-finder).
+
+##### 802.11ac
+
+**WARNING**: The following products [canNOT be guaranteed](https://github.com/jdrch/Hardware/wiki/Useful-Links#bufferbloat) to not be affected by Bufferbloat.
+
+* [TP-Link Archer C8](https://www.tp-link.com/us/home-networking/wifi-router/archer-c8/) (WARNING: Firmware updates factory reset this router, and it typically locks up or needs a power cycle about once every 2 to 3 months)
+* [NETGEAR R6400 AC1750 Smart WiFi Router](https://www.netgear.com/home/products/networking/wifi-routers/R6400.aspx)
+* [NETGEAR R6700 Nighthawk AC1750 Smart WiFi Router](https://www.netgear.com/home/products/networking/wifi-routers/R6700.aspx) (NOTE: Despite the higher model number, get the R6400 above instead if it's available)
+
+**WARNING**: The following product is less likely to be affected by Bufferbloat than the previous ones due to its Linux kernel version (3.x), but that cannot be guaranteed
+
+[Synology Router RT2600ac](https://www.synology.com/en-us/products/RT2600ac)
 
 # Scanners
 
