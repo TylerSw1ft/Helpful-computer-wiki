@@ -244,21 +244,9 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 
 `@monthly btrfs scrub start /path/to/Btrfs/filessystem`
 
-# BufferBloat
+# Bufferbloat
 
-## How to check for if your router or device supports the FQ-CoDel mitigation
-
-Per the [IETF](https://tools.ietf.org/html/draft-ietf-aqm-fq-codel-06#section-7):
-
-> The FQ-CoDel algorithm as described in this document has been shipped as part of the Linux kernel since version 3.5, released on the 21st of July, 2012, with the ce_threshold being added in version 4.2
-
-To find out your what Linux version your device is running, either SSH into it and run `uname -a` or look up its Wi-Fi Alliance certification, which typically lists the kernel version. Embedded devices often don't get kernel version updates, so it's fair to assume the version listed in the certification will be the one on the device for the latter's life.
-
-If the Linux version is ≥ 3.5, your device *likely* (note the emphasis) has FQ-CoDel.
-
-If the Linux version is ≥ 4.2, your device *likely* has FQ-CoDel + `ce_threshold`
-
-If the Linux version does not fall into either of the above ranges, your device more than likely does not have FQ-CoDel support.
+[*A priori* avoidance of Bufferbloat (buffering-induced latency spikes) in wireless routers and access points](https://www.reddit.com/r/HomeNetworking/comments/g4upyw/how_to_determine_if_a_wireless_router_or_access/)
 
 # `chkrootkit`
 
