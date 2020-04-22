@@ -475,6 +475,55 @@ MANPATH=/opt/local/man:$MANPATH
 
 [Memory Bandwidth Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
 
+# Microsoft Excel
+
+## How to batch delete Excel columns whose top cell does not contain a given string?
+
+If given string = "GivenString":
+
+1. Press `Alt` + `F11` keys simultaneously to open the Microsoft Visual Basic Application window
+2. In the Microsoft Visual Basic Application window, click `Insert` > `Module`
+3. Enter the following code into the Module window:
+
+```
+Sub DeleteSpecifcColumn()
+    Dim lastCol As Long
+    Dim i As Long
+    Dim ws As Worksheet
+    Dim strSearch As String
+    
+    'What worksheet should we use?
+    Set ws = ActiveSheet
+    'What are we looking for?
+    strSearch = "GivenString"
+    
+    Application.ScreenUpdating = False
+    
+    With ws
+        'How many columns are there?
+        lastCol = .Cells(1, .Columns.Count).End(xlToLeft).Column
+        
+        'Cycle right to left since we're deleting stuff
+        For i = lastCol To 1 Step -1
+            If InStr(1, .Cells(1, i).Value, strSearch) > 0 Then
+                'Keep it, do nothing
+            Else
+                .Cells(1, i).EntireColumn.Delete
+            End If
+        Next i
+    End With
+    
+    Application.ScreenUpdating = True
+End Sub
+```
+
+4. Press the `F5` key to run the code 
+
+Sources:
+
+* https://www.extendoffice.com/documents/excel/3086-excel-delete-columns-based-on-header.html
+* https://www.reddit.com/r/excel/comments/g63767/how_do_i_batch_delete_excel_columns_whose_top/fo71e1m/
+
 # Microsoft Windows 
 
 * [How to perform a clean boot in Windows](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-bot-in-windows)
