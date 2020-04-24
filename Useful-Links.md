@@ -363,8 +363,11 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 > 4K native HDD is also called 4Kn hard drive. Both 512 emulated hard drive and 4Kn hard drive are 4K drives as their physical sector size are 4096 (4K) bytes. However, for hard disk drives working in the 4K native mode, there is no emulation layer in place, and the disk media directly exposes its 4096, 4112, 4160, or 4224-byte physical sector size to the system firmware and operating system.
 
+## SMR HDDs
+
 * [The HDD Platter Capacity Database](https://rml527.blogspot.com/)
 * [On WD Red NAS Drives](https://blog.westerndigital.com/wd-red-nas-drives/)
+* [WD Internal Client SMR HDDs](https://blog.westerndigital.com/wp-content/uploads/2020/04/2020_04_22_WD_SMR_SKUs_1Slide.pdf) (PDF warning)
 
 # Illumos
 
