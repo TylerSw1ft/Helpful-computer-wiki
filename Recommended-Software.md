@@ -26,7 +26,7 @@
 **NOTE:** These do not necessarily have equivalent features. 
 
 * [Back In Time](https://github.com/bit-team/backintime) (Linux)
-* [BorgBackup](https://www.borgbackup.org/) + [Vorta](https://github.com/borgbase/vorta)
+* [BorgBackup](https://www.borgbackup.org/) (Linux, macOS, OpenIndiana)  + [Vorta](https://github.com/borgbase/vorta) (Linux, macOS)
 * [Duplicati](https://www.duplicati.com/) (Windows & more)
 * [Restic](https://restic.net/) (FreeBSD, Linux)
 * [rpi-clone](https://github.com/billw2/rpi-clone) (Linux)
