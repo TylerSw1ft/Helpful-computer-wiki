@@ -452,8 +452,10 @@ MANPATH=/opt/local/man:$MANPATH
 
 * [Basic Linux Commands](https://linuxize.com/post/basic-linux-commands/)
 * Documentation parody: [You Figure It Out](https://www.youtube.com/watch?v=ZZtu6c_c3W8)
+* [How to Remove (Delete) Directory in Linux](https://linuxize.com/post/remove-directory-linux/)
 * [Linux Boot Process: What You Should Know](https://www.maketecheasier.com/linux-boot-process/)
-* Mark all `username`'s mail as read (delete): `sudo rm /var/mail/username`
+* Mark all `username`'s mail as read (delete):
+  * In mail, enter `delete *`, then enter `quit`
 
 # Logical Volume Management
 
@@ -823,7 +825,8 @@ https://www.smartmontools.org/wiki/TocDoc
 
 # Ubuntu
 
-[How to Easily Add Users to Groups in Ubuntu](https://www.maketecheasier.com/add-remove-user-to-groups-in-ubuntu/) (See Section 2)
+* [How to Easily Add Users to Groups in Ubuntu](https://www.maketecheasier.com/add-remove-user-to-groups-in-ubuntu/) (See Section 2)
+* [Where the trash folder is located](https://askubuntu.com/a/102106/932418)
 
 # `unattended-upgrades`
 
