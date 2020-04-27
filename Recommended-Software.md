@@ -328,7 +328,7 @@ OpenIndiana Hipster GUI
 
 Due to real-time notifications and chat being 1st party app exclusive features, I'd recommend running the latter along with a 3rd party app.
 
-* Reddit Official (Android, iOS)
+* [Reddit Official](https://www.reddit.com/mobile/download) (Android, iOS)
 * [Boost for Reddit](http://boostforreddit.com/) - **WARNING:** Boost appears to use a deprecated Reddit Markdown version, which results in list and code formatting issues
 
 # Remote Desktop
