@@ -322,7 +322,7 @@ OpenIndiana Hipster GUI
 
 ## Desktop
 
-* [Reddit Enhancement Suite]
+* [Reddit Enhancement Suite](https://redditenhancementsuite.com/) (Edge, Chrome, Firefox, Opera)
 
 ## Mobile
 
