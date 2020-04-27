@@ -37,8 +37,12 @@
 * [Timeshift](https://github.com/teejee2008/Timeshift) (Linux)
 * [TWRP](https://twrp.me) (Android)
 * Veeam Agent FREE ([Linux](https://www.veeam.com/linux-backup-free.html), [Windows](https://www.veeam.com/windows-endpoint-server-backup-free.html))
-* [Volume Shadow Copy](https://docs.microsoft.com/en-us/windows/win32/vss/volume-shadow-copy-service-overview) + [ShadowExplorer](https://www.shadowexplorer.com/downloads.html)
+* [Volume Shadow Copy](https://docs.microsoft.com/en-us/windows/win32/vss/volume-shadow-copy-service-overview) + [ShadowExplorer](https://www.shadowexplorer.com/downloads.html) (Windows)
 * [`zfsnap2`](https://www.zfsnap.org/) (FreeBSD, Linux)
+
+## Servers
+
+[Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) (Windows, supports all Veeam client host OSes as sources)
 
 There are many people who swear by `rsync`, but I find it obtuse to use, so it's not listed here.
 
