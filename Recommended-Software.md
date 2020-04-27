@@ -326,6 +326,11 @@ OpenIndiana Hipster GUI
 
 * [Ásbrú Connection Manager](https://www.asbru-cm.net/) (Linux)
 * [MobaXterm](https://mobaxterm.mobatek.net/) (Windows)
+* [Termius](https://termius.com/) (Android)
+
+## Recommended, with reservations
+
+* [JuiceSSH](https://juicessh.com/) (Android) - Use this only if you need SSH-based performance monitoring; development seems to have ceased in 2017
 
 # Structural Solvers
 
@@ -349,7 +354,7 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 
 # Two Factor Authentication App
 
-[Authy](https://authy.com/) (Android, iOS, desktop)
+[Authy](https://authy.com/) (Android, iOS, Linux (snap), macOS, Windows) - A Chrome extension exists, but is no longer maintained or supported
 
 # Unit Converters
 
@@ -363,3 +368,4 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 
 * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) (Android, FreeBSD, iOS, Linux, macOS, OpenIndiana, Windows)
 * [Google Chrome](https://www.google.com/chrome/) (Android, FreeBSD, Linux, macOS, Windows)
+* [Microsoft Edge Insider](https://www.microsoftedgeinsider.com/en-us/download) (Android, iOS, macOS, Windows)
