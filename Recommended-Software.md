@@ -30,13 +30,14 @@
 * [Duplicati](https://www.duplicati.com/) (Windows & more)
 * [Restic](https://restic.net/) (FreeBSD, Linux)
 * [rpi-clone](https://github.com/billw2/rpi-clone) (Linux)
+* [Snapper](http://snapper.io/) (Linux)
 * [Syncback Freeware](https://www.2brightsparks.com/freeware/freeware-hub.html) (Windows)
 * [System Restore](https://docs.microsoft.com/en-us/windows/win32/sr/system-restore-reference) (Windows)
 * [Time Slider](https://docs.oracle.com/cd/E37838_01/html/E61017/timeslider.html#scrolltoc) (OpenIndiana, Solaris)
 * [Timeshift](https://github.com/teejee2008/Timeshift) (Linux)
 * [TWRP](https://twrp.me) (Android)
 * Veeam Agent FREE ([Linux](https://www.veeam.com/linux-backup-free.html), [Windows](https://www.veeam.com/windows-endpoint-server-backup-free.html))
-* [Volume Shadow Copy](https://docs.microsoft.com/en-us/windows/win32/vss/volume-shadow-copy-service-overview)
+* [Volume Shadow Copy](https://docs.microsoft.com/en-us/windows/win32/vss/volume-shadow-copy-service-overview) + [ShadowExplorer](https://www.shadowexplorer.com/downloads.html)
 * [`zfsnap2`](https://www.zfsnap.org/) (FreeBSD, Linux)
 
 There are many people who swear by `rsync`, but I find it obtuse to use, so it's not listed here.
