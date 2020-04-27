@@ -318,6 +318,19 @@ OpenIndiana Hipster GUI
 
 [Microsoft Office 365](https://office.com) (Android, macOS, Windows)
 
+# Reddit Clients
+
+## Desktop
+
+* [Reddit Enhancement Suite]
+
+## Mobile
+
+Due to real-time notifications and chat being 1st party app exclusive features, I'd recommend running the latter along with a 3rd party app.
+
+* Reddit Official (Android, iOS)
+* [Boost for Reddit](http://boostforreddit.com/) - **WARNING:** Boost appears to use a deprecated Reddit Markdown version, which results in list and code formatting issues
+
 # Remote Desktop
 
 [TeamViewer](https://www.teamviewer.com/en-us/) 
@@ -335,7 +348,7 @@ OpenIndiana Hipster GUI
 
 ## Recommended, with reservations
 
-* [JuiceSSH](https://juicessh.com/) (Android) - Use this only if you need SSH-based performance monitoring; development seems to have ceased in 2017
+* [JuiceSSH](https://juicessh.com/) + [JuiceSSH Performance Plugin](https://play.google.com/store/apps/details?id=com.sonelli.juicessh.performancemonitor) (Android) - Use this only if you need SSH-based performance monitoring; development seems to have ceased in 2017
 
 # Structural Solvers
 
@@ -355,6 +368,7 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 # Twitter Clients
 
 * [Tweeten](https://tweetenapp.com) (Chrome, macOS, Windows)
+* [Tweetings](http://www.tweetings.net/) (Android, iOS, iPadOS)
 * Twitter (Android, iOS, web, [Windows](https://www.microsoft.com/en-us/p/twitter/9wzdncrfj140))
 
 # Two Factor Authentication App
