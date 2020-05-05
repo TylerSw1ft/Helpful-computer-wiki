@@ -356,6 +356,10 @@ Due to real-time notifications and chat being 1st party app exclusive features, 
 
 Don't use anything other than Mechanical unless you absolutely have to. Everything else is an absolute pain to deal with, relatively speaking.
 
+# Sync
+
+[Resilio Sync](https://www.resilio.com/individuals/) (Android, FreeBSD, iOS, Linux, Windows)
+
 # Task Managers
 
 [Todoist](https://todoist.com/)
