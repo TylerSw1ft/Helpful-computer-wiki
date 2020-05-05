@@ -2,6 +2,8 @@
 
 # Android
 
+[OEM support windows](https://www.reddit.com/r/Android/comments/gd35u6/are_we_and_all_the_tech_reviewers_counting/fpg32oe/)
+
 ## Developer Options
 
 ### Minimum Width
