@@ -325,6 +325,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [What HTML tags are allowed within comments](https://help.disqus.com/en/articles/1717235-what-html-tags-are-allowed-within-comments)
 
+# DNS
+
+[How to Flush and Reset the DNS Cache in Windows 10](https://www.technipages.com/flush-and-reset-the-dns-resolver-cache-using-ipconfig)
+
 # `exim4`
 
 [Instant fix for Exim4 ‘mailing to remote domains not supported’ error](https://bobcares.com/blog/exim4-mailing-to-remote-domains-not-supported/)
