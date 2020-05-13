@@ -212,6 +212,17 @@ The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Setti
 5. Start Resilio Sync by running `cd /bin && ./rslsync --storage /absolute/path/to/home/.sync/folder` ([Source](https://forum.resilio.com/topic/71858-linuxbsd-how-do-i-move-sync-from-running-as-root-to-running-as-my-user-without-having-to-setup-from-scratch/?do=findComment&comment=153863))
 6. To run Resilio Sync at boot, add the following entry to `/etc/crontab`: `@reboot MyUsername cd /bin && ./rslsync --storage /absolute/path/to/home/.sync/folder`
 
+#### How to update
+
+##### as MyUsername
+
+1. Download the new archive
+2. Extract the new archive
+3. Kill the `rslsync` process
+4. Overwrite `/bin/rslsync` with the binary extracted in 2)
+5. Run `# chmod +x /bin/rslsync`
+6. Run `./rslsync --storage /absolute/path/to/home/.sync/folder` to start `rslsync`
+
 ## Why I might no longer run BSD
 
 TL,DR: it's too much trouble.
