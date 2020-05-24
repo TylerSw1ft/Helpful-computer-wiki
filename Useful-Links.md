@@ -386,6 +386,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 * [On WD Red NAS Drives](https://blog.westerndigital.com/wd-red-nas-drives/)
 * [WD Internal Client SMR HDDs](https://blog.westerndigital.com/wp-content/uploads/2020/04/2020_04_22_WD_SMR_SKUs_1Slide.pdf) (PDF warning)
 
+# Homelab
+
+[Home Lab Beginners guide – Hardware](https://haydenjames.io/home-lab-beginners-guide-hardware/)
+
 # Illumos
 
 ## OpenIndiana
