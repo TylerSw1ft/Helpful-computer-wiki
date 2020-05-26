@@ -14,6 +14,13 @@ Note: I haven't used everything on this list. Some of these products are simply 
 * Cables2Go
 * StarTech.com
 
+## Testers
+
+The following 2 items are highly rated and should be bought together:
+
+* [Klein Tools Cable Tester Kit with Scout® Pro 3 Tester, Remotes, Adapter, Battery](https://www.kleintools.com/catalog/cable-testers-accessories/cable-tester-kit-scout-pro-3-tester-remotes-adapter-battery)
+* [Klein Tools Probe-PRO Tracing Probe](https://www.kleintools.com/catalog/tone-probe/probe-pro-tracing-probe)
+
 # Cases/Chassis 
 
 These recommendations are primarily storage oriented.
