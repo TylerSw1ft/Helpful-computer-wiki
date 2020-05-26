@@ -818,6 +818,10 @@ https://www.smartmontools.org/wiki/TocDoc
 * Delete `~/.local/share/TelegramDesktop/`
 * Launch the desktop app again
 
+# Termux
+
+To remove orphaned packages, use `apt autoremove`
+
 # tsch
 
 * [Add a splash of color to your command line environment](https://blogs.aalto.fi/marijn/2016/07/05/add-a-splash-of-color-to-your-command-line-environment/)
