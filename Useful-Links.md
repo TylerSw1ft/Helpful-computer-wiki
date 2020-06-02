@@ -763,6 +763,12 @@ Run:
 * [Including and excluding files](https://restic.readthedocs.io/en/latest/040_backup.html#including-and-excluding-files)
 * [Scripting](https://restic.readthedocs.io/en/latest/075_scripting.html)
 
+# Routers
+
+[SmallNetBuilder Router Charts](https://www.smallnetbuilder.com/tools/charts/router/view)
+
+* [WAN to LAN Throughput - TCP](https://www.smallnetbuilder.com/tools/charts/router/bar/179-wan-to-lan-tcp/35)
+
 # S.M.A.R.T.
 
 [ATA S.M.A.R.T. attributes](https://en.wikipedia.org/wiki/S.M.A.R.T.#ATA_S.M.A.R.T._attributes)
