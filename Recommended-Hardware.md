@@ -202,10 +202,6 @@ If you absolutely need to save money or better Windows support than what UniFi C
 
 ### Routers
 
-[SmallNetBuilder Router Charts](https://www.smallnetbuilder.com/tools/charts/router/view)
-
-* [WAN to LAN Throughput - TCP](https://www.smallnetbuilder.com/tools/charts/router/bar/179-wan-to-lan-tcp/35)
-
 #### High Performance
 
 ##### 802.11ac
