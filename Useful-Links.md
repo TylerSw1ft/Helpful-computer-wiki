@@ -312,7 +312,7 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # Debian
 
-* [Debian Stable handbook](https://debian-handbook.info/browse/stable/)
+* [The Debian Administrator's Handbook](https://debian-handbook.info/browse/stable/)
 * [Don't Break Debian](https://wiki.debian.org/DontBreakDebian)
 * [systemd documentation index](https://wiki.debian.org/systemd/documentation)
 
