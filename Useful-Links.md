@@ -119,6 +119,7 @@ $ balooctl disable
 
 * [Directory Structure](https://www.freebsd.org/doc/handbook/dirstructure.html)
 * [FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
+* [FreeBSD 12.1 on a laptop](https://dataswamp.org/~solene/2020-05-11-freebsd-workstation.html)
 * [How To Enable SSH On FreeBSD](https://www.ostechnix.com/how-to-enable-ssh-on-freebsd/)
 * [How to show package post-installation notes](https://forums.freebsd.org/threads/how-to-reshow-post-installation-notes.63839/): `$ pkg info -D PackageName`
 * [How to use pkg-status.freebsd.org](https://forums.freebsd.org/threads/is-it-just-me-or-is-chromium-unavailable-in-latest-pgk-repo-for-12-1-release-p2.74501/post-455633)
