@@ -78,7 +78,8 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
 
 # `apt`
 
-[How to clean up sources](https://askubuntu.com/a/762815/932418)
+* [How to clean up sources](https://askubuntu.com/a/762815/932418)
+* How to find a package's installed dependencies: `# apt-cache rdepends --installed PackageName`. For soft dependencies (which may or may not be already installed) use `# apt show PackageName`
 
 # Backup
 
@@ -445,6 +446,10 @@ MANPATH=/opt/local/man:$MANPATH
 #### How to determine which drives a zpool is on
 
 `$ zpool status -v ZPoolName`
+
+# initramfs
+
+Recreate initramfs: `update-initramfs -u -k all`
 
 # ISA
 
