@@ -256,6 +256,11 @@ For some reason, it's become incredibly difficult to find highly rated (â‰¥ 4 â­
 
 # Storage
 
+## Adapters
+
+* [StarTech.com SATA to 2.5in or 3.5in IDE Hard Drive Adapter for HDD Docks](https://www.startech.com/HDD/Adapters/SATA-to-IDE-Hard-Drive-Adapter-for-HDD-Docks~SAT2IDEADP)
+* [SYBA SATA II to IDE ATA133 Bi-directional Adapter - SD-ADA50016](http://www.sybausa.com/index.php?route=product/product&product_id=191&search=SD-ADA50016)
+
 ## Cloud
 
 The only providers I recommend are (in alphabetical order):
