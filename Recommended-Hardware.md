@@ -150,6 +150,12 @@ These recommendations are primarily storage oriented.
 
 # Networking
 
+## Modems
+
+### Cable
+
+[Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/) ​
+
 ## Wired
 
 [Not all Ethernet NICs are Created Equal - Trying to Capture Invalid Ethernet Frames](https://isc.sans.edu/diary/rss/25896) (Why Intel NICs are superior to Realtek, Broadcom, and ASIX NICs)
@@ -171,6 +177,13 @@ This is the 1 Gb/s standard.
 
 * [Actiontec Bonded MoCA 2.0 Network Adapter](https://www.actiontec.com/products/home-networking/ecb6200/)
 * [Hitron HT-EM2](http://www.hitron-americas.com/product/ht-em2/) (Difficult to find at retail; check service provider)
+
+### Standalone Routers
+
+The following routers offer enterprise level performance, line speed routing, and easy OpenVPN functionality while still covering consumer features such as UPnP.
+
+* [Netgate SG-3100 & Above](https://store.netgate.com/Assets/Images/ChartsTables/Netgate_Hardware_Comparison_Chart.png)
+* [Netgear BR500 Insight Instant VPN Router](https://www.netgear.com/images/datasheet/security/BR500.pdf)
 
 ## Wireless 
 
