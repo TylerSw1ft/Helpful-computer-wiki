@@ -378,17 +378,25 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # HDDs
 
+## 4Kn vs. 512e
+
+4Kn and 512e drives have the same performance except for when they are used with 512n apps and OSes. In that case, 4Kn HDDs have no support, while 512e HDDs suffer a read-modify-write performance penalty *relative to 512n HDDs*.
+
+In other words, a 512e HDD is a 4Kn HDD with backwards compatibility with 512n apps and OSes. 
+
+Per an anonymous Seagate engineering source, 512e HDDs outsell 4Kn HDDs by a wide margin among datacenter and hyperscale customers.
+
 * [4k vs. 512](https://community.spiceworks.com/topic/post/6093125) ([Further discussion](https://www.techpowerup.com/forums/threads/hdd-bytes-per-sector-types-512e-vs-512n-vs-4kn.254422/))
 * [512e cannot be converted to 4Kn for most HDDs](https://github.com/Seagate/ToolBin/issues/9#issuecomment-636327217)
 * [Advanced format (4K) disk compatibility update](https://docs.microsoft.com/en-us/windows/win32/w8cookbook/advanced-format--4k--disk-compatibility-update)
 * [Don't Know What 4K Hard Drive Is? Look Here!](https://www.partitionwizard.com/partitionmagic/what-is-4k-hard-drive.html)
-* [FastFormat Technology Helps Future-Proof Systems](https://www.seagate.com/files/www-content/product-content/enterprise-performance-savvio-fam/enterprise-performance-15k-hdd/_cross-product/_shared/doc/seagate-fast-format-white-paper-04tp699-1-1701us.pdf)
-* [Seagate Toolbin](https://github.com/Seagate/ToolBin)
-* [SeaChest Utilities](https://www.seagate.com/support/software/seachest/)
+* [FastFormat Technology Helps Future-Proof Systems](https://www.seagate.com/files/www-content/product-content/enterprise-performance-savvio-fam/enterprise-performance-15k-hdd/_cross-product/_shared/doc/seagate-fast-format-white-paper-04tp699-1-1701us.pdf) - Only the Exos X14 and above support this
 * [Where to find FastFormat](https://github.com/Seagate/ToolBin/issues/5)
 
+## Seagate
 
-> 4K native HDD is also called 4Kn hard drive. Both 512 emulated hard drive and 4Kn hard drive are 4K drives as their physical sector size are 4096 (4K) bytes. However, for hard disk drives working in the 4K native mode, there is no emulation layer in place, and the disk media directly exposes its 4096, 4112, 4160, or 4224-byte physical sector size to the system firmware and operating system.
+* [Seagate Toolbin](https://github.com/Seagate/ToolBin)
+* [SeaChest Utilities](https://www.seagate.com/support/software/seachest/)
 
 ## SMR HDDs
 
