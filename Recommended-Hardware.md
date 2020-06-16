@@ -288,8 +288,6 @@ The only providers I recommend are (in alphabetical order):
 
 Generally speaking, all HDDs that lack a workload rating have the same reliability. The only 2.5 in HDDs with workload ratings are ≥ 15 mm thick, which means they consume (nearly) as much space as a 3.5 in HDD. Also, I have no experience with the former. Ergo, they are omitted here.
 
-Western Digital's UltraStar DC HC550 *should* be recommendable, but it [lacks a spec sheet](https://www.reddit.com/r/hardware/comments/e0bkwe/no_datasheets_and_contradictory_product_brochures/).
-
 ### 3.5 in
 
 Get the 512e models of these, or the 4Kn models if the former are unavailable. Do NOT buy 512n:
@@ -306,6 +304,7 @@ Get the 512e models of these, or the 4Kn models if the former are unavailable. D
     * [510](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc500-series/data-sheet-ultrastar-dc-hc510.pdf)
     * [520](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc500-series/data-sheet-ultrastar-dc-hc520.pdf)
     * [530](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc500-series/data-sheet-ultrastar-dc-hc530.pdf)
+    * [550](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc500-series/data-sheet-ultrastar-dc-hc550.pdf)
     
 #### Accessories
 
