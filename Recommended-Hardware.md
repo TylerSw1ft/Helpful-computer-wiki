@@ -292,13 +292,14 @@ Western Digital's UltraStar DC HC550 *should* be recommendable, but it [lacks a 
 
 ### 3.5 in
 
-4Kn models of the following lines are recommended:
+Get the 512e models of these, or the 4Kn models if the former are unavailable. Do NOT buy 512n:
 
-* [Seagate Exos X Enterprise Hard Drives](https://www.seagate.com/enterprise-storage/exos-drives/exos-x-drives/) - If you can't find 4Kn Exos X HDDs, buy a 512e model and use Seagate's [SeaChest Format](https://github.com/Seagate/ToolBin/tree/master/SeaChest/Format) [`--setSectorSize`](https://github.com/Seagate/ToolBin/blob/master/SeaChest/Format/v1.5.2/SeaChest_Format.152.txt) option to convert it to 4Kn before using it
+* [Seagate Exos X Enterprise Hard Drives](https://www.seagate.com/enterprise-storage/exos-drives/exos-x-drives/) - X14 and above Exos X models can be converted between 512e and 4Kn using Seagate's [SeaChest Format](https://github.com/Seagate/ToolBin/tree/master/SeaChest/Format) [`--setSectorSize`](https://github.com/Seagate/ToolBin/blob/master/SeaChest/Format/v1.5.2/SeaChest_Format.152.txt) option
 * Toshiba Enterprise Capacity Hard Drive – MG Series
   * [US product page](https://toshiba.semicon-storage.com/us/product/storage-products/enterprise-hdd.html) (Limited US availability, especially for higher end models) 
   * [EMEA product page](https://www.toshiba-storage.com/products/enterprise-capacity-hard-drive-mg-series/) with comprehensive [PDF spec sheet](https://www.toshiba-storage.com/wp-content/uploads/2019/09/TOSH_DS_MG_Series_print.pdf)
 * Western Digital
+  * [Gold Enterprise Class SATA HDD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/product-brief-wd-gold-2579-810192.pdf)
   * Ultrastar DC HC (Ships with choice of SATA or SAS and native sector size. Both the 300 and 500 series HDDs have the same workload rating, but the 500 series is helium filled and has a lower annualized failure rate (AFR). The 2nd digit in the series number is apparently a drive raw capacity reference)
     * [320](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc300-series/data-sheet-ultrastar-dc-hc320.pdf)
     * [330](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/data-center-drives/ultrastar-dc-hc300-series/data-sheet-ultrastar-dc-hc330.pdf)
