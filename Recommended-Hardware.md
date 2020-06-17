@@ -187,12 +187,6 @@ The following routers offer enterprise level performance, line speed routing, an
 
 ## Wireless 
 
-* [Official IEEE Working Group Project Timelines](http://www.ieee802.org/11/Reports/802.11_Timelines.htm)
-   * See the 802.11ax line for when the standard is likely to be ratified. It isn't as of yet
-* [Wi-Fi 4/5/6 (802.11 n/ac/ad/ax)](https://www.duckware.com/tech/wifi-in-the-us.html)
-* [WiFi Alliance Product Finder](https://www.wi-fi.org/product-finder)
-* [What's Missing From Your Wi-Fi 6 Router? OFDMA](https://www.smallnetbuilder.com/wireless/wireless-features/33221-what-s-missing-from-your-wi-fi-6-router-ofdma)
-
 ### Access points
 
 #### High performance
