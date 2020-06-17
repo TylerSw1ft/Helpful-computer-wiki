@@ -944,7 +944,8 @@ To remove orphaned packages, use `apt autoremove`
 
 # Wi-Fi
 
-[What’s the Difference Between 802.11ac Wave 1 and Wave 2? [FAQ’s]](https://www.securedgenetworks.com/blog/whats-the-difference-between-802.11ac-wave-1-and-wave-2-faqs)
+* [What’s the Difference Between 802.11ac Wave 1 and Wave 2? [FAQ’s]](https://www.securedgenetworks.com/blog/whats-the-difference-between-802.11ac-wave-1-and-wave-2-faqs)
+* [Why mesh networking is bad (example)](https://www.reddit.com/r/HomeNetworking/comments/h9igbh/will_a_mesh_network_do_its_job_if_it_can_only_use/fv4vdx6/)
 
 ## Access Point Placement
 
