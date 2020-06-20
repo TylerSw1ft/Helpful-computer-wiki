@@ -78,6 +78,7 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
 
 # `apt`
 
+* [Fixing “The following packages have been kept back” Error While Updating Ubuntu and Debian-based Linux Distributions](https://itsfoss.com/following-packages-have-been-kept-back/)
 * [How to clean up sources](https://askubuntu.com/a/762815/932418)
 * How to find a package's installed dependencies: `# apt-cache rdepends --installed PackageName`. For soft dependencies (which may or may not be already installed) use `# apt show PackageName`
 
@@ -944,6 +945,7 @@ To remove orphaned packages, use `apt autoremove`
 
 # Wi-Fi
 
+* [Advanced Intel® Wireless Adapter Settings](https://www.intel.com/content/www/us/en/support/articles/000005585/network-and-i-o/wireless-networking.html)
 * [Official IEEE Working Group Project Timelines](http://www.ieee802.org/11/Reports/802.11_Timelines.htm)
    * See the 802.11ax line for when the standard is likely to be ratified. It isn't as of yet
 * [Wi-Fi 4/5/6 (802.11 n/ac/ad/ax)](https://www.duckware.com/tech/wifi-in-the-us.html)
