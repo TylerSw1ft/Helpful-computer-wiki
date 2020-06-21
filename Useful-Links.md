@@ -379,6 +379,8 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # HDDs
 
+How to tell if an HDD is SMR: if it has the Trim feature enabled.
+
 ## 4Kn vs. 512e
 
 4Kn and 512e drives have the same performance except for when they are used with 512n apps and OSes. In that case, 4Kn HDDs have no support, while 512e HDDs suffer a read-modify-write performance penalty *relative to 512n HDDs*.
