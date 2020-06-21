@@ -800,6 +800,10 @@ Run:
 
 * [WAN to LAN Throughput - TCP](https://www.smallnetbuilder.com/tools/charts/router/bar/179-wan-to-lan-tcp/35)
 
+# `rsync`
+
+[How to fix the `rsync: set_acl: sys_acl_set_file(var/log/journal, ACL_TYPE_ACCESS): Operation not supported (95)` error](https://github.com/bit-team/backintime/issues/1096#issuecomment-647148330)
+
 # S.M.A.R.T.
 
 [ATA S.M.A.R.T. attributes](https://en.wikipedia.org/wiki/S.M.A.R.T.#ATA_S.M.A.R.T._attributes)
