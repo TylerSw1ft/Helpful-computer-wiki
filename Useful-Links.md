@@ -889,6 +889,7 @@ To remove orphaned packages, use `apt autoremove`
 # Ubuntu
 
 * [How to Easily Add Users to Groups in Ubuntu](https://www.maketecheasier.com/add-remove-user-to-groups-in-ubuntu/) (See Section 2)
+* [How to Upgrade SSD](https://github.com/jdrch/Hardware/issues/127#issuecomment-646820009)
 * [Where the trash folder is located](https://askubuntu.com/a/102106/932418)
 
 # `unattended-upgrades`
