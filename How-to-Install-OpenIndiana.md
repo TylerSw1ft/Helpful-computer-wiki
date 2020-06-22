@@ -1,5 +1,5 @@
 1. Update the PC's BIOS to the latest version. Dell instructions are [here](https://github.com/jdrch/Hardware/wiki/Useful-Links#bios-updates-using-a-usb-stick)
-2. Download the OpenIndiana Live USB
+2. Download the OpenIndiana Live USB image
 3. Ensure the USB flash drive to be used is properly formatted by creating a new partition table corresponding to the OS you'll write the installation image from on the flash drive. Do this in GParted ([manual](https://gparted.org/display-doc.php?name=help-manual)) . **Write from Linux or BSD only** 
 3. Write the OpenIndiana Live USB to disk using: `dd if=OpenIndianaLiveUSBFile of=/dev/USBDiskIdentifier status=progress`
 4. Enter the PC's BIOS
