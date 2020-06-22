@@ -379,7 +379,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # HDDs
 
-How to tell if an HDD is SMR: if it has the Trim feature enabled.
+How to tell if an HDD is SMR: 
+
+* Windows: `Trim` should be listed under `Features` for the HDD in CrystalDiskInfo
+* Linux: `TRIM` should be listed under `Commands/features:` in the output of `# hdparm -I /dev/DiskName`
 
 ## 4Kn vs. 512e
 
