@@ -794,6 +794,10 @@ Run:
 
 [Sync interface on Android](https://help.resilio.com/hc/en-us/articles/213500383-Sync-interface-on-Android-)
 
+## Linux
+
+[How to determine which config file Resilio Sync is using and allow web UI access from other machines](https://forum.resilio.com/topic/72205-solved-ubuntu-2004-changing-listen-1270018888-to-listen-00008888-in-etcresilio-syncconfigjson-has-no-effect-on-allowing-other-machines-to-access-web-ui/)
+
 # `restic`
 
 * [Including and excluding files](https://restic.readthedocs.io/en/latest/040_backup.html#including-and-excluding-files)
