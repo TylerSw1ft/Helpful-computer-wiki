@@ -448,17 +448,17 @@ Log out and login again (via SSH or locally) to force your changes to take effec
 
 ### Packages and publishers (repositories)
 
+* [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
+* [How to set up SFE repository](http://sfe.opencsw.org/quickrepolinks)
+  * Run `pfexec pkg set-publisher -G '*' -g https://sfe.opencsw.org/localhostoih localhostoih  #new OpenIndiana Hipster x86`
+* [How to set up the pkgsrc repository](https://pkgsrc.joyent.com/install-on-illumos/) (This needs to be done only once. From then on `# pkgin -y update` and `# pkgin -y upgrade` will keep you on the latest package releases)
 * [How to update all packages & system](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
   * Run the following:
     * `# pkgin upgrade` ([this is sufficient to keep packages from that repo updated](https://github.com/joyent/pkgsrc/issues/253))
     * `# pkgin autoremove`
     * `# pkg update -v -r`
     * Check the output of the last command to see if there's a new boot environment to boot into. If there is, reboot the machine
-* [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
-* [How to set up the pkgsrc repository](https://pkgsrc.joyent.com/install-on-illumos/) (This needs to be done only once. From then on `# pkgin -y update` and `# pkgin -y upgrade` will keep you on the latest package releases)
 * [List of all available pkgsrc packages](https://pkgsrc.joyent.com/packages/SmartOS/trunk/x86_64/All/)
-* [How to set up SFE repository](http://sfe.opencsw.org/quickrepolinks)
-  * Run `# pfexec pkg set-publisher -G '*' -g http://sfe.opencsw.org/localhostoih localhostoih`
 
 ### crontab
 
