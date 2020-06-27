@@ -428,6 +428,24 @@ Per an anonymous Seagate engineering source, 512e HDDs outsell 4Kn HDDs by a wid
 
 `# svccfg setnotify -g to-maintenance,to-offline,to-degraded mailto:MyEmailAddress@gmail.com`
 
+### How to set up and customize Bash 
+
+Per this [reference](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/), interactive login shells (e.g. SSH) read from `~/.bash_profile`, while interactive non-login shells (e.g. terminal window) read from `~/.bashrc`. OpenIndiana lacks a default `~/.bash_profile`, so create that first. Assuming you want both shell types to look the same, both files should have the exact same *non-commented* content.
+
+If your history isn't persistent across sessions, change ownership of `.bash_history` to yourself via `# chown YourUsername .bash_history`. Your history settings should follow this format (the last line should always be there):
+
+```
+export HISTSIZE=1000
+export HISTFILESIZE=2000
+export HISTTIMEFORMAT='%F %T '
+
+shopt -s histappend
+```
+
+To customize your root shells, exit `/root/.bash_profile` (create it if it doesn't exist) and `/root/.bashrc` in the same manner.
+
+Log out and login again (via SSH or locally) to force your changes to take effect and test them.
+
 ### Packages and publishers (repositories)
 
 * [How to update all packages & system](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
