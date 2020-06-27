@@ -575,6 +575,10 @@ Recreate initramfs: `update-initramfs -u -k all`
 
 [Logical Volume Management Explained on Linux](https://devconnected.com/logical-volume-management-explained-on-linux/)
 
+# Logitech 
+
+If the mouse wheel scroll functionality randomly stops working, disable smooth scrolling in Logitech Options
+
 # LTO-8 
 
 * [Backwards compatibility](https://www.lto.org/solutions/benefits/compatibility/)
