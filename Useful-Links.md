@@ -450,8 +450,8 @@ Log out and login again (via SSH or locally) to force your changes to take effec
 
 * [How to update all packages & system](https://wiki.openindiana.org/oi/3.+Installing+software+and+package+management)
   * Run the following:
-    * `# pkgin -y upgrade` ([this is sufficient to keep packages from that repo updated](https://github.com/joyent/pkgsrc/issues/253))
-    * `# pkgin -y autoremove`
+    * `# pkgin upgrade` ([this is sufficient to keep packages from that repo updated](https://github.com/joyent/pkgsrc/issues/253))
+    * `# pkgin autoremove`
     * `# pkg update -v -r`
     * Check the output of the last command to see if there's a new boot environment to boot into. If there is, reboot the machine
 * [Publishers (repos) and how to set them](https://www.openindiana.org/packages/)
