@@ -430,7 +430,62 @@ Per an anonymous Seagate engineering source, 512e HDDs outsell 4Kn HDDs by a wid
 
 ### How to set up and customize Bash 
 
-Per this [reference](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/), interactive login shells (e.g. SSH) read from `~/.bash_profile`, while interactive non-login shells (e.g. terminal window) read from `~/.bashrc`. OpenIndiana lacks a default `~/.bash_profile`, so create that first. Assuming you want both shell types to look the same, both files should have the exact same *non-commented* content.
+Per this [reference](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/), interactive login shells (e.g. SSH) read from `~/.bash_profile`, while interactive non-login shells (e.g. terminal window) read from `~/.bashrc`. OpenIndiana lacks a default `~/.bash_profile`, so create that first using `touch .bash_profile`.
+
+Put the following in `.bash_profile` and then save it:
+
+```
+# Point .bash_profile to .bashrc if Bash is the current shell
+
+# If running bash
+if [ -n "$BASH_VERSION" ]; then
+    # Include .bashrc if it exists
+    if [ -f "$HOME/.bashrc" ]; then
+	. "$HOME/.bashrc"
+    fi
+fi
+```
+
+An example of `.bashrc` file is shown below:
+
+```
+#
+# Define default prompt to <username>@<hostname>:<path><"($|#) ">
+# and print '#' for user "root" and '$' for normal users.
+#
+
+# Standardized Bash prompt: https://github.com/jdrch/Hardware/issues/113
+typeset +x PS1="\[\033[01;32m\]\u\[\033[01;34m\]@\h \[\033[35m\]\D{%F %T}\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ "
+
+# Useful aliases
+alias ls='ls --color=auto'
+# alias dir='dir --color=auto'
+# alias vdir='vdir --color=auto'
+
+# alias grep='grep --color=auto'
+# alias fgrep='fgrep --color=auto'
+# alias egrep='egrep --color=auto'
+
+alias ll='ls -l'
+alias la='ls -A'
+alias l='ls -CF'
+
+# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+export HISTSIZE=1000
+export HISTFILESIZE=2000
+export HISTTIMEFORMAT='%F %T '
+
+shopt -s histappend
+
+# Tell OS where to find packages
+export PATH="/usr/gnu/bin:/usr/bin:/usr/sbin:/sbin:/opt/local/sbin:/opt/local/bin:$HOME/bin:$HOME/.local/bin:/opt/local/sbin:/opt/local/bin:$PATH"
+
+# Tell OS where to find man pages
+export MANPATH=/opt/local/man:/usr/gnu/share/man:/usr/share/man:/usr/X11/share/man:$MANPATH
+
+# Set default editor
+export EDITOR=nano
+```
 
 If your history isn't persistent across sessions, change ownership of `.bash_history` to yourself via `# chown YourUsername .bash_history`. Your history settings should follow this format (the last line should always be there):
 
@@ -442,7 +497,7 @@ export HISTTIMEFORMAT='%F %T '
 shopt -s histappend
 ```
 
-To customize your root shells, exit `/root/.bash_profile` (create it if it doesn't exist) and `/root/.bashrc` in the same manner.
+To customize your root shells, repeat the same process for `/root/.bash_profile` (create it if it doesn't exist) and `/root/.bashrc`.
 
 Log out and login again (via SSH or locally) to force your changes to take effect and test them.
 
