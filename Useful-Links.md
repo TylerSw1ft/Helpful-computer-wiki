@@ -324,7 +324,8 @@ Pretty much anything that requires `sudo` needs to be put here:
 ## BIOS updates using a USB stick
 
 1. Follow Steps 2.1 to 2.6 [here](https://www.dell.com/support/article/us/en/19/sln143196/how-to-create-a-bootable-usb-flash-drive-using-dell-diagnostic-deployment-package-dddp?lang=en)
-2. Follow these [instructions](https://www.dell.com/support/article/us/en/19/sln129956/dell-bios-updates?lang=en#Five)
+2. Download the BIOS file into the top level of the bootable USB
+3. Follow these [instructions](https://www.dell.com/support/article/us/en/19/sln129956/dell-bios-updates?lang=en#Five)
 
 # Desktop Environments
 
