@@ -735,6 +735,10 @@ These are articles based on previous gen Windows releases. While they may not be
 
 [Keyboard and mouse](https://github.com/jarun/nnn#keyboard-and-mouse)
 
+# NTFS
+
+[Copying NTFS permissions between folders](https://confidentialfiles.wordpress.com/2014/03/13/copying-ntfs-permissions-between-folders/)
+
 # Open Source
 
 * [Open source licenses: What, which, and why](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license)
