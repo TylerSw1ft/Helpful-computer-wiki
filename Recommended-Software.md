@@ -75,6 +75,10 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 * [ANSYS Fluent](https://www.ansys.com/products/fluids/ansys-fluent) (Linux, Windows)
 * [Siemens PLM STAR-CCM+](https://www.plm.automation.siemens.com/global/en/products/simcenter/STAR-CCM.html) (Windows)
 
+# Data Recovery
+
+[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)
+
 # Diagramming Clients
 
 * [draw.io](https://www.draw.io/) (web)
