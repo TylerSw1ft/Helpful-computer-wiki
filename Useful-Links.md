@@ -370,6 +370,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [How to Install, Configure and Run the Fish Shell](https://www.linode.com/docs/quick-answers/linux/how-to-install-configure-and-run-fish/)
 
+# Fuchsia
+
+[Playing Around With The Fuchsia Operating System](https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html)
+
 # Github
 
 [Creating releases](https://help.github.com/en/articles/creating-releases)
