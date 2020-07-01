@@ -348,11 +348,7 @@ Due to real-time notifications and chat being 1st party app exclusive features, 
 
 * [Ásbrú Connection Manager](https://www.asbru-cm.net/) (Linux)
 * [MobaXterm](https://mobaxterm.mobatek.net/) (Windows)
-* [Termius](https://termius.com/) (Android)
-
-## Recommended, with reservations
-
-* [JuiceSSH](https://juicessh.com/) + [JuiceSSH Performance Plugin](https://play.google.com/store/apps/details?id=com.sonelli.juicessh.performancemonitor) (Android) - Use this only if you need SSH-based performance monitoring; development seems to have ceased in 2017
+* [JuiceSSH](https://juicessh.com/) (Android)
 
 # Structural Solvers
 
