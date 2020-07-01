@@ -8,7 +8,7 @@
 
 * [Avira Antivirus Pro](https://www.avira.com/en/antivirus-pro) (macOS, Windows)
 * [chkrootkit](http://www.chkrootkit.org/) (FreeBSD, Linux, OpenIndiana)
-* [ClamAV](https://www.clamav.net/) (Linux)
+* [ClamAV](https://www.clamav.net/) (FreeBSD, Linux)
 * [Windows Defender Antivirus](https://www.microsoft.com/en-us/windows/comprehensive-security) (Windows)
 
 # Archive Managers
