@@ -381,7 +381,9 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 
 # Unit Converters
 
-[Converber](http://www.xyntec.com/converber.htm) (Windows)
+* [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) (Android)
+* Calculator (Windows)
+* [Converber](http://www.xyntec.com/converber.htm) (Windows)
 
 # Volume Spanners
 
