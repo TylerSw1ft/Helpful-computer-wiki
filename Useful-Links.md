@@ -558,6 +558,10 @@ Recreate initramfs: `update-initramfs -u -k all`
 * [Documentation](https://docs.kde.org/)
 * How to Restart KDE Plasma Desktop without Rebooting: `plasmashell --replace`
 
+# KSysGuard
+
+[Explanation of memory usage as displayed, and workaround](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=245293)
+
 # KeePass
 
 [How to update plugins](https://keepass.info/help/v2/plugins.html)
