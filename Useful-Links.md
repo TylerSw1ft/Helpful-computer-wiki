@@ -891,6 +891,18 @@ Run:
 
 * [WAN to LAN Throughput - TCP](https://www.smallnetbuilder.com/tools/charts/router/bar/179-wan-to-lan-tcp/35)
 
+# `rpi-clone`
+
+If you get the `already mounted or mount point busy.` error:
+
+(Assuming the target card is `/dev/sda`
+
+1. Create a new partitional table on the target card in GParted (this will format the target card)
+2. Ensure the card isn't mounted:
+   1. `$ df -l`.
+   2. If the card isn't listed, proceed to next step. If it is listed, unmount it via `# umount /dev/sda`
+3. Run `rpi-clone`
+
 # `rsync`
 
 [How to fix the `rsync: set_acl: sys_acl_set_file(var/log/journal, ACL_TYPE_ACCESS): Operation not supported (95)` error](https://github.com/bit-team/backintime/issues/1096#issuecomment-647148330)
