@@ -22,7 +22,7 @@ I run all 4 major OS paradigms (officially the excuse for this is "just in case 
 
 This requires multiple solutions, and I was getting confused keeping all of them in my head. Excel to the rescue! Here's my current blueprint and progress status (I'm continuously updating this as I tweak my plans, notation, and actually get solutions implemented):
 
-![](https://raw.githubusercontent.com/jdrch/Hardware/master/Backup%20Table%207.5.8.0.png)
+![](https://raw.githubusercontent.com/jdrch/Hardware/master/Backup%20Table%209.7.9.0.png)
 
 The objective here is ultimately turn the entire top table green.
 
