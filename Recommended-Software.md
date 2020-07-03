@@ -97,11 +97,13 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 
 ## Desktop
 
+### Corporate
+
 [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook) (Windows)
 
-## Web
+# Email Services
 
-[Gmail](https://gmail.com) (web)
+[Gmail](https://gmail.com) 
 
 # File Managers
 
@@ -121,7 +123,8 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 
 # Image Organizers
 
-[digiKam](https://www.digikam.org/) (FreeBSD, Linux, OpenBSD, Windows)
+* [digiKam](https://www.digikam.org/) (FreeBSD, Linux, OpenBSD, Windows)
+* [F-Stop Pro](https://play.google.com/store/apps/details?id=com.fstop.photo.key&hl=en_US) (Android)
 
 # Image Viewers
 
