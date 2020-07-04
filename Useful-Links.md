@@ -723,7 +723,7 @@ Use this method if you're getting weird errors creating a storage pool in Contro
 
 **WARNING:** Be careful when copying and pasting PowerShell code as sometimes important characters such as dashes or quotes get removed during the operation. Why? Your guess is as good as mine.
 
-This example assumes you'll be using all poolable drives in your storage pool. If that is not the case, see 
+This example assumes you'll be using all poolable drives in your storage pool.
 
 1. Ensure the target drives are not part of a DrivePool or any similar volume spanning solution. If they are, remove them from the spanned volume or DrivePool
 2. Delete any volumes on the target drives in Windows Disk Management
