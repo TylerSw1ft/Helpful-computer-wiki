@@ -730,7 +730,7 @@ This example assumes you'll be using all poolable drives in your storage pool. I
 3. If it's not installed already, download and install the latest stable [PowerShell release](https://github.com/PowerShell/PowerShell/releases)
 4. Run PowerShell as Administrator
 5. Find out if your target target drives can be pooled by running `Get-PhysicalDisk` and checking the `Can Pool` column value. If it's `True`, skip to Step 8. If it's false:
-6. Run `Reset-PhysicalDisk -FriendlyName "PhysicalDiskn` for each drive, where `n` is the number in the `Number` column of `Get-PhysicalDisk`'s output in Step 5
+6. Run `Reset-PhysicalDisk -FriendlyName "PhysicalDiskn"` for each drive, where `n` is the number in the `Number` column of `Get-PhysicalDisk`'s output in Step 5
 7. Reboot the PC
 8. Run `Get-StoragePool -IsPrimordial $true | Get-PhysicalDisk | Where-Object CanPool -eq $True`. The output should be the drives you reset in Step 6, e.g.
 
