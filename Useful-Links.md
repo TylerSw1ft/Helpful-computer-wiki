@@ -700,6 +700,48 @@ How to keep your Windows installation healthy over the years without ever having
 
 ## [Storage](https://docs.microsoft.com/en-us/windows-server/storage/storage)
 
+### How to create a Storage Pool using PowerShell
+
+Use this method if you're getting weird errors creating a storage pool in Control Panel's Storage Spaces GUI.
+
+**WARNING:** Be careful when copying and pasting PowerShell code as sometimes important characters such as dashes or quotes get removed during the operation. Why? Your guess is as good as mine.
+
+This example assumes you'll be using all poolable drives in your storage pool. If that is not the case, see 
+
+1. Ensure the target drives are not part of a DrivePool or any similar volume spanning solution. If they are, remove them from the spanned volume or DrivePool
+2. Delete any volumes on the target drives in Windows Disk Management
+3. If it's not installed already, download and install the latest stable [PowerShell release](https://github.com/PowerShell/PowerShell/releases)
+4. Run PowerShell as Administrator
+5. Find out if your target target drives can be pooled by running `Get-PhysicalDisk` and checking the `Can Pool` column value. If it's `True`, skip to Step 8. If it's false:
+6. Run `Reset-PhysicalDisk -FriendlyName "PhysicalDiskn` for each drive, where `n` is the number in the `Number` column of `Get-PhysicalDisk`'s output in Step 5
+7. Reboot the PC
+8. Run `Get-StoragePool -IsPrimordial $true | Get-PhysicalDisk | Where-Object CanPool -eq $True`. The output should be the drives you reset in Step 6, e.g.
+
+```
+PS C:\Windows\System32> Get-StoragePool -IsPrimordial $true | Get-PhysicalDisk | Where-Object CanPool -eq $True
+
+Number FriendlyName         SerialNumber MediaType CanPool OperationalStatus HealthStatus Usage           Size
+------ ------------         ------------ --------- ------- ----------------- ------------ -----           ----
+0      ST12000NM0007-2A1101 12345678     HDD       True    OK                Healthy      Auto-Select 10.91 TB
+1      ST12000DM0007-2GR116 87654321     HDD       True    OK                Healthy      Auto-Select 10.91 TB
+```
+
+9. Run [`Get-StorageSubsystem`](https://docs.microsoft.com/en-us/powershell/module/storage/get-storagesubsystem?view=win10-ps), e.g.
+
+```
+PS C:\Windows\System32>  Get-StorageSubSystem
+
+FriendlyName                     HealthStatus OperationalStatus
+------------                     ------------ -----------------
+StorageSubsystemFriendlyNameString Healthy      OK
+```
+
+10. Create the storage pool by running `New-StoragePool -FriendlyName YourDesiredCamelCasePoolName -StorageSubsystemFriendlyName 'StorageSubsystemFriendlyNameString' -PhysicalDisks (Get-PhysicalDisk -CanPool $True)`. Alternatively, if you want to use a specified subset of the eligible disks, run a command of the form `New-StoragePool –FriendlyName YourDesiredCamelCasePoolName –StorageSubsystemFriendlyName 'StorageSubsystemFriendlyNameString' –PhysicalDisks (Get-PhysicalDisk PhysicalDiska, PhysicalDiskb, PhysicalDiskc)`, where `a`, `b`, and `c` have the same definiton as `n` in Step 6
+
+Your storage pool should now be created, and you can create storage spaces on it using Control Panel's Storage Spaces GUI.
+
+[Reference](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/deploy-standalone-storage-spaces#windows-powershell-equivalent-commands-for-creating-storage-pools) (Good luck understanding it.)
+
 ### [Storage Spaces](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/overview) ([Direct](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/storage-spaces-direct-overview))
 
 [Storage Spaces benchmarks](https://hardforum.com/threads/storage-spaces-3x10-tb-120-gb-ssd-cache-refs.1922186/)
