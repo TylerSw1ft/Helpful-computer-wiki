@@ -664,6 +664,8 @@ Sources:
 
 ## Admin Center
 
+**NOTE:** Admin Center works on FQDN environments only.
+
 * [How to manage Windows Server 2019 like a boss](https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-manage-windows-server-2019-like-a-boss/ba-p/1190784)
 * [Windows Admin Center Overview](https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/overview)
 
@@ -753,11 +755,24 @@ FriendlyName                     HealthStatus OperationalStatus
 StorageSubsystemFriendlyNameString Healthy      OK
 ```
 
-10. Create the storage pool by running `New-StoragePool -FriendlyName YourDesiredCamelCasePoolName -StorageSubsystemFriendlyName 'StorageSubsystemFriendlyNameString' -PhysicalDisks (Get-PhysicalDisk -CanPool $True)`. Alternatively, if you want to use a specified subset of the eligible disks, run a command of the form `New-StoragePool –FriendlyName YourDesiredCamelCasePoolName –StorageSubsystemFriendlyName 'StorageSubsystemFriendlyNameString' –PhysicalDisks (Get-PhysicalDisk PhysicalDiska, PhysicalDiskb, PhysicalDiskc)`, where `a`, `b`, and `c` have the same definiton as `n` in Step 6
+10. Create the storage pool by running `New-StoragePool -FriendlyName YourDesiredPoolName -StorageSubsystemFriendlyName 'StorageSubsystemFriendlyNameString' -PhysicalDisks (Get-PhysicalDisk -CanPool $True)`. Alternatively, if you want to use a specified subset of the eligible disks, run a command of the form `New-StoragePool –FriendlyName YourDesiredCamelCasePoolName –StorageSubsystemFriendlyName 'StorageSubsystemFriendlyNameString' –PhysicalDisks (Get-PhysicalDisk PhysicalDiska, PhysicalDiskb, PhysicalDiskc)`, where `a`, `b`, and `c` have the same definiton as `n` in Step 6
 
 Your storage pool should now be created, and you can create storage spaces on it using Control Panel's Storage Spaces GUI.
 
 [Reference](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/deploy-standalone-storage-spaces#windows-powershell-equivalent-commands-for-creating-storage-pools) (Good luck understanding it.)
+
+#### How to create a Storage Space using PowerShell
+
+The following will create a single column, 2-way mirror storage space that consumes all the available space on the pool using the same parameters as above:
+
+1. Open an elevated PowerShell prompt
+2. Run `New-VirtualDisk -StoragePoolFriendlyName YourDesiredPoolName -FriendlyName YourDesiredVirtualDiskName -ResiliencySettingName Mirror -NumberOfDataCopies 2 -ProvisioningType Fixed -UseMaximumSize -NumberOfColumns 1 -Verbose`
+
+Note that `-UseMaximumSize` cannot be invoked with `-ProvisioningType Thin` spaces, as thin spaces start dynamically expand *in situ* with storage demand.
+
+To create a volume on the storage space, simply open Disk Manager. You'll get a prompt to initialize the new disk you created. Initialize it as GPT and then proceed to create a volume on it as you would otherwise. 
+
+Reference: [Step By Step: How To Create A Two-Way Mirrored Storage Space via PowerShell? #StorageSpaces #PowerShell](https://charbelnemnom.com/2014/09/step-by-step-how-to-create-a-two-way-mirrored-storage-space-via-powershell-storagespaces-powershell/)
 
 ## Word
 
