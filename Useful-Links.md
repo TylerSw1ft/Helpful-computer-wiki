@@ -770,6 +770,16 @@ The following will create a single column, 2-way mirror storage space that consu
 
 Note that `-UseMaximumSize` cannot be invoked with `-ProvisioningType Thin` spaces, as thin spaces start dynamically expand *in situ* with storage demand.
 
+Confirm that the virtual disk has been created as specified:
+
+```
+PS C:\Windows\System32> Get-VirtualDisk
+
+FriendlyName ResiliencySettingName FaultDomainRedundancy OperationalStatus HealthStatus     Size FootprintOnPool StorageEfficiency
+------------ --------------------- --------------------- ----------------- ------------     ---- --------------- -----------------
+YourDesiredVirtualDiskName  Mirror                1                     OK                Healthy      10.91 TB        21.82 TB            50.00%
+```
+
 To create a volume on the storage space, simply open Disk Manager. You'll get a prompt to initialize the new disk you created. Initialize it as GPT and then proceed to create a volume on it as you would otherwise. 
 
 Reference: [Step By Step: How To Create A Two-Way Mirrored Storage Space via PowerShell? #StorageSpaces #PowerShell](https://charbelnemnom.com/2014/09/step-by-step-how-to-create-a-two-way-mirrored-storage-space-via-powershell-storagespaces-powershell/)
