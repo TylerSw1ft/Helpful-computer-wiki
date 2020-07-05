@@ -76,6 +76,8 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
     * Click `Reset to Default`
     * Quit and reopen Workbench
 
+[Intro to ANSYS ACT for Mechanical](https://www.robsiegwart.com/blog/posts/intro_to_ansys_act_for_mechanical/)
+
 # `apt`
 
 * [Fixing “The following packages have been kept back” Error While Updating Ubuntu and Debian-based Linux Distributions](https://itsfoss.com/following-packages-have-been-kept-back/)
