@@ -790,6 +790,14 @@ Reference: [Step By Step: How To Create A Two-Way Mirrored Storage Space via Pow
 
 [How to Backup and Restore Unsaved Word Documents – Windows 10 Tips](https://wccftech.com/how-to/how-to-backup-and-recover-lost-files-in-office-on-windows-10/)
 
+# MobaXterm
+
+* How to fix the `Installer not responding` error:
+  * Open an elevated PowerShell prompt at the installer's location
+  * Run the installer `./MobaXterm_installer_Version_Branch.msi`
+  * When the error message pops up again, click `Retry`
+  * The installation should then proceed as normal
+
 # `nano`
 
 [Getting started](https://www.redhat.com/sysadmin/getting-started-nano)
@@ -886,6 +894,11 @@ Run:
 # Postfix
 
 [Ubuntu documentation](https://help.ubuntu.com/lts/serverguide/postfix.html)
+
+# PowerShell
+
+* How to run an executable
+  * `./ExecutableFileName`
 
 # PSUs
 
