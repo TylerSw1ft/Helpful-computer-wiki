@@ -1095,6 +1095,7 @@ To remove orphaned packages, use `apt autoremove`
 
 # Veeam
 
+* [How to place Veeam Agent for Windows backup chain on Veeam backup repository, so backup job continues chain](https://www.veeam.com/kb2321)
 * The Backup & Replication installer [chokes on compressed volumes](https://forums.veeam.com/vmware-vsphere-f24/veem-backup-and-replication-9-5-update-4-fails-to-install-support-case-id-03408596-t57166.html)
 * [October 2019 Gartner Magic Quadrant](https://www.acronis.com/en-us/blog/posts/acronis-earns-its-spot-gartner-2019-magic-quadrant-enterprise-datacenter-backup-and-recovery)
 
