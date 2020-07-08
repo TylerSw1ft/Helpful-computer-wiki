@@ -997,6 +997,24 @@ If you get the `already mounted or mount point busy.` error:
 
 [ATA S.M.A.R.T. attributes](https://en.wikipedia.org/wiki/S.M.A.R.T.#ATA_S.M.A.R.T._attributes)
 
+# Scheduled Tasks
+
+* How to fix `Task Start Failed` & `Launch Failure` errors
+  * Select the problematic task
+  * Click `Properties`
+  * In the `Triggers` tab, highlight the trigger
+  * Click `Edit...`
+  * In the `Edit Trigger` window, in the `Begin the task:` dropdown menu, select `On a schedule`
+  * Select the `One time` radio button
+  * In the `Advanced Settings` section, check the `Repeat task every:` box
+  * In the `Repeat task every:` dropdown menu, select your preferred interval
+  * In the `for a duration of:` dropdown menu, select `Indefinitely`
+  * Check the `Enabled` box
+  * Click `OK`
+  * Click `OK`
+
+[Reference](https://social.technet.microsoft.com/Forums/windowsserver/en-US/29a37921-3e27-4c88-b387-3dd394302298/strange-problem-in-windows-2008-task-scheduler?forum=winservergen)
+
 # Scripting (Linux)
 
 * [How to make a script executable](https://stackoverflow.com/a/43530252/3754100): at script location, run `chmod +x <script-file-name-including-extension>`
