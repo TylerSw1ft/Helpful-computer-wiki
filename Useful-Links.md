@@ -161,6 +161,10 @@ $ balooctl disable
 
 ### How to mount (Debian 10.2+) NFSv4 share
 
+Where Debian NFSv4 share in `/etc/exports` is of the form:
+
+`/Path/To/Shared/Folder Client_IP_Address_or_Hostname(rw,async,no_subtree_check,no_root_squash)`
+
 In terminal, run `# mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare /LocalMountPath`
 
 The equivalent `/etc/fstab` entry for this is apparently `ServerIPAddress:/PathToServerShare  /LocalMountPath                     nfs     rw,nfsv4acls    0 0`
