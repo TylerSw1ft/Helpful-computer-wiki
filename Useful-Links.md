@@ -1135,8 +1135,9 @@ To remove orphaned packages, use `apt autoremove`
 
 # Volume Shadow Copy
 
-* [How to set it up](http://itsimple.info/?p=258)
+* [How to schedule it](http://itsimple.info/?p=258)
   * Author made a mistake in the screenshots; [here's the correction](http://itsimple.info/?p=258#comment-912)
+* [Powershell commands & ReFS setup](https://superuser.com/a/1261589/264738)
 * [Shadow Explorer (shadow copies browsing tool)](https://www.shadowexplorer.com/downloads.html)
 
 # Wi-Fi
