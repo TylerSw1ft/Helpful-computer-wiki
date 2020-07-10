@@ -790,6 +790,14 @@ To create a volume on the storage space, simply open Disk Manager. You'll get a 
 
 Reference: [Step By Step: How To Create A Two-Way Mirrored Storage Space via PowerShell? #StorageSpaces #PowerShell](https://charbelnemnom.com/2014/09/step-by-step-how-to-create-a-two-way-mirrored-storage-space-via-powershell-storagespaces-powershell/)
 
+#### How to extend an ReFS volume
+
+The information available on this is sparse and a bit confusing, but basically it appears you can only expand volumes in small increments. Threads on the subject:
+
+* https://social.technet.microsoft.com/Forums/lync/en-US/c1cbb589-cd60-4147-ad22-855a28f9bc9e/cannot-extend-refs-volume-windows-2012-r2?forum=winservergen
+* https://social.technet.microsoft.com/Forums/en-US/af4db752-b336-4d4e-80bb-8c8642c94eff/extended-refs-partition-but-new-sizefree-space-doesnt-show-in-explorer?forum=winserverfiles
+*https://social.technet.microsoft.com/Forums/en-US/e2fd8c79-c2a7-426f-81a7-19d15b036a10/best-practices-to-extend-refs-volume-windows-server-2012-64-bit?forum=winserver8gen
+
 ## Word
 
 [How to Backup and Restore Unsaved Word Documents – Windows 10 Tips](https://wccftech.com/how-to/how-to-backup-and-recover-lost-files-in-office-on-windows-10/)
@@ -1014,6 +1022,10 @@ If you get the `already mounted or mount point busy.` error:
   * Click `OK`
 
 [Reference](https://social.technet.microsoft.com/Forums/windowsserver/en-US/29a37921-3e27-4c88-b387-3dd394302298/strange-problem-in-windows-2008-task-scheduler?forum=winservergen)
+
+Task names are both unique *and* persistent. What the latter means is that *even if you delete a task*, if you create another task with the same name it will inherit all the history (and behavior!!!) of the deleted task. 
+
+Often, the best fix for a malfunctioning task is to completely delete it, then recreate it from scratch directly on the target machine using a different unique task name.
 
 # Scripting (Linux)
 
