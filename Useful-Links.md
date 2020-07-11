@@ -710,7 +710,8 @@ How to keep your Windows installation healthy over the years without ever having
 
 ### [Storage Spaces](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/overview) ([Direct](https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/storage-spaces-direct-overview))
 
-[Storage Spaces benchmarks](https://hardforum.com/threads/storage-spaces-3x10-tb-120-gb-ssd-cache-refs.1922186/)
+* [Storage Spaces benchmarks](https://hardforum.com/threads/storage-spaces-3x10-tb-120-gb-ssd-cache-refs.1922186/)
+* [Reddit guide](https://www.reddit.com/r/DataHoarder/comments/hp54pm/getting_started_with_refs_and_storage_spaces_on/)
 
 #### Current
 
