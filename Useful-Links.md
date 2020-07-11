@@ -774,7 +774,7 @@ The following will create a single column, 2-way mirror storage space that consu
 1. Open an elevated PowerShell prompt
 2. Run `New-VirtualDisk -StoragePoolFriendlyName YourDesiredPoolName -FriendlyName YourDesiredVirtualDiskName -ResiliencySettingName Mirror -NumberOfDataCopies 2 -ProvisioningType Fixed -UseMaximumSize -NumberOfColumns 1 -Verbose`
 
-Note that `-UseMaximumSize` cannot be invoked with `-ProvisioningType Thin` spaces, as thin spaces start dynamically expand *in situ* with storage demand.
+Note that `-UseMaximumSize` cannot be invoked with `-ProvisioningType Thin` spaces, as thin spaces dynamically expand *in situ* with storage demand.
 
 Confirm that the virtual disk has been created as specified:
 
@@ -792,11 +792,11 @@ Reference: [Step By Step: How To Create A Two-Way Mirrored Storage Space via Pow
 
 #### How to extend an ReFS volume
 
-The information available on this is sparse and a bit confusing, but basically it appears you can only expand volumes in small increments. Threads on the subject:
+The information available on this is sparse and a bit confusing, but basically it appears you can only expand volumes by 20% at time. This just means it will take multiple expansions when you add new disks. Threads on the subject:
 
 * https://social.technet.microsoft.com/Forums/lync/en-US/c1cbb589-cd60-4147-ad22-855a28f9bc9e/cannot-extend-refs-volume-windows-2012-r2?forum=winservergen
 * https://social.technet.microsoft.com/Forums/en-US/af4db752-b336-4d4e-80bb-8c8642c94eff/extended-refs-partition-but-new-sizefree-space-doesnt-show-in-explorer?forum=winserverfiles
-*https://social.technet.microsoft.com/Forums/en-US/e2fd8c79-c2a7-426f-81a7-19d15b036a10/best-practices-to-extend-refs-volume-windows-server-2012-64-bit?forum=winserver8gen
+* https://social.technet.microsoft.com/Forums/en-US/e2fd8c79-c2a7-426f-81a7-19d15b036a10/best-practices-to-extend-refs-volume-windows-server-2012-64-bit?forum=winserver8gen
 
 #### How to upgrade a storage pool
 
