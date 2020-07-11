@@ -786,7 +786,7 @@ FriendlyName ResiliencySettingName FaultDomainRedundancy OperationalStatus Healt
 YourDesiredVirtualDiskName  Mirror                1                     OK                Healthy      10.91 TB        21.82 TB            50.00%
 ```
 
-To create a volume on the storage space, simply open Disk Manager. You'll get a prompt to initialize the new disk you created. Initialize it as GPT and then proceed to create a volume on it as you would otherwise. 
+To create a volume on the storage space, simply open Disk Manager. You'll get a prompt to initialize the new disk you created. Initialize it as GPT and then proceed to create a volume on it as you would otherwise. You then need to enable ReFS integrity streams on the volume via `Set-FileIntegrity H:\ -Enable $True`. Do not forget this step as otherwise ReFS will not have data checksumming, which is pretty much the #1 reason to use it instead of NTFS.
 
 Reference: [Step By Step: How To Create A Two-Way Mirrored Storage Space via PowerShell? #StorageSpaces #PowerShell](https://charbelnemnom.com/2014/09/step-by-step-how-to-create-a-two-way-mirrored-storage-space-via-powershell-storagespaces-powershell/)
 
@@ -797,6 +797,10 @@ The information available on this is sparse and a bit confusing, but basically i
 * https://social.technet.microsoft.com/Forums/lync/en-US/c1cbb589-cd60-4147-ad22-855a28f9bc9e/cannot-extend-refs-volume-windows-2012-r2?forum=winservergen
 * https://social.technet.microsoft.com/Forums/en-US/af4db752-b336-4d4e-80bb-8c8642c94eff/extended-refs-partition-but-new-sizefree-space-doesnt-show-in-explorer?forum=winserverfiles
 *https://social.technet.microsoft.com/Forums/en-US/e2fd8c79-c2a7-426f-81a7-19d15b036a10/best-practices-to-extend-refs-volume-windows-server-2012-64-bit?forum=winserver8gen
+
+#### How to upgrade a storage pool
+
+See [Option 2](https://www.tenforums.com/tutorials/83868-upgrade-storage-pool-storage-spaces-windows-10-a.html). I'd recommend you run this command after every semi annual Windows release, as ReFS/Storage Pool updates are delivered with Windows releases.
 
 ## Word
 
