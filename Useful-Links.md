@@ -787,7 +787,7 @@ FriendlyName ResiliencySettingName FaultDomainRedundancy OperationalStatus Healt
 YourDesiredVirtualDiskName  Mirror                1                     OK                Healthy      10.91 TB        21.82 TB            50.00%
 ```
 
-To create a volume on the storage space, simply open Disk Manager. You'll get a prompt to initialize the new disk you created. Initialize it as GPT and then proceed to create a volume on it as you would otherwise. You then need to enable ReFS integrity streams on the volume via `Set-FileIntegrity H:\ -Enable $True`. Do not forget this step as otherwise ReFS will not have data checksumming, which is pretty much the #1 reason to use it instead of NTFS.
+To create a volume on the storage space, simply open Disk Manager. You'll get a prompt to initialize the new disk you created. Initialize it as GPT and then proceed to create a volume on it as you would otherwise. You then need to enable [ReFS integrity streams](https://docs.microsoft.com/en-us/windows-server/storage/refs/integrity-streams) on the volume via `Set-FileIntegrity H:\ -Enable $True`. Do not forget this step as otherwise ReFS will not have data checksumming, which is pretty much the #1 reason to use it instead of NTFS.
 
 Reference: [Step By Step: How To Create A Two-Way Mirrored Storage Space via PowerShell? #StorageSpaces #PowerShell](https://charbelnemnom.com/2014/09/step-by-step-how-to-create-a-two-way-mirrored-storage-space-via-powershell-storagespaces-powershell/)
 
