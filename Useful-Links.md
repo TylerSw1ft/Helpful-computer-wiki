@@ -1215,6 +1215,7 @@ The above article also explains that mesh wireless systems underperform under he
 
 # ZFS 
 
+* [Aaron Toponce's ZFS guide](https://pthree.org/2012/04/17/install-zfs-on-debian-gnulinux/)
 * [Feature Matrix](https://zgrep.org/zfs.html)
 * [Latest OpenZFS development status and relationship among projects](https://drive.google.com/file/d/197jS8_MWtfdW2LyvIFnH58uUasHuNszz/view)
 * [Linus Torvalds recommends against ZFS (on Linux)](https://www.realworldtech.com/forum/?threadid=189711&curpostid=189841)
