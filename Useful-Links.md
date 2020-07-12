@@ -912,6 +912,10 @@ Run:
 
 [Ubuntu documentation](https://help.ubuntu.com/lts/serverguide/postfix.html)
 
+# Power over Ethernet
+
+[Power over Ethernet - Everything you need to know](https://intellinetnetwork.eu/pages/power-over-ethernet)
+
 # PowerShell
 
 * How to run an executable
