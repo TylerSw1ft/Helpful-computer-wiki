@@ -21,7 +21,8 @@
 
 ### Updates
 
-[Android devices do NOT receive kernel version updates (see Paragraph 3)](https://arstechnica.com/gadgets/2019/11/google-outlines-plans-for-mainline-linux-kernel-support-in-android/)
+* [Android devices do NOT receive kernel version updates (see Paragraph 3)](https://arstechnica.com/gadgets/2019/11/google-outlines-plans-for-mainline-linux-kernel-support-in-android/)
+* [How Android updates work + how Projects Treble & Mainline fit into that](https://www.reddit.com/r/androiddev/comments/hk3hrq/were_on_the_android_engineering_team_ask_us/fxgen61/)
 
 ### Why ARM requires per-device kernel builds (and x86 doesn't)
 
