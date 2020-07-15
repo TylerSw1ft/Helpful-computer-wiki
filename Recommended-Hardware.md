@@ -156,6 +156,12 @@ These recommendations are primarily storage oriented.
 
 [Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/) ​
 
+## Switches
+
+### Unmanaged
+
+[NETGEAR Gigabit Ethernet Unmanaged Switches](https://www.netgear.com/images/datasheet/switches/GS105v5_GS108v4_GS116v2.pdf)
+
 ## Wired
 
 [Not all Ethernet NICs are Created Equal - Trying to Capture Invalid Ethernet Frames](https://isc.sans.edu/diary/rss/25896) (Why Intel NICs are superior to Realtek, Broadcom, and ASIX NICs)
