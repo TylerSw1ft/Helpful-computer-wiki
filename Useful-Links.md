@@ -1066,7 +1066,7 @@ https://www.smartmontools.org/wiki/TocDoc
 
 ### How to fix scores
 
->= A: Nothing to worry about for Bufferbloat or Quality
+≥ A: Nothing to worry about for Bufferbloat or Quality
 
 #### [Bufferbloat](https://www.bufferbloat.net/projects/)
 
