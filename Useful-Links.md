@@ -1056,6 +1056,43 @@ https://www.smartmontools.org/wiki/TocDoc
 * [`snapper-configs` man page](http://snapper.io/manpages/snapper-configs.html)
 * [ArchWiki `snapper` documentation](https://wiki.archlinux.org/index.php/Snapper)
 
+# Speedtests
+
+## DSLReports.com
+
+* This is the premier, most realistic internet connection diagnostic test online
+* Run this test on a wired connection to your router or modem, if you can. **Tests run on wireless connections are inconclusive due to the physical nature of Wi-Fi**
+* If you were sent to this link from a discussion thread containing a problem you're having, **please post your results (link on the results page) back in the thread. Doing so will help users on the thread diagnose your issues. The quality of the advice you receive is directly proportional to the quality of the information you provide**
+
+### How to fix scores
+
+>= A: Nothing to worry about for Bufferbloat or Quality
+
+#### [Bufferbloat](https://www.bufferbloat.net/projects/)
+
+In order of increasing expense:
+
+1. Flash your existing router with [DD-WRT](https://dd-wrt.com/), if [supported](https://dd-wrt.com/support/router-database/) 
+   * **WARNING:** 
+     * Although DD-WRT supports SQM, DD-WRT itself may not be stable or performant on your particular router
+     * Flashing 3rd party firmware may cause other issues with your router. If you are not willing to work around, [report](https://forum.dd-wrt.com/phpBB2/), and debug these [issues](https://svn.dd-wrt.com/), do Option 2 below instead
+     * DD-WRT builds may have been tested with your router's chipset, but not necessarily with your exact router model
+2. Get a router with a faster CPU and more RAM. A router that supports later specs and/or higher speeds will typically fulfill this 
+
+#### Quality
+
+Quality scores are typically indicative of internet connection signal strength at your modem (from your ISP). Unfortunately, most of the time this not something you can fix on your own. Contact your ISP, describing your symptoms, and tell them you modem may be experiencing low signal strength. They may either send a tech out for an onsite visit or  otherwise fix the problem remotely via changes upstream of your modem. If you are indeed experiencing low signal strength and/or the issue is on their end most ISPs will not charge for the onsite visit.
+
+## Speedtest.net
+
+Good indicator of ping; some ISPs don't like it because they think it underestimates speed.
+
+## Your ISP
+
+e.g. [Mediacom Cable Speed Test](http://speedtest.mediacomtoday.com/)
+
+This is the speedtest your ISP is most likely to believe. They're not entirely wrong; the other tests have a lot of variables the ISP arguably has no control over. However, if your results here are frequently significantly lower than what you pay for, you certainly have grounds to contact your ISP about it.
+
 # SSDs
 
 * [A Study of SSD Reliability in Large Scale Enterprise Storage Deployments](https://www.usenix.org/system/files/fast20-maneas.pdf)
