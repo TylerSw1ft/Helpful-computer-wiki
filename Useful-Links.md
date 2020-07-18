@@ -1061,7 +1061,7 @@ https://www.smartmontools.org/wiki/TocDoc
 ## DSLReports.com
 
 * This is the premier, most realistic internet connection diagnostic test online
-* Run this test on a wired connection to your router or modem, if you can. **Tests run on wireless connections are inconclusive due to the physical nature of Wi-Fi**
+* Run this test on a wired connection to your router or modem, if you can. **Tests run on wireless connections are inconclusive due to the basic physics limitations of Wi-Fi**
 * If you were sent to this link from a discussion thread containing a problem you're having, **please post your results (link on the results page) back in the thread. Doing so will help users on the thread diagnose your issues. The quality of the advice you receive is directly proportional to the quality of the information you provide**
 
 ### How to fix scores
