@@ -1257,6 +1257,7 @@ The following are ways to improve your wireless range, from best to worst:
    1. Depending on your situation you can either connect the long range client via direct cabling or place a [switch](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#switches) + [standalone AP](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#access-points) there. You can also use a *wired backhaul* (note the emphasis) mesh network
 2. Use [MoCA adapters](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#moca-adapters). See previous subpoint for what to do after that
 3. Get a better [combo router](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#routers) or AP (see previous AP link)
+4. Use Powerline adapters. See 1i) for what to do after installing them. **WARNING:** Powerline adapters are very susceptible to noise and far less reliable than MoCA and Ethernet
 4. **LAST RESORT:** Deploy a wireless backhaul mesh network. **WARNING:** Mesh networks come with their own issues and are [incredibly painful to troubleshoot](https://www.reddit.com/r/HomeNetworking/comments/h9r7se/ping_spikes_on_alternating_packets/)
 
 **NEVER** deploy a wireless extender; it will absolutely destroy your Wi-Fi performance.
