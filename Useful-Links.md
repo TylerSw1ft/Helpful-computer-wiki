@@ -1070,14 +1070,15 @@ https://www.smartmontools.org/wiki/TocDoc
 
 #### [Bufferbloat](https://www.bufferbloat.net/projects/)
 
-In order of increasing expense:
+In the downstream direction:
 
-1. Flash your existing router with [DD-WRT](https://dd-wrt.com/), if [supported](https://dd-wrt.com/support/router-database/) 
+1. Check your modem's specifications to ensure it can handle the connection speed you're paying for. If you're on a cable connection, you should have a DOCSIS 3.1 modem at the very least. If not, get a [new modem](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#modems)
+2. Flash your existing router with [DD-WRT](https://dd-wrt.com/), if [supported](https://dd-wrt.com/support/router-database/) 
    * **WARNING:** 
      * Although DD-WRT supports SQM, DD-WRT itself may not be stable or performant on your particular router
      * Flashing 3rd party firmware may cause other issues with your router. If you are not willing to work around, [report](https://forum.dd-wrt.com/phpBB2/), and debug these [issues](https://svn.dd-wrt.com/), do Option 2 below instead
      * DD-WRT builds may have been tested with your router's chipset, but not necessarily with your exact router model
-2. Get a router with a faster CPU and more RAM. A router that supports later specs and/or higher speeds will typically fulfill this 
+2. Get a new [standalone wired](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#standalone-routers) (you will need a separate [wireless AP](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#access-points) if you choose this) or [combo wired + wireless](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#routers) router with a faster CPU and more RAM. A router that supports later specs and/or higher speeds will typically fulfill this 
 
 #### Quality
 
