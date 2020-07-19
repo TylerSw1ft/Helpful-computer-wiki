@@ -1058,7 +1058,7 @@ https://www.smartmontools.org/wiki/TocDoc
 
 # Speedtests
 
-## DSLReports.com
+## [DSLReports.com](http://www.dslreports.com/speedtest)
 
 * This is the premier, most realistic internet connection diagnostic test online
 * Run this test on a wired connection to your router or modem, if you can. **Tests run on wireless connections are inconclusive due to the basic physics limitations of Wi-Fi**
