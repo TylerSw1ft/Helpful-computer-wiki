@@ -916,7 +916,8 @@ Run:
 
 # Power over Ethernet
 
-[Power over Ethernet - Everything you need to know](https://intellinetnetwork.eu/pages/power-over-ethernet)
+* [Power over Ethernet - Everything you need to know](https://intellinetnetwork.eu/pages/power-over-ethernet)
+* Cable length and material matter greatly for PoE. See this [troubleshooting example](https://www.reddit.com/r/HomeNetworking/comments/hpes0t/issue_with_ethernet_negotiation_speed/fxr8g02/)
 
 # PowerShell
 
