@@ -833,6 +833,8 @@ For v4:
 
 ### Server
 
+`# apt install nfs-kernel-server`
+
 #### `/etc/exports`
 
 Needs the following line:
@@ -870,6 +872,8 @@ There is no need to restart anything after running that command; the OS automati
 ### [Client](https://www.raspberrypi.org/documentation/configuration/nfs.md)
 
 See **Set up an NFSv4 client** heading at the above link.
+
+`# apt install nfs-common`
 
 #### Terminal
 
