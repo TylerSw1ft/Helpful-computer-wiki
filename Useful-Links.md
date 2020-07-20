@@ -1034,6 +1034,8 @@ Run:
 
 # `restic`
 
+* How to unlock a repo
+  * If you are getting the `Fatal: unable to create lock in backend: repository is already locked by PID` error, run `# restic -p /Path/To/Repo/Password/File -r /Path/to/Repo unlock` to unlock it
 * [Including and excluding files](https://restic.readthedocs.io/en/latest/040_backup.html#including-and-excluding-files)
 * [Scripting](https://restic.readthedocs.io/en/latest/075_scripting.html)
 
