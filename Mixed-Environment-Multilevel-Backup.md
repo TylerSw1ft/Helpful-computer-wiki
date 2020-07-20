@@ -24,7 +24,7 @@ This requires multiple solutions, and I was getting confused keeping all of them
 
 ![](https://raw.githubusercontent.com/jdrch/Hardware/master/Backup%20Table%2012.9.10.1.png)
 
-The objective here is ultimately turn the entire top table green.
+The objective here is ultimately turn the entire top table green *and keep it that way*.
 
 The point of this is to help myself (and others who might want to use the same method) to see:
 
