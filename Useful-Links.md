@@ -829,7 +829,7 @@ See [Option 2](https://www.tenforums.com/tutorials/83868-upgrade-storage-pool-st
 
 For v4:
 
-## Debian 10 Server, FreeBSD 12.1 Client
+## Debian Stable Server, FreeBSD RELEASE Client
 
 ### Server
 
