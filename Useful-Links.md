@@ -140,36 +140,9 @@ $ balooctl disable
 * [Shells](https://www.freebsd.org/doc/handbook/shells.html)
 * [Technical reasons to choose FreeBSD over GNU/Linux](https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html)
 
-### Ports
-
-* [FreshPorts](https://www.freshports.org/)
-* [FreeBSD Ports Categories Listed By Groups](https://www.freebsd.org/ports/categories-grouped.html) (searchable)
-
-## FuryBSD
-
-* [Installation](https://github.com/furybsd/furybsd-handbook/wiki/Installing-FuryBSD)
-* [Live USB creation](https://github.com/furybsd/furybsd-livecd/wiki)
-
-### KDE
-
-#### [How to fix keyboard keys triggering the wrong things](https://www.reddit.com/r/freebsd/comments/fjfpa5/freebsd_121releasep2_dell_xd31_usb_multimedia/fknl59g/) (such as `End` raising the Application Menu)
-
-* Add `export XKB_DEFAULT_RULES=evdev` to `~/.xprofile`. If the file does not exist, create it first and then add the line
-* Reboot
-
 ### How to enable `sudo` for a user
 
-* Append `username ALL=(ALL) ALL` to `/etc/sudoers` or `/usr/local/etc/sudoers`
-
-### How to mount (Debian 10.2+) NFSv4 share
-
-Where Debian NFSv4 share in `/etc/exports` is of the form:
-
-`/Path/To/Shared/Folder Client_IP_Address_or_Hostname(rw,async,no_subtree_check,no_root_squash)`
-
-In terminal, run `# mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare /LocalMountPath`
-
-The equivalent `/etc/fstab` entry for this is apparently `ServerIPAddress:/PathToServerShare  /LocalMountPath                     nfs     rw,nfsv4acls    0 0`
+Append `username ALL=(ALL) ALL` to `/etc/sudoers` or `/usr/local/etc/sudoers`
 
 ### How to set up multiple monitors on Dell OptiPlex 390 SFF
 
@@ -200,6 +173,18 @@ The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Setti
 * Ensure `FuryBSD` is checked in the UEFI boot list
 * Click `Apply`
 * Click `Exit`
+
+### KDE
+
+#### [How to fix keyboard keys triggering the wrong things](https://www.reddit.com/r/freebsd/comments/fjfpa5/freebsd_121releasep2_dell_xd31_usb_multimedia/fknl59g/) (such as `End` raising the Application Menu)
+
+* Add `export XKB_DEFAULT_RULES=evdev` to `~/.xprofile`. If the file does not exist, create it first and then add the line
+* Reboot
+
+### Ports
+
+* [FreshPorts](https://www.freshports.org/)
+* [FreeBSD Ports Categories Listed By Groups](https://www.freebsd.org/ports/categories-grouped.html) (searchable)
 
 ### Resilio Sync
 
@@ -233,6 +218,11 @@ The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Setti
 4. Overwrite `/bin/rslsync` with the binary extracted in 2)
 5. Run `# chmod +x /bin/rslsync`
 6. Run `./rslsync --storage /absolute/path/to/home/.sync/folder` to start `rslsync`
+
+## FuryBSD
+
+* [Installation](https://github.com/furybsd/furybsd-handbook/wiki/Installing-FuryBSD)
+* [Live USB creation](https://github.com/furybsd/furybsd-livecd/wiki)
 
 ## Why I might no longer run BSD
 
@@ -834,6 +824,62 @@ See [Option 2](https://www.tenforums.com/tutorials/83868-upgrade-storage-pool-st
 # Networking
 
 [DSLReports Speed Test](http://www.dslreports.com/speedtest)
+
+# NFS
+
+For v4:
+
+## Debian 10 Server, FreeBSD 12.1 Client
+
+### Server
+
+#### `/etc/exports`
+
+Needs the following line:
+
+`/Path/To/Shared/Folder ClientIPAddressOrHostname(rw,async,no_subtree_check,no_root_squash)`
+
+Restart the NFS server to load your changes: `# systemctl restart nfs-kernel-server`
+
+### Client
+
+#### Terminal
+
+`# mount -t nfs -o nfsv4 ServerIPAddress:/PathToServerShare /LocalMountPath`
+
+#### `/etc/fstab`
+
+Needs the following line:
+
+`ServerIPAddress:/PathToServerShare  /LocalMountPath                     nfs     rw,nfsv4acls    0 0`
+
+## OpenIndiana Hipster Server, Raspberry Pi OS Stable Client
+
+Assuming `rpool1` is pool to be shared:
+
+### Server
+
+#### Terminal
+
+Run the following command:
+
+`# zfs set sharenfs='rw=@ClientIPAddress/32,root=@ClientIPAddress/32' rpool1`
+
+There is no need to restart anything after running that command; the OS automatically applies the settings and publishes the new share with them.
+
+### [Client](https://www.raspberrypi.org/documentation/configuration/nfs.md)
+
+See **Set up an NFSv4 client** heading at the above link.
+
+#### Terminal
+
+`# mount -t nfs -o proto=tcp,port=2049 ServerIPAddress:/ /LocalMountPath`
+
+#### `/etc/fstab`
+
+Needs the following line:
+
+`ServerIPAddress:/   /mnt   nfs    auto  0  0`
 
 # `nnn`
 
