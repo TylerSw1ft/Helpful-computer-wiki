@@ -8,13 +8,12 @@ This project is tracked [here](https://github.com/jdrch/Hardware/projects/2).
 * New incoming critical data - especially hardcopy - must be backed up ASAP
 * [Run compute and backup on separate storage devices](https://github.com/jdrch/Hardware/wiki/Why-You-Should-Separate-Compute-and-Backup-Workloads)
 * All PCs must have the following levels of backup (note that for some OSes a single solution covers more than 1 of the below):
-  * Critical change OS rollback
-  * At least daily filesystem snapshots
-  * At least weekly device-level recovery backups
+  * Regular filesystem snapshots
+  * Regular device-level recovery backups
 * All devices must have one of the following:
   * Folders that real-time sync among all the other devices
   * R/W network access to the real-time sync folders of another device
-* All backups must be automated
+* All backups and syncing must be automated
 
 # Details
 
