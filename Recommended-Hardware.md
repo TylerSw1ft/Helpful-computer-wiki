@@ -99,6 +99,7 @@ These recommendations are primarily storage oriented.
    * Linux: Veracrypt or ZFS encryption
    * Windows: Bitlocker + TPM 
    * FreeBSD: ZFS encryption
+   * macOS
 
 you should be fine.
 
