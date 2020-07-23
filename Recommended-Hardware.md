@@ -73,6 +73,8 @@ These recommendations are primarily storage oriented.
 
 ## Specifications
 
+I do not suggest investing in anything wirless that isn't WiFi 6 or higher.
+
 ### New
 
 1. CPU: ≥ 4C/8T for mainstream use, ≥ 6C/12T for gaming
