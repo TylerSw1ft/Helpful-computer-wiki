@@ -95,10 +95,12 @@ These recommendations are primarily storage oriented.
      * drivers
      * OS
      * apps
-2. Use the disk encryption with a locally stored key you should be fine.
+2. Use the disk encryption with a locally stored key 
    * Linux: Veracrypt or ZFS encryption
    * Windows: Bitlocker + TPM 
    * FreeBSD: ZFS encryption
+
+you should be fine.
 
 * [Apple Mac](https://www.apple.com/mac/) (macOS)    
 * [Purism Librem](https://puri.sm/products/) (Linux)
