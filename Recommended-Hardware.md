@@ -160,7 +160,13 @@ These recommendations are primarily storage oriented.
 
 ### Unmanaged
 
+Assuming they have the specs and features you want, *always* buy NETGEAR Business for unmanaged switches. Other brands are nowhere near as reliable and NETGEAR's warranty and support are the best in the business.
+
 [NETGEAR Gigabit Ethernet Unmanaged Switches](https://www.netgear.com/images/datasheet/switches/GS105v5_GS108v4_GS116v2.pdf)
+
+#### PoE
+
+[NETGEAR 8-port and 16-port Gigabit Ethernet Unmanaged PoE/PoE+ Switches](https://www.netgear.com/images/datasheet/switches/GS108LP_GS108PP_GS116LP_GS116PP_DS.pdf)
 
 ## Wired
 
