@@ -73,7 +73,7 @@ These recommendations are primarily storage oriented.
 
 ## Specifications
 
-I do not suggest investing in anything wirless that isn't WiFi 6 or higher.
+I do not suggest investing in anything wirless that isn't Wi-Fi 6 or higher.
 
 ### New
 
