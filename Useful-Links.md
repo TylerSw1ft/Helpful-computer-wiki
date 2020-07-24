@@ -1110,7 +1110,7 @@ https://www.smartmontools.org/wiki/TocDoc
 * [`snapper-configs` man page](http://snapper.io/manpages/snapper-configs.html)
 * [ArchWiki `snapper` documentation](https://wiki.archlinux.org/index.php/Snapper)
 
-# Speedtests
+# Speed tests
 
 ## [DSLReports.com](http://www.dslreports.com/speedtest)
 
