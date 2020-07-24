@@ -327,7 +327,8 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # Desktop Environments
 
-[My opinions on the major DEs](https://forums.freebsd.org/threads/desktop-environment-what-do-you-use.74506/post-455819)
+* [My opinions on the major DEs](https://forums.freebsd.org/threads/desktop-environment-what-do-you-use.74506/post-455819)
+* [Memory usage comparison](https://www.ubuntubuzz.com/2020/07/memory-comparison-ubuntu-2004-family.html)
 
 # Disk Erasure
 
