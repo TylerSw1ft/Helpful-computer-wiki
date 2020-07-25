@@ -411,6 +411,14 @@ Note: all LTO-8 drives need SAS at the minimum and do not support SATA.
   * TC-L82AN-BR
 * [HPE StoreEver LTO-8 Ultrium 30750 Internal Tape Drive](https://buy.hpe.com/us/en/storage/tape-storage/tape-drives-ultrium/storeever-ultrium-tape-drives/hpe-storeever-lto-ultrium-tape-drives/hpe-storeever-lto-8-ultrium-30750-internal-tape-drive/p/BC022A)
 
+# Streaming Player
+
+[Roku Ultra](https://www.roku.com/products/roku-ultra)
+
+# TV
+
+[TCL Class 6-Series 4K QLED Dolby Vision HDR Roku Smart TV](https://www.tcl.com/us/en/products/home-theater/6-series/tcl-55-class-6-series-4k-qled-hdr-roku-smart-tv-55r625)
+
 # UPS
 
 I've heard good things about Eaton, but their lineup on their product site is pretty much impossible to filter, so I really have no idea where to start with them.
