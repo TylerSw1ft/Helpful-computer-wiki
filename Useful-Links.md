@@ -1321,6 +1321,10 @@ The following are ways to improve your wireless range, from best to worst:
 * [Access Point Placement](https://github.com/jdrch/Hardware/wiki/Useful-Links#access-point-placement)
 * [Troubleshooting 'slow' Wi-Fi](https://www.duckware.com/tech/wifi-in-the-us.html#troubleshooting)
 
+# Xbox
+
+[Everybody missed the point of the Showcase. Microsoft's gaming business plan is not dependent on next gen console sales or even solely on GamePass (which is what smarter bloggers have been saying). It's based on services for gamers, studios, publishers, and even Sony and Nintendo](https://www.reddit.com/r/XboxSeriesX/comments/hxwpvz/everybody_missed_the_point_of_the_showcase/)
+
 # [The XY Problem](http://xyproblem.info/)
 
 # Zabbix
