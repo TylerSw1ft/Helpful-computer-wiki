@@ -39,6 +39,8 @@
 * Veeam Agent FREE ([Linux](https://www.veeam.com/linux-backup-free.html), [Windows](https://www.veeam.com/windows-endpoint-server-backup-free.html))
 * [Volume Shadow Copy](https://docs.microsoft.com/en-us/windows/win32/vss/volume-shadow-copy-service-overview) + [ShadowExplorer](https://www.shadowexplorer.com/downloads.html) (Windows)
 * [`zfsnap2`](https://www.zfsnap.org/) (FreeBSD, Linux)
+* [`zrep`](https://github.com/bolthole/zrep)
+* [`zrepl`](https://github.com/zrepl/zrepl)
 
 ## Servers
 
