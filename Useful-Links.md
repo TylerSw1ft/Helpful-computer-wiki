@@ -1285,13 +1285,21 @@ To remove orphaned packages, use `apt autoremove`
 * [What’s the Difference Between 802.11ac Wave 1 and Wave 2? [FAQ’s]](https://www.securedgenetworks.com/blog/whats-the-difference-between-802.11ac-wave-1-and-wave-2-faqs)
 * [Why mesh networking is bad (example)](https://www.reddit.com/r/HomeNetworking/comments/h9igbh/will_a_mesh_network_do_its_job_if_it_can_only_use/fv4vdx6/)
 
-## Access Point Placement
+## Access Point 
+
+### Placement
 
 [The Ars Technica semi-scientific guide to Wi-Fi Access Point placement](https://arstechnica.com/gadgets/2020/02/the-ars-technica-semi-scientific-guide-to-wi-fi-access-point-placement/)
 
 The above article also explains that mesh wireless systems underperform under heavy network load (one of the problems they are marketed as solving.) FTA:
 
 >  Under heavy network load, cheap wired access points like Ubiquiti UAP-AC-Lites or TP-Link EAP-225v3s absolutely smoke even the best mesh kits, if the mesh kits are limited to Wi-Fi backhaul only.
+
+### Using a Router as an AP
+
+Do NOT do this, because most consumer routers become unreachable from the LAN when in AP mode. As such, if you want to change *any* setting at all, you have to factory reset the router and set up AP mode from scratch with your desired setting
+
+Also, if router's Wi-Fi speed rating is less than AC1750, its performance in modern wireless environments is going to be awful.
 
 ## DFS
 
