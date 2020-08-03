@@ -78,7 +78,8 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
     * Click `Reset to Default`
     * Quit and reopen Workbench
 
-[Intro to ANSYS ACT for Mechanical](https://www.robsiegwart.com/blog/posts/intro_to_ansys_act_for_mechanical/)
+* [Intro to ANSYS ACT for Mechanical](https://www.robsiegwart.com/blog/posts/intro_to_ansys_act_for_mechanical/)
+* [Get Cracking with ANSYS Workbench 19.2](https://www.digitalengineering247.com/article/get-cracking-with-ansys-workbench-19.2/)
 
 # `apt`
 
