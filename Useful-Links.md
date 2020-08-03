@@ -1348,9 +1348,8 @@ There are several ways to do run cable, all of which can be combined with each o
       1. Advantages:
          1. Some people find it the most aesthetically attractive option
          2. More direct route to clients means shorter runs
-         3. Less cable tangles to deal with
+         3. Lowest probability of cable tangles
          4. Adds value to your home (if properly finished)
-         5. Lowest probability of cable tangles
       2. Disadvantages 
          1. Requires cutting into the walls of the building (not for renters)
          2. Most expensive option, even if you DIY
@@ -1359,7 +1358,7 @@ There are several ways to do run cable, all of which can be combined with each o
 2. Use [MoCA adapters](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#moca-adapters). If you don't have a coax outlet available where you need MoCA, then either run Ethernet cable (preferred) or see one of the following options
 3. Get a better [combo router](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#routers) or AP (see previous AP link)
 4. Use Powerline adapters. **WARNING:** Powerline adapters are very susceptible to noise and far less reliable than MoCA and Ethernet
-4. **LAST RESORT:** Deploy a wireless backhaul mesh network. **WARNING:** Mesh networks come with their own issues and are [incredibly painful to troubleshoot](https://www.reddit.com/r/HomeNetworking/comments/h9r7se/ping_spikes_on_alternating_packets/)
+5. **LAST RESORT:** Deploy a wireless backhaul mesh network. **WARNING:** Mesh networks come with their own issues and are [incredibly painful to troubleshoot](https://www.reddit.com/r/HomeNetworking/comments/h9r7se/ping_spikes_on_alternating_packets/)
 
 **NEVER** deploy a wireless extender; it will absolutely destroy your Wi-Fi performance.
 
