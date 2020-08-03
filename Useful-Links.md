@@ -1321,7 +1321,7 @@ The following are ways to improve your wireless range, from best to worst:
 
 There are several ways to do run cable, all of which can be combined with each other:
 
-   1. Run naked cable along the walls (in the seams between the wall and floor, floor and cieling, or multiple walls). Use cord protectors to get the cable across foot traffic pathways, such as across doorways
+   1. Run naked cable along the walls (in the seams between the wall and floor, floor and ceiling, or multiple walls). Use cord protectors to get the cable across foot traffic pathways, such as across doorways
       1. Advantages:
          1. Least expensive option
          2. Same performance as other more expensive options
