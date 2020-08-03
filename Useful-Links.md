@@ -1315,7 +1315,9 @@ Also, if router's Wi-Fi speed rating is less than AC1750, its performance in mod
 
 The following are ways to improve your wireless range, from best to worst:
 
-1. Assuming your own your home, [wire your home for Ethernet](https://github.com/jdrch/Hardware/wiki/How-to-Get-Your-Home-Wired-For-Ethernet)
+1. Run Ethernet cable. There are several ways to do this:
+   1. Run naked cable
+      1. Assuming your own your home, [wire your home for Ethernet](https://github.com/jdrch/Hardware/wiki/How-to-Get-Your-Home-Wired-For-Ethernet)
    1. Depending on your situation you can either connect the long range client via direct cabling or place a [switch](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#switches) + [standalone AP](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#access-points) there. You can also use a *wired backhaul* (note the emphasis) mesh network
 2. Use [MoCA adapters](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#moca-adapters). See previous subpoint for what to do after that
 3. Get a better [combo router](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#routers) or AP (see previous AP link)
