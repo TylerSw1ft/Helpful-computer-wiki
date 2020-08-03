@@ -1313,15 +1313,52 @@ Also, if router's Wi-Fi speed rating is less than AC1750, its performance in mod
 
 ### Improvement
 
+For the Ethernet, MoCA, and Powerline solutions: depending on your situation you can either connect the long range client via direct cabling or place a [switch](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#switches) + [standalone AP](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#access-points) there. You can also use a *wired backhaul* (note the emphasis) mesh network.
+
 The following are ways to improve your wireless range, from best to worst:
 
-1. Run Ethernet cable. There are several ways to do this:
-   1. Run naked cable
-      1. Assuming your own your home, [wire your home for Ethernet](https://github.com/jdrch/Hardware/wiki/How-to-Get-Your-Home-Wired-For-Ethernet)
-   1. Depending on your situation you can either connect the long range client via direct cabling or place a [switch](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#switches) + [standalone AP](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#access-points) there. You can also use a *wired backhaul* (note the emphasis) mesh network
-2. Use [MoCA adapters](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#moca-adapters). See previous subpoint for what to do after that
+1. Run Ethernet (copper or fiber) cable. Fiber is has a faster theoretical max speed, but is more brittle, requires more expensive gear, has very little client device support, cannot carry power, and has fewer capable installers. Copper cable generally has a lower theoretical speeds, but has none of fiber's disadvantages. Generally speaking, unless you need network speeds in excess of 10 Gb/s, stick to Cat 6A or Cat 8 copper cable. **DO NOT USE Cat 7 AS IT IS NOT A TIA STANDARD**. 
+
+There are several ways to do run cable, all of which can be combined with each other:
+
+   1. Run naked cable along the walls (in the seams between the wall and floor, floor and cieling, or multiple walls). Use cord protectors to get the cable across foot traffic pathways, such as across doorways
+      1. Advantages:
+         1. Least expensive option
+         2. Same performance as other more expensive options
+         3. Easy reconfiguration
+         4. No alteration of building structure necessary (good for renters)
+      2. Disadvantages:
+         1. Some people find exposed Ethernet cable and even cord protectors aesthetically unattractive
+         2. Cables not in cord protectors may be tripped over
+         3. Cables not in cord protectors may be damaged by foot traffic, pets, children, etc.
+         4. Extreme cable lengths may be needed for some runs, especially for larger homes
+         5. High probability of cable tangles
+   2. Same as above, but using cable raceways to hide the cable in the seams and route it around pathways
+      1. Advantages:
+         1. Some people find it more attractive than running naked cable
+         2. Cables less likely to be damaged than if they were naked
+         3. Same performance as more expensive options
+      1. Disadvantages:
+         1. Some people find raceways just as aesthetically unattractive as naked cable
+         2. Raceways will be loose unless they are attached to the wall
+         3. Attaching raceways to the wall might structurally alter the building (not good for renters)
+         4. Lower probability of cable tangles
+         5. The number of cables on a given route may exceed raceway capacity
+   3. [Internally wire your home for Ethernet](https://github.com/jdrch/Hardware/wiki/How-to-Get-Your-Home-Wired-For-Ethernet)
+      1. Advantages:
+         1. Some people find it the most aesthetically attractive option
+         2. More direct route to clients means shorter runs
+         3. Less cable tangles to deal with
+         4. Adds value to your home (if properly finished)
+         5. Lowest probability of cable tangles
+      2. Disadvantages 
+         1. Requires cutting into the walls of the building (not for renters)
+         2. Most expensive option, even if you DIY
+         3. Can reduce the value of your home if finished poorly (professional installation is a good investment)
+         4. Needs special plenum-rated cable for runs routed through air ducting for fire safety
+2. Use [MoCA adapters](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#moca-adapters). If you don't have a coax outlet available where you need MoCA, then either run Ethernet cable (preferred) or see one of the following options
 3. Get a better [combo router](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#routers) or AP (see previous AP link)
-4. Use Powerline adapters. See 1i) for what to do after installing them. **WARNING:** Powerline adapters are very susceptible to noise and far less reliable than MoCA and Ethernet
+4. Use Powerline adapters. **WARNING:** Powerline adapters are very susceptible to noise and far less reliable than MoCA and Ethernet
 4. **LAST RESORT:** Deploy a wireless backhaul mesh network. **WARNING:** Mesh networks come with their own issues and are [incredibly painful to troubleshoot](https://www.reddit.com/r/HomeNetworking/comments/h9r7se/ping_spikes_on_alternating_packets/)
 
 **NEVER** deploy a wireless extender; it will absolutely destroy your Wi-Fi performance.
