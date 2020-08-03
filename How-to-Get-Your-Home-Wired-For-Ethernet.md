@@ -1,4 +1,5 @@
-For most places in the US this will cost <1% of your home's value (less than 2 mortgage payments); even less if you DIY (**WARNING:** Poor DIY that damages your house's appearance can cost you more in lost resale value than a professional installation). **If you can afford your mortgage payment, you can save enough to get your house wired.**
+This involves pulling a cable through your walls from a central location where your main switch will be located to a wall outlet (called a "drop" in cabling terms) at *each* location you want Ethernet. To save money, do one drop for each room you want Ethernet in as close as possible and on the same wall (i.e. not separated from by a foot traffic pathway) as the client devices.
 
+For most places in the US this will cost <1% of your home's value (less than 2 mortgage payments); even less if you DIY (**WARNING:** Poor DIY that damages your house's appearance can cost you more in lost resale value than a professional installation). Generally speaking, **if you can afford your mortgage payment, you can save enough to get your house wired professionally.**
 
-See [here](https://www.reddit.com/r/homelab/comments/cnhszh/wiring_my_house/ewaogs3/).
+See [here](https://www.reddit.com/r/homelab/comments/cnhszh/wiring_my_house/ewaogs3/) for my own experience.
