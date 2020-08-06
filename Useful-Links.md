@@ -1101,6 +1101,10 @@ Often, the best fix for a malfunctioning task is to completely delete it, then r
 * [Place `set -u` just below the shebang of each script](https://towardsdatascience.com/this-will-make-you-a-command-line-ninja-93a51cdb16b1) (or at the top of the script if there's no shebang)
 * [Try It Online](https://tio.run/#) - Test code snippets with inputs and arguments online for many languages
 
+# Signal transmission speeds
+
+[Velocity Factors](https://en.wikipedia.org/wiki/Velocity_factor#Typical_velocity_factors) for various media
+
 # smartmontools
 
 https://www.smartmontools.org/wiki/TocDoc
