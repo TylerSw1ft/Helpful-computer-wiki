@@ -68,6 +68,7 @@ These recommendations are primarily storage oriented.
 #### Full
 
 [Fractal Define 7 XL](https://www.fractal-design.com/products/cases/define/define-7-xl/black/)
+* [HDD Drive Tray Kit – Type A](https://www.fractal-design.com/products/accessories/hdd-drive-tray-kit-type-a/black/)
 
 # Computers
 
