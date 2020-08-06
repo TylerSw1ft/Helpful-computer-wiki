@@ -156,6 +156,15 @@ you should be fine.
 
 # Networking
 
+## Accessories
+
+[Panduit](https://www.panduit.com/)
+
+## Cable
+
+* [Monoprice](https://www.monoprice.com/category/cables/bulk-networking-cables/cat8-bulk-ethernet-cables) (highest Cat cable rating)
+* [Commscope](https://www.commscope.com/) (for serious in-wall structured cabling; generally used by professional contractors)
+
 ## Modems
 
 ### Cable
