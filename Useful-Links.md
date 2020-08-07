@@ -1318,7 +1318,7 @@ Also, if router's Wi-Fi speed rating is less than AC1750, its performance in mod
 
 ### Improvement
 
-For the Ethernet, MoCA, and Powerline solutions: depending on your situation you can either connect the long range client via direct cabling or place a [switch](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#switches) + [standalone AP](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#access-points) there. You can also use a *wired backhaul* (note the emphasis) mesh network.
+As a general rule, the fewer wireless client devices you have, the better your wireless performance will be.
 
 The following are ways to improve your wireless range, from best to worst:
 
@@ -1329,29 +1329,35 @@ The following are ways to improve your wireless range, from best to worst:
          2. Same performance as other more expensive options
          3. Easy reconfiguration
          4. No alteration of building structure necessary (good for renters)
+         5. No plenum rated cable required
       2. Disadvantages:
          1. Some people find exposed Ethernet cable and even cord protectors aesthetically unattractive
-         2. Cables not in cord protectors may be tripped over
+         2. Cables not in cord protectors or in unsecured cord protectors may be tripped over
          3. Cables not in cord protectors may be damaged by foot traffic, pets, children, etc.
          4. Extreme cable lengths may be needed for some runs, especially for larger homes
          5. High probability of cable tangles
+         6. Secured non-velcro cord protectors need adhesive to stay put, which may damage flooring and carpeting
+         7. Velcro cord protectors do not work on cut-pile carpet or non-carpet surfaces
    2. Same as above, but using cable raceways to hide the cable in the seams and route it around pathways
       1. Advantages:
          1. Some people find it more attractive than running naked cable
          2. Cables less likely to be damaged than if they were naked
          3. Same performance as more expensive options
+         4. Lower probability of cable tangles
+         5. No plenum rated cable required
+         6. No structural alteration to house needed if raceways aren't attached to the wall
       1. Disadvantages:
          1. Some people find raceways just as aesthetically unattractive as naked cable
          2. Raceways will be loose unless they are attached to the wall
          3. Attaching raceways to the wall might structurally alter the building (not good for renters)
-         4. Lower probability of cable tangles
-         5. The number of cables on a given route may exceed raceway capacity
+         4. The combined thickness of cables on a given route may be too large for the raceway
    3. [Internally wire your home for Ethernet](https://github.com/jdrch/Hardware/wiki/How-to-Get-Your-Home-Wired-For-Ethernet)
       1. Advantages:
-         1. Some people find it the most aesthetically attractive option
+         1. Most aesthetically attractive option
          2. More direct route to clients means shorter runs
          3. Lowest probability of cable tangles
          4. Adds value to your home (if properly finished)
+         5. Minimizes need for cord protectors and raceways
       2. Disadvantages 
          1. Requires cutting into the walls of the building (not for renters)
          2. Most expensive option, even if you DIY
@@ -1360,7 +1366,9 @@ The following are ways to improve your wireless range, from best to worst:
 2. Use [MoCA adapters](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#moca-adapters). If you don't have an RG6 coax outlet available where you need MoCA, then either run Ethernet cable (preferred), run RG6 coax cable, or see one of the following options. Any structural cabling or electrical contractor can run RG6 cable for you
 3. Get a better [combo router](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#routers) or AP (see previous AP link)
 4. Use Powerline adapters. **WARNING:** Powerline adapters are very susceptible to noise and far less reliable than MoCA and Ethernet. If you do not have an electrical outlet nearby, then - in order of descending preference - run Ethernet cable, run coax cable, or install an electrical outlet. You will most likely need a licensed electrician for the outlet option for your own immediate safety and long term fire/electric shock safety of your home
-5. **LAST RESORT:** Deploy a wireless backhaul mesh network. **WARNING:** Mesh networks come with their own issues and are [incredibly painful to troubleshoot](https://www.reddit.com/r/HomeNetworking/comments/h9r7se/ping_spikes_on_alternating_packets/)
+5. **LAST RESORT:** Deploy a wireless backhaul (communication between the satellite and base station) mesh network. **WARNING:** Mesh networks come with their own issues and are [incredibly painful to troubleshoot](https://www.reddit.com/r/HomeNetworking/comments/h9r7se/ping_spikes_on_alternating_packets/)
+
+For the Ethernet, MoCA, and Powerline solutions: depending on your situation you can either connect the long range client via direct cabling or place a [switch](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#switches) + [standalone AP](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#access-points) there. You can also use deploy a mesh network using the Ethernet, MoCA, or Powerline cabling for backhaul.
 
 **NEVER** deploy a wireless extender; it will absolutely destroy your Wi-Fi performance.
 
