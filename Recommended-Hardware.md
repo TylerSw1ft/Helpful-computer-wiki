@@ -80,13 +80,13 @@ I do not suggest investing in anything wireless that isn't Wi-Fi 6 or higher.
 
 1. CPU: ≥ 4C/8T for mainstream use, ≥ 6C/12T for gaming
 2. RAM: Max supported RAM (by motherboard) ≥ 16 GB
-3. LAN: ≥ 1000BASE-T Ethernet
+3. LAN (mandatory for desktops, optional for laptops): ≥ 1000BASE-T Ethernet
 4. Bluetooth: ≥ 5.0
-5. Wi-Fi: ≥ 2x2 802.11ax
+5. Wi-Fi (mandatory for laptops, optional for desktops): ≥ 2x2 802.11ax
 6. USB: ≥ USB 3.1 Gen 1
 7. Storage: NVMe SSD at the least
 8. GPU/video out: HDMI ≥ 1.4 or DisplayPort ≥ 1.2
-9. Display: ≥ 1080p for < 17 in; ≥ 2160p for ≥ 17.3 in
+9. Display (AIOs & laptops only): ≥ 1080p for < 17 in; ≥ 2160p for ≥ 17.3 in
 
 #### Hardened
 
@@ -118,9 +118,9 @@ you should be fine.
 3. USB: ≥ USB 2.0
 4. Storage: Available port for SATA SSD
 5. GPU/video out: ≥ HDMI
-6. Display: ≥ 768p
-7. LAN: ≥ 1000BASE-T Ethernet
-8. Wi-Fi: ≥ 2x2 802.11ax
+6. Display (AIOs & laptops only): ≥ 768p
+7. LAN (mandatory for desktops, optional for laptops): ≥ 1000BASE-T Ethernet
+8. Wi-Fi (mandatory for laptops, optional for desktops): ≥ 2x2 802.11ax (2x2 802.11ac is acceptable but will slow down the rest of your wireless network when you eventually all other devices on the network from that spec)
 
 ## Enterprise desktop product lines
 
