@@ -1,5 +1,9 @@
 Note: I haven't used everything on this list. Some of these products are simply what I consider to be the best or best value for money in their category.
 
+# Backpacks
+
+[Kelty Redwing 44 Tactical](https://www.kelty.com/redwing-44-tactical/)
+
 # Cabinets
 
 ## Ventilation
