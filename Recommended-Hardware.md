@@ -2,7 +2,8 @@ Note: I haven't used everything on this list. Some of these products are simply 
 
 # Backpacks
 
-[Kelty Redwing 44 Tactical](https://www.kelty.com/redwing-44-tactical/)
+* [Kelty Redwing 44 Tactical](https://www.kelty.com/redwing-44-tactical/)
+* [REI Co-op Trail 40 Pack - Men's](https://www.rei.com/product/168485/rei-co-op-trail-40-pack-mens)
 
 # Cabinets
 
