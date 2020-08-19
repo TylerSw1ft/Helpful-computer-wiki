@@ -580,6 +580,10 @@ Recreate initramfs: `update-initramfs -u -k all`
 * Mark all `username`'s mail as read (delete):
   * In mail, enter `delete *`, then enter `quit`
 
+## Ubuntu
+
+[How to fix `symbol 'grub_calloc' not found` grub boot error](https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/1889509/comments/60)
+
 # Logical Volume Management
 
 [Logical Volume Management Explained on Linux](https://devconnected.com/logical-volume-management-explained-on-linux/)
