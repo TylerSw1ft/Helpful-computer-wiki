@@ -2,7 +2,7 @@ Note: I haven't used everything on this list. Some of these products are simply 
 
 # Backpacks
 
-* [Kelty Redwing 44 Tactical](https://www.kelty.com/redwing-44-tactical/)
+[Kelty Redwing 44 Tactical](https://www.kelty.com/redwing-44-tactical/)
 
 # Cabinets
 
