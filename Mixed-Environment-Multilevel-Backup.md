@@ -21,7 +21,7 @@ I run all 4 major OS paradigms (officially the excuse for this is "just in case 
 
 This requires multiple solutions, and I was getting confused keeping all of them in my head. Excel to the rescue! Here's my current blueprint and progress status (I'm continuously updating this as I tweak my plans, notation, and actually get solutions implemented):
 
-![](https://raw.githubusercontent.com/jdrch/Hardware/master/Backup%20Table%2013.10.11.1.png)
+![](https://raw.githubusercontent.com/jdrch/Hardware/master/Backup%20Table%2015.11.11.1.png)
 
 The objective here is ultimately turn the entire top table green *and keep it that way*.
 
