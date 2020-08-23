@@ -1307,6 +1307,8 @@ The above article also explains that mesh wireless systems underperform under he
 
 ### Using a Router as an AP
 
+**The below also applies to using a router as the downstream half of a wirless bridge**.
+
 Do NOT do this, because most consumer routers become unreachable from the LAN when in AP mode. As such, if you want to change *any* setting at all, you have to factory reset the router and set up AP mode from scratch with your desired setting
 
 Also, if router's Wi-Fi speed rating is less than AC1750, its performance in modern wireless environments is going to be awful.
