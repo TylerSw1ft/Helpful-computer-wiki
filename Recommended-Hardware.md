@@ -74,6 +74,10 @@ These recommendations are primarily storage oriented.
 [Fractal Define 7 XL](https://www.fractal-design.com/products/cases/define/define-7-xl/black/)
 * [HDD Tray kit – Type-B (2-pack)](https://www.fractal-design.com/products/accessories/hdd-kit-type-b-2-pack/black/)
 
+# Circuit Breaker Finders
+
+[Ideal Automatic Circuit Identifier w/Digital Receiver & GFCI Receptacle](https://www.idealind.com/shop/index.php/product-type/testers/circuit-breaker-finder/61-534.html)
+
 # Computers
 
 ## Specifications
