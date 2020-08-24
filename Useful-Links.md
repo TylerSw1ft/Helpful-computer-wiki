@@ -575,6 +575,7 @@ Recreate initramfs: `update-initramfs -u -k all`
 
 * [Basic Linux Commands](https://linuxize.com/post/basic-linux-commands/)
 * Documentation parody: [You Figure It Out](https://www.youtube.com/watch?v=ZZtu6c_c3W8)
+* [GitStats](https://phoronix.com/misc/linux-eoy2019/authors.html)
 * [How to Remove (Delete) Directory in Linux](https://linuxize.com/post/remove-directory-linux/)
 * [Linux Boot Process: What You Should Know](https://www.maketecheasier.com/linux-boot-process/)
 * Mark all `username`'s mail as read (delete):
