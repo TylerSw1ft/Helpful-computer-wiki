@@ -157,6 +157,10 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 
 [MP3Tag](https://www.mp3tag.de/en/) (Windows)
 
+# Network Discovery
+
+[Rumble Starter](https://www.rumble.run/)
+
 # Notekeepers
 
 ## Free
