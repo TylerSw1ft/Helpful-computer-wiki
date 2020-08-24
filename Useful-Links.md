@@ -346,6 +346,18 @@ Pretty much anything that requires `sudo` needs to be put here:
 * [Guide: how to discover which app is making DNS lookup requests on Windows using Sysmon & Event Viewer](https://www.reddit.com/r/pihole/comments/gytfbm/guide_how_to_discover_which_app_is_making_dns/)
 * [How to Flush and Reset the DNS Cache in Windows 10](https://www.technipages.com/flush-and-reset-the-dns-resolver-cache-using-ipconfig)
 
+# Ethernet
+
+## How to connect pre-wired Ethernet ports
+
+Situation: you find out your home has been prewired for Ethernet. How do you use the ports to connect your devices?
+
+1. Each Ethernet wall port should be fed by an Ethernet cable run from the port to a central location. That central location, which we'll call a junction box, is usually in the basement, a closet, the attic, or in the garage. **Locate the patch panel before you move in and place items that might make it harder to find**
+2. Determine which Category (5, 5E, 6, 6A, 7, 7A, or 8) of cable you have. It is usually printed along the length of the cables. This will determine your network's top (theoretical) speed. Cat 5 is good for 100 Mb/s, 5E & above for 1 Gb/s, Cat 6A & above for 10 Gb/s, and Cat 8 for 20 Gb/s
+3. If the cables aren not yet terminated (read: if they do not end in a male or female Ethernet jack), terminate them with a [patch panel](https://community.fs.com/blog/what-is-a-patch-panel-and-why-use-it.html). You can either DIY this or have a structured cabling contractor do it for you
+4. Use [cable testing tools](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#testers) to match the cables at the patch panel with other terminations in the home
+5. Connect your router (or switch downstream of your router) to the patch panel ports that have matches in the previous step
+
 # `exim4`
 
 [Instant fix for Exim4 ‘mailing to remote domains not supported’ error](https://bobcares.com/blog/exim4-mailing-to-remote-domains-not-supported/)
