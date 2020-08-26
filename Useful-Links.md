@@ -263,6 +263,10 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 
 [*A priori* avoidance of Bufferbloat (buffering-induced latency spikes) in wireless routers and access points](https://www.reddit.com/r/HomeNetworking/comments/g4upyw/how_to_determine_if_a_wireless_router_or_access/)
 
+# Cable Internet Service
+
+[Effect of poor cabling on a service loop](https://www.reddit.com/r/HomeNetworking/comments/ig0kxr/would_like_casual_advice_regarding_comcast_cable/g2u759c/)
+
 # `chkrootkit`
 
 [`INFECTED: Possible Malicious Linux.Xor.DDoS installed` false positive occurs whenever there is an executable in /tmp](https://www.linuxquestions.org/questions/slackware-14/possible-infection-chrootkit-reports-linux-xor-ddos-4175605450/#post5707549)
