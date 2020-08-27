@@ -87,6 +87,10 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
 * [How to clean up sources](https://askubuntu.com/a/762815/932418)
 * How to find a package's installed dependencies: `# apt-cache rdepends --installed PackageName`. For soft dependencies (which may or may not be already installed) use `# apt show PackageName`
 
+# Artifical Gravity
+
+[SpinCalc](https://www.artificial-gravity.com/sw/SpinCalc/)
+
 # Backup
 
 ## Strategy
