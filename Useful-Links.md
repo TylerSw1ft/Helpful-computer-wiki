@@ -89,7 +89,8 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
 
 # Artifical Gravity
 
-[SpinCalc](https://www.artificial-gravity.com/sw/SpinCalc/)
+* [SpinCalc](https://www.artificial-gravity.com/sw/SpinCalc/)
+* [Space Calc](https://space.geometrian.com/calcs/artificial-gravity.php)
 
 # Backup
 
