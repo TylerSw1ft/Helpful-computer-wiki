@@ -355,6 +355,12 @@ Pretty much anything that requires `sudo` needs to be put here:
 * [Guide: how to discover which app is making DNS lookup requests on Windows using Sysmon & Event Viewer](https://www.reddit.com/r/pihole/comments/gytfbm/guide_how_to_discover_which_app_is_making_dns/)
 * [How to Flush and Reset the DNS Cache in Windows 10](https://www.technipages.com/flush-and-reset-the-dns-resolver-cache-using-ipconfig)
 
+# Dolby 
+
+## Atmos
+
+[5.1 Virtual speaker setup](https://www.dolby.com/about/support/guide/speaker-setup-guides/5.1-virtual-speakers-setup-guide/)
+
 # Ethernet
 
 ## How to connect pre-wired Ethernet ports
