@@ -19,6 +19,8 @@
 
 ## Kernel
 
+[State of Androidon Mainline Kernels](https://linuxplumbersconf.org/event/7/contributions/785/attachments/532/946/State_of_Android_on_Mainline_Kernels__LPC.pdf)
+
 ### Updates
 
 * [Android devices do NOT receive kernel version updates (see Paragraph 3)](https://arstechnica.com/gadgets/2019/11/google-outlines-plans-for-mainline-linux-kernel-support-in-android/)
