@@ -126,7 +126,7 @@ $ balooctl disable
 
 # BIOS
 
-[OLUTION: Switch Windows 10 from RAID/IDE to AHCI operation](http://triplescomputers.com/blog/uncategorized/solution-switch-windows-10-from-raidide-to-ahci-operation/). Not that you will also have to switch to AHCI in the BIOS.
+[SOLUTION: Switch Windows 10 from RAID/IDE to AHCI operation](http://triplescomputers.com/blog/uncategorized/solution-switch-windows-10-from-raidide-to-ahci-operation/). Not that you will also have to [switch to AHCI in the BIOS](https://www.dell.com/community/XPS-Desktops/XPS-8500-boot-32GB-SSD-to-1TB-SSD-procedure/m-p/7687181/highlight/true#M53590).
 
 # BSD
 
