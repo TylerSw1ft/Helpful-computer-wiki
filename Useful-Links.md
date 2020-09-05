@@ -124,6 +124,10 @@ $ balooctl disable
 * [Writing Scripts on Linux using Bash](https://devconnected.com/writing-scripts-on-linux-using-bash/)
 * [Zsh/Bash startup files loading order (.bashrc, .zshrc etc.)](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
 
+# BIOS
+
+[OLUTION: Switch Windows 10 from RAID/IDE to AHCI operation](http://triplescomputers.com/blog/uncategorized/solution-switch-windows-10-from-raidide-to-ahci-operation/). Not that you will also have to switch to AHCI in the BIOS.
+
 # BSD
 
 * [macOS has BSD code in the kernel](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/Architecture/Architecture.html#//apple_ref/doc/uid/TP30000905-CH1g-CACDCAGC)
