@@ -93,6 +93,7 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
 
 * [SpinCalc](https://www.artificial-gravity.com/sw/SpinCalc/)
 * [Space Calc](https://space.geometrian.com/calcs/artificial-gravity.php)
+* [Targeting myostatin/activin A protects against skeletal muscle and bone loss during spaceflight](https://www.pnas.org/content/early/2020/09/01/2014716117)
 
 # Backup
 
