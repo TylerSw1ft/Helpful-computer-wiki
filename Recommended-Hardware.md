@@ -443,12 +443,19 @@ I've heard good things about Eaton, but their lineup on their product site is pr
 
 ## Sine Wave
 
+Per [Tripp-Lite](https://blog.tripplite.com/line-interactive-vs-on-line-ups-systems):
+
+> All on-line and many line-interactive UPS systems have pure sine wave output.
+
 * CyberPower
   * [PFC Sinewave](https://www.cyberpowersystems.com/products/ups/pfc-sinewave/)
   * [New SmartApp Sinewave](https://www.cyberpowersystems.com/products/ups/new-smart-app-sinewave/)
 * APC
   * [Back UPS PRO BR SineWave](https://www.apc.com/shop/us/en/categories/power/uninterruptible-power-supply-ups-/computer-and-peripheral/back-ups-pro/N-1itz49c) (search that page for "SineWave" as APC doesn't breakout sine wave UPS units)
 * [Tripp-Lite](https://www.tripplite.com/products/ups-battery-backup~11) (search that page for "Sine" as Tripp-Lite doesn't breakout sine wave units)
+* [N1C Technologies](https://lithium-ion-ups.com/product-category/120v/)
+* [EATON UPS Systems](https://eaton-upssystems.com/shop/?product_cat=single-phase&source_id=75&source_tax=product_cat&filter_topology=onlineconversion)
+* [GE UPS Systems](https://ge-upssystems.com/single-phase/)
 
 ### Automatic restart of loads after UPS shutdown
 
