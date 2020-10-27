@@ -451,6 +451,10 @@ Per an anonymous Seagate engineering source, 512e HDDs outsell 4Kn HDDs by a wid
 * [On WD Red NAS Drives](https://blog.westerndigital.com/wd-red-nas-drives/)
 * [WD Internal Client SMR HDDs](https://blog.westerndigital.com/wp-content/uploads/2020/04/2020_04_22_WD_SMR_SKUs_1Slide.pdf) (PDF warning)
 
+# HDR
+
+[VESA DisplayHDR Certified Products](https://displayhdr.org/certified-products/)
+
 # Homelab
 
 [Home Lab Beginners guide – Hardware](https://haydenjames.io/home-lab-beginners-guide-hardware/)
