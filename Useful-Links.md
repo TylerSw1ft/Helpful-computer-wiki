@@ -618,14 +618,11 @@ Recreate initramfs: `update-initramfs -u -k all`
 * [Basic Linux Commands](https://linuxize.com/post/basic-linux-commands/)
 * Documentation parody: [You Figure It Out](https://www.youtube.com/watch?v=ZZtu6c_c3W8)
 * [GitStats](https://phoronix.com/misc/linux-eoy2019/authors.html)
+* [How To Add/Remove A Software Repository In Linux?](https://www.explorelinux.com/how-to-add-remove-a-software-repository-in-linux)
 * [How to Remove (Delete) Directory in Linux](https://linuxize.com/post/remove-directory-linux/)
 * [Linux Boot Process: What You Should Know](https://www.maketecheasier.com/linux-boot-process/)
 * Mark all `username`'s mail as read (delete):
   * In mail, enter `delete *`, then enter `quit`
-
-## Ubuntu
-
-[How to fix `symbol 'grub_calloc' not found` grub boot error](https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/1889509/comments/60)
 
 # Logical Volume Management
 
@@ -1268,6 +1265,7 @@ To remove orphaned packages, use `apt autoremove`
 # Ubuntu
 
 * [How to Easily Add Users to Groups in Ubuntu](https://www.maketecheasier.com/add-remove-user-to-groups-in-ubuntu/) (See Section 2)
+* [How to fix `symbol 'grub_calloc' not found` grub boot error](https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/1889509/comments/60)
 * [How to Upgrade SSD](https://github.com/jdrch/Hardware/issues/127#issuecomment-646820009)
 * [Where the trash folder is located](https://askubuntu.com/a/102106/932418)
 
