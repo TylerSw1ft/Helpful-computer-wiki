@@ -1159,6 +1159,10 @@ https://www.smartmontools.org/wiki/TocDoc
 * [`snapper-configs` man page](http://snapper.io/manpages/snapper-configs.html)
 * [ArchWiki `snapper` documentation](https://wiki.archlinux.org/index.php/Snapper)
 
+# Sony PlayStation 5
+
+[Runs FreeBSD 12](https://www.reddit.com/r/PS5/comments/juggo1/has_anyone_done_an_nmap_scan_of_the_ps5_to/)
+
 # Speed tests
 
 ## [DSLReports.com](http://www.dslreports.com/speedtest)
