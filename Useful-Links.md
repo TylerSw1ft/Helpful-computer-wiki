@@ -57,6 +57,8 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
 
 ## Mechanical 2020 R1
 
+[Extreme Thermal Expansion Modeling in ANSYS Mechanical (Workbench)](https://www.simutechgroup.com/tips-and-tricks/fea-articles/139-extreme-thermal-expansion-modeling-in-ansys-mechanical)
+
 * How to resolve the "The shared license is current not available for this application" error
   * Click `Start`
   * Search for `Server (or Client) ANSLIC_ADMIN Utility 2020 R1`
@@ -397,6 +399,15 @@ If there is no junction box in step 1, then detach the wall plates from the wall
 
 * [Exclude a directory or multiple directories while using find command](https://www.crybit.com/exclude-directories/): `find /PathToBeSearched -options WhatYouAreLookingForIfNecessary ! -path /PathToBeExcluded1/* /PathToBeExcluded2/*`
 * To find a file with a certain name in a given path: `# find /PathToBeSearched -type -f -name filename.extension`
+
+# Finite Element Analysis (FEA)
+
+* [Accuracy and Checking in FEA, Part 1](https://www.digitalengineering247.com/article/accuracy-and-checking-in-fea-part-1)
+* [Accuracy and Checking in FEA, Part 2](https://www.digitalengineering247.com/article/accuracy-and-checking-in-fea-part-2)
+* [Free-Floating FEA Models](https://www.digitalengineering247.com/article/free-floating-fea-models)
+* [The Forbidden Simulation Riff](https://read.nxtbook.com/peerless_media/digital_engineering/march_2020/the_forbidden_simulation_riff.html) (Or how to set up fixed boundary conditions properly)
+
+
 
 # Firefox
 
@@ -1206,6 +1217,10 @@ This is the speedtest your ISP is most likely to believe. They're not entirely w
 * [A Study of SSD Reliability in Large Scale Enterprise Storage Deployments](https://www.usenix.org/system/files/fast20-maneas.pdf)
 * [The SSD Endurance Experiment: They’re all dead](https://techreport.com/review/27909/the-ssd-endurance-experiment-theyre-all-dead/)
 * [Some Observations on SSD Bit Rot](https://www.dropbox.com/sh/30hr2cd0rsu17a8/AACsr0shX7IiHjk9Ze4m8QkMa?dl=0)
+
+# Stress Analysis
+
+[Lug Analysis](https://mechanicalc.com/reference/lug-analysis#air-force-method)
 
 # Structured Cabling
 
