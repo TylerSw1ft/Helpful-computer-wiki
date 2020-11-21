@@ -385,6 +385,10 @@ Situation: you find out your home has been prewired for Ethernet. How do you use
 
 If there is no junction box in step 1, then detach the wall plates from the wall and ensure they're being fed by Ethernet cable. If they aren't, then consider [these options](https://github.com/jdrch/Hardware/wiki/Useful-Links#improvement). If they are, then your cabling may be point-to-point. Locate all cable terminations in the home and test them round-robin with the testing tools from Step 4, making notes as you go along to match ports with each other. A network connection can be established between any 2 matching port pairs. If you're unable to find any matching pairs, then your cables are *somewhere* that's not a junction box. Scour all closets, attics, cupboards, basements, sheds, and garages. Use the tracing probe to help. If you still can't find where your cables are going, contact a structure cabling contractor to see what's going on.
 
+## Cables
+
+[Troubleshooting speed differences](https://www.reddit.com/r/HomeNetworking/comments/jxr6i4/10g_15_year_old_cat5e_is_faster_than_cat6/gcylfn9/?utm_source=reddit&utm_medium=web2x&context=3)
+
 # `exim4`
 
 [Instant fix for Exim4 ‘mailing to remote domains not supported’ error](https://bobcares.com/blog/exim4-mailing-to-remote-domains-not-supported/)
