@@ -1441,7 +1441,7 @@ For the Ethernet, MoCA, and Powerline solutions: depending on your situation you
 
 ## Troubleshooting
 
-* [Access Point Placement](https://github.com/jdrch/Hardware/wiki/Useful-Links#access-point-placement)
+* [Access Point Placement](https://github.com/jdrch/Hardware/wiki/Useful-Links#placement)
 * [Troubleshooting 'slow' Wi-Fi](https://www.duckware.com/tech/wifi-in-the-us.html#troubleshooting)
 
 # Wireless Charging
