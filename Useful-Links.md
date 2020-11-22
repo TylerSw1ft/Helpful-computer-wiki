@@ -1206,6 +1206,10 @@ In the downstream direction:
 
 Quality scores are typically indicative of internet connection signal strength at your modem (from your ISP). Unfortunately, most of the time this not something you can fix on your own. Contact your ISP, describing your symptoms, and tell them your modem (or ONT, if you have a fiber connection) may be experiencing low signal strength. They may either send a tech out for an onsite visit or  otherwise fix the problem remotely via changes upstream of your modem. If you are indeed experiencing low signal strength and/or the issue is on their end most ISPs will not charge for the onsite visit.
 
+### Still having problems despite OK scores
+
+Try using a VPN with an endpoint in a major city nearby or in a major city near the datacenter of the service you're trying to use. 
+
 ## Speedtest.net
 
 Good indicator of ping; some ISPs don't like it because they think it underestimates speed.
