@@ -1214,6 +1214,8 @@ Try using a VPN with an endpoint in a major city nearby or in a major city near 
 
 Good indicator of ping; some ISPs don't like it because they think it underestimates speed.
 
+[Speedtest Global Index](https://www.speedtest.net/global-index): Good way of seeing how fast your connection is compared to the average in your country and worldwide. The further below your country or worldwide aveage your connection speed is, the more likely you are to have problems.
+
 ## Your ISP
 
 e.g. [Mediacom Cable Speed Test](http://speedtest.mediacomtoday.com/)
