@@ -44,6 +44,7 @@ MacOS is a mixed source UNIX OS.
 
 * The differences between the BSD License and the GPL, while outside the scope of this comparison, are [significant](https://fossbytes.com/open-sources-license-type/)
 * Licensing and certification fees for both [POSIX](http://get.posixcertified.ieee.org/docs/posix-fee-schedule-1.3.PDF) and [UNIX](https://www.opengroup.org/openbrand/Brandfees.htm) are expensive relative to open source OS budgets. This appears to be the main reason BSD and Linux are neither certified nor licensed
+* [Why Linux and BSD users should stop claiming BSD](https://www.reddit.com/r/unpopularopinion/comments/k2v4qo/linux_and_bsd_fans_need_to_stop_claiming_their/)
 * POSIX certification appears to involve an [audited self-test](http://get.posixcertified.ieee.org/certification_guide.html#Formal%20Testing), using a standardized testing suite supplied by the IEEE
 * UNIX certification appears to involve [approved results self-testing](https://www.opengroup.org/openbrand/docs/faq.html#general21), using [standardized testing suites](https://www.opengroup.org/openbrand/testing/prodstds.htm) supplied by The Open Group
 * The Linux Foundation [references multiple standards](https://refspecs.linuxfoundation.org/), including the Linux Standard Base and the Filesystem Hierarchy Standard. However, it does not list certified or compliant OSes. It appears the common Linux standard is the kernel itself
