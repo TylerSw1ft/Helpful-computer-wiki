@@ -237,6 +237,8 @@ The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Setti
 
 ## FuryBSD
 
+Note: FuryBSD was discontinued in Q3 2020. Because FuryBSD is just an installation image that includes an integrated DE with the FreeBSD base install, it's really just FreeBSD once the installation is complete. This means you can still use it to get to the latest FreeBSD release by installing [the latest image](https://sourceforge.net/projects/furybsd/files/12.1-2020Q3-KDE/) and then updating the OS in-place.
+
 * [Installation](https://github.com/furybsd/furybsd-handbook/wiki/Installing-FuryBSD)
 * [Live USB creation](https://github.com/furybsd/furybsd-livecd/wiki)
 
