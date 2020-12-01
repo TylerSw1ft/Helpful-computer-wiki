@@ -449,20 +449,37 @@ Per [Tripp-Lite](https://blog.tripplite.com/line-interactive-vs-on-line-ups-syst
 
 * CyberPower
   * [PFC Sinewave](https://www.cyberpowersystems.com/products/ups/pfc-sinewave/)
-  * [New SmartApp Sinewave](https://www.cyberpowersystems.com/products/ups/new-smart-app-sinewave/)
+  * [New Smart App Sinewave](https://www.cyberpowersystems.com/products/ups/new-smart-app-sinewave/)
+  * [Smart App Sinewave](https://www.cyberpowersystems.com/products/ups/smart-app-sinewave/)
+  * [Smart App Online](https://www.cyberpowersystems.com/products/ups/smart-app-online/)
 * APC
   * [Back UPS PRO BR SineWave](https://www.apc.com/shop/us/en/categories/power/uninterruptible-power-supply-ups-/computer-and-peripheral/back-ups-pro/N-1itz49c) (search that page for "SineWave" as APC doesn't breakout sine wave UPS units)
-* [Tripp-Lite](https://www.tripplite.com/products/ups-battery-backup~11) (search that page for "Sine" as Tripp-Lite doesn't breakout sine wave units)
-* [N1C Technologies](https://lithium-ion-ups.com/product-category/120v/)
-* [EATON UPS Systems](https://eaton-upssystems.com/shop/?product_cat=single-phase&source_id=75&source_tax=product_cat&filter_topology=onlineconversion)
-* [GE UPS Systems](https://ge-upssystems.com/single-phase/)
-
-### Automatic restart of loads after UPS shutdown
-
-* APC
   * Smart-UPS ([Differences between picks](https://www.apc.com/shop/us/en/tools/compare-products/g2ar2/SMT1500C|SMC1500C/450))
     * [C LCD 120V with SmartConnect](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-C-1500VA-LCD-120V-with-SmartConnect/P-SMC1500C)
     * [LCD 120V with SmartConnect](https://www.apc.com/shop/us/en/products/APC-Smart-UPS-1500VA-LCD-120V-with-SmartConnect/P-SMT1500C)
+  * [Smart-UPS Online](https://www.apc.com/shop/us/en/categories/power/uninterruptible-power-supply-ups-/network-and-server/smart-ups-on-line/N-pgx5ae)
+* [Tripp-Lite](https://www.tripplite.com/products/ups-battery-backup~11) (search that page for "sine" and "on-line" as Tripp-Lite doesn't breakout sine wave units)
+* [N1C Technologies](https://lithium-ion-ups.com/product-category/120v/)
+* [EATON UPS Systems](https://eaton-upssystems.com/shop/?product_cat=single-phase&source_id=75&source_tax=product_cat&filter_topology=onlineconversion)
+* [GE UPS Systems](https://ge-upssystems.com/single-phase/)
+* Minuteman 
+  * [EnterprisePlus LCD® Line Interactive Uninterruptible Power Supply](https://minutemanups.com/uninterruptible-power-supply/enterpriseplus-lcd-line-interactive-uninterruptible-power-supply/)
+  * [Encompass® On-line Uninterruptible Power Supply](https://minutemanups.com/uninterruptible-power-supply/encompass-on-line-uninterruptible-power-supply/)
+  * [Encompass® LCD On-line Uninterruptible Power Supply](https://minutemanups.com/uninterruptible-power-supply/encompass-lcd-on-line-uninterruptible-power-supply/)
+  * [Endeavor® LCD On-line Uninterruptible Power Supply](https://minutemanups.com/uninterruptible-power-supply/endeavor-lcd-on-line-uninterruptible-power-supply/)
+  * [Endeavor® 5-10kVA Online Uninterruptible Power Supply](https://minutemanups.com/uninterruptible-power-supply/endeavor-5-10kva-online-uninterruptible-power-supply/)
+* Vertiv 
+  * Liebert®
+    * [GXT4, 1000-3,000VA TAA](https://www.vertiv.com/en-us/products-catalog/critical-power/uninterruptible-power-supplies-ups/liebert-gxt4-1000-3000va-taa/)
+    * [GXT5 UPS, 500-3000VA 120V UPS](https://www.vertiv.com/en-us/products-catalog/critical-power/uninterruptible-power-supplies-ups/vertiv-liebert-gxt5-ups-500-3000va-120v-ups/)
+    * [PSI5 Lithium-Ion UPS](https://www.vertiv.com/en-us/products-catalog/critical-power/uninterruptible-power-supplies-ups/vertiv-liebert-psi5-lithium-ion-ups/)
+* HPE
+  * [T750 Gen5 NA/JP UPS with Management Card Slot](https://buy.hpe.com/us/en/rack-power-infrastructure/uninterruptible-power-system/uninterruptible-power-system/line-interactive-single-phase-uninterruptible-power-system/hpe-line-interactive-tower-uninterruptible-power-systems/hpe-t750-gen5-na-jp-ups-with-management-card-slot/p/Q1F47A)
+  * [T1000 Gen5 NA/JP UPS with Management Card Slot](https://buy.hpe.com/us/en/rack-power-infrastructure/uninterruptible-power-system/uninterruptible-power-system/line-interactive-single-phase-uninterruptible-power-system/hpe-line-interactive-tower-uninterruptible-power-systems/hpe-t1000-gen5-na-jp-ups-with-management-card-slot/p/Q1F49A)
+  * [T1500 Gen5 NA/JP UPS with Management Card Slot](https://buy.hpe.com/us/en/rack-power-infrastructure/uninterruptible-power-system/uninterruptible-power-system/line-interactive-single-phase-uninterruptible-power-system/hpe-line-interactive-tower-uninterruptible-power-systems/hpe-t1500-gen5-na-jp-ups-with-management-card-slot/p/Q1F51A)
+* V7
+  * [UPS 1500VA Rack Mount 2U US](https://www.v7world.com/us/ups-1500va-rack-mount-2u-us.html)
+  * [UPS 3000VA Rack Mount 2U US](https://www.v7world.com/us/ups-3000va-rack-mount-2u-us.html)
 
 # USB
 
