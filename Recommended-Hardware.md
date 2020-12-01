@@ -147,8 +147,20 @@ you should be fine.
 
 ## Monitors
 
-[BenQ Designer Monitor with 27 inch, 4K UHD, sRGB | PD2700U](https://www.benq.com/en-us/monitor/designer/pd2700u.html)
-* High end monitor users tend to be very demanding and nitpicky, so anything with a ≥ 4/5 ⭐ rating is very, very good
+[ViewSonic VP2768-4K - 27" Frameless 4K UHD sRGB ColorPro™ IPS Monitor](https://www.viewsonic.com/us/products/shop/monitors/vp2768-4k.html)
+* Pro
+  * Fully adjustable (height, pivot, swivel, tilt)
+  * 1:1 scaling option
+  * 4x 4K (2x HDMI 2.0 + 2x DP 1.2) inputs 
+  * 4 downstream USB 3.1 ports
+  * sRGB support
+  * VESA mount support
+* Con
+  * Very basic HDR support (not VESA DisplayHDR certified)
+
+## TVs 
+
+[Sony X900H Series Full Array LED 4K Ultra HD TV](https://www.sony.com/electronics/televisions/xbr-x900h-series) - The most feature-complete TV on the market, by far: Multiplatform smart OS (Android TV), FALD, VRR, 120 Hz, HDR (all major specs), ATSC 3.0, etc.
 
 # Docks
 
