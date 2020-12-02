@@ -227,10 +227,10 @@ This is the 1 Gb/s standard.
 
 ### Standalone Routers
 
-The following routers offer enterprise level performance, line speed routing, and easy OpenVPN functionality while still covering consumer features such as UPnP.
+The following routers offer enterprise level performance, line speed routing in specs, and easy OpenVPN functionality while still covering consumer features such as UPnP.
 
 * [Netgate SG-3100 & Above](https://store.netgate.com/Assets/Images/ChartsTables/Netgate_Hardware_Comparison_Chart.png)
-* [Netgear BR500 Insight Instant VPN Router](https://www.netgear.com/images/datasheet/security/BR500.pdf)
+* [Netgear BR200 Insight Instant VPN Router](https://www.netgear.com/images/datasheet/security/BR200.pdf)
 
 ## Wireless 
 
