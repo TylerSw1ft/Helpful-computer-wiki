@@ -1,5 +1,17 @@
 Note: I haven't used everything on this list. Some of these products are simply what I consider to be the best or best value for money in their category.
 
+# Adjustable Shelving
+
+[Rivet-Span® Boltless Shelving Solutions](https://www.borroughs.com/products/rivet-span-boltless-shelving-solutions/)
+* Pros
+  * Shelving is less expensive than U-Line and Storage Concepts
+  * Sturdiest design in its market segment
+  * Inexpensive shipping
+
+* Cons
+  * Relatively slow customer service replies
+  * Custom quotes required for additional deck components
+
 # Backpacks
 
 [Kelty Redwing 44 Tactical](https://www.kelty.com/redwing-44-tactical/)
@@ -503,3 +515,7 @@ Per [Tripp-Lite](https://blog.tripplite.com/line-interactive-vs-on-line-ups-syst
 
 * [Belkin RockStar™ 3.5mm Audio + USB-C™ Charge Adapter](https://www.belkin.com/us/p/P-F7U080/)
 * [Moshi USB-C Digital Audio Adapter with Charging](https://www.moshi.com/en/product/usb-c-to-digital-audio-adapter-with-charging-adapter-ipad-pro/silver)
+
+# Webcam
+
+[Logitech Brio Ultra HD Pro Webcam](https://www.logitech.com/en-us/product/brio) - This is the only widely available webcam from a reputable brand to support Windows Hello, so if you have a desktop you want foolproof, secure facial recognition access to, this is the ticket. 
