@@ -956,6 +956,10 @@ Needs the following line:
 
 [Copying NTFS permissions between folders](https://confidentialfiles.wordpress.com/2014/03/13/copying-ntfs-permissions-between-folders/)
 
+# OBS Studio
+
+[How to set up background replacement with a physical green screen and a virtual camera that can be used in other apps](https://www.reddit.com/r/streaming/comments/k9uhsu/are_there_any_virtual_camera_apps_that_explicitly/)
+
 # Open Source
 
 * [Open source licenses: What, which, and why](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license)
