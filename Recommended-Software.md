@@ -70,6 +70,8 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 # Community Chat Clients
 
 * [Discord](https://discordapp.com) (Android, iOS, Linux, macOS, web, Windows)
+* [Matrix](https://matrix.org/) - If open source, software "freedom" (note the quotes) and extreme privacy and security are your thing, this is the ticket for you
+* [Slack](https://slack.com/) (Android, iOS, macOS, web, Windows)
 * [Telegram](https://telegram.org/) (Android, FreeBSD, iOS, Linux, macOS, web, Windows)
 
 # Computational Fluid Dynamics Solvers
@@ -359,6 +361,10 @@ Due to real-time notifications and chat being 1st party app exclusive features, 
 * [MobaXterm](https://mobaxterm.mobatek.net/) (Windows)
 * [JuiceSSH](https://juicessh.com/) (Android)
 
+# Streaming
+
+[OBS Studio](https://obsproject.com) (Linux, macOS, Windows)
+
 # Structural Solvers
 
 [ANSYS Mechanical](https://www.ansys.com/products/structures/ansys-mechanical-enterprise) (Linux, Windows)
@@ -393,6 +399,14 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) (Android)
 * Calculator (Windows)
 * [Converber](http://www.xyntec.com/converber.htm) (Windows)
+
+# Videoconferencing
+
+[Zoom](https://zoom.us) (Android, iOS, macOS, Windows)
+
+# Virtual Webcam
+
+[OBS-VirtualCam](https://github.com/Fenrirthviti/obs-virtual-cam) (Windows)
 
 # Volume Spanners
 
