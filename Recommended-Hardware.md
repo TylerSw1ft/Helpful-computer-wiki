@@ -180,6 +180,10 @@ you should be fine.
 
 [StarTech HDD Docking Stations](https://www.startech.com/HDD/Docking/?filter_IOINTERFACE=USB+3.1+Gen+2)
 
+# Green Screens
+
+[Arozzi Green Screen](https://arozzi.com/product/green-screen/)
+
 # NAS
 
 ## Raspberry Pi
