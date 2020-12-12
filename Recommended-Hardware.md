@@ -67,6 +67,9 @@ These recommendations are primarily storage oriented.
   * 3U
     * [D-3100HN](http://www.istarusa.com/en/istarusa/products.php?model=D-3100HN) (10 || 4 Full Height, Full Length(?)) **(WARNING: the first three expansion slots on an ATX motherboard cannot be used if the latter is installed in this chassis)**
 
+* [Norco](http://www.norcotek.com)
+  * [RPC-4224 4U Rackmount Server Case with 24 Hot-Swappable SATA/SAS Drive Bays, MiniSAS Connector](http://www.norcotek.com/product/rpc-4224/) (24 || 7 Full Height, Full Length)
+
 * [Supermicro](https://www.supermicro.com/en/support/product-matrices)
   * [2U Super Chassis](https://www.supermicro.com/products/chassis/2U/)
     * [825](https://www.supermicro.com/products/chassis/2U/?chs=825) (8 || 7 Low Profile / 4 Full Height, Full Length / 7 Low Profile, Full Length)
