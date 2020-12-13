@@ -1397,6 +1397,10 @@ Also, if router's Wi-Fi speed rating is less than AC1750, its performance in mod
 
 [Deriving max theoretical Wi-Fi data rates from (near-)1st principles](https://www.reddit.com/r/hardware/comments/fvthqj/deriving_max_theoretical_wifi_data_rates_from/)
 
+## Physical blocking
+
+If you have multipe APs and want 1 of the APs to be *exclusively* (read: clients cannot see any other AP) acessible only within a defined space, you can [Faraday Cage](https://hackaday.com/2018/09/26/building-a-hardware-store-faraday-cage/) that space.
+
 ## Range
 
 ### Improvement
