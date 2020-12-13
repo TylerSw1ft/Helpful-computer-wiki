@@ -41,6 +41,15 @@ The following 2 items are highly rated and should be bought together:
 
 These recommendations are primarily storage oriented.
 
+## Desktop
+
+### Tower
+
+#### Full
+
+[Fractal Define 7 XL](https://www.fractal-design.com/products/cases/define/define-7-xl/black/)
+* [HDD Tray kit – Type-B (2-pack)](https://www.fractal-design.com/products/accessories/hdd-kit-type-b-2-pack/black/)
+
 ## Rackmount (# of 3.5" HDDs || Max # & type of AICs)
 
 * [Advantech](https://www.advantech.com/products/server-chassis/sub_214580ab-268b-4b3c-b02e-0c5d94d0ca14)
@@ -79,15 +88,6 @@ These recommendations are primarily storage oriented.
   * [4U SuperChassis](https://www.supermicro.com/products/chassis/4U/)
     * [846](https://www.supermicro.com/products/chassis/4U/?chs=846) (24 || 7 Full Height, Full Length)
     * [847](https://www.supermicro.com/products/chassis/4U/?chs=847) (36 / 44 / 90 || 7 Low Profile / 4 Full Height, Full Length)
-
-## Desktop
-
-### Tower
-
-#### Full
-
-[Fractal Define 7 XL](https://www.fractal-design.com/products/cases/define/define-7-xl/black/)
-* [HDD Tray kit – Type-B (2-pack)](https://www.fractal-design.com/products/accessories/hdd-kit-type-b-2-pack/black/)
 
 # Circuit Breaker Finders
 
