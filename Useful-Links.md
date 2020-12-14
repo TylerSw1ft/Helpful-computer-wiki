@@ -385,11 +385,15 @@ Situation: you find out your home has been prewired for Ethernet. How do you use
 4. Use [cable testing tools](https://github.com/jdrch/Hardware/wiki/Recommended-Hardware#testers) to match the cables at the patch panel with other terminations in the home
 5. Connect your router (or switch downstream of your router) to the patch panel ports that have matches in the previous step
 
-If there is no junction box in step 1, then detach the wall plates from the wall and ensure they're being fed by Ethernet cable. If they aren't, then consider [these options](https://github.com/jdrch/Hardware/wiki/Useful-Links#improvement). If they are, then your cabling may be point-to-point. Locate all cable terminations in the home and test them round-robin with the testing tools from Step 4, making notes as you go along to match ports with each other. A network connection can be established between any 2 matching port pairs. If you're unable to find any matching pairs, then your cables are *somewhere* that's not a junction box. Scour all closets, attics, cupboards, basements, sheds, and garages. Use the tracing probe to help. If you still can't find where your cables are going, contact a structure cabling contractor to see what's going on.
+If there is no junction box in step 1, then detach the wall plates from the wall and ensure they're being fed by Ethernet cable. If they aren't, then consider [these options](https://github.com/jdrch/Hardware/wiki/Useful-Links#improvement). If they are, then your cabling may be point-to-point. Locate all cable terminations in the home and test them round-robin with the testing tools from Step 4, making notes as you go along to match ports with each other. A network connection can be established between any 2 matching port pairs. If you're unable to find any matching pairs, then your cables are *somewhere* that's not a junction box. Scour all closets, attics, cupboards, basements, sheds, and garages. Use the tracing probe to help. If you still can't find where your cables are going, contact a structured cabling contractor to see what's going on.
 
 ## Cables
 
 [Troubleshooting speed differences](https://www.reddit.com/r/HomeNetworking/comments/jxr6i4/10g_15_year_old_cat5e_is_faster_than_cat6/gcylfn9/?utm_source=reddit&utm_medium=web2x&context=3)
+
+# Electrical Engineering
+
+[A Plug-and-Play Microgrid for Rooftop Solar](https://spectrum.ieee.org/green-tech/solar/a-plugandplay-microgrid-for-rooftop-solar) - An excellent description of the power quality/power factor issues inherent in renewable energy sources, and how to overcome them
 
 # `exim4`
 
