@@ -288,6 +288,10 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 
 [`INFECTED: Possible Malicious Linux.Xor.DDoS installed` false positive occurs whenever there is an executable in /tmp](https://www.linuxquestions.org/questions/slackware-14/possible-infection-chrootkit-reports-linux-xor-ddos-4175605450/#post5707549)
 
+# CGNAT
+
+[How to check if the ISP uses Carrier-grade NAT (CGN)](https://www.remoterig.com/wp/?page_id=3494)
+
 # CLIs vs. GUIs
 
 [Most system administrators prefer firewall GUIs over CLIs](https://www.zdnet.com/article/most-system-administrators-prefer-firewall-guis-over-clis/)
