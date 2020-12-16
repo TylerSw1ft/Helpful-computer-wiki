@@ -92,6 +92,17 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
 * [How to clean up sources](https://askubuntu.com/a/762815/932418)
 * How to find a package's installed dependencies: `# apt-cache rdepends --installed PackageName`. For soft dependencies (which may or may not be already installed) use `# apt show PackageName`
 
+# Aquantia
+
+## Drivers
+
+[Marvell acquired Aquantia in late 2019](https://www.marvell.com/company/newsroom/marvell-completes-acquisition-of-aquantia.html), and so drivers are now found at the Marvell website. Unfortunately, they haven't made it easy to find support or drivers for legacy Aquantia products. To do so:
+
+1. Find your Aquantia NIC part number
+2. Go [here](https://www.marvell.com/support/downloads.html#) and filter by your OS and the part number from 1) above
+
+You should find the driver download there. From what I've seen in various forum threads, the direct from the OEM driver update typically fixes link rate/stability issues.
+
 # Artifical Gravity
 
 * [SpinCalc](https://www.artificial-gravity.com/sw/SpinCalc/)
