@@ -20,7 +20,7 @@
 
 ## Kernel
 
-[State of Androidon Mainline Kernels](https://linuxplumbersconf.org/event/7/contributions/785/attachments/532/946/State_of_Android_on_Mainline_Kernels__LPC.pdf)
+[State of Android on Mainline Kernels](https://linuxplumbersconf.org/event/7/contributions/785/attachments/532/946/State_of_Android_on_Mainline_Kernels__LPC.pdf)
 
 ### Updates
 
