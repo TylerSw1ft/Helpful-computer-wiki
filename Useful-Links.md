@@ -690,6 +690,8 @@ If the mouse wheel scroll functionality randomly stops working, disable smooth s
 
 # Microsoft Excel
 
+[Try LAMBDA: Custom functions without code](https://insider.office.com/en-us/blog/lambda-excel-custom-functions)
+
 ## How to batch delete Excel columns whose top cell does not contain a given string?
 
 If given string = "GivenString":
