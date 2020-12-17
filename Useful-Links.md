@@ -1518,6 +1518,10 @@ For the Ethernet, MoCA, and Powerline solutions: depending on your situation you
 * `# zdb -S zpoolName`
 * Check the value of the `dedup` output. Do not enable deduplication if `dedup` ≤ 2
 
+## How to clone an all-ZFS boot HDD
+
+`# zfs send -R` replicates everything, including all properties you need to make the target system bootable
+
 # `zfsnap`
 
 * [Homepage](https://www.zfsnap.org/)
