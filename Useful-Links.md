@@ -614,7 +614,8 @@ Recreate initramfs: `update-initramfs -u -k all`
 
 # ISA
 
-[The final ISA showdown: Is ARM, x86, or MIPS intrinsically more power efficient?](https://www.extremetech.com/extreme/188396-the-final-isa-showdown-is-arm-x86-or-mips-intrinsically-more-power-efficient/3) Answer: power efficiency is largely independent of ISA
+* [New RISC-V CPU claims recordbreaking performance per watt](https://arstechnica.com/gadgets/2020/12/new-risc-v-cpu-claims-recordbreaking-performance-per-watt/) - RISC-V vs. ARM vs. x86, single benchmark
+* [The final ISA showdown: Is ARM, x86, or MIPS intrinsically more power efficient?](https://www.extremetech.com/extreme/188396-the-final-isa-showdown-is-arm-x86-or-mips-intrinsically-more-power-efficient/3) Answer: power efficiency is largely independent of ISA
 
 # Jupyter
 
