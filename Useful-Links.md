@@ -1158,6 +1158,10 @@ If you get the `already mounted or mount point busy.` error:
 
 [ATA S.M.A.R.T. attributes](https://en.wikipedia.org/wiki/S.M.A.R.T.#ATA_S.M.A.R.T._attributes)
 
+# Sales/Shipments
+
+[2020-09-01 - IDC - Desktop vs. Detachable Tablet vs. Notebook vs. Slate Tablet vs. Workstation](https://www.businesswire.com/news/home/20200901005988/en/IDC-Forecasts-PC-and-Tablet-Shipments-to-Grow-3.3-in-2020-Before-Resuming-Their-Long-Term-Decline-in-2021)
+
 # Scheduled Tasks
 
 * How to fix `Task Start Failed` & `Launch Failure` errors
