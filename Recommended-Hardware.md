@@ -47,8 +47,10 @@ These recommendations are primarily storage oriented.
 
 #### Full
 
-[Fractal Define 7 XL](https://www.fractal-design.com/products/cases/define/define-7-xl/black/)
-* [HDD Tray kit – Type-B (2-pack)](https://www.fractal-design.com/products/accessories/hdd-kit-type-b-2-pack/black/)
+* Fractal 
+  * [Define 7 XL](https://www.fractal-design.com/products/cases/define/define-7-xl/black/)
+  * [Meshify 2 XL](https://www.fractal-design.com/products/cases/meshify/?size=full-size) (same size as the Define 7 XL, minus the external 5.25 in bays)
+    * [HDD Tray kit – Type-B (2-pack)](https://www.fractal-design.com/products/accessories/hdd-kit-type-b-2-pack/black/)
 
 ## Rackmount (# of 3.5" HDDs || Max # & type of AICs)
 
@@ -157,6 +159,15 @@ you should be fine.
    * Elite
    * Pro
    * Z
+
+# Desks & Tables
+
+For value, nothing beats a simple folding table. However, if you're looking for something a bit more permanent and classy:
+
+* Bush Business Furniture
+  * [400 Series 60W x 30D Table Desk with Metal Legs](https://www.bushbusinessfurniture.com/OurFurniture/ShopbyCollection/BushBusinessFurnitureCollections/400Series.aspx?pf=447&ProductSKU=400S144WH&Finish=White) 
+  * [400 Series 72W x 30D Table Desk with Metal Legs](https://www.bushbusinessfurniture.com/OurFurniture/ShopbyCollection/BushBusinessFurnitureCollections/400Series.aspx?pf=447&ProductSKU=400S145WH&Finish=White)
+* [Correll Econoline Melamine Computer & Training Tables — Adjustable Height](https://correllinc.com/products/adjustable-height-melamine-top-computer-training-tables?variant=32329793011844)
 
 # Displays
 
