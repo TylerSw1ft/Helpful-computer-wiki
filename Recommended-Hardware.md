@@ -198,6 +198,20 @@ For value, nothing beats a simple folding table. However, if you're looking for 
 
 [Arozzi Green Screen](https://arozzi.com/product/green-screen/)
 
+# Laptop Stands
+
+[Uncaged Ergonomics WorkEZ Executive](https://uncagedergonomics.com/workez-executive/)
+
+# Monitor Mounts
+
+## Arm
+
+[Mount-It Single Monitor Desk Mount | MI-2751](https://mount-it.com/collections/monitor-mounts/products/mount-it-ultrawide-single-monitor-desk-mount-mi-709)
+
+## Straight
+
+[Mount-It Ultra-Wide Single Monitor Desk Mount | MI-709](https://mount-it.com/collections/monitor-mounts/products/mount-it-ultrawide-single-monitor-desk-mount-mi-709)
+
 # NAS
 
 ## Raspberry Pi
