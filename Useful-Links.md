@@ -1519,6 +1519,7 @@ For the Ethernet, MoCA, and Powerline solutions: depending on your situation you
 * [Quickstart (See Steps 3 to 6)](https://github.com/jdrch/Hardware/wiki/How-to-Set-Up-Regular,-Recurring,-Incremental,-Online-Filesystem-Backups-using-Restic)
 * [RAIDZ*x* vs. mirroring resilience to *F* drive destruction](https://github.com/jdrch/Hardware/wiki/How-to-Calculate-the-Odds-of-Physical-Attack-Data-Loss-for-a-ZFS-Array)
 * [When To (and Not To) Use RAID-Z](https://blogs.oracle.com/roch/when-to-and-not-to-use-raid-z)
+* [Why OpenZFS on Linux may be incompatible with Solaris ZFS](https://zfsonlinux.topicbox.com/groups/zfs-discuss/T1c57a2d200afe924-M7e33781f8e51bd16a68f737a/openzfs-renders-zfs-disks-unusable-why)
 * [ZFS 101—Understanding ZFS storage and performance](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
 * [ZFS versus RAID: Eight Ironwolf disks, two filesystems, one winner](https://arstechnica.com/gadgets/2020/05/zfs-versus-raid-eight-ironwolf-disks-two-filesystems-one-winner/)
 
