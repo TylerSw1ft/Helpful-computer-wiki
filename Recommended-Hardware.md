@@ -7,7 +7,6 @@ Note: I haven't used everything on this list. Some of these products are simply 
     * Shelving is less expensive than U-Line and Storage Concepts
     * Sturdiest design in its market segment
     * Inexpensive shipping for main product
-
   * Cons
     * Relatively slow customer service replies
     * Custom quotes required for additional deck components
