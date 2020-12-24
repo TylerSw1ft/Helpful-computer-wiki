@@ -176,7 +176,6 @@ For value, nothing beats a simple folding table. However, if you're looking for 
 * Bush Business Furniture
   * [400 Series 60W x 30D Table Desk with Metal Legs](https://www.bushbusinessfurniture.com/OurFurniture/ShopbyCollection/BushBusinessFurnitureCollections/400Series.aspx?pf=447&ProductSKU=400S144WH&Finish=White) 
   * [400 Series 72W x 30D Table Desk with Metal Legs](https://www.bushbusinessfurniture.com/OurFurniture/ShopbyCollection/BushBusinessFurnitureCollections/400Series.aspx?pf=447&ProductSKU=400S145WH&Finish=White)
-* [Correll Econoline Melamine Computer & Training Tables — Adjustable Height](https://correllinc.com/products/adjustable-height-melamine-top-computer-training-tables?variant=32329793011844)
 
 # Displays
 
