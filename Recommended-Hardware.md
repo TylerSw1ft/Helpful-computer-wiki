@@ -210,6 +210,10 @@ For value, nothing beats a simple folding table. However, if you're looking for 
 
 [Uncaged Ergonomics WorkEZ Executive](https://uncagedergonomics.com/workez-executive/)
 
+# Microphones
+
+[Shure MV7 Podcast Microphone](https://www.shure.com/en-US/products/microphones/mv7)
+
 # Monitor Mounts
 
 ## Arm
