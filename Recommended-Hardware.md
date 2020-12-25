@@ -366,6 +366,14 @@ For some reason, it's become incredibly difficult to find highly rated (â‰¥ 4 â­
 
 [Xerox Duplex Combo Scanner](https://www.xeroxscanners.com/en/us/products/item.asp?PN=XDCS)
 
+# Shims
+
+These are useful for [installing VESA mounts on awkward surfaces, such as folding tables](https://www.reddit.com/r/TechnologyProTips/comments/kjs54j/tpt_if_youre_having_trouble_cclamping_a_vesa/).
+
+[Nelson Wood Shims DIY Bundle](https://www.shims.com/products/8-inch-diy-shim/)
+
+Be careful with composite shims as they're often too slick to hold together in a stack without slipping out.
+
 # Storage
 
 ## Adapters
