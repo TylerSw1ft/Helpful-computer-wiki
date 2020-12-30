@@ -249,6 +249,10 @@ For value, nothing beats a simple folding table. However, if you're looking for 
 
 [Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/) ​
 
+## Patch Panels
+
+[Panduit Modular Patch Panels](https://www.panduit.com/en/products/copper-systems/patch-panels-accessories/modular-patch-panels.html)
+
 ## Switches
 
 ### Unmanaged
