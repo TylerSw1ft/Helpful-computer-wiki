@@ -298,9 +298,13 @@ The following routers offer enterprise level performance, line speed routing in 
 
 ### Access points
 
+The following AP is coming soon and may replace all the recommendations below:
+
+[Ubiquiti UniFi 6 Long-Range Access Point](http://dl-origin.ubnt.com/ds/u6-lr_ds.pdf)
+
 #### High performance
 
-If you don't absolutely need an AP right now, wait for Ubiquity UniFi Wi-Fi 6 APs ***[with OFDMA enabled](https://www.smallnetbuilder.com/wireless/wireless-features/33221-what-s-missing-from-your-wi-fi-6-router-ofdma?start=0)*** before buying. Also, bear in mind you'll need UniFi Controller for all of the following. If you want to run Controller on standalone hardware, I recommend ~~Debian 10 on a [used PC](https://github.com/jdrch/Hardware#what-are-the-minimum-specs-you-recommend-for-any-used-pc) or~~Raspbian on a Raspberry Pi 4. 
+You'll need UniFi Controller for all of the following. If you want to run Controller on standalone hardware, I recommend ~~Debian 10 on a [used PC](https://github.com/jdrch/Hardware#what-are-the-minimum-specs-you-recommend-for-any-used-pc) or~~Raspbian on a Raspberry Pi 4. 
 
 ##### 802.11ac
 
