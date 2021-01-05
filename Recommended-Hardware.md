@@ -230,7 +230,7 @@ Bosch [GLM 50 C](https://www.boschtools.com/us/en/boschtools-ocs/laser-measures-
 
 ## Arm
 
-[Mount-It Single Monitor Desk Mount | MI-2751](https://mount-it.com/collections/monitor-mounts/products/mount-it-ultrawide-single-monitor-desk-mount-mi-709)
+[Mount-It Single Monitor Desk Mount | MI-2751](https://mount-it.com/collections/monitor-mounts/products/mount-it-universal-single-monitor-desk-mount-mi-2751)
 
 ## Straight
 
