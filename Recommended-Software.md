@@ -165,13 +165,7 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 
 # Notekeepers
 
-## Free
-
-* [Microsoft OneNote](https://www.onenote.com) (Android, iOS, macOS, web, Windows)
-
-## Paid
-
-* [Evernote](https://evernote.com/) (Android, iOS, macOS, web, Windows)
+[Microsoft OneNote](https://www.onenote.com) (Android, iOS, macOS, web, Windows)
 
 # Notification Mirrors
 
@@ -337,7 +331,7 @@ OpenIndiana Hipster GUI
 
 ## Desktop
 
-* [Reddit Enhancement Suite](https://redditenhancementsuite.com/) (Edge, Chrome, Firefox, Opera)
+[Reddit Enhancement Suite](https://redditenhancementsuite.com/) (Edge, Chrome, Firefox, Opera)
 
 ## Mobile
 
