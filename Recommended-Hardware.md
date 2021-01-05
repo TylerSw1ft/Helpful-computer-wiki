@@ -196,7 +196,13 @@ For value, nothing beats a simple folding table. However, if you're looking for 
 
 ## TVs 
 
+### Premium
+
 [Sony X900H Series Full Array LED 4K Ultra HD TV](https://www.sony.com/electronics/televisions/xbr-x900h-series) - The most feature-complete TV on the market, by far: Multiplatform smart OS (Android TV), FALD, VRR, 120 Hz, HDR (all major specs), ATSC 3.0, etc.
+
+### Value
+
+[TCL 55" Class 6-Series 4K QLED Dolby Vision HDR Smart Roku TV - 55R635](https://www.tcl.com/us/en/products/home-theater/6-series/55-class-6-series-4k-qled-hdr-smart-roku-tv-55r635)
 
 # Docks
 
@@ -211,6 +217,10 @@ For value, nothing beats a simple folding table. However, if you're looking for 
 # Laptop Stands
 
 [Uncaged Ergonomics WorkEZ Executive](https://uncagedergonomics.com/workez-executive/)
+
+# Laser Distance Measures
+
+Bosch [GLM 50 C](https://www.boschtools.com/us/en/boschtools-ocs/laser-measures-glm-50-c-128522-p/) or [GLM 50 CX](https://www.boschtools.com/us/en/boschtools-ocs/laser-measures-glm-50-cx-128524-p/) - Despite the different names, [these are the same product](https://www.amazon.com/ask/questions/Tx130NLKLB05HWY)
 
 # Microphones
 
@@ -519,9 +529,9 @@ Note: all LTO-8 drives need SAS at the minimum and do not support SATA.
 
 [Roku Ultra](https://www.roku.com/products/roku-ultra)
 
-# TV
+# Toolkits
 
-[TCL Class 6-Series 4K QLED Dolby Vision HDR Roku Smart TV](https://www.tcl.com/us/en/products/home-theater/6-series/tcl-55-class-6-series-4k-qled-hdr-roku-smart-tv-55r625)
+[iFixit Pro Tech Toolkit](https://www.ifixit.com/Store/Tools/Pro-Tech-Toolkit/IF145-307)
 
 # UPS
 
