@@ -299,6 +299,10 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 
 [Effect of poor cabling on a service loop](https://www.reddit.com/r/HomeNetworking/comments/ig0kxr/would_like_casual_advice_regarding_comcast_cable/g2u759c/)
 
+# Car Sales Numbers
+
+[GoodCarBadCar](https://www.goodcarbadcar.net/)
+
 # `chkrootkit`
 
 [`INFECTED: Possible Malicious Linux.Xor.DDoS installed` false positive occurs whenever there is an executable in /tmp](https://www.linuxquestions.org/questions/slackware-14/possible-infection-chrootkit-reports-linux-xor-ddos-4175605450/#post5707549)
