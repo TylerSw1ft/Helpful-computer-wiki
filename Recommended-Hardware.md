@@ -384,6 +384,10 @@ For some reason, it's become incredibly difficult to find highly rated (â‰¥ 4 â­
 
 [Xerox Duplex Combo Scanner](https://www.xeroxscanners.com/en/us/products/item.asp?PN=XDCS)
 
+# Scrapers
+
+[Anvil 4 in. Glass and Tile Scraper](https://www.homedepot.com/p/Anvil-4-in-Glass-and-Tile-Scraper-GTS-ANV/309996591)
+
 # Shims
 
 These are useful for [installing VESA mounts on awkward surfaces, such as folding tables](https://www.reddit.com/r/TechnologyProTips/comments/kjs54j/tpt_if_youre_having_trouble_cclamping_a_vesa/).
