@@ -151,6 +151,16 @@ $ balooctl disable
 
 [SOLUTION: Switch Windows 10 from RAID/IDE to AHCI operation](http://triplescomputers.com/blog/uncategorized/solution-switch-windows-10-from-raidide-to-ahci-operation/). Not that you will also have to [switch to AHCI in the BIOS](https://www.dell.com/community/XPS-Desktops/XPS-8500-boot-32GB-SSD-to-1TB-SSD-procedure/m-p/7687181/highlight/true#M53590).
 
+# Brother
+
+## [MFC-L3770CDW](https://www.brother-usa.com/products/mfcl3770cdw)
+
+* [Support](https://www.brother-usa.com/support/mfcl3770cdw)
+  * [Downloads (Windows 10 64-bit)](https://support.brother.com/g/b/downloadlist.aspx?c=us&lang=en&prod=mfcl3770cdw_us_eu_as&os=10013)
+  * [Manuals](https://support.brother.com/g/b/manualtop.aspx?c=us&lang=en&prod=mfcl3770cdw_us_eu_as)
+    * [Online User's Guide](https://support.brother.com/g/s/id/htmldoc/mfc/cv_hll3290cdw/use/manual/index.html)
+
+
 # BSD
 
 * [macOS has BSD code in the kernel](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/Architecture/Architecture.html#//apple_ref/doc/uid/TP30000905-CH1g-CACDCAGC)
