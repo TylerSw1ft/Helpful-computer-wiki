@@ -411,6 +411,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [5.1 Virtual speaker setup](https://www.dolby.com/about/support/guide/speaker-setup-guides/5.1-virtual-speakers-setup-guide/)
 
+# Electrical Engineering
+
+[A Plug-and-Play Microgrid for Rooftop Solar](https://spectrum.ieee.org/green-tech/solar/a-plugandplay-microgrid-for-rooftop-solar) - An excellent description of the power quality/power factor issues inherent in renewable energy sources, and how to overcome them
+
 # Ethernet
 
 ## How to connect pre-wired Ethernet ports
@@ -429,9 +433,9 @@ If there is no junction box in step 1, then detach the wall plates from the wall
 
 [Troubleshooting speed differences](https://www.reddit.com/r/HomeNetworking/comments/jxr6i4/10g_15_year_old_cat5e_is_faster_than_cat6/gcylfn9/?utm_source=reddit&utm_medium=web2x&context=3)
 
-# Electrical Engineering
+# Evernote
 
-[A Plug-and-Play Microgrid for Rooftop Solar](https://spectrum.ieee.org/green-tech/solar/a-plugandplay-microgrid-for-rooftop-solar) - An excellent description of the power quality/power factor issues inherent in renewable energy sources, and how to overcome them
+[Move from Evernote to OneNote](https://discussion.evernote.com/forums/topic/123650-move-from-evernote-to-onenote/) - The official Microsoft guide for this omits a lot of important details. This will fill you in. 
 
 # `exim4`
 
