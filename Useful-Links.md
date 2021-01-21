@@ -111,6 +111,10 @@ Where `X.Y` is the LineageOS version you’re using, e.g. 16.0. You should see a
 
 You should find the driver download there. From what I've seen in various forum threads, the direct from the OEM driver update typically fixes link rate/stability issues.
 
+# ARM
+
+[How to ensure your board can boot generic kernels](https://marcin.juszkiewicz.com.pl/2021/01/20/standards-are-boring/)
+
 # Artifical Gravity
 
 * [SpinCalc](https://www.artificial-gravity.com/sw/SpinCalc/)
