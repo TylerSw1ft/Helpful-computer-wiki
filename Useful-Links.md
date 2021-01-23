@@ -463,12 +463,11 @@ If there is no junction box in step 1, then detach the wall plates from the wall
 * [Free-Floating FEA Models](https://www.digitalengineering247.com/article/free-floating-fea-models)
 * [The Forbidden Simulation Riff](https://read.nxtbook.com/peerless_media/digital_engineering/march_2020/the_forbidden_simulation_riff.html) (Or how to set up fixed boundary conditions properly)
 
-
-
 # Firefox
 
-* [How To Install The Latest Firefox (Non-ESR) On Debian 10 Buster (Stable) Or Bullseye (Testing)](https://www.linuxuprising.com/2019/12/how-to-install-latest-firefox-non-esr.html?m=1)
 * [Firefox uses more RAM on FreeBSD than Linux because mozjemalloc (a heavily modified version of jemalloc) hasn't been ported to FreeBSD](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=244879#c1)
+* [How To Install The Latest Firefox (Non-ESR) On Debian 10 Buster (Stable) Or Bullseye (Testing)](https://www.linuxuprising.com/2019/12/how-to-install-latest-firefox-non-esr.html?m=1)
+* [Lastest Nightly builds](http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central/)
 
 # fish shell
 
@@ -1412,6 +1411,10 @@ To remove orphaned packages, use `apt autoremove`
 * Press `Esc`
 * Type `:syntax on`
 * Press `Enter`
+
+# VLC
+
+[Builds](http://download.videolan.org/pub/videolan/vlc/)
 
 # Volume Shadow Copy
 
