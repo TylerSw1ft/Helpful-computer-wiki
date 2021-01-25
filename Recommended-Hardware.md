@@ -396,6 +396,10 @@ These are useful for [installing VESA mounts on awkward surfaces, such as foldin
 
 Be careful with composite shims as they're often too slick to hold together in a stack without slipping out.
 
+# Snow Shovels
+
+[Suncast 18" Steel Core® Ergonomic Combo](https://www.suncast.com/18-steel-corer-ergonomic-combo.html)
+
 # Storage
 
 ## Adapters
