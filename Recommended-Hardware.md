@@ -171,6 +171,10 @@ you should be fine.
    * Pro
    * Z
 
+# CPAP
+
+[Jobar CPAP Hose Holder](https://www.jobar.com/shop/cpap-hose-holder.html)
+
 # Desks & Tables
 
 For value, nothing beats a simple folding table. However, if you're looking for something a bit more permanent and classy:
