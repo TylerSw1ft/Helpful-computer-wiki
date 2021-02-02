@@ -171,6 +171,10 @@ you should be fine.
    * Pro
    * Z
 
+## Workstations
+
+[Lenovo ThinkStation P620](https://www.lenovo.com/us/en/think-workstations/thinkstation-p-series-towers/ThinkStation-P620/p/33TS3TPP620)
+
 # CPAP
 
 [Jobar CPAP Hose Holder](https://www.jobar.com/shop/cpap-hose-holder.html)
@@ -187,16 +191,10 @@ For value, nothing beats a simple folding table. However, if you're looking for 
 
 ## Monitors
 
-[ViewSonic VP2768-4K - 27" Frameless 4K UHD sRGB ColorPro™ IPS Monitor](https://www.viewsonic.com/us/products/shop/monitors/vp2768-4k.html)
-* Pro
-  * Fully adjustable (height, pivot, swivel, tilt)
-  * 1:1 scaling option
-  * 4x 4K (2x HDMI 2.0 + 2x DP 1.2) inputs 
-  * 4 downstream USB 3.1 ports
-  * sRGB support
-  * VESA mount support
-* Con
-  * Very basic HDR support (not VESA DisplayHDR certified)
+[ViewSonic VP2785-4K - 27" 4K UHD AdobeRGB ColorPro™ IPS Monitor w/ USB C & HDR10](https://www.viewsonic.com/us/products/shop/monitors/vp2785-4k.html)
+
+If you don't need 1:1 display mode or controls on the front bezel, get the [VP2768-4K](https://www.viewsonic.com/us/products/shop/monitors/vp2768-4k.html) instead.
+  
 
 ## TVs 
 
