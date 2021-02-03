@@ -1095,6 +1095,8 @@ Run:
 
 # PSUs
 
+[What is PSU Efficiency and Why is it Important?](https://www.velocitymicro.com/blog/what-is-psu-efficiency-and-why-is-it-important/)
+
 ## ATX12VO Standard
 
 [Single Rail Power Supply Desktop Platform Form Factors ATX12VO (12 V Only)](https://www.intel.com/content/dam/www/public/us/en/documents/guides/single-rail-power-supply-platform-atx12vo-design-guide.pdf)
