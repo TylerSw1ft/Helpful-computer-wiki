@@ -481,6 +481,10 @@ If there is no junction box in step 1, then detach the wall plates from the wall
 
 [Creating releases](https://help.github.com/en/articles/creating-releases)
 
+# Google Messages
+
+[Messages Community](https://support.google.com/messages/community)
+
 # GParted
 
 [Manual](https://gparted.org/display-doc.php?name=help-manual)
