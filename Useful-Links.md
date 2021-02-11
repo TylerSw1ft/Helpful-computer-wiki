@@ -1480,12 +1480,12 @@ As a general rule, the fewer wireless client devices you have, the better your w
 The following are ways to improve your wireless range, from best to worst:
 
 1. Run Ethernet (copper or fiber) cable. Fiber is has a faster theoretical max speed, but is more brittle, requires more expensive gear, has very little client device support, cannot carry power, and has fewer capable installers. Copper cable generally has lower theoretical speeds, but has none of fiber's disadvantages. Generally speaking, unless you need network speeds in excess of 10 Gb/s, stick to Cat 6A or Cat 8 copper cable. **DO NOT USE Cat 7 AS IT IS NOT A TIA STANDARD**. There are several ways to do run cable, all of which can be combined with each other:
-   1. Run naked cable along the walls (in the seams between the wall and floor, floor and ceiling, or multiple walls). Use cord protectors to get the cable across foot traffic pathways, such as across doorways
+   1. Run naked cable along the walls (in the seams between the wall and floor, floor and ceiling, or multiple walls). Use cord protectors to get the cable across foot traffic pathways, such as across doorways. **OPTIONAL**: use cable stables to attach the cable to the wall
       1. Advantages:
          1. Least expensive option
          2. Same performance as other more expensive options
          3. Easy reconfiguration
-         4. No alteration of building structure necessary (good for renters)
+         4. If no cable staples are used, no alteration of building structure necessary (good for renters)
          5. No plenum rated cable required
       2. Disadvantages:
          1. Some people find exposed Ethernet cable and even cord protectors aesthetically unattractive
@@ -1495,19 +1495,21 @@ The following are ways to improve your wireless range, from best to worst:
          5. High probability of cable tangles
          6. Secured non-velcro cord protectors need adhesive to stay put, which may damage flooring and carpeting
          7. Velcro cord protectors do not work on cut-pile carpet or non-carpet surfaces
-   2. Same as above, but using cable raceways to hide the cable in the seams and route it around pathways
+         8. Wall alteration if cable staples are used
+   2. Same as above, but adding cable raceways to hide the cable in the seams and route it around pathways
       1. Advantages:
          1. Some people find it more attractive than running naked cable
          2. Cables less likely to be damaged than if they were naked
          3. Same performance as more expensive options
          4. Lower probability of cable tangles
          5. No plenum rated cable required
-         6. No structural alteration to house needed if raceways aren't attached to the wall
+         6. If no cable stables are used, no structural alteration to house needed if raceways aren't attached to the wall
       1. Disadvantages:
          1. Some people find raceways just as aesthetically unattractive as naked cable
          2. Raceways will be loose unless they are attached to the wall
          3. Attaching raceways to the wall might structurally alter the building (not good for renters)
          4. The combined thickness of cables on a given route may be too large for the raceway
+         5. Wall alteration if cable staples are used
    3. [Internally wire your home for Ethernet](https://github.com/jdrch/Hardware/wiki/How-to-Get-Your-Home-Wired-For-Ethernet)
       1. Advantages:
          1. Most aesthetically attractive option
