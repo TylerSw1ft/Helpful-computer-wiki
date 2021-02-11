@@ -1432,6 +1432,7 @@ To remove orphaned packages, use `apt autoremove`
 # Wi-Fi
 
 * [Advanced Intel® Wireless Adapter Settings](https://www.intel.com/content/www/us/en/support/articles/000005585/network-and-i-o/wireless-networking.html)
+* [The difference between a mesh, multiple APs, repeaters, and extenders](https://www.reddit.com/r/HomeNetworking/comments/jy1r1n/dlink_exo_mesh_system_or_two_routers_in_bridge/gmyk5w4/)
 * [Mesh networking troubleshooting example](https://www.reddit.com/r/HomeNetworking/comments/h9r7se/ping_spikes_on_alternating_packets/)
 * [Official IEEE Working Group Project Timelines](http://www.ieee802.org/11/Reports/802.11_Timelines.htm)
    * See the 802.11ax line for when the standard is likely to be ratified. It isn't as of yet
