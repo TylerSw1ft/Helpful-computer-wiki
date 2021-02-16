@@ -496,6 +496,8 @@ How to tell if an HDD is SMR:
 * Windows: `Trim` should be listed under `Features` for the HDD in CrystalDiskInfo
 * Linux: `TRIM` should be listed under `Commands/features:` in the output of `# hdparm -I /dev/DiskName`
 
+How to calculate HDD max power consumption: multiply the VDC value by the max A value in the spec sheet.
+
 ## 4Kn vs. 512e
 
 4Kn and 512e drives have the same performance except for when they are used with 512n apps and OSes. In that case, 4Kn HDDs have no support, while 512e HDDs suffer a read-modify-write performance penalty *relative to 512n HDDs*.
