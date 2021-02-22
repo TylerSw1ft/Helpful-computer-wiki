@@ -496,7 +496,28 @@ How to tell if an HDD is SMR:
 * Windows: `Trim` should be listed under `Features` for the HDD in CrystalDiskInfo
 * Linux: `TRIM` should be listed under `Commands/features:` in the output of `# hdparm -I /dev/DiskName`
 
-How to calculate HDD max power consumption: multiply the VDC value by the max A value in the spec sheet.
+## Power consumption
+
+How to calculate HDD max power consumption (you will need the HDD user manual to find the needed input data): 
+
+### Method 1
+
+This is the easiest method, but it is conservative and therefore may unrealistically overestimate power usage by adding the max powers for each voltage under different conditions that are unlikely to occur simultanously:
+
+1. Find the input voltages (usually 5 VDC and 12 VDC)
+2. Multiply each input voltage by its maximum corresponding current value
+3. Sum all the results of 2) above. 
+
+Example (p. 12):
+
+Max Power = (5 VDC *1.22 A) + (12 VDC *2.88 A) = 40.66 W
+
+## Method 2
+
+1. Same as above
+2. Multiple each input voltage by each listed corresponding current
+3. Sum the results of the above *per condition*. Using the previous example, sum the 5 VDC and 12 VDC powers for the `Standby` line in the table *separately* from the other lines
+4. Pick the highest result from Step 3
 
 ## 4Kn vs. 512e
 
