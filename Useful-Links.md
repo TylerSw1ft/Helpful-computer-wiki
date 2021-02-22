@@ -512,7 +512,7 @@ Example (p. 12):
 
 Max Power = (5 VDC *1.22 A) + (12 VDC *2.88 A) = 40.66 W
 
-## Method 2
+### Method 2
 
 1. Same as above
 2. Multiple each input voltage by each listed corresponding current
