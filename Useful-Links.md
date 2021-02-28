@@ -184,7 +184,7 @@ $ balooctl disable
   4. If looking for failed or skipped packages, check those headings in the page that follows
   5. If the desired package isn't there, click `previous build` and repeat iv)
 * [How to switch packages from `quarterly` to `latest`](https://www.reddit.com/r/freebsd/comments/fg7598/pkg_removes_firefox_on_update_help_freebsd/fk6s2mo/)
-* [Instant Workstation](https://euroquis.nl/freebsd/2019/08/12/instant-workstation.html): A script that automagically sets up KDE on a FreeBSD installation
+* [Instant Workstation](https://euroquis.nl/freebsd/2020/09/17/instant-workstation.html): A [script](https://github.com/adriaandegroot/FreeBSDTools/blob/main/bin/instant-workstation) that automagically sets up KDE on a FreeBSD installation
 * [Quarterly and Latest Ports Branches](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/pkgng-intro.html) (See Section 4.4.2)
 * [Shells](https://www.freebsd.org/doc/handbook/shells.html)
 * [Technical reasons to choose FreeBSD over GNU/Linux](https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html)
