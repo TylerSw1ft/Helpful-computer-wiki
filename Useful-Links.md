@@ -491,6 +491,21 @@ If there is no junction box in step 1, then detach the wall plates from the wall
 
 # HDDs
 
+## 4Kn vs. 512e
+
+4Kn and 512e drives have the same performance except for when they are used with 512n apps and OSes. In that case, 4Kn HDDs have no support, while 512e HDDs suffer a read-modify-write performance penalty *relative to 512n HDDs*.
+
+In other words, a 512e HDD is a 4Kn HDD with backwards compatibility with 512n apps and OSes. 
+
+Per an anonymous Seagate engineering source, 512e HDDs outsell 4Kn HDDs by a wide margin among datacenter and hyperscale customers.
+
+* [4k vs. 512](https://community.spiceworks.com/topic/post/6093125) ([Further discussion](https://www.techpowerup.com/forums/threads/hdd-bytes-per-sector-types-512e-vs-512n-vs-4kn.254422/))
+* [512e cannot be converted to 4Kn for most HDDs](https://github.com/Seagate/ToolBin/issues/9#issuecomment-636327217)
+* [Advanced format (4K) disk compatibility update](https://docs.microsoft.com/en-us/windows/win32/w8cookbook/advanced-format--4k--disk-compatibility-update)
+* [Don't Know What 4K Hard Drive Is? Look Here!](https://www.partitionwizard.com/partitionmagic/what-is-4k-hard-drive.html)
+* [FastFormat Technology Helps Future-Proof Systems](https://www.seagate.com/files/www-content/product-content/enterprise-performance-savvio-fam/enterprise-performance-15k-hdd/_cross-product/_shared/doc/seagate-fast-format-white-paper-04tp699-1-1701us.pdf) - Only the Exos X14 and above support this
+* [Where to find FastFormat](https://github.com/Seagate/ToolBin/issues/5)
+
 ## How to tell if an HDD is SMR 
 
 * Windows: `Trim` should be listed under `Features` for the HDD in CrystalDiskInfo
@@ -518,21 +533,6 @@ This is the easiest method, but it is conservative and therefore may unrealistic
 2. Multiple each input voltage by each listed corresponding current
 3. Sum the results of the above *per condition*. Using the previous example, sum the 5 VDC and 12 VDC powers (voltage x current) for each line in Table 6 separately
 4. Pick the highest result from Step 3
-
-## 4Kn vs. 512e
-
-4Kn and 512e drives have the same performance except for when they are used with 512n apps and OSes. In that case, 4Kn HDDs have no support, while 512e HDDs suffer a read-modify-write performance penalty *relative to 512n HDDs*.
-
-In other words, a 512e HDD is a 4Kn HDD with backwards compatibility with 512n apps and OSes. 
-
-Per an anonymous Seagate engineering source, 512e HDDs outsell 4Kn HDDs by a wide margin among datacenter and hyperscale customers.
-
-* [4k vs. 512](https://community.spiceworks.com/topic/post/6093125) ([Further discussion](https://www.techpowerup.com/forums/threads/hdd-bytes-per-sector-types-512e-vs-512n-vs-4kn.254422/))
-* [512e cannot be converted to 4Kn for most HDDs](https://github.com/Seagate/ToolBin/issues/9#issuecomment-636327217)
-* [Advanced format (4K) disk compatibility update](https://docs.microsoft.com/en-us/windows/win32/w8cookbook/advanced-format--4k--disk-compatibility-update)
-* [Don't Know What 4K Hard Drive Is? Look Here!](https://www.partitionwizard.com/partitionmagic/what-is-4k-hard-drive.html)
-* [FastFormat Technology Helps Future-Proof Systems](https://www.seagate.com/files/www-content/product-content/enterprise-performance-savvio-fam/enterprise-performance-15k-hdd/_cross-product/_shared/doc/seagate-fast-format-white-paper-04tp699-1-1701us.pdf) - Only the Exos X14 and above support this
-* [Where to find FastFormat](https://github.com/Seagate/ToolBin/issues/5)
 
 ## Recovery
 
