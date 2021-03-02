@@ -306,6 +306,9 @@ The following routers offer enterprise level performance, line speed routing in 
 
 * [Netgate SG-3100 & Above](https://store.netgate.com/Assets/Images/ChartsTables/Netgate_Hardware_Comparison_Chart.png)
 * [Netgear BR200 Insight Instant VPN Router](https://www.netgear.com/images/datasheet/security/BR200.pdf)
+* TP-Link (**WARNING**: although these devices have higher performance speed ratings than the BR200, I'm skeptical of enterprise network gateways with < 1 GB RAM. I suspect that, while possibly faster than the above devices, they are less stable)
+  * [TL-R605](https://static.tp-link.com/2021/202101/20210107/TL-R605_Datasheet.pdf)
+  * [TL-ER7206](https://static.tp-link.com/2021/202101/20210107/TL-ER7206_Datasheet.pdf)
 
 ## Wireless 
 
