@@ -491,7 +491,7 @@ If there is no junction box in step 1, then detach the wall plates from the wall
 
 # HDDs
 
-How to tell if an HDD is SMR: 
+## How to tell if an HDD is SMR 
 
 * Windows: `Trim` should be listed under `Features` for the HDD in CrystalDiskInfo
 * Linux: `TRIM` should be listed under `Commands/features:` in the output of `# hdparm -I /dev/DiskName`
@@ -533,6 +533,11 @@ Per an anonymous Seagate engineering source, 512e HDDs outsell 4Kn HDDs by a wid
 * [Don't Know What 4K Hard Drive Is? Look Here!](https://www.partitionwizard.com/partitionmagic/what-is-4k-hard-drive.html)
 * [FastFormat Technology Helps Future-Proof Systems](https://www.seagate.com/files/www-content/product-content/enterprise-performance-savvio-fam/enterprise-performance-15k-hdd/_cross-product/_shared/doc/seagate-fast-format-white-paper-04tp699-1-1701us.pdf) - Only the Exos X14 and above support this
 * [Where to find FastFormat](https://github.com/Seagate/ToolBin/issues/5)
+
+## Recovery
+
+1. If the HDD is in an enclosure, shuck it and connect it to a SATA dock or (preferably) an internal SATA port. If the HDD is already internal, try it on or in a different PC.
+2. If the host OS detects the HDD as newly connected in 1) above, copy all the data off it. If the OS does not detect the drive, you'll need a professional data recovery service.
 
 ## Seagate
 
