@@ -1125,6 +1125,10 @@ Run:
 * How to run an executable
   * `./ExecutableFileName`
 
+# Privacy
+
+[Mozilla Privacy Buying Guide](https://foundation.mozilla.org/en/privacynotincluded/)
+
 # PSUs
 
 [What is PSU Efficiency and Why is it Important?](https://www.velocitymicro.com/blog/what-is-psu-efficiency-and-why-is-it-important/)
