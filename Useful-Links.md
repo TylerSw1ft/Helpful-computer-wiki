@@ -974,7 +974,8 @@ See [Option 2](https://www.tenforums.com/tutorials/83868-upgrade-storage-pool-st
 
 # Networking
 
-[DSLReports Speed Test](http://www.dslreports.com/speedtest)
+* [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu/current2/html/)
+* [DSLReports Speed Test](http://www.dslreports.com/speedtest)
 
 # NFS
 
