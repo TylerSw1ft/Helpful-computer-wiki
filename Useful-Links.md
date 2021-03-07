@@ -674,6 +674,10 @@ Log out and login again (via SSH or locally) to force your changes to take effec
 
 Recreate initramfs: `update-initramfs -u -k all`
 
+# IoT
+
+[Why Smart TVs, x86-64, Raspberry Pis, and consoles are the only IoT devices allowed in my house](https://www.reddit.com/r/HomeNetworking/comments/lz35fs/isolating_smart_devices_and_general_privacy/gq1uavv/?utm_source=reddit&utm_medium=web2x&context=3)
+
 # ISA
 
 * [New RISC-V CPU claims recordbreaking performance per watt](https://arstechnica.com/gadgets/2020/12/new-risc-v-cpu-claims-recordbreaking-performance-per-watt/) - RISC-V vs. ARM vs. x86, single benchmark
