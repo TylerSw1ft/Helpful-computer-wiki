@@ -305,10 +305,18 @@ This is the 1 Gb/s standard.
 The following routers offer enterprise level performance, line speed routing in specs, and easy OpenVPN functionality while still covering consumer features such as UPnP.
 
 * [Netgate SG-3100 & Above](https://store.netgate.com/Assets/Images/ChartsTables/Netgate_Hardware_Comparison_Chart.png)
-* [Netgear BR200 Insight Instant VPN Router](https://www.netgear.com/images/datasheet/security/BR200.pdf)
-* TP-Link (**WARNING**: although these devices have higher performance speed ratings than the BR200, I'm skeptical of enterprise network gateways with < 1 GB RAM. I suspect that, while possibly faster than the above devices, they are less stable)
-  * [TL-R605](https://static.tp-link.com/2021/202101/20210107/TL-R605_Datasheet.pdf)
-  * [TL-ER7206](https://static.tp-link.com/2021/202101/20210107/TL-ER7206_Datasheet.pdf)
+* [NETGEAR BR200 Insight Instant VPN Router](https://www.netgear.com/images/datasheet/security/BR200.pdf)
+
+The following devices do not offer GUI OpenVPN or Wireguard support, but still support UPnP:
+
+* Ubiquiti
+  * [UniFi Dream Machine Pro](https://dl.ubnt.com/ds/udm-pro)
+  * [EdgeRouter](https://dl.ubnt.com/datasheets/edgemax/EdgeRouter_DS.pdf)
+    * 4
+    * 6P
+    * 8
+    * 12
+    * 12P
 
 ## Wireless 
 
