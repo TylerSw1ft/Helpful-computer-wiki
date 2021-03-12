@@ -7,6 +7,7 @@
 # Android
 
 * [OEM support windows](https://www.reddit.com/r/Android/comments/gd35u6/are_we_and_all_the_tech_reviewers_counting/fpg32oe/)
+* [Samsung security updates](https://security.samsungmobile.com/workScope.smsb)
 * [Samsung updates Galaxy Tab S2 5.3 years after release](https://www.verizon.com/support/samsung-galaxy-tab-s2-refresh-update/)
 
 ## Developer Options
