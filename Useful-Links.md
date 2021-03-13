@@ -1373,7 +1373,8 @@ This is the speedtest your ISP is most likely to believe. They're not entirely w
 
 # Termux
 
-To remove orphaned packages, use `apt autoremove`
+* [Backing up Termux](https://wiki.termux.com/wiki/Backing_up_Termux)
+* To remove orphaned packages, use `apt autoremove`
 
 # Todoist 
 
