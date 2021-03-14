@@ -717,6 +717,10 @@ Recreate initramfs: `update-initramfs -u -k all`
 * [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
   * Note: this analysis is not exhaustive. There are other considerations, [such as memory bandwidth upper and lower limits](https://github.com/jdrch/Hardware/wiki/Useful-Links#bandwidth)
 
+# Lenovo
+
+[How to fix excessive reverse DNS lookups](https://www.reddit.com/r/pihole/comments/gytfbm/guide_how_to_discover_which_app_is_making_dns/)
+
 # Linux
 
 * [Basic Linux Commands](https://linuxize.com/post/basic-linux-commands/)
