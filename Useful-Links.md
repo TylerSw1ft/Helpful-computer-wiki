@@ -1584,6 +1584,16 @@ For the Ethernet, MoCA, and Powerline solutions: depending on your situation you
 * [Access Point Placement](https://github.com/jdrch/Hardware/wiki/Useful-Links#placement)
 * [Troubleshooting 'slow' Wi-Fi](https://www.duckware.com/tech/wifi-in-the-us.html#troubleshooting)
 
+### Check for excessive DNS lookups from clients
+
+**WARNING:** This is an advanced, involved troubleshooting method that involves network reconfiguration (setting Pi-hole as your network's DNS and DHCP server, then rebooting all your network clients for the setting to take effect).
+
+1. Install & setup Pi-hole (see above)
+2. In the Pi-hole dashboard, look for clients making an inordinate number of DNS lookups relative to their use. Check the query logs for such clients. Typically the lookups will be repetitive, such as multiple reverse lookups for another client on the LAN
+3. Use [this method](https://www.reddit.com/r/pihole/comments/gytfbm/guide_how_to_discover_which_app_is_making_dns/) to find which process on each affected client is making the excessive lookups
+4. Disable the process found in the above step
+5. Repeat Step 2. If the excessive DNS queries are gone, you've solved the problem
+
 # Wireless Charging
 
 [Wirless charging uses 47% more power than wired charging](https://onezero.medium.com/wireless-charging-is-a-disaster-waiting-to-happen-48afdde70ed9)
