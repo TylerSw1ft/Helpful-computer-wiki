@@ -6,6 +6,7 @@
 
 # Android
 
+* [Cell Phone Brand Loyalty Survey 2021](https://www.sellcell.com/blog/cell-phone-brand-loyalty-2021/)
 * [OEM support windows](https://www.reddit.com/r/Android/comments/gd35u6/are_we_and_all_the_tech_reviewers_counting/fpg32oe/)
 * [Samsung security updates](https://security.samsungmobile.com/workScope.smsb)
 * [Samsung updates Galaxy Tab S2 5.3 years after release](https://www.verizon.com/support/samsung-galaxy-tab-s2-refresh-update/)
