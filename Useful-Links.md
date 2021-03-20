@@ -1381,6 +1381,10 @@ This is the speedtest your ISP is most likely to believe. They're not entirely w
 * [Backing up Termux](https://wiki.termux.com/wiki/Backing_up_Termux)
 * [Package Management](https://wiki.termux.com/wiki/Package_Management)
 
+## Termux:Tasker
+
+* [ Google Play to F-Droid Migration & Setup of Termux, Termux:Tasker, & Termux:Styling](https://dev.to/jdrch/google-play-to-f-droid-migration-setup-of-termux-termux-tasker-termux-styling-503g)
+
 # Todoist 
 
 [Set a recurring due date](https://todoist.com/help/articles/set-a-recurring-due-date)
