@@ -140,9 +140,15 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 * [Skype](https://www.skype.com/en/) (Android, iOS, macOS, Linux, Windows)
 * [Signal](https://signal.org/) (Android, iOS, Linux, Windows)
 
+# IPTV Players
+
+* [IPTV Smarters Pro](https://www.iptvsmarters.com/) (Android, iOS) **WARNING**: Although this app is available for other platforms, I can recommend it on mobile only
+* [MyIPTV Player](https://www.microsoft.com/en-us/p/myiptv-player/9pjj2nmbf0tr) (Xbox, Windows)
+* [VLC](https://www.videolan.org) (Android, FreeBSD, Linux, macOS, Windows) (Android, FreeBSD, Linux, macOS, Xbox, Windows)
+
 # Media Players
 
-[VLC](https://www.videolan.org) (Android, FreeBSD, Linux, macOS, Windows)
+VLC
 
 # Music Players
 
