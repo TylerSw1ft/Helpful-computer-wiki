@@ -3,6 +3,7 @@
 * The following are either software I've used personally or know to work best in the noted capacity/context. 
 * The list of supported OSes for particular applications is not necessarily exhaustive. Ports for a particular OS may exist; check [Repology](https://repology.org) or [Packages Search](https://pkgs.org)
 * FuryBSD KDE is FreeBSD with a bundled live image desktop and KDE installation, and so anything that is listed as working with FuryBSD can be assumed to work with FreeBSD also unless otherwise stated
+* I've omitted listing OSes on which I don't recommend each app
 
 # Antimalware
 
@@ -143,12 +144,12 @@ There are many people who swear by `rsync`, but I find it obtuse to use, so it's
 # IPTV Players
 
 * [IPTV Smarters Pro](https://www.iptvsmarters.com/) (Android, iOS) **WARNING**: Although this app is available for other platforms, I can recommend it on mobile only
-* [MyIPTV Player](https://www.microsoft.com/en-us/p/myiptv-player/9pjj2nmbf0tr) (Xbox, Windows)
-* [VLC](https://www.videolan.org) (Android, FreeBSD, Linux, macOS, Windows) (Android, FreeBSD, Linux, macOS, Xbox, Windows)
+* [MyIPTV Player](https://www.microsoft.com/en-us/p/myiptv-player/9pjj2nmbf0tr) (Xbox)
+* [ProgTV](https://www.progdvb.com/index/progtv/progtv-win) (Windows)
 
 # Media Players
 
-VLC
+[VLC](https://www.videolan.org) (Android, FreeBSD, Linux, macOS, Windows) (Android, FreeBSD, Linux, macOS, Xbox, Windows)
 
 # Music Players
 
