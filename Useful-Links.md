@@ -550,6 +550,7 @@ This is the easiest method, but it is conservative and therefore may unrealistic
 
 * [The HDD Platter Capacity Database](https://rml527.blogspot.com/)
 * [On WD Red NAS Drives](https://blog.westerndigital.com/wd-red-nas-drives/)
+* [Seagate CMR and SMR Hard Drives](https://www.seagate.com/internal-hard-drives/cmr-smr-list/)
 * [WD Internal Client SMR HDDs](https://blog.westerndigital.com/wp-content/uploads/2020/04/2020_04_22_WD_SMR_SKUs_1Slide.pdf) (PDF warning)
 
 # HDR
