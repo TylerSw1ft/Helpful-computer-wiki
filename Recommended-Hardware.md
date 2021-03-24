@@ -215,7 +215,8 @@ If you don't need 1:1 display mode or controls on the front bezel, get the [VP27
 
 # Green Screens
 
-[Arozzi Green Screen](https://arozzi.com/product/green-screen/)
+* [Arozzi Green Screen](https://arozzi.com/product/green-screen/)
+* [Logitech Green Screen](https://www.logitech.com/en-us/products/webcams/green-screen-portable-background.952-000076.html)
 
 # Laptop Stands
 
