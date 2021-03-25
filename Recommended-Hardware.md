@@ -552,6 +552,10 @@ Note: all LTO-8 drives need SAS at the minimum and do not support SATA.
 
 [Roku Ultra](https://www.roku.com/products/roku-ultra)
 
+# Surge Protectors
+
+[Belkin 8-Outlet Pivot-Plug Surge Protector, 6 ft. Cord](https://www.belkin.com/us/p/P-BP108000-06/)
+
 # Toolkits
 
 [iFixit Pro Tech Toolkit](https://www.ifixit.com/Store/Tools/Pro-Tech-Toolkit/IF145-307)
