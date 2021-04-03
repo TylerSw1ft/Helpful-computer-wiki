@@ -483,6 +483,10 @@ If there is no junction box in step 1, then detach the wall plates from the wall
 
 [Creating releases](https://help.github.com/en/articles/creating-releases)
 
+# Google Calendar
+
+[How to sync ALL shared Google Calendars to Windows 10 Calendar app](https://calendar.google.com/calendar/syncselect)
+
 # Google Messages
 
 [Messages Community](https://support.google.com/messages/community)
