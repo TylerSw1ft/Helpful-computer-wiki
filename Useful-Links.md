@@ -733,6 +733,7 @@ Recreate initramfs: `update-initramfs -u -k all`
 * [Linux Boot Process: What You Should Know](https://www.maketecheasier.com/linux-boot-process/)
 * Mark all `username`'s mail as read (delete):
   * In mail, enter `delete *`, then enter `quit`
+* [The Linux Kernel, CDDL and Related Issues](https://www.softwarefreedom.org/resources/2016/linux-kernel-cddl.html)
 
 # Logical Volume Management
 
