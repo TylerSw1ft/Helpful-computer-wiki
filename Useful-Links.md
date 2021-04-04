@@ -1106,6 +1106,10 @@ My OpenRC advice is to interact with it only:
 
 See [here](https://www.reddit.com/r/Android/comments/fr4j9t/on_compact_android_phones_and_the_reason_we_arent/) and [here](https://www.reddit.com/r/Android/comments/fr4j9t/on_compact_android_phones_and_the_reason_we_arent/flvdnrc/)
 
+# Physics
+
+[dB: What is a decibel?](https://www.animations.physics.unsw.edu.au/jw/dB.htm)
+
 # Pi-hole
 
 * [How do I update Pi-hole?](https://discourse.pi-hole.net/t/how-do-i-update-pi-hole/249/13): `# pihole -up`
