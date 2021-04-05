@@ -617,6 +617,10 @@ Per [Tripp-Lite](https://blog.tripplite.com/line-interactive-vs-on-line-ups-syst
 * [Belkin RockStar™ 3.5mm Audio + USB-C™ Charge Adapter](https://www.belkin.com/us/p/P-F7U080/)
 * [Moshi USB-C Digital Audio Adapter with Charging](https://www.moshi.com/en/product/usb-c-to-digital-audio-adapter-with-charging-adapter-ipad-pro/silver)
 
+# Wallet
+
+[Big Skinny Hipster Bifold](https://www.bigskinny.net/wallet-bifold-hipster.html)
+
 # Webcam
 
 [Logitech Brio Ultra HD Pro Webcam](https://www.logitech.com/en-us/product/brio) - This is the only widely available webcam from a reputable brand to support Windows Hello, so if you have a desktop you want foolproof, secure facial recognition access to, this is the ticket. 
