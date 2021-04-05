@@ -406,6 +406,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [What HTML tags are allowed within comments](https://help.disqus.com/en/articles/1717235-what-html-tags-are-allowed-within-comments)
 
+# DNA
+
+[When Bad DNA Tests Lead to False Convictions](https://gizmodo.com/when-bad-dna-tests-lead-to-false-convictions-1797915655)
+
 # DNS
 
 * [Guide: how to discover which app is making DNS lookup requests on Windows using Sysmon & Event Viewer](https://www.reddit.com/r/pihole/comments/gytfbm/guide_how_to_discover_which_app_is_making_dns/)
