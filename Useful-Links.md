@@ -1095,6 +1095,14 @@ My OpenRC advice is to interact with it only:
 
 [The sudden death and eternal life of Solaris](http://dtrace.org/blogs/bmc/2017/09/04/the-sudden-death-and-eternal-life-of-solaris/)
 
+# PC Shipments
+
+## 2021
+
+### Q1
+
+[PC Shipments Show Continued Strength in Q1 2021 Despite Component Shortages and Logistics Issues, According to IDC](https://www.idc.com/getdoc.jsp?containerId=prUS47601721)
+
 # pfSense
 
 * [2-4 Gb/s kernel routing performance limitation limit](https://www.reddit.com/r/HomeServer/comments/9yx7ct/lets_get_crazy_hypothetical_10_gbs_firewall/ea4vc2a/)
