@@ -287,7 +287,7 @@ TL,DR: it's too much trouble.
   * I used GhostBSD for around 2 months, but eventually dropped it due to limited features (MATE is about as useless a DE as you can imagine) and stuff just not working reliably. The latter included, but it not limited to
     * I couldn't get 3rd party services to start reliably at boot. I wound up having to use an `@reboot` crontab entry as a workaround, but of course that doesn't help if the service crashes
     * I couldn't get NFS shares to mount reliably at boot, even with an `@reboot` crontab entry, or to mount at all otherwise at times
-* FuryBSD is a major PITA to set up
+* ~~FuryBSD is a major PITA to set up~~
 * Instant Workstation for FreeBSD is unreliable (on legacy hardware)
 
 # Btrfs
