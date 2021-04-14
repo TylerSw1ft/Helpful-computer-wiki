@@ -1554,7 +1554,7 @@ As a general rule, the fewer wireless client devices you have, the better your w
 
 The following are ways to improve your wireless range, from best to worst:
 
-1. Run Ethernet (copper or fiber) cable. Fiber is has a faster theoretical max speed, but is more brittle, requires more expensive gear, has very little client device support, cannot carry power, and has fewer capable installers. Copper cable generally has lower theoretical speeds, but has none of fiber's disadvantages. Generally speaking, unless you need network speeds in excess of 10 Gb/s, stick to Cat 6A or Cat 8 copper cable. **DO NOT USE Cat 7 AS IT IS NOT A TIA STANDARD**. There are several ways to do run cable, all of which can be combined with each other:
+1. Run Ethernet (copper or fiber) cable. Fiber is has a faster theoretical max speed, but is more brittle, requires more expensive gear, has very little client device support, cannot carry power, and has fewer capable installers. Copper cable generally has lower theoretical speeds, but has none of fiber's disadvantages. Generally speaking, unless you need network speeds in excess of 10 Gb/s, stick to Cat 6A or Cat 8 (<= 30 m runs only) copper cable. **DO NOT USE Cat 7 AS IT IS NOT A TIA STANDARD**. There are several ways to do run cable, all of which can be combined with each other:
    1. Run naked cable along the walls (in the seams between the wall and floor, floor and ceiling, or multiple walls). Use cord protectors to get the cable across foot traffic pathways, such as across doorways. **OPTIONAL**: use cable stables to attach the cable to the wall
       1. Advantages:
          1. Least expensive option
