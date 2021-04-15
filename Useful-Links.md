@@ -380,6 +380,7 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 # Debian
 
+* [crontab(5) — cron — Debian buster — Debian Manpages](https://manpages.debian.org/buster/cron/crontab.5.en.html)
 * [The Debian Administrator's Handbook](https://debian-handbook.info/browse/stable/)
 * [Don't Break Debian](https://wiki.debian.org/DontBreakDebian)
 * [systemd documentation index](https://wiki.debian.org/systemd/documentation)
