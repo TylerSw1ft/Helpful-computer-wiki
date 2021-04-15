@@ -293,6 +293,7 @@ TL,DR: it's too much trouble.
 # Btrfs
 
 * [Cheatsheet](https://blog.programster.org/btrfs-cheatsheet)
+* [Scrubbing and Balancing Maintenance Guidelines](https://www.spinics.net/lists/linux-btrfs/msg90536.html)
 * [Maximum number of snapshots per subvolume](https://btrfs.wiki.kernel.org/index.php/Gotchas#Having_many_subvolumes_can_be_very_slow) (12)
 
 ## Creation
