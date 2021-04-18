@@ -824,6 +824,12 @@ Sources:
 * https://www.extendoffice.com/documents/excel/3086-excel-delete-columns-based-on-header.html
 * https://www.reddit.com/r/excel/comments/g63767/how_do_i_batch_delete_excel_columns_whose_top/fo71e1m/
 
+# Microsoft OneNote
+
+## 20XX
+
+[How to move Microsoft OneNote 2016 (& later?) notes from one PC to another](https://dev.to/jdrch/how-to-move-microsoft-onenote-2016-later-notes-from-one-pc-to-another-162b)
+
 # Microsoft Windows 
 
 * [How to perform a clean boot in Windows](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-bot-in-windows)
@@ -1383,6 +1389,10 @@ This is the speedtest your ISP is most likely to believe. They're not entirely w
 # Synology
 
 [RAID Calculator](https://www.synology.com/en-us/support/RAID_calculator)
+
+# Sysmon
+
+[How to unistall Sysmon](https://dev.to/jdrch/how-to-uninstall-sysmon-npd)
 
 # systemd
 
