@@ -176,8 +176,8 @@ $ balooctl disable
 
 * [Directory Structure](https://www.freebsd.org/doc/handbook/dirstructure.html)
 * [FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
-* [FreeBSD 12.1 on a laptop](https://dataswamp.org/~solene/2020-05-11-freebsd-workstation.html)
 * [How To Enable SSH On FreeBSD](https://www.ostechnix.com/how-to-enable-ssh-on-freebsd/)
+* [How to recover KDE if it doesn't load after updating FreeBSD from 12.x to 13.0-RELEASE](https://dev.to/jdrch/how-to-recover-kde-if-it-doesn-t-load-after-updating-from-freebsd-to-12-x-to-13-0-release-1nk1)
 * [How to show package post-installation notes](https://forums.freebsd.org/threads/how-to-reshow-post-installation-notes.63839/): `$ pkg info -D PackageName`
 * [How to use pkg-status.freebsd.org](https://forums.freebsd.org/threads/is-it-just-me-or-is-chromium-unavailable-in-latest-pgk-repo-for-12-1-release-p2.74501/post-455633)
   1. At the [main page](https://pkg-status.freebsd.org/), click the filter icon to the left of `Package Builds`
@@ -270,13 +270,6 @@ The 2 monitors should now have an extended desktop. Use `Meta` -> `Display Setti
 5. Run `# chmod +x /bin/rslsync`
 6. Run `./rslsync --storage /absolute/path/to/home/.sync/folder` to start `rslsync`
 
-## FuryBSD
-
-Note: FuryBSD was discontinued in Q3 2020. Because FuryBSD is just an installation image that includes an integrated DE with the FreeBSD base install, it's really just FreeBSD once the installation is complete. This means you can still use it to get to the latest FreeBSD release by installing [the latest image](https://sourceforge.net/projects/furybsd/files/12.1-2020Q3-KDE/) and then updating the OS in-place.
-
-* [Installation](https://github.com/furybsd/furybsd-handbook/wiki/Installing-FuryBSD)
-* [Live USB creation](https://github.com/furybsd/furybsd-livecd/wiki)
-
 ## Why I might no longer run BSD
 
 TL,DR: it's too much trouble.
@@ -287,11 +280,11 @@ TL,DR: it's too much trouble.
   * I used GhostBSD for around 2 months, but eventually dropped it due to limited features (MATE is about as useless a DE as you can imagine) and stuff just not working reliably. The latter included, but it not limited to
     * I couldn't get 3rd party services to start reliably at boot. I wound up having to use an `@reboot` crontab entry as a workaround, but of course that doesn't help if the service crashes
     * I couldn't get NFS shares to mount reliably at boot, even with an `@reboot` crontab entry, or to mount at all otherwise at times
-* ~~FuryBSD is a major PITA to set up~~
 * Instant Workstation for FreeBSD is unreliable (on legacy hardware)
 
 # Btrfs
 
+* [BTRFS and free space - emergency response](https://ohthehugemanatee.org/blog/2019/02/11/btrfs-out-of-space-emergency-response/)
 * [Cheatsheet](https://blog.programster.org/btrfs-cheatsheet)
 * [Scrubbing and Balancing Maintenance Guidelines](https://www.spinics.net/lists/linux-btrfs/msg90536.html)
 * [Maximum number of snapshots per subvolume](https://btrfs.wiki.kernel.org/index.php/Gotchas#Having_many_subvolumes_can_be_very_slow) (12)
