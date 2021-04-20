@@ -568,6 +568,10 @@ This is the easiest method, but it is conservative and therefore may unrealistic
 
 ## OpenIndiana
 
+### Backup
+
+[Which OpenIndiana directories to backup for bare metal recovery](https://dev.to/jdrch/which-openindiana-directories-to-backup-for-bare-metal-recovery-3a3j)
+
 ### General documentation
 
 * [Oracle Solaris Information Library](https://docs.oracle.com/cd/E37838_01/)
@@ -668,6 +672,9 @@ Log out and login again (via SSH or locally) to force your changes to take effec
 ### crontab
 
 * [Creating and Editing crontab Files](https://docs.oracle.com/cd/E37838_01/html/E60997/sysrescron-24589.html#scrolltoc)
+  * Ensure `$EDITOR` environment variable is set to `/usr/bin/nano`
+  * `su`
+  * `crontab -e`
 * [Syntax of crontab File Entries](https://docs.oracle.com/cd/E37838_01/html/E60997/sysrescron-62861.html#scrolltoc)
 
 ### ZFS
