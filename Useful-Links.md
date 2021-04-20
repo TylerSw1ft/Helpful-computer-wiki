@@ -1214,9 +1214,10 @@ Run:
 * `/var/log/messages`
 * `/var/log/kern.log`
 
-# Raspbian
+# Raspberry Pi OS
 
-[How to enable X11 forwarding for GUI apps launched with `sudo`](https://www.raspberrypi.org/forums/viewtopic.php?p=1623628#p1623628)
+* [How to enable X11 forwarding for GUI apps launched with `sudo`](https://www.raspberrypi.org/forums/viewtopic.php?p=1623628#p1623628)
+* [What is actually on your Raspberry Pi SD Card?](https://thepihut.com/blogs/raspberry-pi-tutorials/34243716-what-is-actually-on-your-raspberry-pi-sd-card) (Raspberry Pi OS directory structure)
 
 # Reddit
 
