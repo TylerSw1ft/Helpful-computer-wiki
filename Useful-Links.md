@@ -174,7 +174,7 @@ $ balooctl disable
 
 ## FreeBSD
 
-* [Directory Structure](https://www.freebsd.org/doc/handbook/dirstructure.html)
+* [Directory Structure](https://docs.freebsd.org/en_US.ISO8859-1/books/handbook/dirstructure.html)
 * [FreeBSD Find Out All Installed Hard Disk Size Information](https://www.cyberciti.biz/faq/freebsd-hard-disk-information/)
 * [How To Enable SSH On FreeBSD](https://www.ostechnix.com/how-to-enable-ssh-on-freebsd/)
 * [How to recover KDE if it doesn't load after updating FreeBSD from 12.x to 13.0-RELEASE](https://dev.to/jdrch/how-to-recover-kde-if-it-doesn-t-load-after-updating-from-freebsd-to-12-x-to-13-0-release-1nk1)
