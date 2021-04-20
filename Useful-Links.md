@@ -1010,6 +1010,8 @@ Needs the following line:
 
 `/Path/To/Shared/Folder ClientIPAddressOrHostname(rw,async,no_subtree_check,no_root_squash)`
 
+If you need to export the same path to multiple clients, do [this](https://askubuntu.com/a/998736).
+
 Restart the NFS server to load your changes: `# systemctl restart nfs-kernel-server`
 
 ### Client
