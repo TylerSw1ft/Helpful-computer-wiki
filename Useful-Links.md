@@ -1156,7 +1156,9 @@ Run:
 
 # Postfix
 
-[Ubuntu documentation](https://help.ubuntu.com/lts/serverguide/postfix.html)
+* [How to fix Postfix emails sent to Gmail addresses not being received](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-debian-10)
+* [How To Install and Configure Postfix as a Send-Only SMTP Server](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-debian-10)
+* [Ubuntu documentation](https://help.ubuntu.com/lts/serverguide/postfix.html)
 
 # Power over Ethernet
 
