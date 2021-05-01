@@ -678,6 +678,10 @@ Log out and login again (via SSH or locally) to force your changes to take effec
   * `crontab -e`
 * [Syntax of crontab File Entries](https://docs.oracle.com/cd/E37838_01/html/E60997/sysrescron-62861.html#scrolltoc)
 
+### Services
+
+How to create and start a service: see [Steps 10 - 14](https://www.reddit.com/r/DataHoarder/comments/n2lpx3/how_to_setup_znapzend_with_local_backup_on/)
+
 ### ZFS
 
 #### How to determine which drives a zpool is on
@@ -1682,9 +1686,14 @@ For the Ethernet, MoCA, and Powerline solutions: depending on your situation you
 # `zfsnap`
 
 * [Homepage](https://www.zfsnap.org/)
-* [Github](https://github.com/zfsnap/zfsnap.org)
+* [GitHub](https://github.com/zfsnap/zfsnap.org)
 
-# zrep
+# `znapzend`
+
+* [GitHub](https://github.com/oetiker/znapzend)
+* [How to setup znapzend with local backup on OpenIndiana](https://www.reddit.com/r/DataHoarder/comments/n2lpx3/how_to_setup_znapzend_with_local_backup_on/)
+
+# `zrep`
 
 * [Homepage](http://www.bolthole.com/solaris/zrep/)
 * [Github](https://github.com/bolthole/zrep)
