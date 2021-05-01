@@ -1044,7 +1044,7 @@ Assuming `rpool1` is pool to be shared:
 
 Run the following command:
 
-`# zfs set sharenfs='rw=@ClientIPAddress/32,root=@ClientIPAddress/32' rpool1`
+`# zfs set sharenfs='rw=@ClientIPAddress/32,root=@ClientIPAddress/32' ZFS-Dataset-To-Be-Shared`
 
 There is no need to restart anything after running that command; the OS automatically applies the settings and publishes the new share with them.
 
@@ -1056,13 +1056,13 @@ See **Set up an NFSv4 client** heading at the above link.
 
 #### Terminal
 
-`# mount -t nfs -o proto=tcp,port=2049 ServerIPAddress:/ /LocalMountPath`
+`# mount -t nfs -o proto=tcp,port=2049 ServerIPAddress:/Path/To/Remote/Directory/On/Shared/ZFS/Dataset /Local/Mount/Path`
 
 #### `/etc/fstab`
 
 Needs the following line:
 
-`ServerIPAddress:/   /mnt   nfs    auto  0  0`
+`ServerIPAddress:/Path/To/Remote/Directory/On/Shared/ZFS/Dataset   /Local/Mount/Path   nfs    auto  0  0`
 
 # `nnn`
 
