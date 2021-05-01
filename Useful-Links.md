@@ -339,6 +339,11 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 * [Performing storage management tasks in Cockpit](https://fedoramagazine.org/performing-storage-management-tasks-in-cockpit/)
 * [Managing software and services with Cockpit](https://fedoramagazine.org/managing-software-and-services-with-cockpit/)
 
+# Color Pallettes
+
+* [Rice University](https://brand.rice.edu/design-elements#paragraph-676)
+* [University of Florida](http://identity.ufl.edu/faqs/colors/)
+
 # Computer Science
 
 [Ultimate physical limits to computation](https://arxiv.org/abs/quant-ph/9908043)
