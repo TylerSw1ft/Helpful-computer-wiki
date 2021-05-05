@@ -24,7 +24,7 @@ Organized Alphabetically:
   * [How to Store HDDs Long Term](https://github.com/jdrch/Hardware/wiki/How-to-Store-HDDs-Long-Term)
   * [How to Update dnscrypt proxy in Debian with Minimal Downtime](https://github.com/jdrch/Hardware/wiki/How-to-Update-dnscrypt-proxy-in-Debian-with-Minimal-Downtime)
 * Projects
-  * Current
+  * Ongoing
     * [Mixed Environment, Multilevel Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
   * Future (in order of descending priority/implementation)
     * [All Other Projects](https://github.com/jdrch/Hardware/wiki/All-Other-Projects)
