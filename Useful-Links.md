@@ -9,7 +9,7 @@
 * [Cell Phone Brand Loyalty Survey 2021](https://www.sellcell.com/blog/cell-phone-brand-loyalty-2021/)
 * [OEM support windows](https://www.reddit.com/r/Android/comments/gd35u6/are_we_and_all_the_tech_reviewers_counting/fpg32oe/)
 * [Samsung security updates](https://security.samsungmobile.com/workScope.smsb)
-* [Samsung updates Galaxy Tab S2 5.3 years after release](https://www.verizon.com/support/samsung-galaxy-tab-s2-refresh-update/)
+* [Samsung updates Galaxy Tab Scl2 5.3 years after release](https://www.verizon.com/support/samsung-galaxy-tab-s2-refresh-update/)
 
 ## Developer Options
 
@@ -326,6 +326,10 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 # CGNAT
 
 [How to check if the ISP uses Carrier-grade NAT (CGN)](https://www.remoterig.com/wp/?page_id=3494)
+
+# `clamav`
+
+[How to configure](https://github.com/jdrch/Hardware/issues/105#issuecomment-833608566)
 
 # CLIs vs. GUIs
 
