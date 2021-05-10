@@ -907,7 +907,7 @@ These are articles based on previous gen Windows releases. While they may not be
 * [Storage Spaces Frequently Asked Questions (FAQ)](https://social.technet.microsoft.com/wiki/contents/articles/11382.storage-spaces-frequently-asked-questions-faq.aspx)
 * [Virtualizing storage for scale, resiliency, and efficiency](https://docs.microsoft.com/en-us/archive/blogs/b8/virtualizing-storage-for-scale-resiliency-and-efficiency)
 
-#### How to create a Storage Pool using PowerShell
+#### [How to create a Storage Pool using PowerShell](https://www.reddit.com/r/DataHoarder/comments/hp54pm/getting_started_with_refs_and_storage_spaces_on)
 
 Use this method if you're getting weird errors creating a storage pool in Control Panel's Storage Spaces GUI.
 
