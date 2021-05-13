@@ -29,7 +29,7 @@
 * [Back In Time](https://github.com/bit-team/backintime) (Linux)
 * [BorgBackup](https://www.borgbackup.org/) (Linux, macOS, OpenIndiana)  + [Vorta](https://github.com/borgbase/vorta) (Linux, macOS)
 * [Duplicati](https://www.duplicati.com/) (Windows & more)
-* [Restic](https://restic.net/) (FreeBSD, Linux)
+* [Restic](https://restic.net/) (FreeBSD, Linux, OpenIndiana, Windows)
 * [rpi-clone](https://github.com/billw2/rpi-clone) (Linux)
 * [Snapper](http://snapper.io/) (Linux)
 * [Syncback Freeware](https://www.2brightsparks.com/freeware/freeware-hub.html) (Windows)
