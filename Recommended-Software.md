@@ -415,6 +415,6 @@ Don't use anything other than Mechanical unless you absolutely have to. Everythi
 
 # Web Browsers 
 
-* [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) (Android, FreeBSD, iOS, Linux, macOS, OpenIndiana, Windows)
+* [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) (Android ([Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix)), FreeBSD, iOS, Linux, macOS, OpenIndiana, Windows)
 * [Google Chrome](https://www.google.com/chrome/) (Android, FreeBSD, Linux, macOS, Windows)
 * [Microsoft Edge Insider](https://www.microsoftedgeinsider.com/en-us/download) (Android, iOS, macOS, Windows)
