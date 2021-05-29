@@ -393,6 +393,10 @@ All products listed under this heading are [Wi-Fi certified](https://www.wi-fi.o
 
 [Synology Router RT2600ac](https://www.synology.com/en-us/products/RT2600ac)
 
+# NVMe Enclosures
+
+[Plugable USB 3.1 Gen 2 Tool-free NVMe Enclosure](https://plugable.com/products/usbc-nvme)
+
 # Scanners
 
 ## Automatic Document Feed (ADF)/Flatbed
