@@ -352,6 +352,11 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 
 [Ultimate physical limits to computation](https://arxiv.org/abs/quant-ph/9908043)
 
+# COVID-19
+
+* [Association of Simulated COVID-19 Vaccination and Nonpharmaceutical Interventions With Infections, Hospitalizations, and Mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2780539)
+* [COVID-19 herd immunity: where are we?](https://www.nature.com/articles/s41577-020-00451-5)
+
 # `cp` command
 
 * [Syntax](https://www.computerhope.com/unix/ucp.htm)
