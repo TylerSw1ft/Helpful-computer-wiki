@@ -1,5 +1,9 @@
 # WARNING: The links on this page are not necessarily exhaustive with respect to each heading/topic
 
+# ACPI
+
+[Advanced Configuration and Power Interface (ACPI) Specification](https://uefi.org/specs/ACPI/6.4/index.html)
+
 # AMOLED
 
 [No, “AMOLED Black” Does NOT Save More Battery Than Dark Gray](https://www.xda-developers.com/amoled-black-vs-gray-dark-mode/)
