@@ -1683,6 +1683,7 @@ For the Ethernet, MoCA, and Powerline solutions: depending on your situation you
 * [Feature Matrix](https://zgrep.org/zfs.html)
 * [Latest OpenZFS development status and relationship among projects](https://drive.google.com/file/d/197jS8_MWtfdW2LyvIFnH58uUasHuNszz/view)
 * [Linus Torvalds recommends against ZFS (on Linux)](https://www.realworldtech.com/forum/?threadid=189711&curpostid=189841)
+* [OpenZFS 2.1 is out—let’s talk about its brand-new dRAID vdevs](https://arstechnica.com/gadgets/2021/07/a-deep-dive-into-openzfs-2-1s-new-distributed-raid-topology/)
 * [Performance, Part 1](https://www.ixsystems.com/blog/zfs-pool-performance-1/)
 * [Performance, Part 2](https://www.ixsystems.com/blog/zfs-pool-performance-2/)
 * [Quickstart (See Steps 3 to 6)](https://github.com/jdrch/Hardware/wiki/How-to-Set-Up-Regular,-Recurring,-Incremental,-Online-Filesystem-Backups-using-Restic)
