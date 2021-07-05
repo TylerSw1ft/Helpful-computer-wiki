@@ -1123,6 +1123,11 @@ My OpenRC advice is to interact with it only:
 * [Gentoo OpenRC Wiki](https://wiki.gentoo.org/wiki/OpenRC)
 * [Gentoo supervise-daemon Tips 'n Tricks](https://wiki.gentoo.org/wiki/OpenRC/supervise-daemon#Tips_.27n_tricks)
 
+# Operating System Market Share
+
+* [NetMarketShare](https://netmarketshare.com/)
+* [Statcounter](https://gs.statcounter.com/os-market-share)
+
 # Oracle
 
 ## Solaris
