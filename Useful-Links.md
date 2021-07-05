@@ -1663,6 +1663,10 @@ For the Ethernet, MoCA, and Powerline solutions: depending on your situation you
 4. Disable the process found in the above step
 5. Repeat Step 2. If the excessive DNS queries are gone, you've solved the problem
 
+# Windows 11
+
+[How to install Windows 11 on almost any unsupported PC](https://www.xda-developers.com/install-windows-11-unsupported-pc/)
+
 # Wireless Charging
 
 [Wirless charging uses 47% more power than wired charging](https://onezero.medium.com/wireless-charging-is-a-disaster-waiting-to-happen-48afdde70ed9)
