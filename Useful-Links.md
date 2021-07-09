@@ -133,7 +133,7 @@ You should find the driver download there. From what I've seen in various forum 
 
 ### How many copies of data are needed
 
-[3-2-1](https://www.reddit.com/r/DataHoarder/wiki/backups#wiki_the_3-2-1_strategy)
+[3-2-1](https://www.veeam.com/blog/321-backup-rule.html)
 
 ### How to select HDD capacity
 
@@ -409,6 +409,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 * [My opinions on the major DEs](https://forums.freebsd.org/threads/desktop-environment-what-do-you-use.74506/post-455819)
 * [Memory usage comparison](https://www.ubuntubuzz.com/2020/07/memory-comparison-ubuntu-2004-family.html)
+
+# DHCP
+
+[DHCP Scope](https://ubuntu.com//blog/dhcp-scope) - This is an excellent, concise writeup of how DHCP works.
 
 # Disk Erasure
 
