@@ -1132,6 +1132,11 @@ My OpenRC advice is to interact with it only:
 * [NetMarketShare](https://netmarketshare.com/)
 * [Statcounter](https://gs.statcounter.com/os-market-share)
 
+# openSUSE
+
+* [Documentation](https://doc.opensuse.org/)
+* [Resilio Sync](https://help.resilio.com/hc/en-us/articles/206178924-Installing-Sync-package-on-Linux)
+
 # Oracle
 
 ## Solaris
