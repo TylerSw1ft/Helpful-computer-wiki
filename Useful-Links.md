@@ -773,6 +773,13 @@ Recreate initramfs: `update-initramfs -u -k all`
   * In mail, enter `delete *`, then enter `quit`
 * [The Linux Kernel, CDDL and Related Issues](https://www.softwarefreedom.org/resources/2016/linux-kernel-cddl.html)
 
+## How to change file or folder permissions
+
+```
+# chown -R GrantedUser FileOrFolderPath
+chmod 700 FileOrFolderPath
+```
+
 # Logical Volume Management
 
 [Logical Volume Management Explained on Linux](https://devconnected.com/logical-volume-management-explained-on-linux/)
