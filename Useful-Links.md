@@ -1743,3 +1743,7 @@ For the Ethernet, MoCA, and Powerline solutions: depending on your situation you
 
 * [Homepage](http://www.bolthole.com/solaris/zrep/)
 * [Github](https://github.com/bolthole/zrep)
+
+# `zypper`
+
+If you get a `not found on this medium` error during `# zypper dup`, run `# zypper ref` and then run `# zypper dup` again.
