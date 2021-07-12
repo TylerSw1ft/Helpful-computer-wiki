@@ -1746,4 +1746,13 @@ For the Ethernet, MoCA, and Powerline solutions: depending on your situation you
 
 # `zypper`
 
-If you get a `not found on this medium` error during `# zypper dup`, run `# zypper ref` and then run `# zypper dup` again.
+* If you get a `not found on this medium` error during `# zypper dup`, run `# zypper ref` and then run `# zypper dup` again
+* [`man` page](https://en.opensuse.org/SDB:Zypper_manual)
+* [Wiki](https://en.opensuse.org/SDB:Zypper_usage)
+
+## `apt` equivalents
+
+* `# apt update` = `# zypper ref`
+* `# apt dist-upgrade` = `# zypper dup`
+* `# apt clean` = `# zypper clean`
+* `# apt autoremove` = `# zypper packages --unneeded | awk -F'|' 'NR==0 || NR==1 || NR==2 || NR==3 || NR==4 {next} {print $3}' | grep -v Name | sudo xargs zypper remove --clean-deps`
