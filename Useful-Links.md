@@ -1546,6 +1546,11 @@ This is the speedtest your ISP is most likely to believe. They're not entirely w
 
 [vi Editor in UNIX](https://www.geeksforgeeks.org/vi-editor-unix/)
 
+# How to exit
+
+1. Type `:wq`
+2. Hit `Enter`
+
 # `vifm`
 
 [Cheatsheet](https://vifm.info/cheatsheets.shtml)
