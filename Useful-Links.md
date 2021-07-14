@@ -1448,6 +1448,7 @@ This is the speedtest your ISP is most likely to believe. They're not entirely w
 # systemd
 
 * [How to create a new systemd service](https://www.redhat.com/sysadmin/replacing-rclocal-systemd)
+* [Understanding something about udev's normal network device names on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/UdevNetworkDeviceNaming)
 * [Using systemd journals to troubleshoot transient problems](https://opensource.com/article/20/8/journals-systemd)
 * [vs. init](https://retrocomputing.stackexchange.com/a/14163/16563)
 
