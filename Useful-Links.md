@@ -1142,6 +1142,7 @@ My OpenRC advice is to interact with it only:
 # openSUSE
 
 * [Documentation](https://doc.opensuse.org/)
+* [How to set up sending email from the system](https://tr.opensuse.org/Mail_server_HOWTO#Sending_mail_with_your_own_domain). Remember to [delete duplicate entries](https://askubuntu.com/a/536608/932418) in `/etc/postfix/main.cf`
 * [Resilio Sync](https://help.resilio.com/hc/en-us/articles/206178924-Installing-Sync-package-on-Linux)
 
 # Oracle
