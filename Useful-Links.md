@@ -742,6 +742,7 @@ Recreate initramfs: `update-initramfs -u -k all`
 
 * [Documentation](https://docs.kde.org/)
 * How to Restart KDE Plasma Desktop without Rebooting: `plasmashell --replace`
+* [How to show a persistent custom notification](https://www.reddit.com/r/kde/comments/if5oeb/notifications_from_script_not_saving_to_history/g2lvzvj/?utm_source=reddit&utm_medium=web2x&context=3): `notify-send -a CustomNotificationName -h "string:desktop-entry:org.kde.konsole" Custom2WordMessage`
 
 # KSysGuard
 
