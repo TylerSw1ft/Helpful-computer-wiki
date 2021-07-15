@@ -380,7 +380,7 @@ e.g. `cp /sdcard/Sync/Scripts/Shell/MoveFilesToSync.sh ~/.termux/tasker/MoveFile
 
 Pretty much anything that requires `sudo` needs to be put here:
 
-`# crontab -u root -e`
+`# -E crontab -e`
 
 # CVEs
 
