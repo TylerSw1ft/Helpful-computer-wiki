@@ -27,6 +27,10 @@ Note: I haven't used everything on this list. Some of these products are simply 
 
 [Kelty Redwing 44 Tactical](https://www.kelty.com/redwing-44-tactical/)
 
+# Body Composition Monitors
+
+[Omron Body Composition Monitor And Scale With Seven Fitness Indicators](https://omronhealthcare.com/products/body-composition-monitor-scale-seven-indicators-hbf514c/)
+
 # Cabinets
 
 ## Ventilation
