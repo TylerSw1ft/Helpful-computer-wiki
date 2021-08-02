@@ -267,9 +267,7 @@ Bosch [GLM 50 C](https://www.boschtools.com/us/en/boschtools-ocs/laser-measures-
 
 ### Cable
 
-Arris (in descending order of speed)
-* [S33](https://www.surfboard.com/products/cable-modems/s33/)
-* [SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/) ​
+[Arris S33](https://www.surfboard.com/products/cable-modems/s33/)
 
 ## Patch Panels
 
