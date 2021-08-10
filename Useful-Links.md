@@ -318,10 +318,16 @@ Should be performed monthly. Put the following in the [root crontab](https://git
 
 [Effect of poor cabling on a service loop](https://www.reddit.com/r/HomeNetworking/comments/ig0kxr/would_like_casual_advice_regarding_comcast_cable/g2u759c/)
 
-# Car Sales Numbers
+# Car Sales 
+
+## Numbers
 
 * [CarSalesBase](https://carsalesbase.com/)
 * [GoodCarBadCar](https://www.goodcarbadcar.net/)
+
+## Prices
+
+[Average New-Vehicle Prices Continue to Surpass $40,000, Up More Than 5% in January 2021, According to Kelley Blue Book](https://mediaroom.kbb.com/2021-02-15-Average-New-Vehicle-Prices-Continue-to-Surpass-40-000-Up-More-Than-5-in-January-2021-According-to-Kelley-Blue-Book)
 
 # `chkrootkit`
 
