@@ -579,7 +579,8 @@ I've heard good things about Eaton, but their lineup on their product site is pr
 Per [Tripp-Lite](https://blog.tripplite.com/line-interactive-vs-on-line-ups-systems):
 
 > All on-line and many line-interactive UPS systems have pure sine wave output.
-
+* bXterra
+  * [SP Smart Sine Wave UPS](https://www.bxterra.com/product-category/ups-systems/?fwp_series_ups=sp-series-ups-systems)
 * CyberPower
   * [PFC Sinewave](https://www.cyberpowersystems.com/products/ups/pfc-sinewave/)
   * [New Smart App Sinewave](https://www.cyberpowersystems.com/products/ups/new-smart-app-sinewave/)
