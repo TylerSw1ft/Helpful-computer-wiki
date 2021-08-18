@@ -558,6 +558,21 @@ Note: all LTO-8 drives need SAS at the minimum and do not support SATA.
   * TC-L82AN-BR
 * [HPE StoreEver LTO-8 Ultrium 30750 Internal Tape Drive](https://buy.hpe.com/us/en/storage/tape-storage/tape-drives-ultrium/storeever-ultrium-tape-drives/hpe-storeever-lto-ultrium-tape-drives/hpe-storeever-lto-8-ultrium-30750-internal-tape-drive/p/BC022A)
 
+## USB
+
+### Flash
+
+The only 2 reliable brands are SanDisk & Kingston.
+
+### Type A
+
+[SanDisk Extreme PRO® USB 3.2 Solid State Flash Drive](https://shop.westerndigital.com/products/usb-flash-drives/sandisk-extreme-pro-usb-3-2#SDCZ880-128G-A46)
+
+### Type C
+
+[SanDisk Ultra® Dual Drive Luxe USB Type-C™ Flash Drive](https://shop.westerndigital.com/products/usb-flash-drives/sandisk-ultra-dual-drive-luxe-usb-3-1-type-c#SDDDC4-032G-A46)
+
+
 # Streaming Player
 
 [Roku Ultra](https://www.roku.com/products/roku-ultra)
