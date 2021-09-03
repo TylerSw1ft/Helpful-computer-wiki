@@ -1111,7 +1111,8 @@ Needs the following line:
 
 # NTFS
 
-[Copying NTFS permissions between folders](https://confidentialfiles.wordpress.com/2014/03/13/copying-ntfs-permissions-between-folders/)
+* [Copying NTFS permissions between folders](https://confidentialfiles.wordpress.com/2014/03/13/copying-ntfs-permissions-between-folders/)
+* [Why you should avoid using open source NTFS implementations](https://www.reddit.com/r/DataHoarder/comments/pgt4ro/ubuntu_ntfs_to_exfat_missing_files_post_transfer/hbgayez/?utm_source=reddit&utm_medium=web2x&context=3)
 
 # OBS Studio
 
