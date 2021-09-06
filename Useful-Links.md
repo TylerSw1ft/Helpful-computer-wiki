@@ -129,6 +129,8 @@ You should find the driver download there. From what I've seen in various forum 
 
 # Backup
 
+[Best practices for data protection](https://www.veeam.com/blog/best-practices-for-data-protection.html)
+
 ## Strategy
 
 ### How many copies of data are needed
