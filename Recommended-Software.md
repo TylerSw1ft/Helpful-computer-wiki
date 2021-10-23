@@ -335,7 +335,7 @@ OpenIndiana Hipster GUI
 
 (Merge, split, etc.)
 
-[PDF Arranger](https://github.com/pdfarranger/pdfarranger)
+[PDF Arranger](https://github.com/pdfarranger/pdfarranger) (FreeBSD, Linux, Windows)
 
 # Productivity Suites
 
