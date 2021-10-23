@@ -331,6 +331,12 @@ OpenIndiana Hipster GUI
 * [Adobe Reader DC](https://get.adobe.com/reader/) (Windows)
 * [Xodo](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader&hl=en) (Android)
 
+# PDF Editors 
+
+(Merge, split, etc.)
+
+[PDF Arranger](https://github.com/pdfarranger/pdfarranger)
+
 # Productivity Suites
 
 [Microsoft Office 365](https://office.com) (Android, macOS, Windows)
