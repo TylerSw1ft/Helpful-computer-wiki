@@ -1709,6 +1709,10 @@ For the Ethernet, MoCA, and Powerline solutions: depending on your situation you
 
 [Wirless charging uses 47% more power than wired charging](https://onezero.medium.com/wireless-charging-is-a-disaster-waiting-to-happen-48afdde70ed9)
 
+# Workday
+
+[How to convert a Workday job listing login redirect to the actual job listing](https://dev.to/jdrch/how-to-convert-a-workday-job-listing-login-redirect-to-the-actual-job-listing-1d37)
+
 # Xbox
 
 [Everybody missed the point of the Showcase. Microsoft's gaming business plan is not dependent on next gen console sales or even solely on GamePass (which is what smarter bloggers have been saying). It's based on services for gamers, studios, publishers, and even Sony and Nintendo](https://www.reddit.com/r/XboxSeriesX/comments/hxwpvz/everybody_missed_the_point_of_the_showcase/)
