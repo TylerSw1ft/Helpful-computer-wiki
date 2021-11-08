@@ -1253,6 +1253,11 @@ Run:
 
 [Wiki](https://old.reddit.com/r/DataHoarder/wiki/index)
 
+# Race
+
+* [How American Racism Influenced Hitler](https://www.newyorker.com/magazine/2018/04/30/how-american-racism-influenced-hitler?utm_source=pocket_mylist)
+* [Racism And Meritocracy](https://techcrunch.com/2011/11/19/racism-and-meritocracy/)
+
 # RAID
 
 * [Explanation of parity and redundancy levels](http://www.raid-calculator.com/raid-types-reference.aspx)
