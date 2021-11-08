@@ -1256,6 +1256,7 @@ Run:
 # Race
 
 * [How American Racism Influenced Hitler](https://www.newyorker.com/magazine/2018/04/30/how-american-racism-influenced-hitler?utm_source=pocket_mylist)
+* [Nothing Protects Black Women From Dying in Pregnancy and Childbirth](https://www.propublica.org/article/nothing-protects-black-women-from-dying-in-pregnancy-and-childbirth?utm_source=pocket_mylist)
 * [Racism And Meritocracy](https://techcrunch.com/2011/11/19/racism-and-meritocracy/)
 
 # RAID
@@ -1530,7 +1531,8 @@ This is the speedtest your ISP is most likely to believe. They're not entirely w
 
 # UNIX
 
-[What UNIX Cost Us](https://www.youtube.com/watch?v=9-IWMbJXoLM) - A talk about how "the UNIX way" makes a lot of stuff much more difficult than it needs to be
+* [The Unix Workbench](https://seankross.com/the-unix-workbench/)
+* [What UNIX Cost Us](https://www.youtube.com/watch?v=9-IWMbJXoLM) - A talk about how "the UNIX way" makes a lot of stuff much more difficult than it needs to be
 
 # unRAID
 
