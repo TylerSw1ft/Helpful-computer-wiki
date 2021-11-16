@@ -448,6 +448,10 @@ Pretty much anything that requires `sudo` needs to be put here:
 
 [5.1 Virtual speaker setup](https://www.dolby.com/about/support/guide/speaker-setup-guides/5.1-virtual-speakers-setup-guide/)
 
+# Downloading
+
+[How to search and download unpopular and old files on the internet](https://medium.com/@ValdikSS/how-to-search-and-download-unpopular-and-old-files-on-the-internet-e5947ef507ba)
+
 # Electrical Engineering
 
 [A Plug-and-Play Microgrid for Rooftop Solar](https://spectrum.ieee.org/green-tech/solar/a-plugandplay-microgrid-for-rooftop-solar) - An excellent description of the power quality/power factor issues inherent in renewable energy sources, and how to overcome them
