@@ -510,6 +510,11 @@ If there is no junction box in step 1, then detach the wall plates from the wall
 
 [How to Install, Configure and Run the Fish Shell](https://www.linode.com/docs/quick-answers/linux/how-to-install-configure-and-run-fish/)
 
+# Fitness
+
+* [Exercise Videos Index](https://www.muscleandfitness.com/workout-routines/exercise-videos/a-z/)
+* [Study: Body Part Attractiveness](https://www.fitrated.com/resources/body-part-attractiveness/)
+
 # Fuchsia
 
 [Playing Around With The Fuchsia Operating System](https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html)
