@@ -293,8 +293,9 @@ TL,DR: it's too much trouble.
 
 * [BTRFS and free space - emergency response](https://ohthehugemanatee.org/blog/2019/02/11/btrfs-out-of-space-emergency-response/)
 * [Cheatsheet](https://blog.programster.org/btrfs-cheatsheet)
-* [Scrubbing and Balancing Maintenance Guidelines](https://www.spinics.net/lists/linux-btrfs/msg90536.html)
+* [Filesystem error handling](https://danluu.com/filesystem-errors/)
 * [Maximum number of snapshots per subvolume](https://btrfs.wiki.kernel.org/index.php/Gotchas#Having_many_subvolumes_can_be_very_slow) (12)
+* [Scrubbing and Balancing Maintenance Guidelines](https://www.spinics.net/lists/linux-btrfs/msg90536.html)
 
 ## Creation
 
@@ -530,6 +531,10 @@ If there is no junction box in step 1, then detach the wall plates from the wall
 # Google Messages
 
 [Messages Community](https://support.google.com/messages/community)
+
+# GORE-TEX
+
+[Footwear Care Instructions](https://www.gore-tex.com/support/care/footwear)
 
 # GParted
 
