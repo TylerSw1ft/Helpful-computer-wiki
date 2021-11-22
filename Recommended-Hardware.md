@@ -190,6 +190,8 @@ For value, nothing beats a simple folding table. However, if you're looking for 
 
 * 1-800-BUY-RACK
   * [Boltless Workbench with Worksurface Only](https://buyrack.com/collections/workbenches/products/boltless-workbench-standard-surface?variant=33946401669255)
+* Autonomous
+  * [Standing Desks](https://www.autonomous.ai/standing-desks)
 * Bush Business Furniture
   * [400 Series 60W x 30D Table Desk with Metal Legs](https://www.bushbusinessfurniture.com/OurFurniture/ShopbyCollection/BushBusinessFurnitureCollections/400Series.aspx?pf=447&ProductSKU=400S144WH&Finish=White) 
   * [400 Series 72W x 30D Table Desk with Metal Legs](https://www.bushbusinessfurniture.com/OurFurniture/ShopbyCollection/BushBusinessFurnitureCollections/400Series.aspx?pf=447&ProductSKU=400S145WH&Finish=White)
