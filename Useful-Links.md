@@ -1744,7 +1744,7 @@ For the Ethernet, MoCA, and Powerline solutions: depending on your situation you
 
 # Xbox
 
-[Everybody missed the point of the Showcase. Microsoft's gaming business plan is not dependent on next gen console sales or even solely on GamePass (which is what smarter bloggers have been saying). It's based on services for gamers, studios, publishers, and even Sony and Nintendo](https://www.reddit.com/r/XboxSeriesX/comments/hxwpvz/everybody_missed_the_point_of_the_showcase/)
+[How to fix X/S Enhanced game discs failing to install on the Xbox Series X or Xbox Series S](https://answers.ea.com/t5/Technical-Issues/XSX-BF2042-won-t-install-update-or-launch/m-p/11102900#M17560)
 
 # [The XY Problem](http://xyproblem.info/)
 
