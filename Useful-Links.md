@@ -1210,11 +1210,12 @@ See [here](https://www.reddit.com/r/Android/comments/fr4j9t/on_compact_android_p
 # Pi-hole
 
 * [How do I update Pi-hole?](https://discourse.pi-hole.net/t/how-do-i-update-pi-hole/249/13): `# pihole -up`
-* Restart FTL: `# pihole restartdns`
 * [If FTL isn't running in the web console but has high CPU usage](https://discourse.pi-hole.net/t/pihole-ftl-using-all-my-cpu-and-breaks-all-internet-connectivity/15672/6?u=jdrch):
   * `# service pihole-FTL stop`
   * `# mv /etc/pihole/pihole-FTL.db /etc/pihole/pihole-FTL.db.old`
   * `# service pihole-FTL start`
+* [Known `dnsmasq` warnings](https://docs.pi-hole.net/ftldns/dnsmasq_warn/)
+* Restart FTL: `# pihole restartdns`
 
 # `pip` for Python 3
 
